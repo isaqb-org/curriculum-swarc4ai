@@ -12,14 +12,14 @@
 // additional markers might be configured here!
 :include_configuration: tags=**;{language};!*
 
-:curriculum-short: MODULKUERZEL
+:curriculum-short: SWARC4AI
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: MODULNAME IN VOLLER LAENGE
+:curriculum-name: Softwarearchitektur für KI-Systeme
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: FULL NAME OF MODULE
+:curriculum-name: Software Architecture for AI Systems
 :curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
 endif::[]

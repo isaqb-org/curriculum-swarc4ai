@@ -9,7 +9,7 @@ def group = "org.isaqb"
 def releaseVersion = System.getenv("RELEASE_VERSION")
 def localVersion = "LocalBuild"
 project.version = releaseVersion == null ? localVersion : releaseVersion
-def curriculumFileName = "curriculum-template"
+def curriculumFileName = "curriculum-swarc4ai"
 def versionDate = new SimpleDateFormat("yyyyMMdd").format(new Date())
 def languages = ["DE", "EN"]
 
