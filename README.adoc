@@ -1,4 +1,4 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= https://isaqb.org[iSAQB^(R)^] Advanced Level curriculum Software Architecture for AI Systems
 
 :toc:
 :toc-placement!:
@@ -12,11 +12,11 @@ ifdef::env-github[]
 endif::[]
 
 == Status
-image:https://github.com/isaqb-org/advanced-template/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI – Releases and Main"]
-image:https://img.shields.io/github/last-commit/isaqb-org/advanced-template/main.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/advanced-template.svg["Contributors",link="https://github.com/isaqb-org/advanced-template/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/advanced-template.svg["Issues",link="https://github.com/isaqb-org/advanced-template/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/advanced-template.svg["Issues closed",link="https://github.com/isaqb-org/advanced-template/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+image:https://github.com/isaqb-org/curriculum-swarc4ai/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI – Releases and Main"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-swarc4ai/main.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-swarc4ai.svg["Contributors",link="https://github.com/isaqb-org/curriculum-swarc4ai/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-swarc4ai.svg["Issues",link="https://github.com/isaqb-org/curriculum-swarc4ai/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-swarc4ai.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-swarc4ai/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 
 This is <<copyrighted,copyrighted work>>.
@@ -52,7 +52,7 @@ Build the project with http://www.gradle.com[Gradle] (you need a locally install
 == Maintainers
 
 This repository is currently maintained by the curators of the SWARC4AI curriculum.
-It was forked from https://github.com/isaqb-org/advanced-template,
+It was forked from https://github.com/isaqb-org/curriculum-swarc4ai,
 so the contributors of that project basically contributed to this one, too.
 
 

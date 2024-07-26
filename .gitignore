@@ -3,7 +3,7 @@
 .gradle
 build
 .idea
-advanced-template.iml
+*.iml
 .settings/org.eclipse.buildship.core.prefs
 .project
 learning-objectives.adoc
