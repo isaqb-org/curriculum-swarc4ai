@@ -52,7 +52,7 @@ Build the project with http://www.gradle.com[Gradle] (you need a locally install
 == Maintainers
 
 This repository is currently maintained by the curators of the SWARC4AI curriculum.
-It was forked from https://github.com/isaqb-org/curriculum-swarc4ai,
+It was forked from https://github.com/isaqb-org/advanced-template,
 so the contributors of that project basically contributed to this one, too.
 
 
