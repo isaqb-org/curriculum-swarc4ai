@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Hier steht der Titel der zweiten Lerneinheit
+== Compliance, Security, Alignment
 // end::DE[]
 
 // tag::EN[]

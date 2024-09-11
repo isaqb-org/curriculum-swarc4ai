@@ -1,17 +1,20 @@
 // tag::DE[]
-=== Struktur des Lehrplans und empfohlene zeitliche Aufteilung
+=== Gliederung des Lehrplans für SWArc4AI und empfohlene zeitliche Aufteilung
 
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
-| |
-| Summe | 960 (16h)
+| Einführung in softwarearchitekturrelevante Konzepte
+für Künstliche Intelligenz | 120
+| Compliance, Security, Alignment | 120
+| Architektur von KI-Systemen | 320
+| Datenmanagement und Datenverarbeitung für KI-
+Systeme | 90
+| Skalierbarkeit und Leistungsoptimierung von KI-
+Systemen | 160
+| Systemarchitekturen- und Plattformen für Generative KI-Systeme | 160
+| Fallstudien und Praxisprojekte | 110
+| Gesamt (3 Tage à 6 Stunden) | 1080
 
 |===
 
@@ -36,12 +39,3 @@
 |===
 
 // end::EN[]
-
-[NOTE]
-====
-Bitte die oben angegebene Tabelle entsprechend anpassen.
-
-= = =
-
-Please adjust the table above according to your curriculum.
-====

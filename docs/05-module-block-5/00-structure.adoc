@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Und so heißt Modul 5
+== Skalierbarkeit und Leistungsoptimierung von KI-Systemen
 // end::DE[]
 
 // tag::EN[]

@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Monitoring, Logging, Feedback, FinOps für KI-Plattformen
+Generative KI, LLMs, MLflow, Managed MLflow, Azure Machine Learning, Metaflow, Generative KI, LLM, (Stable) Diffusion, Vektor-DB, Embedding, RNN, Transformer, RAG, Agentic Workflows etc.
 
 // end::DE[]
 

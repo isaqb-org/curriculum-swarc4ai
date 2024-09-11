@@ -1,19 +1,17 @@
 // tag::DE[]
 === Voraussetzungen
 
-Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+Teilnehmer:innen **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+* Grundlegendes Wissen zu KI, Machine Learning und Data Science
+* Machine Learning Methoden wie Supervised, Unsupervised Learning und Reinforcement Learning, z.B Klassifikation, Clustering, Regression, Dimensionality Reduction
+* Grundsätzliches Wissen über die typischen Algorithmen wie: Linear/logistic regression, decision trees, random forests, support vector machines, K-means clustering, neural networks and deep learning
+* Wissen über Model evaluation: Cross-validation, Metrics (accuracy, precision, recall, F1-score), Bias-variance tradeoff
+* Erfahrung mit typischen Frameworks wie sk-learn, TensorFlow, PyTorch
+* Erfahrung mit Jupyter Notebooks oder ähnlichen Rapid Application Development (RAD) Werkzeugen
+* Wissen über die technischen Verfahren hinter KI, einschließlich: Maschinelles Lernen inkl. Deep Learning und LLMs, NLP-Ansätze (Natural Language Processing), Transformationsmodelle
+* Praktische Erfahrung mit Trainieren von Künstlichen Intelligenz Modellen
 
-**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
-
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
 // end::DE[]
 
 // tag::EN[]
@@ -33,8 +31,3 @@ Knowledge in the following areas may be **helpful** for understanding some conce
   * Experience 4
   * Understanding 5
 // end::EN[]
-
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====

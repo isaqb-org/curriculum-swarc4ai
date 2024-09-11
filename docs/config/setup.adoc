@@ -12,7 +12,7 @@
 // additional markers might be configured here!
 :include_configuration: tags=**;{language};!*
 
-:curriculum-short: SWARC4AI
+:curriculum-short: SWArc4AI
 
 ifeval::["{language}" == "DE"]
 :curriculum-name: Softwarearchitektur für KI-Systeme

@@ -1,0 +1,6 @@
+=== {references}
+
+// tag::DE[]
+// end::DE[]
+// tag::EN[]
+// end::EN[]

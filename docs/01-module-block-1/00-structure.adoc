@@ -4,13 +4,12 @@
 
 
 // tag::DE[]
-== Dies ist der Titel des ersten Moduls
+== Einführung in softwarearchitekturrelevante Konzepte für Künstliche Intelligenz
 // end::DE[]
 
 // tag::EN[]
 == This is the First Module's Title
 // end::EN[]
-
 
 include::01-duration-terms.adoc[{include_configuration}]
 

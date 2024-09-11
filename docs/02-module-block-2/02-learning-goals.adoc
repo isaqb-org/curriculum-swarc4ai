@@ -1,19 +1,85 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-2-1]]
-==== LZ 2-1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+Die Teilnehmer:Innen …
+
+[[LZ-2-1]]
+==== LZ 2-1: Wissen, wie Datenschutzgesetze, wie die DSGVO, die Sammlung, Verarbeitung und Speicherung von Daten durch KI-Systeme beeinflussen.
 
 [[LZ-2-2]]
-==== LZ 2-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 2-2: Verstehen die Ziele und Regelungen des EU AI Act und dessen Einfluss auf die Entwicklung und den Einsatz von KI-Systemen.
+
+[[LZ-2-3]]
+==== LZ 2-3: Verstehen die Anforderungen für EU AI Act (Trustworthy AI) und welchen Einfluss diese Anforderungen auf die Architektur des Softwaresystems hat:
+* Risikomanagementsystem (Risikominimierung)
+* Datenqualität und Datengovernance (Qualitätsmanagementsystem)
+* Erstellung und Pflege einer umfassenden technischen Dokumentation des KI-Systems
+* Automatische Aufzeichnung/Logging von Events im KI-System.
+* Bereitstellung klarer und verständlicher Informationen für Nutzer
+* Implementierung der Maßnahmen zur menschlichen Aufsicht
+* Gewährleistung eines angemessenen Maßes an Genauigkeit/Accuracy und Robustheit
+* Implementierung von Maßnahmen zur Cybersicherheit
+
+[[LZ-2-4]]
+==== LZ 2-4: Wissen, wie KI-Systeme nach EU AI Act Risikolevel (verboten, hochrisikoreich, begrenzt risikoreich, niedrigrisikoreich) klassifiziert werden und welche regulatorischen Anforderungen jeweils gelten.
+
+[[LZ-2-5]]
+==== LZ 2-5: Wissen um die Urheberrechtsproblematik für KI-generierte Inhalte und die Auswirkungen auf bestimmte Software-Lizenzmodelle sowie mögliche Umgänge damit.
+
+[[LZ-2-6]]
+==== LZ 2-6: Kennen verschiedene Arten bzw. Grade der Offenheit freier ML-Modelle, z.B. was die Offenlegung der Daten und der Modellparameter anbelangt.
+
+[[LZ-2-7]]
+==== LZ 2-7: Kennen verschiedene Arten von Lizenzen freier ML-Modelle sowie deren Auswirkungen.
+
+[[LZ-2-8]]
+==== LZ 2-8: Kennen die Grundaussagen des europäischen AI-Acts (insbesondere Transparenzpflichten) und kennen Strategien für deren Einhaltung sowie mögliche Herausforderungen dabei.
+
+[[LZ-2-9]]
+==== LZ 2-9: Wissen, wie man Modelle und Datensätze effektiv dokumentiert, um Nachvollziehbarkeit und Transparenz zu gewährleisten.
+
+[[LZ-2-10]]
+==== LZ 2-10: Kennen mögliche Fallstricke hinsichtlich Security.
+
+[[LZ-2-11]]
+==== LZ 2-11: Kennen typische Angriffsarten auf ML-Modelle und Beispiele dafür, u.a.: LLM-Jailbreaks durch Prompt-Engineering, Adversarial Attacks, Data Poisoning, Model Inversion & Extraction.
+
+[[LZ-2-12]]
+==== LZ 2-12: Wissen, wie man AI-Risk Minimierung Strategien entwickelt und anwendet.
+
+[[LZ-2-13]]
+==== LZ 2-13: Kennen verschiedene Möglichkeiten zur Absicherung gegen solche Angriffe (AI Security) und zur Integration von Sicherheitsstandards in die Architektur.
+
+[[LZ-2-14]]
+==== LZ 2-14: Kennen die Grundproblematik und die verschiedenen Facetten von AI-Safety.
+
+[[LZ-2-15]]
+==== LZ 2-15: Wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können
+
+[[LZ-2-16]]
+==== LZ 2-16: Kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen z.B. KI-Alignment (und dessen Grenzen) oder die Erstellung eigener KI-Richtlinien.
+
+[[LZ-2-17]]
+==== LZ 2-17: Kennen wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“ sowie die „Google AI Ethics Guidelines“
+
+[[LZ-2-18]]
+==== LZ 2-18: Kennen die wichtigsten Dokumente zu AI Governance, um die Kernprinzipien zu AI Governance und Responsible AI für das Unternehmen auszuarbeiten.
+* OECD AI Principles, https://oecd.ai/en/ai-principles
+* The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
+* The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
+
+[[LZ-2-19]]
+==== LZ 2-19: Erhalten einen Einblick in die Einrichtung von "Regulatory Sandboxes" zur Förderung von Innovationen und die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts.
+
+[[LZ-2-20]]
+==== LZ 2-20: Verstehen die Strukturen und Prozesse, die zur Steuerung und Kontrolle von KI-Systemen notwendig sind, um ethische und gesetzliche Anforderungen zu erfüllen.
+
+[[LZ-2-21]]
+==== LZ 2-21: Wissen, wie effektive Datenverwaltung die Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellt.
+
+[[LZ-2-22]]
+==== LZ 2-22: Verstehen die Bedeutung der Transparenzpflicht bei KI-Systemen und wissen, wie sie diese in der Praxis umsetzen können.
 
 // end::DE[]
 
@@ -26,9 +92,3 @@ tbd.
 ==== LG 2-2: TBD
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-

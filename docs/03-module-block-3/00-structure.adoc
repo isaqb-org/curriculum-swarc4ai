@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Der Titel des dritten Moduls
+== Architektur von KI-Systemen
 // end::DE[]
 
 // tag::EN[]

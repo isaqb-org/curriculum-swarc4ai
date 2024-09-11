@@ -1,20 +1,95 @@
 === {learning-goals}
 
 // tag::DE[]
+
+Die Teilnehmer:Innen …
+
 [[LZ-3-1]]
-==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
-
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+==== LZ 3-1: Haben ein Verständnis für den Life-Cycle eines Machine-Learning- bzw. Data-Science-Projekts: Exploratory Data Analysis, Data Cleansing und Aufbereitung, Feature Engineering, Modell Training und Auswahl, POC, Deployment, Maintenance.
 
 [[LZ-3-2]]
-==== LZ 3-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 3-2: Kennen typische Vorgehensmodelle für software development von KI-Systemen:
+* CRISP-ML(Q)
+* Team Data Science Process
+* GenAI Life Cycle
+
+[[LZ-3-3]]
+==== LZ 3-3: Kennen verschiedene Arten von Daten und typische ML-Probleme bzw. -Use-Cases.
+
+[[LZ-3-4]]
+==== LZ 3-4: Haben ein Verständnis für verschiedene Anforderungen an die Daten, z.B. Vorhandensein von Labels verschiedener Art.
+
+[[LZ-3-5]]
+==== LZ 3-5: Verstehen die verschiedenen Machine Learning Problemstellungen (Supervised Learning, Unsupervised Learning, Reinforcement Learning) und wissen, welche Anforderungen diese haben.
+
+[[LZ-3-6]]
+==== LZ 3-6: Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten.
+
+[[LZ-3-7]]
+==== LZ 3-7: Verständnis für Input Daten für verschiedene KI-Algorithmen (z.B. Neuronale Netze) als numerische Vektoren und Matrizen bzw. Tensoren; One-Hot-Encodings; Embeddings.
+
+[[LZ-3-8]]
+==== LZ 3-8: Verstehen, wie man mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgeht.
+
+[[LZ-3-9]]
+==== LZ 3-9: Kennen Transfer-Learning bzw. Fine Tuning als Möglichkeit, um die vortrainierten Basismodelle auf bestehende Use Cases zu adoptieren.
+
+[[LZ-3-10]]
+==== LZ 3-10: Wissen welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt:
+* ML Systems Topology Patterns
+* Pipeline Architecture Patterns
+* Model Training Pattern
+* Model Serving Patterns
+* Model Deployment Patterns
+
+==== Funktionale Anforderungen
+
+[[LZ-3-11]]
+==== LZ 3-11: Wissen, wie man die ein Use Case / Aufgabe eines ML-Modells definiert, z.B. die Klassifikation von Bildern oder die Erkennung von Betrug.
+
+[[LZ-3-12]]
+==== LZ 3-12:Verstehen, welche Eingaben und Ausgaben für das Funktionieren eines ML-Systems erforderlich sind und können diese spezifizieren.
+
+[[LZ-3-13]]
+==== LZ 3-13: Kennen verschiedene Metriken zur Messung der Performance von ML-Modellen (z.B. Precision, Recall, F1, Accuracy, etc.) und wissen, wie man Bewertungskriterien zur Leistungsbeurteilung festlegt.
+
+[[LZ-3-14]]
+==== LZ 3-14: Verstehen, wie ML-Modelle in bestehende Systeme integriert werden können und kennen die Schnittstellen und Integrationspunkte.
+
+[[LZ-3-15]]
+==== LZ 3-15: Wissen, wie Benutzeroberflächen gestaltet werden sollten, um effektive Interaktionen mit dem ML-System zu ermöglichen und die Benutzererfahrung zu optimieren.
+
+==== Nicht-funktionale Anforderungen
+
+[[LZ-3-16]]
+==== LZ 3-16: Verstehen die Bedeutung von Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen und wissen, wie diese optimiert werden können.
+
+[[LZ-3-17]]
+==== LZ 3-17: Verstehen die Bedeutung der Skalierbarkeit auf erhöhte Datenmengen und wissen, wie man KI-Systeme entwickelt, die mit steigenden Datenvolumen umgehen können, ohne an Leistung zu verlieren.
+
+[[LZ-3-18]]
+==== LZ 3-18: Verstehen, was Robustheit in KI-Systemen bedeutet, und können Strategien zur Erhöhung der Robustheit in verschiedenen Anwendungskontexten anwenden.
+
+[[LZ-3-19]]
+==== LZ 3-19: Verstehen die Konzepte der Zuverlässigkeit und Verfügbarkeit und wissen, wie sie KI-Systeme bauen, die stabil und konstant verfügbar sind.
+
+[[LZ-3-20]]
+==== LZ 3-20: Verstehen, wie wichtig es ist, dass KI-Ergebnisse reproduzierbar und prüfbar sind, und wissen, welche Methoden zur Sicherstellung dieser Eigenschaften eingesetzt werden können.
+
+[[LZ-3-21]]
+==== LZ 3-21: Kennen die Anforderungen an Sicherheit, Datenschutz und Compliance und wissen, wie diese in KI-Systemen umgesetzt werden.
+
+[[LZ-3-22]]
+==== LZ 3-22: Wissen, wie man KI-Modelle und -Systeme entwickelt, die ressourcenschonend arbeiten, indem sie Speicher, Rechenleistung und Speicherplatz effizient nutzen.
+
+[[LZ-3-23]]
+==== LZ 3-23: Verstehen die Bedeutung von Erklärbarkeit und Interpretierbarkeit in KI-Systemen und wissen, wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.
+
+[[LZ-3-24]]
+==== LZ 3-24: Wissen, wie Bias in Daten und Modellen erkannt und reduziert werden können, um Fairness und Gleichbehandlung in KI-Anwendungen sicherzustellen.
+
+[[LZ-3-25]]
+==== LZ 3-25: Kennen die Konzepte der Fehlertoleranz und können erläutern, wie KI-Systeme trotz Fehlern oder Störungen funktionsfähig bleiben.
 
 // end::DE[]
 
@@ -27,8 +102,3 @@ tbd.
 ==== LG 3-2: TBD
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====

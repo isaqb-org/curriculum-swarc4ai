@@ -1,13 +1,13 @@
-// header file for curriculum section 4: Lerneinheit 4
+// header file for curriculum section 7: Lerneinheit 7
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Datenmanagement und Datenverarbeitung für KI-Systeme
+== Fallstudien und Praxisprojekte
 // end::DE[]
 
 // tag::EN[]
-== Fourth Module, This is its Title
+== And This is Module no 7
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
