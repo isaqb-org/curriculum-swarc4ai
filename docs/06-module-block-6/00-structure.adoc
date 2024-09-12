@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Systemarchitekturen- und Plattformen für Generative KI-Systeme
+== Systemarchitekturen und Plattformen für Generative KI-Systeme
 // end::DE[]
 
 // tag::EN[]
