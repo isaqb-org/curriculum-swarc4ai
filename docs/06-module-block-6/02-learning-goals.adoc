@@ -84,7 +84,7 @@
 ==== LZ 6-16: Kennen bekannte LLMs und Auswahlkriterien: GPT, Claude, Gemini, Llama, Mistral, Luminous etc.
 
 [[LZ-6-17]]
-==== LZ 6-17:Verstehen die Bedeutung von Cost Management für GenAI Applikationen.
+==== LZ 6-17: Verstehen die Bedeutung von Cost Management für GenAI Applikationen.
 
 [[LZ-6-18]]
 ==== LZ 6-18: Kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen: OpenAI-API, LangChain etc.
