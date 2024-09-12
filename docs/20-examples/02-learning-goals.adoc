@@ -16,8 +16,8 @@
 
 
 // tag::EN[]
-[[LG-98-1]]
-==== LG 98-1: Last learning goal of the curriculum
+// [[LG-98-1]]
+// ==== LG 98-1: Last learning goal of the curriculum
 // end::EN[]
 
 
