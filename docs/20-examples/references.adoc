@@ -1,6 +1,6 @@
 === {references}
 
-<<bachmann>>, <<kruchten>>
+<<vaughan>>, <<wang>>
 
 
 [NOTE]
