@@ -7,7 +7,7 @@
 // tag::DE[]
 === Dauer, Didaktik und weitere Details
 
-Die Dauer einer Schulung zum Modul SWArc4AI sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein. Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
+Die Dauer einer Schulung zum Modul {curriculum-short} sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein. Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
 Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
 Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:
 
