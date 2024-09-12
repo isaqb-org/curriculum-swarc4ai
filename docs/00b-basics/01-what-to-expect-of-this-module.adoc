@@ -1,8 +1,21 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
+Das Modul präsentiert den Teilnehmer:innen moderne Softwarearchitektur-Konzepte
+für KI-Systeme als Mittel, um leistungsfähige, skalierbare und integrierbare KI-
+Lösungen zu gestalten. Am Ende des Moduls kennen die Teilnehmer:innen die
+wesentlichen Prinzipien der Softwarearchitektur für KI-Systeme und können diese
+bei Entwurf und Implementierung von Machine Learning und Generative KI-
+Systemen anwenden. Sie sind mithilfe der vermittelten kommunikativen Fähigkeiten
+in der Lage, eine einheitliche Sprache zwischen Data Scientists, KI-Expert:innen und
+Softwareentwickler:innen zu etablieren. Mit Hilfe der vermittelten
+Modellierungstechniken und Architekturwerkzeuge können sie KI-Komponenten
+nahtlos in bestehende Softwaresysteme integrieren. Die Schulung umfasst sowohl
+Machine Learning Systeme als auch Generative KI und vermittelt, wie diese mit
+klassischen Softwaresystemen kombiniert werden können. Die Teilnehmer:innen
+lernen, wie die Architektur für solche hybriden Systeme aussehen muss, um
+Skalierbarkeit, Wartbarkeit und Erweiterbarkeit zu gewährleisten.
+
 // end::DE[]
 
 // tag::EN[]
@@ -11,10 +24,3 @@ Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
 The module presents {curriculum-short} to the participants …
 At the end of the module, the participants know … and are able to …
 // end::EN[]
-
-
-[NOTE]
-====
-Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen beschreiben. Dabei `{curriculum-name}`
-nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
-====

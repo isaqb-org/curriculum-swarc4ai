@@ -1,10 +1,9 @@
 // tag::DE[]
 |===
-| Dauer: 160 Min. | Übungszeit: 30 Min.
+| Dauer: 110 Min. | Übungszeit: 110 Min.
 |===
 
-=== Begriffe und Konzepte
-Monitoring, Logging, Feedback, FinOps für KI-Plattformen
+// === Begriffe und Konzepte
 
 // end::DE[]
 

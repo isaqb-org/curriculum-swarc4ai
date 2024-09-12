@@ -1,16 +1,55 @@
 === {learning-goals}
 
 // tag::DE[]
+Die Teilnehmer:Innen …
+
 [[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+==== LZ 1-1: Wissen wie man Künstliche Intelligenz definiert und die Anordnung zu Machine Learning, Data Science, Deep Learning, Generative AI.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+[[LZ-1-2]]
+==== LZ 1-2: Wissen, wie man typische allgemeine Use-Cases für KI spezifiziert, z.B. Bilderkennung & -erzeugung, Sprachverarbeitung, Vorhersagen, Personalisierung und Anomalieerkennung.
 
+[[LZ-1-3]]
+==== LZ 1-3: Kennen Einsatzmöglichkeiten in verschiedenen Branchen, z.B. Marketing, Medizin, Robotik und Content-Creation.
+
+[[LZ-1-4]]
+==== LZ 1-4: Kennen Einsatzmöglichkeiten in Endnutzeranwendungen, z.B. bSprachassistenten (Chatbots) und Empfehlungssysteme (Recommender Engine).
+
+[[LZ-1-5]]
+==== LZ 1-5: Wissen, wie man Risiken bei der Anwendung von KI (Halluzinationen, Bias, Fairness…) und gesellschaftlichen Risiken (Deepfakes, AI-enabled Cyberattacs, Safety Risks in Critical Systems, Social Manipulation, Intellectual Property Issues, etc.) identifiziert.
+
+[[LZ-1-6]]
+==== LZ 1-6: Kennen den Unterschied zu traditioneller Software:
+* Datengetrieben (bei ML) - Daten-zentrierte statt Code-zentrierte Entwicklung
+* Probabilistische Ergebnisse (Non-deterministic behavior)
+* Statistische Validierung
+* Experimentelles Design: Unterstützung für schnelle Iteration und Testen von Modellen.
+* Modellkomplexität und Interpretierbarkeit: ML-Modelle, insbesondere Deep-Learning-Modelle, können äußerst komplex sein. Der „Black-Box“-Charakter erschwert die Interpretierbarkeit und Erklärbarkeit.
+* Debugging und Tests sind aufgrund des Nichtdeterminismus komplexer.
+* Model Decay: Continuous monitoring und Retraining sind notwendig, um die Leistung der Modelle aufrecht zu erhalten.
+* AI-spezifische Regulatorik von Branchen und auf EU-Ebene müssen berücksichtigt werden.
+* Interoperabilität: Nahtlose Integration in bestehende Systeme und Technologiestacks.
+
+[[LZ-1-7]]
+==== LZ 1-7: Können beurteilen, ob ein Problem mittels KI oder klassischer SW-Entwicklung zu lösen ist.
+
+[[LZ-1-8]]
+==== LZ 1-8: Kennen typische Rollen und deren Aufgaben in diesen Kontexten: Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Engineer, AI Architect, Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist, ML-Researcher.
+
+[[LZ-1-9]]
+==== LZ 1-9: Wissen, wie diese Rollen im Team zusammenarbeiten könnten (Team Topologies für ML-Teams).
+
+[[LZ-1-10]]
+==== LZ 1-10: Wissen, wie man KI Use Cases identifiziert und priorisiert.
+
+[[LZ-1-11]]
+==== LZ 1-11: Kennen KI Stärken und Grenzen (Jagged Technological Frontier).
+
+[[LZ-1-12]]
+==== LZ 1-12: Wissen wie man Künstliche Intelligenz definiert und die Anordnung zu Machine Learning, Data Science, Deep Learning, Generative AI.
+
+[[LZ-1-13]]
+==== LZ 1-13: Kennen Productivity J-Curve Konzept in Verbindung mit KI-Technologie (Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung von KI zunächst einen Produktivitätsrückgang verzeichnen können, dem bei der weiteren Entwicklung aber Produktivitätsgewinne folgen können.).
 
 // end::DE[]
 
@@ -19,8 +58,3 @@ wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Litera
 ==== LG 1-1: The is the first learning goal, in category xy
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====

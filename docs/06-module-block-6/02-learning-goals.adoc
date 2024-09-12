@@ -1,0 +1,99 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-6-1]]
+==== LZ 6-1: Kennen verschiedene Integrationsebenen von KI: Anwendungen (z.B. Coding Assistenten), AI-Engineering (z.B. Prompt Engineering), ML-Modellentwicklung (z.B. pytorch), ML-Infrastruktur (z.B. Vektor-DBs).
+
+[[LZ-6-2]]
+==== LZ 6-2: Können das strategische Design von DDD (insbesondere Context Maps) einsetzen, um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
+
+[[LZ-6-3]]
+==== LZ 6-3: Kennen die Qualitätsmerkmale, die für KI-Systeme besonders relevant sind: Verlässlichkeit, Skalierbarkeit, Effizienz, Sicherheit, Wartbarkeit, Interpretierbarkeit etc.
+
+[[LZ-6-4]]
+==== LZ 6-4: Kennen gängige Evaluations-Frameworks, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen z.B. LangSmith oder LangFuse.
+
+[[LZ-6-5]]
+==== LZ 6-5: Kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools zur Integration von KI-Modellen.
+
+[[LZ-6-6]]
+==== LZ 6-6: Üben und diskutieren anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, Integrationsoptionen für KI in eine bestehende Software-Landschaft abzuwägen.
+
+[[LZ-6-7]]
+==== LZ 6-7: Haben ein grundlegendes Verständnis von generativer KI z.B. LLMs und Stable Diffusion.
+
+[[LZ-6-8]]
+==== LZ 6-8: Haben einen Überblick über die Funktionsweise von LLMs und die zugehörige Begriffswelt: Token, Embedding, RNN, Transformer, Attention…
+
+[[LZ-6-9]]
+==== LZ 6-9: Kennen bekannte Patterns bei der Nutzung von LLMs:
+* RAG und Retrieval-Strategien
+* Function Calling
+* Finetuning
+* Assistenten
+* Agenten, etc.
+
+[[LZ-6-10]]
+==== LZ 6-10: Kennen typische Use-Cases für RAG wie „Talk to your documents/database/API“.
+
+[[LZ-6-11]]
+==== LZ 6-11: Kennen verschiedene RAG-Techniken:
+* Simple RAG
+* Context Enrichment Techniques
+* Multi-faceted Filtering
+* Fusion Retrieval
+* Intelligent Reranking
+* Query Transformations
+* Hierarchical Indices
+* Hypothetical Questions
+* Dynamic Chunk Sizing
+* Semantic Chunking
+* Contextual Compression
+* Explainable Retrieval
+* Retrieval with Feedback Loops
+* Adaptive Retrieval
+* Iterative Retrieval
+* Ensemble Retrieval
+* Knowledge Graph Integration
+* Multi-modal Retrieval
+* RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval
+
+[[LZ-6-12]]
+==== LZ 6-12: Kennen verschiedene Arten von Prompt Engineering (z.B. Few-Shot-Learning, Chain-of-Thought, Role-Playing) und allgemeine Best Practices für das Prompting.
+
+[[LZ-6-13]]
+==== LZ 6-13: Wissen, was Agentic Workflows sind: Reflexion, Werkzeug-Nutzung, Planung, Multi-Agenten-Kollaboration.
+
+[[LZ-6-14]]
+==== LZ 6-14: Wissen welche Design Patterns für Generative AI-Systeme existieren:
+* AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
+* Layered Caching Strategy Leading to Fine-Tuning
+* Multiplexing AI Agents
+* Fine-Tuning LLMs for Multiple Tasks
+* Blending Rules-Based and Generative Approaches
+* Utilizing Knowledge Graphs with LLMs
+* Swarm of Generative AI Agents
+* Modular Monolith LLM Approach with Composability
+* Memory Cognition for LLMs
+* Red and Blue Team Dual-Model Evaluation
+
+[[LZ-6-15]]
+==== LZ 6-15: Kennen Techniken zur Evaluation von LLM-Anwendungen: Scoring, Human Feedback, Comparative Evaluation, Model Based Evaluation etc.
+
+[[LZ-6-16]]
+==== LZ 6-16: Kennen bekannte LLMs und Auswahlkriterien: GPT, Claude, Gemini, Llama, Mistral, Luminous etc.
+
+[[LZ-6-17]]
+==== LZ 6-17: Verstehen die Bedeutung von Cost Management für GenAI Applikationen.
+
+[[LZ-6-18]]
+==== LZ 6-18: Kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen: OpenAI-API, LangChain etc.
+
+[[LZ-6-19]]
+==== LZ 6-19: Kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen vom AI Agentarchitekturen.
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]

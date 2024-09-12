@@ -1,0 +1,9 @@
+=== {references}
+
+<<koc>>, <<dibia>>, <<gradientflow>>, <<bornstein-radovanic>>, <<bahree>>,
+<<spirin>>, <<foster>>, <<parnin>>
+
+// tag::DE[]
+// end::DE[]
+// tag::EN[]
+// end::EN[]
