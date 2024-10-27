@@ -82,7 +82,8 @@ Die Teilnehmer:innen kennen typische Angriffsarten auf ML-Modelle und Beispiele 
 ==== LZ 2-12: AI-Risk Minimierung Strategien
 
 Die Teilnehmer:innen können Strategien zur AI-Risikominimierung entwickeln und anwenden. Insbesondere die folgenden Strategien kennen die Teilnehmer:innen:
-* Stärkung der Robiustheit durch umfangreiche Tests
+
+* Stärkung der Robustheit durch umfangreiche Tests
 * Fehlertolerante KI-Systeme
 * Transparente Entwicklung
 * Erklärbare KI (explainable AI)
@@ -122,6 +123,7 @@ Die Teilnehmer:innen überblicken wichtige Ethik-Leitlinien wie die „EU-Ethik-
 
 Die Teilnehmer:innen kennen die wichtigsten Dokumente zu AI Governance, um die Kernprinzipien zu AI Governance und Responsible AI für das Unternehmen auszuarbeiten. Dies betrifft 
 insbesondere die folgenden Dokumente:
+
 * OECD AI Principles, https://oecd.ai/en/ai-principles
 * The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
 * The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
