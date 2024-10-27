@@ -2,7 +2,7 @@
 
 // tag::DE[]
 
-Die Teilnehmer:Innen …
+Die Teilnehmer:Innen erreichen die folgenden Lernziele.
 
 [[LZ-3-1]]
 ==== LZ 3-1: Life-Cycle eines Machine-Learning- bzw. Data-Science-Projekts

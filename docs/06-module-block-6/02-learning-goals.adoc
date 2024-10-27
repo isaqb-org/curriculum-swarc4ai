@@ -22,8 +22,8 @@ Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schn
 [[LZ-6-3]]
 ==== LZ 6-3: [OPTIONAL] Integration von KI-Systemen in die Gesamtarchitektur einer IT-Landschaft
 
- Die Teilnehmer:innen können das strategische Design von DDD (insbesondere Context Maps) einsetzen, 
- um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
+Die Teilnehmer:innen können das strategische Design von DDD (insbesondere Context Maps) einsetzen, 
+um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
 
 [[LZ-6-4]]
 ==== LZ 6-4: Relevante Qualitätsmerkmale für KI-Systeme
@@ -75,7 +75,8 @@ Die Teilnehmer:innen kennen typische Use-Cases für RAG wie beispielsweise „Ta
 [[LZ-6-11]]
 ==== LZ 6-11: RAG-Techniken
 
- Die Teilnehmer:innen kennen eine AUswahl der folgenden RAG-Techniken:
+Die Teilnehmer:innen kennen eine AUswahl der folgenden RAG-Techniken:
+
 * Simple RAG
 * Context Enrichment Techniques
 * Multi-faceted Filtering
@@ -115,6 +116,7 @@ Die Teilnehmer:innen wissen, was Agentic Workflows sind und kennen die Begriff R
 ==== LZ 6-14: Design Patterns für Generative AI-Systeme
 
 Die Teilnehmer:innen wissen welche Design Patterns für Generative AI-Systeme existieren. Sie kennen eine Auswahl der folgenden Patterns:
+
 * AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
 * Layered Caching Strategy Leading to Fine-Tuning
 * Multiplexing AI Agents
@@ -130,6 +132,7 @@ Die Teilnehmer:innen wissen welche Design Patterns für Generative AI-Systeme ex
 ==== LZ 6-15: Techniken zur Evaluation von LLM-Anwendungen
 
 Die Teilnehmer:innen kennen mehrere Techniken zur Evaluation von LLM-Anwendungen. Dies können beispielsweise die folgenden Techniken sein:
+
 * Scoring
 * Human Feedback
 * Comparative Evaluation

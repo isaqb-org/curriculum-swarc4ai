@@ -16,7 +16,7 @@ Die Teilnehmer:innen können gängige Plattformen für öffentlich zugängliche 
 [[LZ-4-3]]
 ==== LZ 4-3: Überblick über relevante Werkzeuge für das Daten-Labeln
 
- Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispielsweise CVAT, Amazon Mechanical Turk.
+Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispielsweise CVAT, Amazon Mechanical Turk.
 
 [[LZ-4-4]]
 ==== LZ 4-4: Gestaltung effizienter Datenpipelines und -architekturen, Betrachtung von Datenqualität, Speicherlösungen und deren Management
