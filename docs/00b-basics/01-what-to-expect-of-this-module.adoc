@@ -6,9 +6,7 @@ für KI-Systeme als Mittel, um leistungsfähige, skalierbare und integrierbare K
 Lösungen zu gestalten. Am Ende des Moduls kennen die Teilnehmer:innen die
 wesentlichen Prinzipien der Softwarearchitektur für KI-Systeme und können diese
 bei Entwurf und Implementierung von Machine Learning und Generative KI-
-Systemen anwenden. Sie sind mithilfe der vermittelten kommunikativen Fähigkeiten
-in der Lage, eine einheitliche Sprache zwischen Data Scientists, KI-Expert:innen und
-Softwareentwickler:innen zu etablieren. Mit Hilfe der vermittelten
+Systemen anwenden. Mit Hilfe der vermittelten
 Modellierungstechniken und Architekturwerkzeuge können sie KI-Komponenten
 nahtlos in bestehende Softwaresysteme integrieren. Die Schulung umfasst sowohl
 Machine Learning Systeme als auch Generative KI und vermittelt, wie diese mit
