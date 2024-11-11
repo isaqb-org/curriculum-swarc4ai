@@ -1,7 +1,6 @@
 === {learning-goals}
 
 // tag::DE[]
-Die Teilnehmer:innen erreichen in diesem Kapitel die folgenden Lernziele:
 
 [[LZ-4-1]]
 ==== LZ 4-1: Methoden, um Daten zu akquirieren und Daten zu labeln

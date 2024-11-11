@@ -2,7 +2,6 @@
 
 // tag::DE[]
 
-Die Teilnehmer:Innen …
 
 [[LZ-7-1]]
 ==== LZ 7-1: Üben anhand von Fallstudien und Praxisprojekten, das erworbene Wissen in realen Szenarien anzuwenden.

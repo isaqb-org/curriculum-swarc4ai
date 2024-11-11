@@ -2,23 +2,17 @@
 
 // tag::DE[]
 
-Die Teilnehmer:Innen erreichen mit diesem Kapitel die folgenden Lernziele:
 
 [[LZ-2-1]]
-==== LZ 2-1: Einfluss der Datenschutzgesetze auf die Implemenzierung und Nutzung von KI 
+==== LZ 2-1: Einfluss der Datenschutzgesetze auf die Implemenzierung und Nutzung von KI kennen
 
-Die Teilnehmer:innen kennen die Datenschutzgesetze, wie die DSGVO, und wissen wie diese die Sammlung, Verarbeitung und Speicherung von Daten durch KI-Systeme beeinflussen.
+Die Teilnehmer:innen kennen die Datenschutzgesetze wie die DSGVO und wissen, wie diese die Sammlung, Verarbeitung und Speicherung von Daten durch KI-Systeme beeinflussen.
 
 [[LZ-2-2]]
-==== LZ 2-2: Ziele und Regelungen des EU AI Act
+==== LZ 2-2: Ziele und Regelungen des EU AI Act sowie deren Einfluss auf den Entwicklungsprozess und die Architektur verstehen
 
-Die Teilnehmer:innen verstehen die Ziele und Regelungen des EU AI Act und wissen welchen Einfluss dies auf die Entwicklung und den Einsatz von KI-Systemen hat.
-
-[[LZ-2-3]]
-==== LZ 2-3: Einfluss des EU AI Act (Trustworthy AI) auf den Entwicklungsprozess und die Architektur des Softwaresystems
-
-Die Teilnehmer:innen verstehen die Anforderungen des EU AI Act (Trustworthy AI) und welchen Einfluss diese Anforderungen auf den Entwicklungsprozess und die Architektur 
-des Softwaresystems hat. Insbesondere kennen sie den Einfluss auf einige der folgenden Aspekte:
+Die Teilnehmer:innen verstehen die Ziele und Regelungen des EU AI Act und wissen welchen Einfluss dies auf die Entwicklung und den Einsatz von KI-Systemen hat. Außerdem verstehen sie die Anforderungen des EU AI Act (Trustworthy AI) und welchen Einfluss diese Anforderungen auf den Entwicklungsprozess und die Architektur 
+des Softwaresystems haben. Insbesondere kennen sie den Einfluss auf einige der folgenden Aspekte:
 
 * Risikomanagementsystem (Risikominimierung)
 * Datenqualität und Datengovernance (Qualitätsmanagementsystem)
@@ -29,48 +23,43 @@ des Softwaresystems hat. Insbesondere kennen sie den Einfluss auf einige der fol
 * Gewährleistung eines angemessenen Maßes an Genauigkeit/Accuracy und Robustheit
 * Implementierung von Maßnahmen zur Cybersicherheit
 
-[[LZ-2-4]]
-==== LZ 2-4: Klassikifaktion von KI-Systemen nach EU AI Act Risikolevel
+
+[[LZ-2-3]]
+==== LZ 2-3: Klassikifaktion von KI-Systemen nach EU AI Act Risikolevel durchführen können
 
 Die Teilnehmer:innen kennen die Klassifikation von KI-Systemen nach den EU AI Act Risikolevel (verboten, hochrisikoreich, begrenzt risikoreich, niedrigrisikoreich) und wissen,
  welche regulatorischen Anforderungen jeweils gelten.
 
-[[LZ-2-5]]
-==== LZ 2-5: Urheberrechtsproblematik von KI-generierten Inhalten
+
+[[LZ-2-4]]
+==== LZ 2-4: Urheberrechtsproblematik von KI-generierten Inhalten einordnen können
 
 Die Teilnehmer:innen verstehen die Urheberrechtsproblematik für KI-generierte Inhalte und kennen die Auswirkungen auf bestimmte Software-Lizenzmodelle sowie mögliche Umgänge damit.
 
-[[LZ-2-6]]
-==== LZ 2-6: Arten bzw. Grade der Offenheit freier ML-Modelle
+[[LZ-2-5]]
+==== LZ 2-5: Arten bzw. Grade der Offenheit sowie Arten von Lizenzen freier ML-Modelle überblicken
 
 Die Teilnehmer:innen überblicken verschiedene Arten bzw. Grade der Offenheit freier ML-Modelle. Das betrifft beispielsweise die Offenlegung der Daten 
-und der Modellparameter.
+und der Modellparameter. Darüber hinaus kennen sie verschiedene Arten von Lizenzen freier ML-Modelle sowie deren Auswirkungen auf das KI-System.
 
-[[LZ-2-7]]
-==== LZ 2-7: Arten von Lizenzen freier ML-Modelle
 
-Die Teilnehmer:innen kennen verschiedene Arten von Lizenzen freier ML-Modelle sowie deren Auswirkungen auf das KI-System
 
-[[LZ-2-8]]
-==== LZ 2-8: Strategien für die Einhaltung des europäischen AI-Acts und mögliche Herausforderungen
+[[LZ-2-6]]
+==== LZ 2-6: Strategien für die Einhaltung des europäischen AI-Acts und mögliche Herausforderungen verstehen
 
 Die Teilnehmer:innen verstehen die Grundaussagen des europäischen AI-Acts (insbesondere Transparenzpflichten) und kennen Strategien 
 für deren Einhaltung sowie mögliche Herausforderungen dabei.
 
-[[LZ-2-9]]
-==== LZ 2-9: Dokumentation von Modellen und Datensätzen für die Nachvollziehbarkeit und Transparenz
+[[LZ-2-7]]
+==== LZ 2-7: Modelle und Datensätze für die Nachvollziehbarkeit und Transparenz dokumentieren
 
 Die Teilnehmer:innen wissen, wie man Modelle und Datensätze effektiv dokumentiert, um Nachvollziehbarkeit und Transparenz zu gewährleisten.
 
-[[LZ-2-10]]
-==== LZ 2-10: Fallstricke hinsichtlich Security
 
-Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security.
+[[LZ-2-8]]
+==== LZ 2-8: Fallstricke hinsichtlich Security sowie Angriffsarten auf ML-Modelle kennen
 
-[[LZ-2-11]]
-==== LZ 2-11: Angriffsarten auf ML-Modelle
-
-Die Teilnehmer:innen kennen typische Angriffsarten auf ML-Modelle und Beispiele dafür, besipielsweise:
+Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie typische Angriffsarten auf ML-Modelle. Dies betrifft beispielsweise:
 
 * LLM-Jailbreaks durch Prompt-Engineering 
 * Adversarial Attacks
@@ -78,10 +67,11 @@ Die Teilnehmer:innen kennen typische Angriffsarten auf ML-Modelle und Beispiele 
 * Model Inversion & Extraction.
 
 
-[[LZ-2-12]]
-==== LZ 2-12: AI-Risk Minimierung Strategien
 
-Die Teilnehmer:innen können Strategien zur AI-Risikominimierung entwickeln und anwenden. Insbesondere die folgenden Strategien kennen die Teilnehmer:innen:
+[[LZ-2-9]]
+==== LZ 2-9: AI-Risk Minimierung Strategien kennen und anwenden
+
+Die Teilnehmer:innen wissen, wie Strategien zur AI-Risikominimierung entwickelt und angewendet werden können. Insbesondere kennen die Teilnehmer:innen die folgenden Strategien:
 
 * Stärkung der Robustheit durch umfangreiche Tests
 * Fehlertolerante KI-Systeme
@@ -89,37 +79,32 @@ Die Teilnehmer:innen können Strategien zur AI-Risikominimierung entwickeln und 
 * Erklärbare KI (explainable AI)
 
 
-[[LZ-2-13]]
-==== LZ 2-13: Möglichkeiten zur Absicherung gegen Angriffe (AI Security)
+[[LZ-2-10]]
+==== LZ 2-10: Möglichkeiten zur Absicherung gegen Angriffe (AI Security) anwenden können
 
 Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Absicherung gegen Angriffe (AI Security) und insbesondere kennen sie Möglichkeiten 
 zur Integration von Sicherheitsstandards in die Architektur und können diese beim Entwurf berücksichtigen.
 
 
-[[LZ-2-14]]
-==== LZ 2-14: Grundproblematik und Facetten von AI-Safety
+[[LZ-2-11]]
+==== LZ 2-11: Grundproblematik und Facetten von AI-Safety verstehen
 
 Die Teilnehmer:innen verstehen die Grundproblematik von AI-Safety und kennen die verschiedenen Facetten dazu. Insbesondere kennen die Teilnehmer:innen
 spezifische Probleme wie beispielsweise "AI model risks by poisining" und  "Bias".
 
-[[LZ-2-15]]
-==== LZ 2-15: Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können
+[[LZ-2-12]]
+==== LZ 2-12: Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können, verstehen und Ansätze zum Umgang mit ethischen Problemen kennen
 
-Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können.
+Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können und kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen. Dies umfasst beispielsweise  KI-Alignment (und dessen Grenzen) sowie die Erstellung eigener KI-Richtlinien.
 
-[[LZ-2-16]]
-==== LZ 2-16: Ansätze zum Umgang mit ethischen Problemen
 
-Die Teilnehmer:innen kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen. Dies umfasst beispielsweise  KI-Alignment (und dessen Grenzen) sowie 
-die Erstellung eigener KI-Richtlinien.
-
-[[LZ-2-17]]
-==== LZ 2-17: Ethik-Leitlinien
+[[LZ-2-13]]
+==== LZ 2-13: Ethik-Leitlinien überblicken
 
 Die Teilnehmer:innen überblicken wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“ sowie die „Google AI Ethics Guidelines“.
 
-[[LZ-2-18]]
-==== LZ 2-18: Kernprinzipien zu AI Governance und Responsible AI für Unternehmen
+[[LZ-2-14]]
+==== LZ 2-14: Kernprinzipien zu AI Governance und Responsible AI für Unternehmen kennen
 
 Die Teilnehmer:innen kennen die wichtigsten Dokumente zu AI Governance, um die Kernprinzipien zu AI Governance und Responsible AI für das Unternehmen auszuarbeiten. Dies betrifft 
 insbesondere die folgenden Dokumente:
@@ -128,24 +113,24 @@ insbesondere die folgenden Dokumente:
 * The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
 * The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
 
-[[LZ-2-19]]
-==== LZ 2-19: Einblick in die Einrichtung von "Regulatory Sandboxes" und die mögliche rechtliche Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts.
+[[LZ-2-15]]
+==== LZ 2-15: Einblick in die Einrichtung von "Regulatory Sandboxes" und die mögliche rechtliche Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts überblicken
 
 Die Teilnehmer:innen erhalten einen Einblick in die Einrichtung von "Regulatory Sandboxes" zur Förderung von Innovationen und 
 in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts.
 
-[[LZ-2-20]]
-==== LZ 2-20: Strukturen und Prozesse für die Steuerung und Kontrolle von KI-Systemen, um ethische und gesetzliche Anforderungen zu erfüllen.
+[[LZ-2-16]]
+==== LZ 2-16: Strukturen und Prozesse für die Steuerung und Kontrolle von KI-Systemen, um ethische und gesetzliche Anforderungen zu erfüllen, verstehen
 
 Die Teilnehmer:innen verstehen die Strukturen und Prozesse, die zur Steuerung und Kontrolle von KI-Systemen notwendig sind, um ethische und gesetzliche Anforderungen zu erfüllen.
 
-[[LZ-2-21]]
-==== LZ 2-21: Effektive Datenverwaltung für die Sicherstellung von Qualität und Sicherheit von Daten in KI-Anwendungen
+[[LZ-2-17]]
+==== LZ 2-17: Effektive Datenverwaltung für Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellen
 
 Die Teilnehmer:innen wissen, wie effektive Datenverwaltung die Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellt.
 
-[[LZ-2-22]]
-==== LZ 2-22: Bedeutung und Umsetzung der Transparenzpflicht bei KI-Systemen
+[[LZ-2-18]]
+==== LZ 2-18: Bedeutung und Umsetzung der Transparenzpflicht bei KI-Systemen verstehen
 
 Die Teilnehmer:innen verstehen die Bedeutung der Transparenzpflicht bei KI-Systemen und wissen, wie sie diese in der Praxis umsetzen können.
 

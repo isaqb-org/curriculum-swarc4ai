@@ -2,7 +2,7 @@
 
 // tag::DE[]
 
-Die Teilnehmer:innen erreichen in diesem Kapitel die folgenden Lernziele:
+
 
 [[LZ-6-1]]
 ==== LZ 6-1: Integrationsebenen von KI
@@ -39,7 +39,7 @@ Die Teilnehmer:innen verstehen die Qualitätsmerkmale, die für KI-Systeme beson
 [[LZ-6-5]]
 ==== LZ 6-5: [OPTIONAL] Evaluations-Frameworks für KI-Systeme
 
-Die Teilnehmer:innen kennen gängige Evaluations-Frameworks, wie beispielsweise LangSmith oder LangFuse, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen.
+Die Teilnehmer:innen kennen gängige Evaluations-Frameworks wie beispielsweise LangSmith oder LangFuse, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen.
 
 
 [[LZ-6-6]]
@@ -75,7 +75,7 @@ Die Teilnehmer:innen kennen typische Use-Cases für RAG wie beispielsweise „Ta
 [[LZ-6-11]]
 ==== LZ 6-11: RAG-Techniken
 
-Die Teilnehmer:innen kennen eine AUswahl der folgenden RAG-Techniken:
+Die Teilnehmer:innen kennen eine Auswahl der folgenden RAG-Techniken:
 
 * Simple RAG
 * Context Enrichment Techniques
@@ -141,7 +141,7 @@ Die Teilnehmer:innen kennen mehrere Techniken zur Evaluation von LLM-Anwendungen
 [[LZ-6-16]]
 ==== LZ 6-16: Bekannte LLMs und Auswahlkriterien
 
-Die Teilnehmer:innen kennen bekannte LLMs, wie beispielsweise GPT, Claude, Gemini, Llama, Mistral oder Luminous, und Auswahlkriterien für ein geeignetes LLM.
+Die Teilnehmer:innen kennen bekannte LLMs wie beispielsweise GPT, Claude, Gemini, Llama, Mistral oder Luminous, und Auswahlkriterien für ein geeignetes LLM.
 
 
 [[LZ-6-17]]
@@ -153,7 +153,7 @@ Die Teilnehmer:innen verstehen die Bedeutung von Cost Management für GenAI Appl
 ==== LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen
 
 Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang 
-mit LLM-Anwendungen, wie beispielsweise OpenAI-API oder LangChain.
+mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.
 
 [[LZ-6-19]]
 ==== LZ 6-19: [OPTIONAL] ]Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen vom AI Agentarchitekturen

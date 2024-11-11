@@ -2,7 +2,6 @@
 
 // tag::DE[]
 
-Die Teilnehmer:Innen erreichen die folgenden Lernziele.
 
 [[LZ-3-1]]
 ==== LZ 3-1: Life-Cycle eines Machine-Learning- bzw. Data-Science-Projekts
@@ -74,7 +73,7 @@ Die Teilnehmer:innen kennen Transfer-Learning bzw. Fine Tuning als Möglichkeit,
 [[LZ-3-10]]
 ==== LZ 3-10: Design Patterns für KI-Systeme
 
-Die Teilnehmer:innen wissen welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt. Das betrifft die folgenden Design Patterns:
+Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt. Das betrifft die folgenden Design Patterns:
 
 * ML Systems Topology Patterns
 * Pipeline Architecture Patterns
@@ -99,7 +98,7 @@ Die Teilnehmer:innen verstehen, welche Eingaben und Ausgaben für das Funktionie
 [[LZ-3-13]]
 ==== LZ 3-13: Metriken zur Messung der Performance von ML-Modellen
 
-Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance von ML-Modellen, wie beispielsweise:
+Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance von ML-Modellen wie beispielsweise:
 
 * Precision, Recall
 * F1
