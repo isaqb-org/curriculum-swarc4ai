@@ -4,7 +4,7 @@
 
 
 [[LZ-7-1]]
-==== LZ 7-1: [OPTIONAL] Anhand von Fallstudien und Praxisprojekten, das erworbene Wissen in realen Szenarien anwenden
+==== LZ 7-1: [OPTIONAL] Anhand von Fallstudien und Praxisprojekten das erworbene Wissen in realen Szenarien anwenden
 
 // end::DE[]
 

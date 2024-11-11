@@ -147,7 +147,7 @@ Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schn
 mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.
 
 [[LZ-6-19]]
-==== LZ 6-19: [OPTIONAL] ]Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen vom AI Agentarchitekturen kennen
+==== LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen vom AI Agentarchitekturen kennen
 
 Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen vom AI Agentarchitekturen.
 

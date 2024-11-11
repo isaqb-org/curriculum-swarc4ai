@@ -119,7 +119,7 @@ Die Teilnehmer:innen wissen, wie Benutzeroberflächen gestaltet werden sollten, 
 ==== Nicht-funktionale Anforderungen
 
 [[LZ-3-16]]
-==== LZ 3-16: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen
+==== LZ 3-16: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen verstehen
 
 Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen und wissen, 
 wie diese optimiert werden können.
