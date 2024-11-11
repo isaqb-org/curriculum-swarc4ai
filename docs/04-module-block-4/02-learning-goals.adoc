@@ -3,43 +3,39 @@
 // tag::DE[]
 
 [[LZ-4-1]]
-==== LZ 4-1: Methoden, um Daten zu akquirieren und Daten zu labeln
+==== LZ 4-1: Daten zu akquirieren und Daten zu labeln
 
 Die Teilnehmer:innen überblicken verschiedene Methoden, um Daten zu akquirieren und Daten zu labeln.
 
 [[LZ-4-2]]
-==== LZ 4-2: Gängige Plattformen für öffentlich zugängliche Daten
+==== LZ 4-2: Gängige Plattformen für öffentlich zugängliche Daten kennen
 
 Die Teilnehmer:innen können gängige Plattformen für öffentlich zugängliche Daten nennen.
 
 [[LZ-4-3]]
-==== LZ 4-3: Überblick über relevante Werkzeuge für das Daten-Labeln
+==== LZ 4-3: Relevante Werkzeuge für das Daten-Labeln überblicken
 
 Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispielsweise CVAT, Amazon Mechanical Turk.
 
 [[LZ-4-4]]
-==== LZ 4-4: Gestaltung effizienter Datenpipelines und -architekturen, Betrachtung von Datenqualität, Speicherlösungen und deren Management
+==== LZ 4-4: Effiziente Datenpipelines und -architekturen sowie effiziente Speicherlösungen und deren Management entwerfen
 
-Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität, 
-sowie für Speicherlösungen und deren Management.
+Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität 
+sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:innen Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse.
+
 
 [[LZ-4-5]]
-==== LZ 4-5: Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse
-
-Die Teilnehmer:innen kennen Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse.
-
-[[LZ-4-6]]
-==== LZ 4-6: Strategien für Datenaggregation, -bereinigung, -transformation, -anreicherung und -augmentierung.
+==== LZ 4-5: Strategien für Datenaggregation, -bereinigung, -transformation, -anreicherung und -augmentierung kennen
 
 Die Teilnehmer:innen kennen Strategien für Datenaggregation, -bereinigung, -transformation, -anreicherung und -augmentierung.
 
-[[LZ-4-7]]
-==== LZ 4-7: Werkzeuge für Data Engineering Pipelines
+[[LZ-4-6]]
+==== LZ 4-6: Werkzeuge für Data Engineering Pipelines überblicken
 
 Die Teilnehmer:innen überblicken relevante Werkzeuge für Data Engineering Pipelines wie beispielsweise Apache Spark und Flink.
 
-[[LZ-4-8]]
-==== LZ 4-8: Möglichkeiten zur Speicherung der Daten
+[[LZ-4-7]]
+==== LZ 4-7: Möglichkeiten zur Speicherung der Daten kennen
 
 Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Daten sowie deren Vor- und Nachteile. Zu den Möglichkeiten gehören die folgenden Technologien:
 * CSV-Dateien

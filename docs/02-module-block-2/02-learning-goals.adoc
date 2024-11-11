@@ -4,7 +4,7 @@
 
 
 [[LZ-2-1]]
-==== LZ 2-1: Einfluss der Datenschutzgesetze auf die Implemenzierung und Nutzung von KI kennen
+==== LZ 2-1: Einfluss der Datenschutzgesetze auf die Implementierung und Nutzung von KI kennen
 
 Die Teilnehmer:innen kennen die Datenschutzgesetze wie die DSGVO und wissen, wie diese die Sammlung, Verarbeitung und Speicherung von Daten durch KI-Systeme beeinflussen.
 

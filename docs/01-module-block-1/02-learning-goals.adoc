@@ -19,9 +19,9 @@ Die Teilnehmer:innen kennen die möglichen Einsatzmöglichkeiten in verschiedene
 
 
 [[LZ-1-4]]
-==== LZ 1-4: Risiken bei der Anwendung von KI verstehen
+==== LZ 1-4: Risiken bei der Anwendung von KI identifizieren
 
-Die Teilnehmer:innen kennen und verstehen die Risiken, die bei der Anwendung von KI auftreten können. Dazu gehören beispielsweise
+Die Teilnehmer:innen können Risiken, die bei der Anwendung von KI auftreten, identifizieren. Das können beispielsweise folgende Risiken sein:
 
 * Halluzinationen
 * Bias
