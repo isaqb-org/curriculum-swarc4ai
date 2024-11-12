@@ -1,25 +1,40 @@
 === {learning-goals}
 
 // tag::DE[]
-Die Teilnehmer:Innen …
 
 [[LZ-1-1]]
-==== LZ 1-1: Wissen wie man Künstliche Intelligenz definiert und die Anordnung zu Machine Learning, Data Science, Deep Learning, Generative AI.
+==== LZ 1-1: Künstliche Intelligenz und Machine Learning, Data Science, Deep Learning, Generative AI einordnen können
+
+Die Teilnehmer:innen wissen, wie man Künstliche Intelligenz definiert und wie Machine Learning, Data Science, Deep Learning, Generative AI darin eingeordnet werden.
 
 [[LZ-1-2]]
-==== LZ 1-2: Wissen, wie man typische allgemeine Use-Cases für KI spezifiziert, z.B. Bilderkennung & -erzeugung, Sprachverarbeitung, Vorhersagen, Personalisierung und Anomalieerkennung.
+==== LZ 1-2: Typische allgemeine Anwendungsfälle für KI spezifizieren
+
+Die Teilnehmer:innen wissen, wie typische allgemeine Anwendungsfälle für KI spezifiziert werden können. Dies umfasst Anwundungsfälle für  z.B. Bilderkennung & -erzeugung, Sprachverarbeitung, Vorhersagen, Personalisierung und Anomalieerkennung.
 
 [[LZ-1-3]]
-==== LZ 1-3: Kennen Einsatzmöglichkeiten in verschiedenen Branchen, z.B. Marketing, Medizin, Robotik und Content-Creation.
+==== LZ 1-3: Einsatzmöglichkeiten in verschiedenen Branchen und Endnutzeranwendungen kennen
+
+Die Teilnehmer:innen kennen die möglichen Einsatzmöglichkeiten in verschiedenen Branchen, z.B. Marketing, Medizin, Robotik und Content-Creation. Darüber hinaus überblicken sie die Einsatzmöglichkeiten in Endnutzeranwendungen von KI. Darunter fallen z.B. Sprachassistenten (Chatbots) und Empfehlungssysteme (Recommender Engine).
+
 
 [[LZ-1-4]]
-==== LZ 1-4: Kennen Einsatzmöglichkeiten in Endnutzeranwendungen, z.B. bSprachassistenten (Chatbots) und Empfehlungssysteme (Recommender Engine).
+==== LZ 1-4: Risiken bei der Anwendung von KI identifizieren
+
+Die Teilnehmer:innen können Risiken, die bei der Anwendung von KI auftreten, identifizieren. Das können beispielsweise folgende Risiken sein:
+
+* Halluzinationen
+* Bias
+* (un-)Fairness 
+* gesellschaftlichen Risiken wie Deepfakes, AI-enabled Cyberattacs, Safety Risks in Critical Systems, Social Manipulation, Intellectual Property Issues usw. 
+
+
 
 [[LZ-1-5]]
-==== LZ 1-5: Wissen, wie man Risiken bei der Anwendung von KI (Halluzinationen, Bias, Fairness…) und gesellschaftlichen Risiken (Deepfakes, AI-enabled Cyberattacs, Safety Risks in Critical Systems, Social Manipulation, Intellectual Property Issues, etc.) identifiziert.
+==== LZ 1-5: Unterschiede zu traditioneller Software verstehen
 
-[[LZ-1-6]]
-==== LZ 1-6: Kennen den Unterschied zu traditioneller Software:
+Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu tradiitoneller Software:
+
 * Datengetrieben (bei ML) - Daten-zentrierte statt Code-zentrierte Entwicklung
 * Probabilistische Ergebnisse (Non-deterministic behavior)
 * Statistische Validierung
@@ -30,26 +45,46 @@ Die Teilnehmer:Innen …
 * AI-spezifische Regulatorik von Branchen und auf EU-Ebene müssen berücksichtigt werden.
 * Interoperabilität: Nahtlose Integration in bestehende Systeme und Technologiestacks.
 
+[[LZ-1-6]]
+==== LZ 1-6: Lösung von Problemen mittels KI oder klassischer SW-Entwicklung entscheiden können
+
+Teilnehmer:innen können entscheiden und erklären, ob und warum ein Problem mittels KI oder klassischer SW-Entwicklung zu lösen ist.
+
 [[LZ-1-7]]
-==== LZ 1-7: Können beurteilen, ob ein Problem mittels KI oder klassischer SW-Entwicklung zu lösen ist.
+==== LZ 1-7: Rollen und deren Aufgaben sowie ihre Zusammenarbeit im Kontext von KI kennen
+
+Die Teilnehmer:innen kennen typische Rollen und deren Aufgaben in diesen Kontexten. Die Rollen umfassen insbesondere:
+
+* Data Scientist
+* Data Analyst
+* Data Engineer
+* Machine Learning Engineer
+* MLOps Engineer
+* AI Architect
+* Data Architect
+* Business Intelligence (BI) Developer
+* Data Governance Specialist
+* ML-Researcher
+
+Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenarbeiten könnten (Team Topologies für ML-Teams).
+
+
 
 [[LZ-1-8]]
-==== LZ 1-8: Kennen typische Rollen und deren Aufgaben in diesen Kontexten: Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Engineer, AI Architect, Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist, ML-Researcher.
+==== LZ 1-8: KI Anwendungsfällen identifizieren und priorisieren können
+
+Die Teilnehmer:innen können KI Anwendungsfälle identifizieren und priorisieren.
 
 [[LZ-1-9]]
-==== LZ 1-9: Wissen, wie diese Rollen im Team zusammenarbeiten könnten (Team Topologies für ML-Teams).
+==== LZ 1-9: KI Stärken und Grenzen kennen
+
+Die Teilnehmer:innen verstehen die Stärken und die Grenzen von KI und kennen die sog. "Jagged Technological Frontier".
 
 [[LZ-1-10]]
-==== LZ 1-10: Wissen, wie man KI Use Cases identifiziert und priorisiert.
+==== LZ 1-10: Productivity J-Curve Konzept in Verbindung mit KI-Technologie kennen 
 
-[[LZ-1-11]]
-==== LZ 1-11: Kennen KI Stärken und Grenzen (Jagged Technological Frontier).
+Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung von KI zunächst einen Produktivitätsrückgang verzeichnen können, dem bei der weiteren Entwicklung aber Produktivitätsgewinne folgen können.
 
-[[LZ-1-12]]
-==== LZ 1-12: Wissen wie man Künstliche Intelligenz definiert und die Anordnung zu Machine Learning, Data Science, Deep Learning, Generative AI.
-
-[[LZ-1-13]]
-==== LZ 1-13: Kennen Productivity J-Curve Konzept in Verbindung mit KI-Technologie (Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung von KI zunächst einen Produktivitätsrückgang verzeichnen können, dem bei der weiteren Entwicklung aber Produktivitätsgewinne folgen können.).
 
 // end::DE[]
 

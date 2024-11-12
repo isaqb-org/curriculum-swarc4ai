@@ -3,14 +3,16 @@
 
 Teilnehmer:innen **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-* Grundlegendes Wissen zu KI, Machine Learning und Data Science
-* Machine Learning Methoden wie Supervised, Unsupervised Learning und Reinforcement Learning, z.B Klassifikation, Clustering, Regression, Dimensionality Reduction
-* Grundsätzliches Wissen über die typischen Algorithmen wie: Linear/logistic regression, decision trees, random forests, support vector machines, K-means clustering, neural networks and deep learning
-* Wissen über Model evaluation: Cross-validation, Metrics (accuracy, precision, recall, F1-score), Bias-variance tradeoff
-* Erfahrung mit typischen Frameworks wie sk-learn, TensorFlow, PyTorch
-* Erfahrung mit Jupyter Notebooks oder ähnlichen Rapid Application Development (RAD) Werkzeugen
-* Wissen über die technischen Verfahren hinter KI, einschließlich: Maschinelles Lernen inkl. Deep Learning und LLMs, NLP-Ansätze (Natural Language Processing), Transformationsmodelle
-* Praktische Erfahrung mit Trainieren von Künstlichen Intelligenz Modellen
+
+* Ein grundlegendes Verständnis von Künstlicher Intelligenz, Machine Learning und Data Science
+* Vertrautheit mit Machine Learning-Methoden, wie Supervised Learning, Unsupervised Learning und Reinforcement Learning, einschließlich Klassifikation, Clustering, Regression und Dimensionality Reduction
+* Grundkenntnisse über gängige Algorithmen, wie z. B. lineare und logistische Regression, Entscheidungsbäume, Random Forests, Support Vector Machines, K-Means Clustering sowie neuronale Netze und Deep Learning
+* Ein Verständnis der Modellevaluation, einschließlich Cross-Validation, relevanter Metriken (Accuracy, Precision, Recall, F1-Score) und des Bias-Variance Tradeoffs
+* Erfahrung mit typischen Frameworks wie scikit-learn, TensorFlow und PyTorch
+* Vertrautheit mit Jupyter Notebooks oder ähnlichen Werkzeugen zur schnellen Anwendungsentwicklung (Rapid Application Development, RAD)
+* Ein grundlegendes Verständnis der technischen Verfahren hinter Künstlicher Intelligenz, einschließlich Maschinellen Lernens (insbesondere Deep Learning und LLMs) sowie Ansätzen im Bereich Natural Language Processing (NLP) und Transformationsmodellen
+* Praktische Erfahrung im Training von Künstlichen Intelligenz-Modellen
+
 
 // end::DE[]
 

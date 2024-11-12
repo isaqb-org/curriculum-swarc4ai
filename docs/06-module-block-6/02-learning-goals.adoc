@@ -1,71 +1,113 @@
 === {learning-goals}
 
 // tag::DE[]
+
+
+
 [[LZ-6-1]]
-==== LZ 6-1: Kennen verschiedene Integrationsebenen von KI: Anwendungen (z.B. Coding Assistenten), AI-Engineering (z.B. Prompt Engineering), ML-Modellentwicklung (z.B. pytorch), ML-Infrastruktur (z.B. Vektor-DBs).
+==== LZ 6-1: Integrationsebenen von KI überblicken
+
+Die Teilnehmer:innen kennen verschiedene Integrationsebenen von KI. Dazu gehören die folgenden Ebenen:
+* Anwendungen (z.B. Coding Assistenten)
+* AI-Engineering (z.B. Prompt Engineering) 
+* ML-Modellentwicklung (z.B. pytorch)
+* ML-Infrastruktur (z.B. Vektor-DBs).
+
 
 [[LZ-6-2]]
-==== LZ 6-2: Können das strategische Design von DDD (insbesondere Context Maps) einsetzen, um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
+==== LZ 6-2: Bibliotheken, Schnittstellen und Tools zur Integration von KI-Modellen kennen
+
+Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools zur Integration von KI-Modellen.
 
 [[LZ-6-3]]
-==== LZ 6-3: Kennen die Qualitätsmerkmale, die für KI-Systeme besonders relevant sind: Verlässlichkeit, Skalierbarkeit, Effizienz, Sicherheit, Wartbarkeit, Interpretierbarkeit etc.
+==== LZ 6-3: KI-Systeme in die Gesamtarchitektur einer IT-Landschaft integrieren
+
+Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielswiese 
+können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen, 
+um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
 
 [[LZ-6-4]]
-==== LZ 6-4: Kennen gängige Evaluations-Frameworks, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen z.B. LangSmith oder LangFuse.
+==== LZ 6-4: Relevante Qualitätsmerkmale für KI-Systeme überblicken
+
+Die Teilnehmer:innen verstehen die Qualitätsmerkmale, die für KI-Systeme besonders relevant sind. Dazu gehören insbesondere die folgenden Qualitätsmerkmale:
+* Verlässlichkeit
+* Skalierbarkeit
+* Effizienz
+* Sicherheit
+* Wartbarkeit
+* Interpretierbarkeit
 
 [[LZ-6-5]]
-==== LZ 6-5: Kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools zur Integration von KI-Modellen.
+==== LZ 6-5: [OPTIONAL] Evaluations-Frameworks für KI-Systeme kennen
+
+Die Teilnehmer:innen kennen gängige Evaluations-Frameworks wie beispielsweise LangSmith oder LangFuse, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen.
+
 
 [[LZ-6-6]]
-==== LZ 6-6: Üben und diskutieren anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, Integrationsoptionen für KI in eine bestehende Software-Landschaft abzuwägen.
+==== LZ 6-6: [OPTIONAL] Fallbeispiel mit einer ausgedachten Fachlichkeit diskutieren
+
+Die Teilnehmer:innen üben und diskutieren anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, Integrationsoptionen für KI in eine bestehende Software-Landschaft abzuwägen.
 
 [[LZ-6-7]]
-==== LZ 6-7: Haben ein grundlegendes Verständnis von generativer KI z.B. LLMs und Stable Diffusion.
+==== LZ 6-7: Generative KI grundlegend verstehen
+
+Die Teilnehmer:innen haben ein grundlegendes Verständnis von generativer KI wie beispielsweise LLMs und Stable Diffusion.
 
 [[LZ-6-8]]
-==== LZ 6-8: Haben einen Überblick über die Funktionsweise von LLMs und die zugehörige Begriffswelt: Token, Embedding, RNN, Transformer, Attention…
+==== LZ 6-8: Funktionsweise von LLMs verstehen
+
+Die Teilnehmer:innen verstehen die Funktionsweise von LLMs und können die zugehörige Begriffswelteinordnen: Token, Embedding, RNN, Transformer, Attention.
 
 [[LZ-6-9]]
-==== LZ 6-9: Kennen bekannte Patterns bei der Nutzung von LLMs:
+==== LZ 6-9: Bekannte Patterns bei der Nutzung von LLMs kennen
+
+Die Teilnehmer:innen kennen bekannte Patterns bei der Nutzung von LLMs. Dies umfasst die folgenden Patterns:
 * RAG und Retrieval-Strategien
 * Function Calling
 * Finetuning
 * Assistenten
-* Agenten, etc.
+* Agenten
 
 [[LZ-6-10]]
-==== LZ 6-10: Kennen typische Use-Cases für RAG wie „Talk to your documents/database/API“.
+==== LZ 6-10: Use-Cases für RAG (Retrieval-Augmented Generation) kennen
+
+Die Teilnehmer:innen kennen typische Use-Cases für RAG wie beispielsweise „Talk to your documents/database/API“.
 
 [[LZ-6-11]]
-==== LZ 6-11: Kennen verschiedene RAG-Techniken:
+==== LZ 6-11: Ausgewählte RAG-Techniken kennen und verstehen
+
+Die Teilnehmer:innen kennen eine Auswahl der gängigen RAG-Techniken wie beispielsweise:
+
 * Simple RAG
 * Context Enrichment Techniques
-* Multi-faceted Filtering
 * Fusion Retrieval
 * Intelligent Reranking
 * Query Transformations
-* Hierarchical Indices
-* Hypothetical Questions
-* Dynamic Chunk Sizing
-* Semantic Chunking
-* Contextual Compression
-* Explainable Retrieval
-* Retrieval with Feedback Loops
 * Adaptive Retrieval
 * Iterative Retrieval
 * Ensemble Retrieval
 * Knowledge Graph Integration
-* Multi-modal Retrieval
-* RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval
 
 [[LZ-6-12]]
-==== LZ 6-12: Kennen verschiedene Arten von Prompt Engineering (z.B. Few-Shot-Learning, Chain-of-Thought, Role-Playing) und allgemeine Best Practices für das Prompting.
+==== LZ 6-12: Arten von Prompt Engineering kennen
+
+Die Teilnehmer:innen kennen verschiedene Arten von Prompt Engineering, wie beispielsweise
+* Few-Shot-Learning
+* Chain-of-Thought
+* Role-Playing
+
+sowie allgemeine Best Practices für das Prompting.
 
 [[LZ-6-13]]
-==== LZ 6-13: Wissen, was Agentic Workflows sind: Reflexion, Werkzeug-Nutzung, Planung, Multi-Agenten-Kollaboration.
+==== LZ 6-13: Agentic Workflows überblicken
+
+Die Teilnehmer:innen wissen, was Agentic Workflows sind und kennen die Begriffe Reflexion, Werkzeug-Nutzung, Planung und Multi-Agenten-Kollaboration.
 
 [[LZ-6-14]]
-==== LZ 6-14: Wissen welche Design Patterns für Generative AI-Systeme existieren:
+==== LZ 6-14: Eine Auswahl von Design Patterns für Generative AI-Systeme kennen
+
+Die Teilnehmer:innen wissen welche Design Patterns für Generative AI-Systeme existieren. Sie kennen eine Auswahl der folgenden Patterns:
+
 * AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
 * Layered Caching Strategy Leading to Fine-Tuning
 * Multiplexing AI Agents
@@ -78,19 +120,36 @@
 * Red and Blue Team Dual-Model Evaluation
 
 [[LZ-6-15]]
-==== LZ 6-15: Kennen Techniken zur Evaluation von LLM-Anwendungen: Scoring, Human Feedback, Comparative Evaluation, Model Based Evaluation etc.
+==== LZ 6-15: Techniken zur Evaluation von LLM-Anwendungen kennen
+
+Die Teilnehmer:innen kennen mehrere Techniken zur Evaluation von LLM-Anwendungen. Dies können beispielsweise die folgenden Techniken sein:
+
+* Scoring
+* Human Feedback
+* Comparative Evaluation
+* Model Based Evaluation
 
 [[LZ-6-16]]
-==== LZ 6-16: Kennen bekannte LLMs und Auswahlkriterien: GPT, Claude, Gemini, Llama, Mistral, Luminous etc.
+==== LZ 6-16: Bekannte LLMs und Auswahlkriterien überblicken
+
+Die Teilnehmer:innen kennen bekannte LLMs wie beispielsweise GPT, Claude, Gemini, Llama, Mistral oder Luminous, und Auswahlkriterien für ein geeignetes LLM.
+
 
 [[LZ-6-17]]
-==== LZ 6-17: Verstehen die Bedeutung von Cost Management für GenAI Applikationen.
+==== LZ 6-17: Bedeutung von Cost Management für GenAI Applikationen verstehen
+
+Die Teilnehmer:innen verstehen die Bedeutung von Cost Management für GenAI Applikationen.
 
 [[LZ-6-18]]
-==== LZ 6-18: Kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen: OpenAI-API, LangChain etc.
+==== LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen können
+
+Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang 
+mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.
 
 [[LZ-6-19]]
-==== LZ 6-19: Kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen vom AI Agentarchitekturen.
+==== LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen vom AI Agentarchitekturen kennen
+
+Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen vom AI Agentarchitekturen.
 
 // end::DE[]
 
