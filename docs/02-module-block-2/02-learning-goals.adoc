@@ -15,7 +15,7 @@ Die Teilnehmer:innen verstehen die Ziele und Regelungen des EU AI Act und wissen
 des Softwaresystems haben. Insbesondere kennen sie den Einfluss auf einige der folgenden Aspekte:
 
 * Risikomanagementsystem (Risikominimierung)
-* Datenqualität und Datengovernance (Qualitätsmanagementsystem)
+* Datenqualität und Daten-Governance (Qualitätsmanagementsystem)
 * Erstellung und Pflege einer umfassenden technischen Dokumentation des KI-Systems
 * Automatische Aufzeichnung/Logging von Events im KI-System.
 * Bereitstellung klarer und verständlicher Informationen für Nutzer
@@ -25,16 +25,16 @@ des Softwaresystems haben. Insbesondere kennen sie den Einfluss auf einige der f
 
 
 [[LZ-2-3]]
-==== LZ 2-3: Klassikifaktion von KI-Systemen nach EU AI Act Risikolevel durchführen können
+==== LZ 2-3: Klassifikation von KI-Systemen nach EU AI Act Risikolevel durchführen
 
 Die Teilnehmer:innen kennen die Klassifikation von KI-Systemen nach den EU AI Act Risikolevel (verboten, hochrisikoreich, begrenzt risikoreich, niedrigrisikoreich) und wissen,
  welche regulatorischen Anforderungen jeweils gelten.
 
 
 [[LZ-2-4]]
-==== LZ 2-4: Urheberrechtsproblematik von KI-generierten Inhalten einordnen können
+==== LZ 2-4: Urheberrechtsproblematik von KI-generierten Inhalten einordnen
 
-Die Teilnehmer:innen verstehen die Urheberrechtsproblematik für KI-generierte Inhalte und kennen die Auswirkungen auf bestimmte Software-Lizenzmodelle sowie mögliche Umgänge damit.
+Die Teilnehmer:innen verstehen die Urheberrechtsproblematik für KI-generierte Inhalte und kennen die Auswirkungen auf bestimmte Softwarelizenzmodelle sowie mögliche Umgänge damit.
 
 [[LZ-2-5]]
 ==== LZ 2-5: Arten bzw. Grade der Offenheit sowie Arten von Lizenzen freier ML-Modelle überblicken
@@ -43,11 +43,10 @@ Die Teilnehmer:innen überblicken verschiedene Arten bzw. Grade der Offenheit fr
 und der Modellparameter. Darüber hinaus kennen sie verschiedene Arten von Lizenzen freier ML-Modelle sowie deren Auswirkungen auf das KI-System.
 
 
-
 [[LZ-2-6]]
-==== LZ 2-6: Strategien für die Einhaltung des europäischen AI-Acts und mögliche Herausforderungen verstehen
+==== LZ 2-6: Strategien für die Einhaltung des EU AI Acts und mögliche Herausforderungen verstehen
 
-Die Teilnehmer:innen verstehen die Grundaussagen des europäischen AI-Acts (insbesondere Transparenzpflichten) und kennen Strategien 
+Die Teilnehmer:innen verstehen die Grundaussagen des EU AI Acts (insbesondere Transparenzpflichten) und kennen Strategien
 für deren Einhaltung sowie mögliche Herausforderungen dabei.
 
 [[LZ-2-7]]
@@ -69,7 +68,7 @@ Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie ty
 
 
 [[LZ-2-9]]
-==== LZ 2-9: AI-Risk Minimierung Strategien kennen und anwenden
+==== LZ 2-9: Strategien zur AI-Risikominimierung kennen und anwenden
 
 Die Teilnehmer:innen wissen, wie Strategien zur AI-Risikominimierung entwickelt und angewendet werden können. Insbesondere kennen die Teilnehmer:innen die folgenden Strategien:
 
@@ -80,7 +79,7 @@ Die Teilnehmer:innen wissen, wie Strategien zur AI-Risikominimierung entwickelt 
 
 
 [[LZ-2-10]]
-==== LZ 2-10: Möglichkeiten zur Absicherung gegen Angriffe (AI Security) anwenden können
+==== LZ 2-10: Möglichkeiten zur Absicherung gegen Angriffe (AI Security) anwenden
 
 Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Absicherung gegen Angriffe (AI Security) und insbesondere kennen sie Möglichkeiten 
 zur Integration von Sicherheitsstandards in die Architektur und können diese beim Entwurf berücksichtigen.
@@ -90,16 +89,16 @@ zur Integration von Sicherheitsstandards in die Architektur und können diese be
 ==== LZ 2-11: Grundproblematik und Facetten von AI-Safety verstehen
 
 Die Teilnehmer:innen verstehen die Grundproblematik von AI-Safety und kennen die verschiedenen Facetten dazu. Insbesondere kennen die Teilnehmer:innen
-spezifische Probleme wie beispielsweise "AI model risks by poisining" und  "Bias".
+spezifische Probleme wie beispielsweise "AI model risks by poisoning" und  "Bias".
 
 [[LZ-2-12]]
-==== LZ 2-12: Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können, verstehen und Ansätze zum Umgang mit ethischen Problemen kennen
+==== LZ 2-12: Ethische Probleme von KI-Systemen verstehen und Ansätze zum Umgang damit kennen
 
 Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können und kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen. Dies umfasst beispielsweise  KI-Alignment (und dessen Grenzen) sowie die Erstellung eigener KI-Richtlinien.
 
 
 [[LZ-2-13]]
-==== LZ 2-13: Ethik-Leitlinien überblicken
+==== LZ 2-13: Ethikleitlinien überblicken
 
 Die Teilnehmer:innen überblicken wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“ sowie die „Google AI Ethics Guidelines“.
 
@@ -114,7 +113,7 @@ insbesondere die folgenden Dokumente:
 * The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
 
 [[LZ-2-15]]
-==== LZ 2-15: Einblick in die Einrichtung von "Regulatory Sandboxes" und die mögliche rechtliche Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts überblicken
+==== LZ 2-15: Einblick in die Einrichtung von "Regulatory Sandboxes" bekommen
 
 Die Teilnehmer:innen erhalten einen Einblick in die Einrichtung von "Regulatory Sandboxes" zur Förderung von Innovationen und 
 in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts.
