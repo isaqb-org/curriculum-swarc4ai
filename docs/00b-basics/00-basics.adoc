@@ -10,6 +10,8 @@ include::02-curriculum-structure-and-chronological-breakdown.adoc[{include_confi
 
 include::03-timing-didactics-and-more.adoc[{include_configuration}]
 
+<<<
+
 include::04-prerequisites-for-this-training.adoc[{include_configuration}]
 
 include::05-curriculum-outline.adoc[{include_configuration}]
