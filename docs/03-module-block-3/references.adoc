@@ -2,8 +2,7 @@
 
 <<tuberlin>>, <<bornstein>>,
 <<crowe>>, <<lakshmanan>>,
-<<alake>>, <<lakshmanan-chapter-four>>,
-<<lakshmanan-chapter-five>>, <<koc>>,
+<<alake>>, <<koc>>,
 <<cdteliot>>, <<visenger-three>>,
 <<zaharia>>, <<savarese>>,
 <<tdcox>>, <<studer>>,
