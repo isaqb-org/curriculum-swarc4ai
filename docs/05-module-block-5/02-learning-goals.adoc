@@ -9,20 +9,21 @@
 Die Teilnehmer:innen kennen unterschiedliche (Hardware)-Anforderungen für beispielsweise TPU, GPU oder CPU an Training und Inferenz.
 
 [[LZ-5-2]]
-==== LZ 5-2: Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale überblicken
+==== LZ 5-2: Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale kennen
 
-Die Teilnehmer:innen können beispielhaft Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale nennen. Insbesondere für Skalierung, Effizienz und Speicherlast sollten die Teilnehmer:innen die Trade-Offs sowie die Vor- und Nachteile von wichtigen Architzekturen wie beispielsweise RNNs und Transformern kennen.
+Die Teilnehmer:innen können beispielhaft Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale nennen. Insbesondere für Skalierung, Effizienz und Speicherlast sollten die Teilnehmer:innen die Trade-Offs sowie die Vor- und Nachteile von wichtigen Architekturen wie beispielsweise RNNs und Transformern kennen.
 
 
 [[LZ-5-3]]
 ==== LZ 5-3: Verschiedene Qualitätsmerkmale eines ML-Modells abstimmen
 
-Die Teilnehmer:innen kennen Möglichkeiten, um verschiedene Qualitätsmerkmale wie Genauigkeit, Effizienz und Speicherlast eines ML-Modells abzustimmen und gegeneinander 
-einzutauschen. Insbesondere kennen die Teilnehmer:innen die folgendsen Techniken: 
+Die Teilnehmer:innen kennen Möglichkeiten, um verschiedene Qualitätsmerkmale wie Genauigkeit, Effizienz und Speicherlast eines ML-Modells abzustimmen und gegeneinander
+einzutauschen. Insbesondere kennen die Teilnehmer:innen die folgenden Techniken:
+
 * Quantisierung
 * Pruning
 * Destillierung
-* LoRA.
+* LoRA
 
 [[LZ-5-4]]
 ==== LZ 5-4: Kosten, Stromverbrauch und nachhaltige Nutzung von KI (Green IT) verstehen
@@ -35,7 +36,7 @@ Die Teilnehmer:innen erlangen ein Verständnis für Kosten, Stromverbrauch und n
 Die Teilnehmer:innen kennen den Begriff MLOps für die Automatisierung des Life-Cycles eines Data-Science-Projekts sowie den Zusammenhang mit DevOps.
 
 [[LZ-5-6]]
-==== LZ 5-6: Modelltraining, Parametern, Metriken und Ergebnissen tracken
+==== LZ 5-6: Modelltraining, Parameter, Metriken und Ergebnisse tracken
 
 Die Teilnehmer:innen haben ein Verständnis vom Tracking im Modelltraining, Parametern, Metriken und Ergebnissen.
 
@@ -55,26 +56,21 @@ Die Teilnehmer:innen kennen verschiedene Arten von Drift, wie beispielsweise Dat
 Die Teilnehmer:innen haben ein Verständnis von CI/CD-Pipelines, Modellmanagement und Deployment-Strategien für KI-Modelle.
 
 [[LZ-5-10]]
-==== LZ 5-10: Zusammenarbeit und Verantwortungsaufteilung zwischen den verschiedenen Rollen kennen
-
-Die Teilnehmer:innen kennen verschiedene Möglichkeiten der Zusammenarbeit und Verantwortungsaufteilung zwischen den verschiedenen Rollen, wie beispielsweise 
-Data Engineer, ML-Engineer und Softwareentwickler:in bezogen auf die verschiedenen Phasen des Life-Cycles.
-
-[[LZ-5-11]]
-==== LZ 5-11: Plattformen für die Modellbereitstellung kennen
+==== LZ 5-10: Plattformen für die Modellbereitstellung kennen
 
 Die Teilnehmer:innen kennen gängige Plattformen für die Modellbereitstellung, wie beispielsweise Huggingface Hub.
 
-[[LZ-5-12]]
-==== LZ 5-12: Werkzeuge für das Erstellen von POCs von KI-Systemen einordnen können
+[[LZ-5-11]]
+==== LZ 5-11: Werkzeuge für das Erstellen von POCs von KI-Systemen einordnen
 
 Die Teilnehmer:innen können gängige Werkzeuge für das Erstellen von POCs von KI-Systemen, wie beispielsweise Gradi, nennen und verstehen die konzeptionelle Funktionsweise.
 
 
-[[LZ-5-13]]
-==== LZ 5-13: Deployment-Möglichkeiten von KI-Modellen kennen
+[[LZ-5-12]]
+==== LZ 5-12: Deployment-Möglichkeiten von KI-Modellen kennen
 
-Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modellen. Eine Auswahl der folgenden Möglichkeiten verstehen die Teilnehmer:innen: 
+Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modellen. Eine Auswahl der folgenden Möglichkeiten verstehen die Teilnehmer:innen:
+
 * API Deployment
 * Embedded Deployment
 * Batch Prediction
@@ -83,62 +79,60 @@ Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modell
 * Serverless Deployment
 * Cloud Services
 
-[[LZ-5-14]]
-==== LZ 5-14: Vor- und Nachteile von SaaS und Self-Hosting nennen können
+[[LZ-5-13]]
+==== LZ 5-13: Vor- und Nachteile von SaaS und Self-Hosting nennen
 
 Die Teilnehmer:innen kennen die Vor- und Nachteile von SaaS und Self-Hosting und können dazwischen abwägen.
 
-[[LZ-5-15]]
-==== LZ 5-15: SaaS-KI-Lösungen überblicken
+[[LZ-5-14]]
+==== LZ 5-14: SaaS-KI-Lösungen überblicken
 
 Die Teilnehmer:innen überblicken bekannte SaaS-KI-Lösungen, wie beispielsweise Azure OpenAI Services.
 
-[[LZ-5-16]]
-==== LZ 5-16: Embedded Deployments von ML-Modellen kennen
+[[LZ-5-15]]
+==== LZ 5-15: Embedded Deployments von ML-Modellen kennen
 
 Die Teilnehmer:innen kennen verschiedene Möglichkeiten und Standards für Embedded Deployments von ML-Modellen.
 
-[[LZ-5-17]]
-==== LZ 5-17: Monitoring im Hinblick auf KI-spezifische Anforderungen verstehen
+[[LZ-5-16]]
+==== LZ 5-16: Monitoring im Hinblick auf KI-spezifische Anforderungen verstehen
 
 Die Teilnehmer:innen verstehen die Notwendigkeit für Monitoring, auch im Hinblick auf KI-spezifische Anforderungen wie das Tracking von Drift.
 
-[[LZ-5-18]]
-==== LZ 5-18: Relevante Metriken für das Monitotring kennen
-
 Die Teilnehmer:innen kennen relevante Metriken wie beispielsweise Accuracy, Precision, Recall, F1-Score, MAE, MSE, Perplexity, Latenz, Durchsatz und Ressourcenauslastung und verstehen, warum diese für das Monitoring relevant sind.
 
-[[LZ-5-19]]
-==== LZ 5-19: Beispiel-Werkzeuge für Monitoring überblicken
+[[LZ-5-17]]
+==== LZ 5-17: Beispiel-Werkzeuge für Monitoring überblicken
 
-Die Teilnehmer:innen kennen Beispiel-Werkzeuge für Monitoring. Dies betrifft sowohl allgemeine Werkzeuge, wie beispielsweise Prometheus & Grafana, 
+Die Teilnehmer:innen kennen Beispiel-Werkzeuge für Monitoring. Dies betrifft sowohl allgemeine Werkzeuge, wie beispielsweise Prometheus & Grafana,
 als auch ML-spezifische wie beispielsweise MLflow.
 
-[[LZ-5-20]]
-==== LZ 5-20: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen
+[[LZ-5-18]]
+==== LZ 5-18: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen
 
-Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining. Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise Auswahl zwischen mehreren Antworten und Flagging in Gradio.
+Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining. Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise die Auswahl zwischen mehreren Antworten und Flagging in Gradio.
 
 
-[[LZ-5-21]]
-==== LZ 5-21: Methoden zur Nutzung von Feedback für das Modell-Training kennen
+[[LZ-5-19]]
+==== LZ 5-19: Methoden zur Nutzung von Feedback für das Modell-Training kennen
 
 Die Teilnehmer:innen kennen verschiedene Methoden zur Nutzung von Feedback für das Modell-Training, wie beispielsweise RLHF, RLAIF und DPO.
 
-[[LZ-5-23]]
-==== LZ 5-23: [OPTIONAL] MLOps-Pipeline an einem Praxisbeispiel verstehen 
+[[LZ-5-20]]
+==== LZ 5-20: [OPTIONAL] MLOps-Pipeline an einem Praxisbeispiel verstehen
 
 Die Teilnehmer:innen erfahren anhand eines Praxisbeispiels, wie eine MLOps-Pipeline aussehen kann und welche Einsichten diese auf die Parameter, Metriken usw. bietet.
 
-[[LZ-5-24]]
-==== LZ 5-24: [OPTIONAL] Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten treffen 
+[[LZ-5-21]]
+==== LZ 5-21: [OPTIONAL] Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten treffen
 
 Die Teilnehmer:innen sind in der Lage, Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten zu treffen.
 
-[[LZ-5-25]]
-==== LZ 5-25: [OPTIONAL] MLOps-Werkzeuge und End-to-End Plattformen kennen
+[[LZ-5-22]]
+==== LZ 5-22: [OPTIONAL] MLOps-Werkzeuge und End-to-End Plattformen kennen
 
 Die Teilnehmer:innen kennen bekannte MLOps-Werkzeuge und End-to-End Plattformen,wie beispielsweise:
+
 * Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Kubeflow, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
 * OpenSource: MLFlow, Weights & Biases, ClearML
 * PaaS: AWS SageMaker, Azure ML.
