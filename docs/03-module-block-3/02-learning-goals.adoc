@@ -17,9 +17,9 @@ Die Teilnehmer:innen haben ein Verständnis für den Life-Cycle eines Machine-Le
 * Maintenance
 
 [[LZ-3-2]]
-==== LZ 3-2: Vorgehensmodelle für software development von KI-Systemen kennen
+==== LZ 3-2: Vorgehensmodelle für die Softwareentwicklung von KI-Systemen kennen
 
-Die Teilnehmer:innen kennen typische Vorgehensmodelle für software development von KI-Systemen. Dies sind beispielsweise
+Die Teilnehmer:innen kennen typische Vorgehensmodelle für die Softwareentwicklung von KI-Systemen. Dies sind beispielsweise
 
 * CRISP-ML(Q)
 * Team Data Science Process
@@ -31,9 +31,9 @@ Die Teilnehmer:innen kennen typische Vorgehensmodelle für software development 
 Die Teilnehmer:innen kennen verschiedene Arten von Daten und typische ML-Probleme sowie Anwendungsfälle.
 
 [[LZ-3-4]]
-==== LZ 3-4: Anforderungen an die Daten für ML kennen
+==== LZ 3-4: Anforderungen an Daten für ML kennen
 
-Die Teilnehmer:innen haben ein Verständnis für verschiedene Anforderungen an die Daten, z.B. Vorhandensein von Labels verschiedener Art.
+Die Teilnehmer:innen haben ein Verständnis für verschiedene Anforderungen an die Daten, z.{nbsp}B. Vorhandensein von Labels verschiedener Art.
 
 [[LZ-3-5]]
 ==== LZ 3-5: Machine Learning Problemstellungen und deren Anforderungen verstehen
@@ -42,36 +42,36 @@ Die Teilnehmer:innen verstehen die verschiedenen Machine Learning Problemstellun
 
 * Supervised Learning
 * Unsupervised Learning
-* Reinforcement Learning 
+* Reinforcement Learning
 
 und wissen, welche Anforderungen diese haben.
 
 [[LZ-3-6]]
-==== LZ 3-6: Validierung und typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten verstehen
+==== LZ 3-6: Validierung und typische Datenaufteilung verstehen
 
 Die Teilnehmer:innen haben ein gutes Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten.
 
 [[LZ-3-7]]
-==== LZ 3-7: Input Daten für verschiedene KI-Algorithmen einordnen können
+==== LZ 3-7: Input-Daten für verschiedene KI-Algorithmen einordnen
 
-Die Teilnehmer:innen haben ein gutes Verständnis für Input Daten für verschiedene KI-Algorithmen wie beispielsweise 
+Die Teilnehmer:innen haben ein gutes Verständnis für Input-Daten für verschiedene KI-Algorithmen wie beispielsweise
 
-* Neuronale Netze als numerische Vektoren und Matrizen bzw. Tensoren 
+* Neuronale Netze als numerische Vektoren und Matrizen bzw. Tensoren
 * One-Hot-Encodings
-* Embeddings.
+* Embeddings
 
 [[LZ-3-8]]
-==== LZ 3-8: Mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgehen können
+==== LZ 3-8: Mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgehen
 
 Die Teilnehmer:innen verstehen, wie man mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgeht.
 
 [[LZ-3-9]]
-==== LZ 3-9: Transfer-Learning bzw. Fine Tuning kennen
+==== LZ 3-9: Transfer-Learning bzw. Fine-Tuning kennen
 
-Die Teilnehmer:innen kennen Transfer-Learning bzw. Fine Tuning als Möglichkeit, um die vortrainierten Basismodelle auf bestehende Anwendungsfälle zu adoptieren.
+Die Teilnehmer:innen kennen Transfer-Learning bzw. Fine-Tuning als Möglichkeit, um die vortrainierten Basismodelle auf bestehende Anwendungsfälle zu adoptieren.
 
 [[LZ-3-10]]
-==== LZ 3-10: Design Patterns für KI-Systeme auswählen können
+==== LZ 3-10: Design Patterns für KI-Systeme auswählen
 
 Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt. Das betrifft die folgenden Design Patterns:
 
@@ -81,12 +81,10 @@ Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren u
 * Model Serving Patterns
 * Model Deployment Patterns
 
-==== Funktionale Anforderungen
-
 [[LZ-3-11]]
-==== LZ 3-11: Aufgabe eines ML-Modells definieren können
+==== LZ 3-11: Aufgabe eines ML-Modells definieren
 
-Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Modells definiert, wie beispielsweise die 
+Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Modells definiert, wie beispielsweise die
 Klassifikation von Bildern oder die Erkennung von Betrug.
 
 
@@ -107,7 +105,7 @@ Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance vo
 und wissen, wie man Bewertungskriterien zur Leistungsbeurteilung festlegt.
 
 [[LZ-3-14]]
-==== LZ 3-14: ML-Modellen in bestehende Systeme integrieren
+==== LZ 3-14: ML-Modelle in bestehende Systeme integrieren
 
 Die Teilnehmer:innen verstehen, wie ML-Modelle in bestehende Systeme integriert werden können und kennen die Schnittstellen und Integrationspunkte.
 
@@ -116,29 +114,27 @@ Die Teilnehmer:innen verstehen, wie ML-Modelle in bestehende Systeme integriert 
 
 Die Teilnehmer:innen wissen, wie Benutzeroberflächen gestaltet werden sollten, um effektive Interaktionen mit dem ML-System zu ermöglichen und die Benutzererfahrung zu optimieren.
 
-==== Nicht-funktionale Anforderungen
-
 [[LZ-3-16]]
 ==== LZ 3-16: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen verstehen
 
-Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen und wissen, 
+Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen und wissen,
 wie diese optimiert werden können.
 
 [[LZ-3-17]]
 ==== LZ 3-17: Mit Skalierbarkeit auf erhöhten Datenmengen umgehen
 
-Die Teilnehmer:innen verstehen die Bedeutung der Skalierbarkeit auf erhöhte Datenmengen und wissen, 
+Die Teilnehmer:innen verstehen die Bedeutung der Skalierbarkeit auf erhöhte Datenmengen und wissen,
 wie man KI-Systeme entwickelt, die mit steigenden Datenvolumen umgehen können, ohne an Leistung zu verlieren.
 
 [[LZ-3-18]]
-==== LZ 3-18: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden.
+==== LZ 3-18: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden
 
-Die Teilnehmer:innen haben ein Verständnis davon, was Robustheit in KI-Systemen bedeutet, 
+Die Teilnehmer:innen haben ein Verständnis davon, was Robustheit in KI-Systemen bedeutet,
 und können Strategien zur Erhöhung der Robustheit in verschiedenen Anwendungskontexten anwenden.
 
 
 [[LZ-3-19]]
-==== LZ 3-19: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen können
+==== LZ 3-19: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen
 
 Die Teilnehmer:innen verstehen die Konzepte der Zuverlässigkeit und Verfügbarkeit und wissen, wie sie KI-Systeme bauen, die stabil und konstant verfügbar sind.
 
@@ -155,18 +151,18 @@ Die Teilnehmer:innen kennen die Anforderungen an Sicherheit, Datenschutz und Com
 [[LZ-3-22]]
 ==== LZ 3-22: Effiziente KI-Modelle und -Systeme entwerfen
 
-Die Teilnehmer:innen wissen, wie man KI-Modelle und -Systeme entwickelt, die ressourcenschonend arbeiten, 
+Die Teilnehmer:innen wissen, wie man KI-Modelle und -Systeme entwickelt, die ressourcenschonend arbeiten,
 indem sie Speicher, Rechenleistung und Speicherplatz effizient nutzen.
 
 [[LZ-3-23]]
-==== LZ 3-23: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen können
+==== LZ 3-23: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen
 
-Die Teilnehmer:innen verstehen die Bedeutung von Erklärbarkeit und Interpretierbarkeit in KI-Systemen und wissen, 
+Die Teilnehmer:innen verstehen die Bedeutung von Erklärbarkeit und Interpretierbarkeit in KI-Systemen und wissen,
 wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.
 
 
 [[LZ-3-24]]
-==== LZ 3-24: Bias in Daten und Modellen erkennen können
+==== LZ 3-24: Bias in Daten und Modellen erkennen
 
 Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduziert werden können, um Fairness und Gleichbehandlung in KI-Anwendungen sicherzustellen.
 

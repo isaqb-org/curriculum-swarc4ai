@@ -3,7 +3,7 @@
 // tag::DE[]
 
 [[LZ-4-1]]
-==== LZ 4-1: Daten zu akquirieren und Daten zu labeln
+==== LZ 4-1: Daten akquirieren und labeln
 
 Die Teilnehmer:innen überblicken verschiedene Methoden, um Daten zu akquirieren und Daten zu labeln.
 
@@ -18,9 +18,9 @@ Die Teilnehmer:innen können gängige Plattformen für öffentlich zugängliche 
 Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispielsweise CVAT, Amazon Mechanical Turk.
 
 [[LZ-4-4]]
-==== LZ 4-4: Effiziente Datenpipelines und -architekturen sowie effiziente Speicherlösungen und deren Management entwerfen
+==== LZ 4-4: Effiziente Datenpipelines und -architekturen entwerfen
 
-Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität 
+Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität
 sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:innen Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse.
 
 
@@ -38,8 +38,9 @@ Die Teilnehmer:innen überblicken relevante Werkzeuge für Data Engineering Pipe
 ==== LZ 4-7: Möglichkeiten zur Speicherung der Daten kennen
 
 Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Daten sowie deren Vor- und Nachteile. Zu den Möglichkeiten gehören die folgenden Technologien:
+
 * CSV-Dateien
-* Spaltenorientierte Dateien 
+* Spaltenorientierte Dateien
 * Relationale und NoSQL-Datenbanken
 * Data Warehouses
 * Data Lakes

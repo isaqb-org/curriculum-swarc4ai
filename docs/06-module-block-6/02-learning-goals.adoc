@@ -2,16 +2,15 @@
 
 // tag::DE[]
 
-
-
 [[LZ-6-1]]
 ==== LZ 6-1: Integrationsebenen von KI überblicken
 
 Die Teilnehmer:innen kennen verschiedene Integrationsebenen von KI. Dazu gehören die folgenden Ebenen:
-* Anwendungen (z.B. Coding Assistenten)
-* AI-Engineering (z.B. Prompt Engineering) 
-* ML-Modellentwicklung (z.B. pytorch)
-* ML-Infrastruktur (z.B. Vektor-DBs).
+
+* Anwendungen (z.{nbsp}B. Coding Assistenten)
+* AI-Engineering (z.{nbsp}B. Prompt Engineering)
+* ML-Modellentwicklung (z.{nbsp}B. pytorch)
+* ML-Infrastruktur (z.{nbsp}B. Vektor-DBs).
 
 
 [[LZ-6-2]]
@@ -22,14 +21,15 @@ Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schn
 [[LZ-6-3]]
 ==== LZ 6-3: KI-Systeme in die Gesamtarchitektur einer IT-Landschaft integrieren
 
-Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielswiese 
-können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen, 
+Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielsweise
+können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen,
 um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
 
 [[LZ-6-4]]
 ==== LZ 6-4: Relevante Qualitätsmerkmale für KI-Systeme überblicken
 
 Die Teilnehmer:innen verstehen die Qualitätsmerkmale, die für KI-Systeme besonders relevant sind. Dazu gehören insbesondere die folgenden Qualitätsmerkmale:
+
 * Verlässlichkeit
 * Skalierbarkeit
 * Effizienz
@@ -92,6 +92,7 @@ Die Teilnehmer:innen kennen eine Auswahl der gängigen RAG-Techniken wie beispie
 ==== LZ 6-12: Arten von Prompt Engineering kennen
 
 Die Teilnehmer:innen kennen verschiedene Arten von Prompt Engineering, wie beispielsweise
+
 * Few-Shot-Learning
 * Chain-of-Thought
 * Role-Playing
@@ -101,12 +102,12 @@ sowie allgemeine Best Practices für das Prompting.
 [[LZ-6-13]]
 ==== LZ 6-13: Agentic Workflows überblicken
 
-Die Teilnehmer:innen wissen, was Agentic Workflows sind und kennen die Begriffe Reflexion, Werkzeug-Nutzung, Planung und Multi-Agenten-Kollaboration.
+Die Teilnehmer:innen wissen, was Agentic Workflows sind und kennen die Begriffe Reflexion, Werkzeugnutzung, Planung und Multi-Agenten-Kollaboration.
 
 [[LZ-6-14]]
-==== LZ 6-14: Eine Auswahl von Design Patterns für Generative AI-Systeme kennen
+==== LZ 6-14: Eine Auswahl von Design Patterns für Generative KI-Systeme kennen
 
-Die Teilnehmer:innen wissen welche Design Patterns für Generative AI-Systeme existieren. Sie kennen eine Auswahl der folgenden Patterns:
+Die Teilnehmer:innen wissen welche Design Patterns für Generative KI-Systeme existieren. Sie kennen eine Auswahl der folgenden Patterns:
 
 * AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
 * Layered Caching Strategy Leading to Fine-Tuning
@@ -141,15 +142,15 @@ Die Teilnehmer:innen kennen bekannte LLMs wie beispielsweise GPT, Claude, Gemini
 Die Teilnehmer:innen verstehen die Bedeutung von Cost Management für GenAI Applikationen.
 
 [[LZ-6-18]]
-==== LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen können
+==== LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen
 
-Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang 
+Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang
 mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.
 
 [[LZ-6-19]]
-==== LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen vom AI Agentarchitekturen kennen
+==== LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen von AI Agentarchitekturen kennen
 
-Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen vom AI Agentarchitekturen.
+Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen von AI Agentarchitekturen.
 
 // end::DE[]
 

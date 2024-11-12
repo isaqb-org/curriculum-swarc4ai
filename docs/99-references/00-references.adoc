@@ -59,13 +59,12 @@ This section contains references that are cited in the curriculum.
 **H**
 
 - [[[hall,Hall et al. 2023]]] P. Hall, J. Curtis, P. Pandey: Machine Learning for High-Risk Applications https://www.oreilly.com/library/view/machine-learning-for/9781098102425/
-- [[[hall-chapter-one,Hall et al. 2023]]] P. Hall, J. Curtis, P. Pandey: Machine Learning for High-Risk Applications (Chapter 1 Chapter 1. Contemporary Machine Learning Risk Management https://www.oreilly.com/library/view/machine-learning-for/9781098102425/ch01.html#:-:text=Contemporary%20Machine%20Lear,ning%20Risk%20Management)
 - [[[harvard,Harvard et al. 2024]]] Harvard Business Review, E. Mollick, D. De Cremer, T. Neeley, P. Sinha: Generative AI: The Insights You Need. (Generative AI Use Cases) https://learning.oreilly.com/library/view/generative-ai-the/9781647826406/
 - [[[haviv,Haviv et al. 2023]]] Y. Haviv, N. Gift: Implementing MLOps in the Enterprise https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/
 - [[[heiland,Heiland et al. 2023]]] L. Heiland, M. Hauser, J. Bogner: Design Patterns for AI-based Systems: A Multivocal Literature Review and Pattern Repository. 2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN). IEEE, 2023.
-- [[[hotz,Hotz]]] N. Hotz: 15 Data Science Documentation Best Practices https://www.datascience-pm.com/documentation-best-practices/
-- [[[hotz-two,Hotz]]] N. Hotz: What is a Data Science Life Cycle? https://www.datascience-pm.com/data-science-life-cycle/
-- [[[hotz-three,Hotz]]] N. Hotz: What is TDSP https://www.datascience-pm.com/tdsp/
+- [[[hotz,Hotz, Best Practices]]] N. Hotz: 15 Data Science Documentation Best Practices https://www.datascience-pm.com/documentation-best-practices/
+- [[[hotz-two,Hotz, Life Cycle]]] N. Hotz: What is a Data Science Life Cycle? https://www.datascience-pm.com/data-science-life-cycle/
+- [[[hotz-three,Hotz, TDSP]]] N. Hotz: What is TDSP https://www.datascience-pm.com/tdsp/
 - [[[huyen,Huyen 2022]]] C. Huyen: Designing Machine Learning Systems https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/
 
 **J**
@@ -82,8 +81,6 @@ This section contains references that are cited in the curriculum.
 **L**
 
 - [[[lakshmanan, Lakshmanan et al.]]] V. Lakshmanan, S Robinson, M. Munn: Machine Learning Design Patterns https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/
-- [[[lakshmanan-chapter-four, Lakshmanan et al.]]] V. Lakshmanan, S Robinson, M. Munn: Machine Learning Design Patterns Chapter 4 https://www.oreilly.com/library/view/machine-learning-design/9781098115777/ch04.html
-- [[[lakshmanan-chapter-five, Lakshmanan et al.]]] V. Lakshmanan, S Robinson, M. Munn: Machine Learning Design Patterns Chapter 5 https://www.oreilly.com/library/view/machine-learning-design/9781098115777/ch05.html
 
 **M**
 
@@ -134,10 +131,10 @@ This section contains references that are cited in the curriculum.
 **V**
 
 - [[[vaughan,Vaughan 2020]]] Vaughan, D.: Analytical Skills for AI and Data Science (AI Use Cases) https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/
-- [[[visenger-one,Visengeriyeva]]] Visengeriyeva, L.: Defining Jagged Technological Frontier:https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA
-- [[[visenger-two,Visengeriyeva]]] Visengeriyeva, L.: The Productivity J-Curve of AI: https://www.perplexity
-- [[[visenger-three,Visengeriyeva]]] Visengeriyeva, L.: AI Agents vs. Traditional Models https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g
-- [[[visenger-links,Visengeriyeva]]] Model Governance, Ethics, Responsible AI (Linksammlung) https://github.com/visenger/Awesome-ML-Model-Governance
+- [[[visenger-one,Visengeriyeva, JTF]]] Visengeriyeva, L.: Defining Jagged Technological Frontier:https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA
+- [[[visenger-two,Visengeriyeva, J-Curve]]] Visengeriyeva, L.: The Productivity J-Curve of AI: https://www.perplexity
+- [[[visenger-three,Visengeriyeva, AI Agents]]] Visengeriyeva, L.: AI Agents vs. Traditional Models https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g
+- [[[visenger-links,Visengeriyeva, Ethics]]] Model Governance, Ethics, Responsible AI (Linksammlung) https://github.com/visenger/Awesome-ML-Model-Governance
 
 **W**
 

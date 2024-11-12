@@ -2,7 +2,7 @@
 
 <<roser>>, <<burkov>>, <<geron>>, <<kelleher>>, <<vaughan>>,
 <<bahree>>, <<harvard>>, <<dellacqua>>, <<visenger-one>>, <<visenger-two>>,
-<<agrawal>>, <<tan>>, <<chong>>, <<hall-chapter-one>>, <<huyen>>, <<wang>>
+<<agrawal>>, <<tan>>, <<chong>>, <<hall>>, <<huyen>>, <<wang>>
 
 // tag::DE[]
 // end::DE[]
