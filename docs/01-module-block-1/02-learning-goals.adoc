@@ -55,19 +55,10 @@ Teilnehmer:innen können entscheiden und erklären, ob und warum ein Problem mit
 
 Die Teilnehmer:innen kennen typische Rollen und deren Aufgaben in diesen Kontexten. Die Rollen umfassen insbesondere:
 
-* Data Scientist
-* Data Analyst
-* Data Engineer
-* Machine Learning Engineer
-* MLOps Engineer
-* AI Architect
-* Data Architect
-* Business Intelligence (BI) Developer
-* Data Governance Specialist
-* ML-Researcher
+Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Engineer, AI Architect,
+Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist und ML-Researcher.
 
 Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenarbeiten könnten (Team Topologies für ML-Teams).
-
 
 
 [[LZ-1-8]]
