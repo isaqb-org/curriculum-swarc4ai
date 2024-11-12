@@ -26,27 +26,27 @@ Die Teilnehmer:innen können Risiken, die bei der Anwendung von KI auftreten, id
 * Halluzinationen
 * Bias
 * (un-)Fairness
-* gesellschaftlichen Risiken wie Deepfakes, AI-enabled Cyberattacs, Safety Risks in Critical Systems, Social Manipulation, Intellectual Property Issues usw.
+* gesellschaftlichen Risiken wie Deepfakes, AI-enabled Cyberattacks, Safety Risks in Critical Systems, Social Manipulation, Intellectual Property Issues usw.
 
 
 
 [[LZ-1-5]]
 ==== LZ 1-5: Unterschiede zu traditioneller Software verstehen
 
-Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu tradiitoneller Software:
+Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu traditioneller Software:
 
-* Datengetrieben (bei ML) - Daten-zentrierte statt Code-zentrierte Entwicklung
+* Datengetrieben (bei ML) – Daten-zentrierte statt Code-zentrierte Entwicklung
 * Probabilistische Ergebnisse (Non-deterministic behavior)
 * Statistische Validierung
 * Experimentelles Design: Unterstützung für schnelle Iteration und Testen von Modellen.
 * Modellkomplexität und Interpretierbarkeit: ML-Modelle, insbesondere Deep-Learning-Modelle, können äußerst komplex sein. Der „Black-Box“-Charakter erschwert die Interpretierbarkeit und Erklärbarkeit.
 * Debugging und Tests sind aufgrund des Nichtdeterminismus komplexer.
-* Model Decay: Continuous monitoring und Retraining sind notwendig, um die Leistung der Modelle aufrecht zu erhalten.
+* Model Decay: Continuous monitoring und Retraining sind notwendig, um die Leistung der Modelle aufrechtzuerhalten.
 * AI-spezifische Regulatorik von Branchen und auf EU-Ebene müssen berücksichtigt werden.
 * Interoperabilität: Nahtlose Integration in bestehende Systeme und Technologiestacks.
 
 [[LZ-1-6]]
-==== LZ 1-6: Lösung von Problemen mittels KI oder klassischer SW-Entwicklung entscheiden können
+==== LZ 1-6: Lösung von Problemen mittels KI oder klassischer SW-Entwicklung entscheiden
 
 Teilnehmer:innen können entscheiden und erklären, ob und warum ein Problem mittels KI oder klassischer SW-Entwicklung zu lösen ist.
 
@@ -71,17 +71,17 @@ Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenar
 
 
 [[LZ-1-8]]
-==== LZ 1-8: KI Anwendungsfällen identifizieren und priorisieren können
+==== LZ 1-8: KI Anwendungsfällen identifizieren und priorisieren
 
 Die Teilnehmer:innen können KI Anwendungsfälle identifizieren und priorisieren.
 
 [[LZ-1-9]]
-==== LZ 1-9: KI Stärken und Grenzen kennen
+==== LZ 1-9: Stärken und Grenzen von KI kennen
 
 Die Teilnehmer:innen verstehen die Stärken und die Grenzen von KI und kennen die sog. "Jagged Technological Frontier".
 
 [[LZ-1-10]]
-==== LZ 1-10: Productivity J-Curve Konzept in Verbindung mit KI-Technologie kennen
+==== LZ 1-10: Konzept der Productivity J-Curve in Verbindung mit KI-Technologie kennen
 
 Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung von KI zunächst einen Produktivitätsrückgang verzeichnen können, dem bei der weiteren Entwicklung aber Produktivitätsgewinne folgen können.
 
@@ -90,6 +90,6 @@ Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung v
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
+==== LG 1-1: This the first learning goal, in category xy
 tbd.
 // end::EN[]
