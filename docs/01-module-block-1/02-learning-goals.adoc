@@ -3,9 +3,9 @@
 // tag::DE[]
 
 [[LZ-1-1]]
-==== LZ 1-1: Künstliche Intelligenz und Machine Learning, Data Science, Deep Learning, Generative AI einordnen können
+==== LZ 1-1: Künstliche Intelligenz und Machine Learning, Data Science, Deep Learning, Generative KI einordnen können
 
-Die Teilnehmer:innen wissen, wie man Künstliche Intelligenz definiert und wie Machine Learning, Data Science, Deep Learning, Generative AI darin eingeordnet werden.
+Die Teilnehmer:innen wissen, wie man Künstliche Intelligenz definiert und wie Machine Learning, Data Science, Deep Learning, Generative KI darin eingeordnet werden.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Typische allgemeine Anwendungsfälle für KI spezifizieren
@@ -42,7 +42,7 @@ Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu traditionelle
 * Modellkomplexität und Interpretierbarkeit: ML-Modelle, insbesondere Deep-Learning-Modelle, können äußerst komplex sein. Der „Black-Box“-Charakter erschwert die Interpretierbarkeit und Erklärbarkeit.
 * Debugging und Tests sind aufgrund des Nichtdeterminismus komplexer.
 * Model Decay: Continuous monitoring und Retraining sind notwendig, um die Leistung der Modelle aufrechtzuerhalten.
-* AI-spezifische Regulatorik von Branchen und auf EU-Ebene müssen berücksichtigt werden.
+* KI-spezifische Regulatorik von Branchen und auf EU-Ebene müssen berücksichtigt werden.
 * Interoperabilität: Nahtlose Integration in bestehende Systeme und Technologiestacks.
 
 [[LZ-1-6]]
