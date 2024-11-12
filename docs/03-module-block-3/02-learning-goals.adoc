@@ -33,7 +33,7 @@ Die Teilnehmer:innen kennen verschiedene Arten von Daten und typische ML-Problem
 [[LZ-3-4]]
 ==== LZ 3-4: Anforderungen an die Daten für ML kennen
 
-Die Teilnehmer:innen haben ein Verständnis für verschiedene Anforderungen an die Daten, z.B. Vorhandensein von Labels verschiedener Art.
+Die Teilnehmer:innen haben ein Verständnis für verschiedene Anforderungen an die Daten, z.{nbsp}B. Vorhandensein von Labels verschiedener Art.
 
 [[LZ-3-5]]
 ==== LZ 3-5: Machine Learning Problemstellungen und deren Anforderungen verstehen
@@ -42,7 +42,7 @@ Die Teilnehmer:innen verstehen die verschiedenen Machine Learning Problemstellun
 
 * Supervised Learning
 * Unsupervised Learning
-* Reinforcement Learning 
+* Reinforcement Learning
 
 und wissen, welche Anforderungen diese haben.
 
@@ -54,9 +54,9 @@ Die Teilnehmer:innen haben ein gutes Verständnis für die Notwendigkeit von Val
 [[LZ-3-7]]
 ==== LZ 3-7: Input Daten für verschiedene KI-Algorithmen einordnen können
 
-Die Teilnehmer:innen haben ein gutes Verständnis für Input Daten für verschiedene KI-Algorithmen wie beispielsweise 
+Die Teilnehmer:innen haben ein gutes Verständnis für Input Daten für verschiedene KI-Algorithmen wie beispielsweise
 
-* Neuronale Netze als numerische Vektoren und Matrizen bzw. Tensoren 
+* Neuronale Netze als numerische Vektoren und Matrizen bzw. Tensoren
 * One-Hot-Encodings
 * Embeddings.
 
@@ -86,7 +86,7 @@ Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren u
 [[LZ-3-11]]
 ==== LZ 3-11: Aufgabe eines ML-Modells definieren können
 
-Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Modells definiert, wie beispielsweise die 
+Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Modells definiert, wie beispielsweise die
 Klassifikation von Bildern oder die Erkennung von Betrug.
 
 
@@ -121,19 +121,19 @@ Die Teilnehmer:innen wissen, wie Benutzeroberflächen gestaltet werden sollten, 
 [[LZ-3-16]]
 ==== LZ 3-16: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen verstehen
 
-Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen und wissen, 
+Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen und wissen,
 wie diese optimiert werden können.
 
 [[LZ-3-17]]
 ==== LZ 3-17: Mit Skalierbarkeit auf erhöhten Datenmengen umgehen
 
-Die Teilnehmer:innen verstehen die Bedeutung der Skalierbarkeit auf erhöhte Datenmengen und wissen, 
+Die Teilnehmer:innen verstehen die Bedeutung der Skalierbarkeit auf erhöhte Datenmengen und wissen,
 wie man KI-Systeme entwickelt, die mit steigenden Datenvolumen umgehen können, ohne an Leistung zu verlieren.
 
 [[LZ-3-18]]
 ==== LZ 3-18: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden.
 
-Die Teilnehmer:innen haben ein Verständnis davon, was Robustheit in KI-Systemen bedeutet, 
+Die Teilnehmer:innen haben ein Verständnis davon, was Robustheit in KI-Systemen bedeutet,
 und können Strategien zur Erhöhung der Robustheit in verschiedenen Anwendungskontexten anwenden.
 
 
@@ -155,13 +155,13 @@ Die Teilnehmer:innen kennen die Anforderungen an Sicherheit, Datenschutz und Com
 [[LZ-3-22]]
 ==== LZ 3-22: Effiziente KI-Modelle und -Systeme entwerfen
 
-Die Teilnehmer:innen wissen, wie man KI-Modelle und -Systeme entwickelt, die ressourcenschonend arbeiten, 
+Die Teilnehmer:innen wissen, wie man KI-Modelle und -Systeme entwickelt, die ressourcenschonend arbeiten,
 indem sie Speicher, Rechenleistung und Speicherplatz effizient nutzen.
 
 [[LZ-3-23]]
 ==== LZ 3-23: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen können
 
-Die Teilnehmer:innen verstehen die Bedeutung von Erklärbarkeit und Interpretierbarkeit in KI-Systemen und wissen, 
+Die Teilnehmer:innen verstehen die Bedeutung von Erklärbarkeit und Interpretierbarkeit in KI-Systemen und wissen,
 wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.
 
 

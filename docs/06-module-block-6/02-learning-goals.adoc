@@ -8,10 +8,10 @@
 ==== LZ 6-1: Integrationsebenen von KI überblicken
 
 Die Teilnehmer:innen kennen verschiedene Integrationsebenen von KI. Dazu gehören die folgenden Ebenen:
-* Anwendungen (z.B. Coding Assistenten)
-* AI-Engineering (z.B. Prompt Engineering) 
-* ML-Modellentwicklung (z.B. pytorch)
-* ML-Infrastruktur (z.B. Vektor-DBs).
+* Anwendungen (z.{nbsp}B. Coding Assistenten)
+* AI-Engineering (z.{nbsp}B. Prompt Engineering)
+* ML-Modellentwicklung (z.{nbsp}B. pytorch)
+* ML-Infrastruktur (z.{nbsp}B. Vektor-DBs).
 
 
 [[LZ-6-2]]
@@ -22,8 +22,8 @@ Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schn
 [[LZ-6-3]]
 ==== LZ 6-3: KI-Systeme in die Gesamtarchitektur einer IT-Landschaft integrieren
 
-Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielswiese 
-können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen, 
+Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielswiese
+können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen,
 um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
 
 [[LZ-6-4]]
@@ -143,7 +143,7 @@ Die Teilnehmer:innen verstehen die Bedeutung von Cost Management für GenAI Appl
 [[LZ-6-18]]
 ==== LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen können
 
-Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang 
+Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang
 mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.
 
 [[LZ-6-19]]
