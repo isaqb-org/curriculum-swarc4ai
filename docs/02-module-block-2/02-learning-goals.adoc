@@ -68,9 +68,9 @@ Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie ty
 
 
 [[LZ-2-9]]
-==== LZ 2-9: Strategien zur AI-Risikominimierung kennen und anwenden
+==== LZ 2-9: Strategien zur KI-Risikominimierung kennen und anwenden
 
-Die Teilnehmer:innen wissen, wie Strategien zur AI-Risikominimierung entwickelt und angewendet werden können. Insbesondere kennen die Teilnehmer:innen die folgenden Strategien:
+Die Teilnehmer:innen wissen, wie Strategien zur KI-Risikominimierung entwickelt und angewendet werden können. Insbesondere kennen die Teilnehmer:innen die folgenden Strategien:
 
 * Stärkung der Robustheit durch umfangreiche Tests
 * Fehlertolerante KI-Systeme

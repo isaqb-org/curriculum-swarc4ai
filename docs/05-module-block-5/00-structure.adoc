@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Skalierbarkeit und Leistungsoptimierung von KI-Systemen
+== Wichtige Qualitätsmerkmale für den Betrieb von KI-Systemen
 // end::DE[]
 
 // tag::EN[]
