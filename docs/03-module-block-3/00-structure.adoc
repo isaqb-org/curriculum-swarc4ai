@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Architektur von KI-Systemen
+== Entwurf und Entwicklung von KI-Systemen
 // end::DE[]
 
 // tag::EN[]

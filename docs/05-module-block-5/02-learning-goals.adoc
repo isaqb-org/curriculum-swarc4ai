@@ -28,7 +28,7 @@ einzutauschen. Insbesondere kennen die Teilnehmer:innen die folgenden Techniken:
 [[LZ-5-4]]
 ==== LZ 5-4: Kosten, Stromverbrauch und nachhaltige Nutzung von KI (Green IT) verstehen
 
-Die Teilnehmer:innen erlangen ein Verständnis für Kosten, Stromverbrauch und nachhaltige Nutzung von KI (Green IT).
+Die Teilnehmer:innen erlangen ein Verständnis für Kosten, Stromverbrauch und nachhaltige Nutzung von KI (Green IT). Insbesondere wissen die Teilnehmer:innen, wie man KI-Modelle und -Systeme entwickelt, die ressourcenschonend arbeiten, indem sie Speicher, Rechenleistung und Speicherplatz effizient nutzen.
 
 [[LZ-5-5]]
 ==== LZ 5-5: MLOps für die Automatisierung des Life-Cycles eines Data-Science-Projekts überblicken
