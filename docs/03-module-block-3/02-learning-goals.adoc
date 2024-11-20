@@ -45,11 +45,13 @@ und wissen, welche Anforderungen diese haben.
 [[LZ-3-5]]
 ==== LZ 3-5: Input Daten für verschiedene KI-Algorithmen nutzen
 
-Die Teilnehmer:innen wissen welche Daten für KI-Algorithmen benötigt werden und haben ein gutes Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten. Außerdem haben die Teilnehmer:innen ein gutes Verständnis für Input-Daten für verschiedene KI-Algorithmen wie beispielsweise
+Die Teilnehmer:innen wissen welche Daten für KI-Algorithmen benötigt werden und haben ein gutes Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten. Außerdem haben die Teilnehmer:innen ein gutes Verständnis der Input-Daten, die für verschiedene KI-Algorithmen wie beispielsweise
 
 * Neuronale Netze als numerische Vektoren und Matrizen bzw. Tensoren
 * One-Hot-Encodings
 * Embeddings
+
+benötigt werden.
 
 
 [[LZ-3-6]]
@@ -154,8 +156,8 @@ wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.
 
 Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduziert werden können, um Fairness und Gleichbehandlung in KI-Anwendungen sicherzustellen.
 
-[[LZ-3-21]]
-==== LZ 3-21: Fehlertoleranz in KI-Systemen kennen
+[[LZ-3-22]]
+==== LZ 3-22: Fehlertoleranz in KI-Systemen kennen
 
 Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläutern, wie KI-Systeme trotz Fehlern oder Störungen funktionsfähig bleiben.
 
