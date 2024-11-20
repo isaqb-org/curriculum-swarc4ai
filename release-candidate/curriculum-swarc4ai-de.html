@@ -1897,8 +1897,8 @@ h2 {
 <div id="header">
 <h1>Curriculum für<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><em>Advanced Level</em>: <br> Modul<br>SWARC4AI<br><br>Softwarearchitektur für KI-Systeme</h1>
 <div class="details">
-<span id="revnumber"> 2024.1-RC3-DE,</span>
-<span id="revdate">20241112</span>
+<span id="revnumber"> 2024.1-RC4-DE,</span>
+<span id="revdate">20241120</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Inhaltsverzeichnis</div>
@@ -1935,7 +1935,7 @@ h2 {
 <li><a href="#_referenzen_2">2.3. Referenzen</a></li>
 </ul>
 </li>
-<li><a href="#_architektur_von_ki_systemen">3. Architektur von KI-Systemen</a>
+<li><a href="#_entwurf_und_entwicklung_von_ki_systemen">3. Entwurf und Entwicklung von KI-Systemen</a>
 <ul class="sectlevel2">
 <li><a href="#_begriffe_und_konzepte_3">3.1. Begriffe und Konzepte</a></li>
 <li><a href="#_lernziele_3">3.2. Lernziele</a></li>
@@ -1949,7 +1949,7 @@ h2 {
 <li><a href="#_referenzen_4">4.3. Referenzen</a></li>
 </ul>
 </li>
-<li><a href="#_skalierbarkeit_und_leistungsoptimierung_von_ki_systemen">5. Skalierbarkeit und Leistungsoptimierung von KI-Systemen</a>
+<li><a href="#_wichtige_qualitätsmerkmale_für_den_betrieb_von_ki_systemen">5. Wichtige Qualitätsmerkmale für den Betrieb von KI-Systemen</a>
 <ul class="sectlevel2">
 <li><a href="#_begriffe_und_konzepte_5">5.1. Begriffe und Konzepte</a></li>
 <li><a href="#_lernziele_5">5.2. Lernziele</a></li>
@@ -1978,7 +1978,7 @@ h2 {
 <div style="page-break-after: always;"></div>
 <div class="paragraph">
 <p><strong>&#169; (Copyright), International Software Architecture Qualification Board e. V.
-(iSAQB<sup>&#174;</sup> e. V.) 2023</strong></p>
+(iSAQB<sup>&#174;</sup> e. V.) 2024</strong></p>
 </div>
 <div class="paragraph">
 <p>Die Nutzung des Lehrplans ist nur unter den nachfolgenden Voraussetzungen erlaubt:</p>
@@ -2024,7 +2024,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <div class="ulist">
 <ul>
 <li>
-<p><a href="#LZ-1-1">LZ 1-1: Künstliche Intelligenz und Machine Learning, Data Science, Deep Learning, Generative AI einordnen können</a></p>
+<p><a href="#LZ-1-1">LZ 1-1: Künstliche Intelligenz und Machine Learning, Data Science, Deep Learning, Generative KI einordnen können</a></p>
 </li>
 <li>
 <p><a href="#LZ-1-2">LZ 1-2: Typische allgemeine Anwendungsfälle für KI spezifizieren</a></p>
@@ -2039,19 +2039,19 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-1-5">LZ 1-5: Unterschiede zu traditioneller Software verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-1-6">LZ 1-6: Lösung von Problemen mittels KI oder klassischer SW-Entwicklung entscheiden können</a></p>
+<p><a href="#LZ-1-6">LZ 1-6: Lösung von Problemen mittels KI oder klassischer SW-Entwicklung entscheiden</a></p>
 </li>
 <li>
 <p><a href="#LZ-1-7">LZ 1-7: Rollen und deren Aufgaben sowie ihre Zusammenarbeit im Kontext von KI kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-1-8">LZ 1-8: KI Anwendungsfällen identifizieren und priorisieren können</a></p>
+<p><a href="#LZ-1-8">LZ 1-8: KI Anwendungsfällen identifizieren und priorisieren</a></p>
 </li>
 <li>
-<p><a href="#LZ-1-9">LZ 1-9: KI Stärken und Grenzen kennen</a></p>
+<p><a href="#LZ-1-9">LZ 1-9: Stärken und Grenzen von KI kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-1-10">LZ 1-10: Productivity J-Curve Konzept in Verbindung mit KI-Technologie kennen </a></p>
+<p><a href="#LZ-1-10">LZ 1-10: Konzept der Productivity J-Curve in Verbindung mit KI-Technologie kennen</a></p>
 </li>
 <li>
 <p><a href="#LZ-2-1">LZ 2-1: Einfluss der Datenschutzgesetze auf die Implementierung und Nutzung von KI kennen</a></p>
@@ -2060,16 +2060,16 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-2-2">LZ 2-2: Ziele und Regelungen des EU AI Act sowie deren Einfluss auf den Entwicklungsprozess und die Architektur verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-3">LZ 2-3: Klassikifaktion von KI-Systemen nach EU AI Act Risikolevel durchführen können</a></p>
+<p><a href="#LZ-2-3">LZ 2-3: Klassifikation von KI-Systemen nach EU AI Act Risikolevel durchführen</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-4">LZ 2-4: Urheberrechtsproblematik von KI-generierten Inhalten einordnen können</a></p>
+<p><a href="#LZ-2-4">LZ 2-4: Urheberrechtsproblematik von KI-generierten Inhalten einordnen</a></p>
 </li>
 <li>
 <p><a href="#LZ-2-5">LZ 2-5: Arten bzw. Grade der Offenheit sowie Arten von Lizenzen freier ML-Modelle überblicken</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-6">LZ 2-6: Strategien für die Einhaltung des europäischen AI-Acts und mögliche Herausforderungen verstehen</a></p>
+<p><a href="#LZ-2-6">LZ 2-6: Strategien für die Einhaltung des EU AI Acts und mögliche Herausforderungen verstehen</a></p>
 </li>
 <li>
 <p><a href="#LZ-2-7">LZ 2-7: Modelle und Datensätze für die Nachvollziehbarkeit und Transparenz dokumentieren</a></p>
@@ -2078,112 +2078,97 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-2-8">LZ 2-8: Fallstricke hinsichtlich Security sowie Angriffsarten auf ML-Modelle kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-9">LZ 2-9: AI-Risk Minimierung Strategien kennen und anwenden</a></p>
+<p><a href="#LZ-2-9">LZ 2-9: Strategien zur KI-Risikominimierung kennen und anwenden</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-10">LZ 2-10: Möglichkeiten zur Absicherung gegen Angriffe (AI Security) anwenden können</a></p>
+<p><a href="#LZ-2-10">LZ 2-10: Möglichkeiten zur Absicherung gegen Angriffe (AI Security) anwenden</a></p>
 </li>
 <li>
 <p><a href="#LZ-2-11">LZ 2-11: Grundproblematik und Facetten von AI-Safety verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-12">LZ 2-12: Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können, verstehen und Ansätze zum Umgang mit ethischen Problemen kennen</a></p>
+<p><a href="#LZ-2-12">LZ 2-12: Ethische Probleme von KI-Systemen verstehen und Ansätze zum Umgang damit kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-13">LZ 2-13: Ethik-Leitlinien überblicken</a></p>
+<p><a href="#LZ-2-13">LZ 2-13: Ethikleitlinien überblicken</a></p>
 </li>
 <li>
 <p><a href="#LZ-2-14">LZ 2-14: Kernprinzipien zu AI Governance und Responsible AI für Unternehmen kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-15">LZ 2-15: Einblick in die Einrichtung von "Regulatory Sandboxes" und die mögliche rechtliche Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts überblicken</a></p>
+<p><a href="#LZ-2-15">LZ 2-15: Einblick in die Einrichtung von "Regulatory Sandboxes" bekommen</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-16">LZ 2-16: Strukturen und Prozesse für die Steuerung und Kontrolle von KI-Systemen, um ethische und gesetzliche Anforderungen zu erfüllen, verstehen</a></p>
-</li>
-<li>
-<p><a href="#LZ-2-17">LZ 2-17: Effektive Datenverwaltung für Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellen</a></p>
-</li>
-<li>
-<p><a href="#LZ-2-18">LZ 2-18: Bedeutung und Umsetzung der Transparenzpflicht bei KI-Systemen verstehen</a></p>
+<p><a href="#LZ-2-16">LZ 2-16: Effektive Datenverwaltung für Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellen</a></p>
 </li>
 <li>
 <p><a href="#LZ-3-1">LZ 3-1: Life-Cycle eines Machine-Learning- bzw. Data-Science-Projekts verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-2">LZ 3-2: Vorgehensmodelle für software development von KI-Systemen kennen</a></p>
+<p><a href="#LZ-3-2">LZ 3-2: Vorgehensmodelle für die Softwareentwicklung von KI-Systemen kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-3">LZ 3-3: Arten von Daten und typische ML-Probleme kennen</a></p>
+<p><a href="#LZ-3-3">LZ 3-3: Arten von sowie Anforderungen an Daten und typische ML-Probleme kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-4">LZ 3-4: Anforderungen an die Daten für ML kennen</a></p>
+<p><a href="#LZ-3-4">LZ 3-4: Machine Learning Problemstellungen und deren Anforderungen verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-5">LZ 3-5: Machine Learning Problemstellungen und deren Anforderungen verstehen</a></p>
+<p><a href="#LZ-3-5">LZ 3-5: Input Daten für verschiedene KI-Algorithmen nutzen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-6">LZ 3-6: Validierung und typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten verstehen</a></p>
+<p><a href="#LZ-3-6">LZ 3-6: Mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-7">LZ 3-7: Input Daten für verschiedene KI-Algorithmen einordnen können</a></p>
+<p><a href="#LZ-3-7">LZ 3-7: Transfer-Learning bzw. Fine-Tuning kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-8">LZ 3-8: Mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgehen können</a></p>
+<p><a href="#LZ-3-8">LZ 3-8: Design Patterns für KI-Systeme auswählen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-9">LZ 3-9: Transfer-Learning bzw. Fine Tuning kennen</a></p>
+<p><a href="#LZ-3-9">LZ 3-9: Aufgabe eines ML-Modells definieren</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-10">LZ 3-10: Design Patterns für KI-Systeme auswählen können</a></p>
+<p><a href="#LZ-3-10">LZ 3-10: Eingaben und Ausgaben für das Funktionieren eines ML-Systems verstehen und spezifizieren</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-11">LZ 3-11: Aufgabe eines ML-Modells definieren können</a></p>
+<p><a href="#LZ-3-11">LZ 3-11: Metriken zur Messung der Performance von ML-Modellen kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-12">LZ 3-12: Eingaben und Ausgaben für das Funktionieren eines ML-Systems verstehen und spezifizieren</a></p>
+<p><a href="#LZ-3-12">LZ 3-12: ML-Modelle in bestehende Systeme integrieren</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-13">LZ 3-13: Metriken zur Messung der Performance von ML-Modellen kennen</a></p>
+<p><a href="#LZ-3-13">LZ 3-13: Benutzeroberflächen für KI-Systeme gestalten</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-14">LZ 3-14: ML-Modellen in bestehende Systeme integrieren</a></p>
+<p><a href="#LZ-3-14">LZ 3-14: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-15">LZ 3-15: Benutzeroberflächen für KI-Systeme gestalten</a></p>
+<p><a href="#LZ-3-15">LZ 3-15: Mit Skalierbarkeit auf erhöhten Datenmengen umgehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-16">LZ 3-16: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen verstehen</a></p>
+<p><a href="#LZ-3-16">LZ 3-16: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-17">LZ 3-17: Mit Skalierbarkeit auf erhöhten Datenmengen umgehen</a></p>
+<p><a href="#LZ-3-17">LZ 3-17: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-18">LZ 3-18: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden.</a></p>
+<p><a href="#LZ-3-18">LZ 3-18: Reproduzierbarkeit und Prüfbarkeit von KI-Ergebnisse verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-19">LZ 3-19: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen können</a></p>
+<p><a href="#LZ-3-19">LZ 3-19: Anforderungen an Sicherheit, Datenschutz und Compliance kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-20">LZ 3-20: Reproduzierbarkeit und Prüfbarkeit von KI-Ergebnisse verstehen</a></p>
+<p><a href="#LZ-3-20">LZ 3-20: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-21">LZ 3-21: Anforderungen an Sicherheit, Datenschutz und Compliance kennen</a></p>
+<p><a href="#LZ-3-21">LZ 3-21: Bias in Daten und Modellen erkennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-22">LZ 3-22: Effiziente KI-Modelle und -Systeme entwerfen</a></p>
+<p><a href="#LZ-3-22">LZ 3-22: Fehlertoleranz in KI-Systemen kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-3-23">LZ 3-23: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen können</a></p>
-</li>
-<li>
-<p><a href="#LZ-3-24">LZ 3-24: Bias in Daten und Modellen erkennen können</a></p>
-</li>
-<li>
-<p><a href="#LZ-3-25">LZ 3-25: Fehlertoleranz in KI-Systemen kennen</a></p>
-</li>
-<li>
-<p><a href="#LZ-4-1">LZ 4-1: Daten zu akquirieren und Daten zu labeln</a></p>
+<p><a href="#LZ-4-1">LZ 4-1: Daten akquirieren und labeln</a></p>
 </li>
 <li>
 <p><a href="#LZ-4-2">LZ 4-2: Gängige Plattformen für öffentlich zugängliche Daten kennen</a></p>
@@ -2192,7 +2177,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-4-3">LZ 4-3: Relevante Werkzeuge für das Daten-Labeln überblicken</a></p>
 </li>
 <li>
-<p><a href="#LZ-4-4">LZ 4-4: Effiziente Datenpipelines und -architekturen sowie effiziente Speicherlösungen und deren Management entwerfen</a></p>
+<p><a href="#LZ-4-4">LZ 4-4: Effiziente Datenpipelines und -architekturen entwerfen</a></p>
 </li>
 <li>
 <p><a href="#LZ-4-5">LZ 4-5: Strategien für Datenaggregation, -bereinigung, -transformation, -anreicherung und -augmentierung kennen</a></p>
@@ -2207,7 +2192,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-5-1">LZ 5-1: (Hardware)-Anforderungen an Training und Inferenz kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-2">LZ 5-2: Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale überblicken</a></p>
+<p><a href="#LZ-5-2">LZ 5-2: Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale kennen</a></p>
 </li>
 <li>
 <p><a href="#LZ-5-3">LZ 5-3: Verschiedene Qualitätsmerkmale eines ML-Modells abstimmen</a></p>
@@ -2219,7 +2204,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-5-5">LZ 5-5: MLOps für die Automatisierung des Life-Cycles eines Data-Science-Projekts überblicken</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-6">LZ 5-6: Modelltraining, Parametern, Metriken und Ergebnissen tracken</a></p>
+<p><a href="#LZ-5-6">LZ 5-6: Modelltraining, Parameter, Metriken und Ergebnisse tracken</a></p>
 </li>
 <li>
 <p><a href="#LZ-5-7">LZ 5-7: ML-Modelle und darauf aufbauenden KI-Systeme evaluieren</a></p>
@@ -2231,49 +2216,43 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-5-9">LZ 5-9: CI/CD-Pipelines, Modellmanagement und Deployment-Strategien für KI-Modelle überblicken</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-10">LZ 5-10: Zusammenarbeit und Verantwortungsaufteilung zwischen den verschiedenen Rollen kennen</a></p>
+<p><a href="#LZ-5-10">LZ 5-10: Plattformen für die Modellbereitstellung kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-11">LZ 5-11: Plattformen für die Modellbereitstellung kennen</a></p>
+<p><a href="#LZ-5-11">LZ 5-11: Werkzeuge für das Erstellen von POCs von KI-Systemen einordnen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-12">LZ 5-12: Werkzeuge für das Erstellen von POCs von KI-Systemen einordnen können</a></p>
+<p><a href="#LZ-5-12">LZ 5-12: Deployment-Möglichkeiten von KI-Modellen kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-13">LZ 5-13: Deployment-Möglichkeiten von KI-Modellen kennen</a></p>
+<p><a href="#LZ-5-13">LZ 5-13: Vor- und Nachteile von SaaS und Self-Hosting nennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-14">LZ 5-14: Vor- und Nachteile von SaaS und Self-Hosting nennen können</a></p>
+<p><a href="#LZ-5-14">LZ 5-14: SaaS-KI-Lösungen überblicken</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-15">LZ 5-15: SaaS-KI-Lösungen überblicken</a></p>
+<p><a href="#LZ-5-15">LZ 5-15: Embedded Deployments von ML-Modellen kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-16">LZ 5-16: Embedded Deployments von ML-Modellen kennen</a></p>
+<p><a href="#LZ-5-16">LZ 5-16: Monitoring im Hinblick auf KI-spezifische Anforderungen verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-17">LZ 5-17: Monitoring im Hinblick auf KI-spezifische Anforderungen verstehen</a></p>
+<p><a href="#LZ-5-17">LZ 5-17: Beispiel-Werkzeuge für Monitoring überblicken</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-18">LZ 5-18: Relevante Metriken für das Monitotring kennen</a></p>
+<p><a href="#LZ-5-18">LZ 5-18: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-19">LZ 5-19: Beispiel-Werkzeuge für Monitoring überblicken</a></p>
+<p><a href="#LZ-5-19">LZ 5-19: Methoden zur Nutzung von Feedback für das Modell-Training kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-20">LZ 5-20: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen</a></p>
+<p><a href="#LZ-5-20">LZ 5-20: [OPTIONAL] MLOps-Pipeline an einem Praxisbeispiel verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-21">LZ 5-21: Methoden zur Nutzung von Feedback für das Modell-Training kennen</a></p>
+<p><a href="#LZ-5-21">LZ 5-21: [OPTIONAL] Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten treffen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-23">LZ 5-23: [OPTIONAL] MLOps-Pipeline an einem Praxisbeispiel verstehen </a></p>
-</li>
-<li>
-<p><a href="#LZ-5-24">LZ 5-24: [OPTIONAL] Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten treffen </a></p>
-</li>
-<li>
-<p><a href="#LZ-5-25">LZ 5-25: [OPTIONAL] MLOps-Werkzeuge und End-to-End Plattformen kennen</a></p>
+<p><a href="#LZ-5-22">LZ 5-22: [OPTIONAL] MLOps-Werkzeuge und End-to-End Plattformen kennen</a></p>
 </li>
 <li>
 <p><a href="#LZ-6-1">LZ 6-1: Integrationsebenen von KI überblicken</a></p>
@@ -2315,7 +2294,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-6-13">LZ 6-13: Agentic Workflows überblicken</a></p>
 </li>
 <li>
-<p><a href="#LZ-6-14">LZ 6-14: Eine Auswahl von Design Patterns für Generative AI-Systeme kennen</a></p>
+<p><a href="#LZ-6-14">LZ 6-14: Eine Auswahl von Design Patterns für Generative KI-Systeme kennen</a></p>
 </li>
 <li>
 <p><a href="#LZ-6-15">LZ 6-15: Techniken zur Evaluation von LLM-Anwendungen kennen</a></p>
@@ -2327,10 +2306,10 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-6-17">LZ 6-17: Bedeutung von Cost Management für GenAI Applikationen verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-6-18">LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen können</a></p>
+<p><a href="#LZ-6-18">LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-6-19">LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen vom AI Agentarchitekturen kennen</a></p>
+<p><a href="#LZ-6-19">LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen von AI Agentarchitekturen kennen</a></p>
 </li>
 <li>
 <p><a href="#LZ-7-1">LZ 7-1: [OPTIONAL] Anhand von Fallstudien und Praxisprojekten das erworbene Wissen in realen Szenarien anwenden</a></p>
@@ -2513,6 +2492,7 @@ Lizenzierte Schulungen zu SWARC4AI tragen zur Zulassung zur abschließenden Adva
 </tr>
 </tbody>
 </table>
+<div style="page-break-after: always;"></div>
 </div>
 <div class="sect2">
 <h3 id="_voraussetzungen">Voraussetzungen</h3>
@@ -2603,21 +2583,21 @@ Lizenzierte Schulungen zu SWARC4AI tragen zur Zulassung zur abschließenden Adva
 <div class="sect2">
 <h3 id="_lernziele">1.2. Lernziele</h3>
 <div class="sect3">
-<h4 id="LZ-1-1">LZ 1-1: Künstliche Intelligenz und Machine Learning, Data Science, Deep Learning, Generative AI einordnen können</h4>
+<h4 id="LZ-1-1">LZ 1-1: Künstliche Intelligenz und Machine Learning, Data Science, Deep Learning, Generative KI einordnen können</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen wissen, wie man Künstliche Intelligenz definiert und wie Machine Learning, Data Science, Deep Learning, Generative AI darin eingeordnet werden.</p>
+<p>Die Teilnehmer:innen wissen, wie man Künstliche Intelligenz definiert und wie Machine Learning, Data Science, Deep Learning, Generative KI darin eingeordnet werden.</p>
 </div>
 </div>
 <div class="sect3">
 <h4 id="LZ-1-2">LZ 1-2: Typische allgemeine Anwendungsfälle für KI spezifizieren</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen wissen, wie typische allgemeine Anwendungsfälle für KI spezifiziert werden können. Dies umfasst Anwundungsfälle für  z.B. Bilderkennung &amp; -erzeugung, Sprachverarbeitung, Vorhersagen, Personalisierung und Anomalieerkennung.</p>
+<p>Die Teilnehmer:innen wissen, wie typische allgemeine Anwendungsfälle für KI spezifiziert werden können. Dies umfasst Anwendungsfälle für z.&#160;B. Bilderkennung &amp; -erzeugung, Sprachverarbeitung, Vorhersagen, Personalisierung und Anomalieerkennung.</p>
 </div>
 </div>
 <div class="sect3">
 <h4 id="LZ-1-3">LZ 1-3: Einsatzmöglichkeiten in verschiedenen Branchen und Endnutzeranwendungen kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen die möglichen Einsatzmöglichkeiten in verschiedenen Branchen, z.B. Marketing, Medizin, Robotik und Content-Creation. Darüber hinaus überblicken sie die Einsatzmöglichkeiten in Endnutzeranwendungen von KI. Darunter fallen z.B. Sprachassistenten (Chatbots) und Empfehlungssysteme (Recommender Engine).</p>
+<p>Die Teilnehmer:innen kennen die möglichen Einsatzmöglichkeiten in verschiedenen Branchen, z.&#160;B. Marketing, Medizin, Robotik und Content-Creation. Darüber hinaus überblicken sie die Einsatzmöglichkeiten in Endnutzeranwendungen von KI. Darunter fallen z.&#160;B. Sprachassistenten (Chatbots) und Empfehlungssysteme (Recommender Engine).</p>
 </div>
 </div>
 <div class="sect3">
@@ -2637,7 +2617,7 @@ Lizenzierte Schulungen zu SWARC4AI tragen zur Zulassung zur abschließenden Adva
 <p>(un-)Fairness</p>
 </li>
 <li>
-<p>gesellschaftlichen Risiken wie Deepfakes, AI-enabled Cyberattacs, Safety Risks in Critical Systems, Social Manipulation, Intellectual Property Issues usw.</p>
+<p>gesellschaftlichen Risiken wie Deepfakes, AI-enabled Cyberattacks, Safety Risks in Critical Systems, Social Manipulation, Intellectual Property Issues usw.</p>
 </li>
 </ul>
 </div>
@@ -2645,12 +2625,12 @@ Lizenzierte Schulungen zu SWARC4AI tragen zur Zulassung zur abschließenden Adva
 <div class="sect3">
 <h4 id="LZ-1-5">LZ 1-5: Unterschiede zu traditioneller Software verstehen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu tradiitoneller Software:</p>
+<p>Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu traditioneller Software:</p>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p>Datengetrieben (bei ML) - Daten-zentrierte statt Code-zentrierte Entwicklung</p>
+<p>Datengetrieben (bei ML) – Daten-zentrierte statt Code-zentrierte Entwicklung</p>
 </li>
 <li>
 <p>Probabilistische Ergebnisse (Non-deterministic behavior)</p>
@@ -2668,10 +2648,10 @@ Lizenzierte Schulungen zu SWARC4AI tragen zur Zulassung zur abschließenden Adva
 <p>Debugging und Tests sind aufgrund des Nichtdeterminismus komplexer.</p>
 </li>
 <li>
-<p>Model Decay: Continuous monitoring und Retraining sind notwendig, um die Leistung der Modelle aufrecht zu erhalten.</p>
+<p>Model Decay: Continuous monitoring und Retraining sind notwendig, um die Leistung der Modelle aufrechtzuerhalten.</p>
 </li>
 <li>
-<p>AI-spezifische Regulatorik von Branchen und auf EU-Ebene müssen berücksichtigt werden.</p>
+<p>KI-spezifische Regulatorik von Branchen und auf EU-Ebene müssen berücksichtigt werden.</p>
 </li>
 <li>
 <p>Interoperabilität: Nahtlose Integration in bestehende Systeme und Technologiestacks.</p>
@@ -2680,7 +2660,7 @@ Lizenzierte Schulungen zu SWARC4AI tragen zur Zulassung zur abschließenden Adva
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-1-6">LZ 1-6: Lösung von Problemen mittels KI oder klassischer SW-Entwicklung entscheiden können</h4>
+<h4 id="LZ-1-6">LZ 1-6: Lösung von Problemen mittels KI oder klassischer SW-Entwicklung entscheiden</h4>
 <div class="paragraph">
 <p>Teilnehmer:innen können entscheiden und erklären, ob und warum ein Problem mittels KI oder klassischer SW-Entwicklung zu lösen ist.</p>
 </div>
@@ -2690,58 +2670,28 @@ Lizenzierte Schulungen zu SWARC4AI tragen zur Zulassung zur abschließenden Adva
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen typische Rollen und deren Aufgaben in diesen Kontexten. Die Rollen umfassen insbesondere:</p>
 </div>
-<div class="ulist">
-<ul>
-<li>
-<p>Data Scientist</p>
-</li>
-<li>
-<p>Data Analyst</p>
-</li>
-<li>
-<p>Data Engineer</p>
-</li>
-<li>
-<p>Machine Learning Engineer</p>
-</li>
-<li>
-<p>MLOps Engineer</p>
-</li>
-<li>
-<p>AI Architect</p>
-</li>
-<li>
-<p>Data Architect</p>
-</li>
-<li>
-<p>Business Intelligence (BI) Developer</p>
-</li>
-<li>
-<p>Data Governance Specialist</p>
-</li>
-<li>
-<p>ML-Researcher</p>
-</li>
-</ul>
+<div class="paragraph">
+<p>Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Engineer, AI Architect,
+Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist und ML-Researcher.</p>
 </div>
 <div class="paragraph">
 <p>Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenarbeiten könnten (Team Topologies für ML-Teams).</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-1-8">LZ 1-8: KI Anwendungsfällen identifizieren und priorisieren können</h4>
+<h4 id="LZ-1-8">LZ 1-8: KI Anwendungsfällen identifizieren und priorisieren</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen können KI Anwendungsfälle identifizieren und priorisieren.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-1-9">LZ 1-9: KI Stärken und Grenzen kennen</h4>
+<h4 id="LZ-1-9">LZ 1-9: Stärken und Grenzen von KI kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen die Stärken und die Grenzen von KI und kennen die sog. "Jagged Technological Frontier".</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-1-10">LZ 1-10: Productivity J-Curve Konzept in Verbindung mit KI-Technologie kennen</h4>
+<h4 id="LZ-1-10">LZ 1-10: Konzept der Productivity J-Curve in Verbindung mit KI-Technologie kennen</h4>
 <div class="paragraph">
 <p>Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung von KI zunächst einen Produktivitätsrückgang verzeichnen können, dem bei der weiteren Entwicklung aber Produktivitätsgewinne folgen können.</p>
 </div>
@@ -2751,8 +2701,8 @@ Lizenzierte Schulungen zu SWARC4AI tragen zur Zulassung zur abschließenden Adva
 <h3 id="_referenzen">1.3. Referenzen</h3>
 <div class="paragraph">
 <p><a href="#roser">[Roser 2022]</a>, <a href="#burkov">[Burkov 2019]</a>, <a href="#geron">[Géron 2022]</a>, <a href="#kelleher">[Kelleher 2015]</a>, <a href="#vaughan">[Vaughan 2020]</a>,
-<a href="#bahree">[Bahree 2024]</a>, <a href="#harvard">[Harvard et al. 2024]</a>, <a href="#dellacqua">[Dell&#8217;Acqua 2022]</a>, <a href="#visenger-one">[Visengeriyeva]</a>, <a href="#visenger-two">[Visengeriyeva]</a>,
-<a href="#agrawal">[Agrawal et al.]</a>, <a href="#tan">[Tan et al.]</a>, <a href="#chong">[Chong et al.]</a>, <a href="#hall-chapter-one">[Hall et al. 2023]</a>, <a href="#huyen">[Huyen 2022]</a>, <a href="#wang">[Wang et al. 2024]</a></p>
+<a href="#bahree">[Bahree 2024]</a>, <a href="#harvard">[Harvard et al. 2024]</a>, <a href="#dellacqua">[Dell&#8217;Acqua 2022]</a>, <a href="#visenger-one">[Visengeriyeva, JTF]</a>, <a href="#visenger-two">[Visengeriyeva, J-Curve]</a>,
+<a href="#agrawal">[Agrawal et al.]</a>, <a href="#tan">[Tan et al.]</a>, <a href="#chong">[Chong et al.]</a>, <a href="#hall">[Hall et al. 2023]</a>, <a href="#huyen">[Huyen 2022]</a>, <a href="#wang">[Wang et al. 2024]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2799,7 +2749,7 @@ des Softwaresystems haben. Insbesondere kennen sie den Einfluss auf einige der f
 <p>Risikomanagementsystem (Risikominimierung)</p>
 </li>
 <li>
-<p>Datenqualität und Datengovernance (Qualitätsmanagementsystem)</p>
+<p>Datenqualität und Daten-Governance (Qualitätsmanagementsystem)</p>
 </li>
 <li>
 <p>Erstellung und Pflege einer umfassenden technischen Dokumentation des KI-Systems</p>
@@ -2823,16 +2773,16 @@ des Softwaresystems haben. Insbesondere kennen sie den Einfluss auf einige der f
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-3">LZ 2-3: Klassikifaktion von KI-Systemen nach EU AI Act Risikolevel durchführen können</h4>
+<h4 id="LZ-2-3">LZ 2-3: Klassifikation von KI-Systemen nach EU AI Act Risikolevel durchführen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen die Klassifikation von KI-Systemen nach den EU AI Act Risikolevel (verboten, hochrisikoreich, begrenzt risikoreich, niedrigrisikoreich) und wissen,
+<p>Die Teilnehmer:innen kennen die Klassifikation von KI-Systemen nach den EU AI Act Risikolevel (verboten, hochrisikoreich, begrenzt risikoreich, niedrig risikoreich) und wissen,
  welche regulatorischen Anforderungen jeweils gelten.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-4">LZ 2-4: Urheberrechtsproblematik von KI-generierten Inhalten einordnen können</h4>
+<h4 id="LZ-2-4">LZ 2-4: Urheberrechtsproblematik von KI-generierten Inhalten einordnen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen verstehen die Urheberrechtsproblematik für KI-generierte Inhalte und kennen die Auswirkungen auf bestimmte Software-Lizenzmodelle sowie mögliche Umgänge damit.</p>
+<p>Die Teilnehmer:innen verstehen die Urheberrechtsproblematik für KI-generierte Inhalte und kennen die Auswirkungen auf bestimmte Softwarelizenzmodelle sowie mögliche Umgänge damit.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2843,9 +2793,9 @@ und der Modellparameter. Darüber hinaus kennen sie verschiedene Arten von Lizen
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-6">LZ 2-6: Strategien für die Einhaltung des europäischen AI-Acts und mögliche Herausforderungen verstehen</h4>
+<h4 id="LZ-2-6">LZ 2-6: Strategien für die Einhaltung des EU AI Acts und mögliche Herausforderungen verstehen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen verstehen die Grundaussagen des europäischen AI-Acts (insbesondere Transparenzpflichten) und kennen Strategien
+<p>Die Teilnehmer:innen verstehen die Grundaussagen des EU AI Acts (insbesondere Transparenzpflichten) und kennen Strategien
 für deren Einhaltung sowie mögliche Herausforderungen dabei.</p>
 </div>
 </div>
@@ -2878,9 +2828,9 @@ für deren Einhaltung sowie mögliche Herausforderungen dabei.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-9">LZ 2-9: AI-Risk Minimierung Strategien kennen und anwenden</h4>
+<h4 id="LZ-2-9">LZ 2-9: Strategien zur KI-Risikominimierung kennen und anwenden</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen wissen, wie Strategien zur AI-Risikominimierung entwickelt und angewendet werden können. Insbesondere kennen die Teilnehmer:innen die folgenden Strategien:</p>
+<p>Die Teilnehmer:innen wissen, wie Strategien zur KI-Risikominimierung entwickelt und angewendet werden können. Insbesondere kennen die Teilnehmer:innen die folgenden Strategien:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -2900,7 +2850,7 @@ für deren Einhaltung sowie mögliche Herausforderungen dabei.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-10">LZ 2-10: Möglichkeiten zur Absicherung gegen Angriffe (AI Security) anwenden können</h4>
+<h4 id="LZ-2-10">LZ 2-10: Möglichkeiten zur Absicherung gegen Angriffe (AI Security) anwenden</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Absicherung gegen Angriffe (AI Security) und insbesondere kennen sie Möglichkeiten
 zur Integration von Sicherheitsstandards in die Architektur und können diese beim Entwurf berücksichtigen.</p>
@@ -2910,17 +2860,17 @@ zur Integration von Sicherheitsstandards in die Architektur und können diese be
 <h4 id="LZ-2-11">LZ 2-11: Grundproblematik und Facetten von AI-Safety verstehen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen die Grundproblematik von AI-Safety und kennen die verschiedenen Facetten dazu. Insbesondere kennen die Teilnehmer:innen
-spezifische Probleme wie beispielsweise "AI model risks by poisining" und  "Bias".</p>
+spezifische Probleme wie beispielsweise "AI model risks by poisoning" und  "Bias".</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-12">LZ 2-12: Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können, verstehen und Ansätze zum Umgang mit ethischen Problemen kennen</h4>
+<h4 id="LZ-2-12">LZ 2-12: Ethische Probleme von KI-Systemen verstehen und Ansätze zum Umgang damit kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können und kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen. Dies umfasst beispielsweise  KI-Alignment (und dessen Grenzen) sowie die Erstellung eigener KI-Richtlinien.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-13">LZ 2-13: Ethik-Leitlinien überblicken</h4>
+<h4 id="LZ-2-13">LZ 2-13: Ethikleitlinien überblicken</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen überblicken wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“ sowie die „Google AI Ethics Guidelines“.</p>
 </div>
@@ -2946,28 +2896,16 @@ insbesondere die folgenden Dokumente:</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-15">LZ 2-15: Einblick in die Einrichtung von "Regulatory Sandboxes" und die mögliche rechtliche Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts überblicken</h4>
+<h4 id="LZ-2-15">LZ 2-15: Einblick in die Einrichtung von "Regulatory Sandboxes" bekommen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen erhalten einen Einblick in die Einrichtung von "Regulatory Sandboxes" zur Förderung von Innovationen und
 in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-16">LZ 2-16: Strukturen und Prozesse für die Steuerung und Kontrolle von KI-Systemen, um ethische und gesetzliche Anforderungen zu erfüllen, verstehen</h4>
-<div class="paragraph">
-<p>Die Teilnehmer:innen verstehen die Strukturen und Prozesse, die zur Steuerung und Kontrolle von KI-Systemen notwendig sind, um ethische und gesetzliche Anforderungen zu erfüllen.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="LZ-2-17">LZ 2-17: Effektive Datenverwaltung für Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellen</h4>
+<h4 id="LZ-2-16">LZ 2-16: Effektive Datenverwaltung für Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen wissen, wie effektive Datenverwaltung die Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellt.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="LZ-2-18">LZ 2-18: Bedeutung und Umsetzung der Transparenzpflicht bei KI-Systemen verstehen</h4>
-<div class="paragraph">
-<p>Die Teilnehmer:innen verstehen die Bedeutung der Transparenzpflicht bei KI-Systemen und wissen, wie sie diese in der Praxis umsetzen können.</p>
 </div>
 </div>
 </div>
@@ -2975,15 +2913,15 @@ in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften 
 <h3 id="_referenzen_2">2.3. Referenzen</h3>
 <div class="paragraph">
 <p><a href="#engler">[Engler et al.]</a>, <a href="#nist">[Nist]</a>, <a href="#hall">[Hall et al. 2023]</a>, <a href="#masood">[Masood et al. 2023]</a>, <a href="#csiro">[CSIRO et al. 2023]</a>,
-<a href="#pruksachatkun">[Pruksachatkun et al. 2023]</a>, <a href="#chen">[Chen et al. 2022]</a>, <a href="#atlas">[ATLAS]</a>, <a href="#visenger-links">[Visengeriyeva]</a>,
-<a href="#eu-ai-act">[EU AI Act]</a>, <a href="#hotz">[Hotz]</a>, <a href="#bhajaria">[Bhajaria 2022]</a>, <a href="#jarmul">[Jarmul 2023]</a>, <a href="#molnar">[Molnar 2024]</a></p>
+<a href="#pruksachatkun">[Pruksachatkun et al. 2023]</a>, <a href="#chen">[Chen et al. 2022]</a>, <a href="#atlas">[ATLAS]</a>, <a href="#visenger-links">[Visengeriyeva, Ethics]</a>,
+<a href="#eu-ai-act">[EU AI Act]</a>, <a href="#hotz">[Hotz, Best Practices]</a>, <a href="#bhajaria">[Bhajaria 2022]</a>, <a href="#jarmul">[Jarmul 2023]</a>, <a href="#molnar">[Molnar 2024]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_architektur_von_ki_systemen">3. Architektur von KI-Systemen</h2>
+<h2 id="_entwurf_und_entwicklung_von_ki_systemen">3. Entwurf und Entwicklung von KI-Systemen</h2>
 <div class="sectionbody">
 <table class="tableblock frame-all grid-all stretch">
 <colgroup>
@@ -3037,9 +2975,9 @@ in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften 
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-2">LZ 3-2: Vorgehensmodelle für software development von KI-Systemen kennen</h4>
+<h4 id="LZ-3-2">LZ 3-2: Vorgehensmodelle für die Softwareentwicklung von KI-Systemen kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen typische Vorgehensmodelle für software development von KI-Systemen. Dies sind beispielsweise</p>
+<p>Die Teilnehmer:innen kennen typische Vorgehensmodelle für die Softwareentwicklung von KI-Systemen. Dies sind beispielsweise</p>
 </div>
 <div class="ulist">
 <ul>
@@ -3056,19 +2994,14 @@ in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften 
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-3">LZ 3-3: Arten von Daten und typische ML-Probleme kennen</h4>
+<h4 id="LZ-3-3">LZ 3-3: Arten von sowie Anforderungen an Daten und typische ML-Probleme kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen verschiedene Arten von Daten und typische ML-Probleme sowie Anwendungsfälle.</p>
+<p>Die Teilnehmer:innen kennen verschiedene Arten von Daten und typische ML-Probleme sowie Anwendungsfälle für die Nutzung der Daten. Darüber hinaus haben
+die Teilnehmer:innen ein Verständnis für verschiedene Anforderungen an die Daten, z.&#160;B. Vorhandensein von korrekten Labels verschiedener Art.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-4">LZ 3-4: Anforderungen an die Daten für ML kennen</h4>
-<div class="paragraph">
-<p>Die Teilnehmer:innen haben ein Verständnis für verschiedene Anforderungen an die Daten, z.B. Vorhandensein von Labels verschiedener Art.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="LZ-3-5">LZ 3-5: Machine Learning Problemstellungen und deren Anforderungen verstehen</h4>
+<h4 id="LZ-3-4">LZ 3-4: Machine Learning Problemstellungen und deren Anforderungen verstehen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen die verschiedenen Machine Learning Problemstellungen wie beispielsweise</p>
 </div>
@@ -3090,15 +3023,9 @@ in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften 
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-6">LZ 3-6: Validierung und typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten verstehen</h4>
+<h4 id="LZ-3-5">LZ 3-5: Input Daten für verschiedene KI-Algorithmen nutzen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen haben ein gutes Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="LZ-3-7">LZ 3-7: Input Daten für verschiedene KI-Algorithmen einordnen können</h4>
-<div class="paragraph">
-<p>Die Teilnehmer:innen haben ein gutes Verständnis für Input Daten für verschiedene KI-Algorithmen wie beispielsweise</p>
+<p>Die Teilnehmer:innen wissen welche Daten für KI-Algorithmen benötigt werden und haben ein gutes Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten. Außerdem haben die Teilnehmer:innen ein gutes Verständnis der Input-Daten, die für verschiedene KI-Algorithmen wie beispielsweise</p>
 </div>
 <div class="ulist">
 <ul>
@@ -3109,25 +3036,28 @@ in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften 
 <p>One-Hot-Encodings</p>
 </li>
 <li>
-<p>Embeddings.</p>
+<p>Embeddings</p>
 </li>
 </ul>
 </div>
+<div class="paragraph">
+<p>benötigt werden.</p>
+</div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-8">LZ 3-8: Mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgehen können</h4>
+<h4 id="LZ-3-6">LZ 3-6: Mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgehen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen, wie man mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgeht.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-9">LZ 3-9: Transfer-Learning bzw. Fine Tuning kennen</h4>
+<h4 id="LZ-3-7">LZ 3-7: Transfer-Learning bzw. Fine-Tuning kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen Transfer-Learning bzw. Fine Tuning als Möglichkeit, um die vortrainierten Basismodelle auf bestehende Anwendungsfälle zu adoptieren.</p>
+<p>Die Teilnehmer:innen kennen Transfer-Learning bzw. Fine-Tuning als Möglichkeit, um die vortrainierten Basismodelle auf bestehende Anwendungsfälle zu adoptieren.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-10">LZ 3-10: Design Patterns für KI-Systeme auswählen können</h4>
+<h4 id="LZ-3-8">LZ 3-8: Design Patterns für KI-Systeme auswählen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt. Das betrifft die folgenden Design Patterns:</p>
 </div>
@@ -3152,24 +3082,20 @@ in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften 
 </div>
 </div>
 <div class="sect3">
-<h4 id="_funktionale_anforderungen">Funktionale Anforderungen</h4>
-
-</div>
-<div class="sect3">
-<h4 id="LZ-3-11">LZ 3-11: Aufgabe eines ML-Modells definieren können</h4>
+<h4 id="LZ-3-9">LZ 3-9: Aufgabe eines ML-Modells definieren</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Modells definiert, wie beispielsweise die
 Klassifikation von Bildern oder die Erkennung von Betrug.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-12">LZ 3-12: Eingaben und Ausgaben für das Funktionieren eines ML-Systems verstehen und spezifizieren</h4>
+<h4 id="LZ-3-10">LZ 3-10: Eingaben und Ausgaben für das Funktionieren eines ML-Systems verstehen und spezifizieren</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen, welche Eingaben und Ausgaben für das Funktionieren eines ML-Systems erforderlich sind und können diese spezifizieren.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-13">LZ 3-13: Metriken zur Messung der Performance von ML-Modellen kennen</h4>
+<h4 id="LZ-3-11">LZ 3-11: Metriken zur Messung der Performance von ML-Modellen kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance von ML-Modellen wie beispielsweise:</p>
 </div>
@@ -3191,82 +3117,71 @@ Klassifikation von Bildern oder die Erkennung von Betrug.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-14">LZ 3-14: ML-Modellen in bestehende Systeme integrieren</h4>
+<h4 id="LZ-3-12">LZ 3-12: ML-Modelle in bestehende Systeme integrieren</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen, wie ML-Modelle in bestehende Systeme integriert werden können und kennen die Schnittstellen und Integrationspunkte.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-15">LZ 3-15: Benutzeroberflächen für KI-Systeme gestalten</h4>
+<h4 id="LZ-3-13">LZ 3-13: Benutzeroberflächen für KI-Systeme gestalten</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen wissen, wie Benutzeroberflächen gestaltet werden sollten, um effektive Interaktionen mit dem ML-System zu ermöglichen und die Benutzererfahrung zu optimieren.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_nicht_funktionale_anforderungen">Nicht-funktionale Anforderungen</h4>
-
-</div>
-<div class="sect3">
-<h4 id="LZ-3-16">LZ 3-16: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen verstehen</h4>
+<h4 id="LZ-3-14">LZ 3-14: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen verstehen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen und wissen,
 wie diese optimiert werden können.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-17">LZ 3-17: Mit Skalierbarkeit auf erhöhten Datenmengen umgehen</h4>
+<h4 id="LZ-3-15">LZ 3-15: Mit Skalierbarkeit auf erhöhten Datenmengen umgehen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen die Bedeutung der Skalierbarkeit auf erhöhte Datenmengen und wissen,
 wie man KI-Systeme entwickelt, die mit steigenden Datenvolumen umgehen können, ohne an Leistung zu verlieren.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-18">LZ 3-18: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden.</h4>
+<h4 id="LZ-3-16">LZ 3-16: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen haben ein Verständnis davon, was Robustheit in KI-Systemen bedeutet,
 und können Strategien zur Erhöhung der Robustheit in verschiedenen Anwendungskontexten anwenden.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-19">LZ 3-19: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen können</h4>
+<h4 id="LZ-3-17">LZ 3-17: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen die Konzepte der Zuverlässigkeit und Verfügbarkeit und wissen, wie sie KI-Systeme bauen, die stabil und konstant verfügbar sind.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-20">LZ 3-20: Reproduzierbarkeit und Prüfbarkeit von KI-Ergebnisse verstehen</h4>
+<h4 id="LZ-3-18">LZ 3-18: Reproduzierbarkeit und Prüfbarkeit von KI-Ergebnisse verstehen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen wissen, wie wichtig es ist, dass KI-Ergebnisse reproduzierbar und prüfbar sind, und wissen, welche Methoden zur Sicherstellung dieser Eigenschaften eingesetzt werden können.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-21">LZ 3-21: Anforderungen an Sicherheit, Datenschutz und Compliance kennen</h4>
+<h4 id="LZ-3-19">LZ 3-19: Anforderungen an Sicherheit, Datenschutz und Compliance kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen die Anforderungen an Sicherheit, Datenschutz und Compliance und wissen, wie diese in KI-Systemen umgesetzt werden.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-22">LZ 3-22: Effiziente KI-Modelle und -Systeme entwerfen</h4>
-<div class="paragraph">
-<p>Die Teilnehmer:innen wissen, wie man KI-Modelle und -Systeme entwickelt, die ressourcenschonend arbeiten,
-indem sie Speicher, Rechenleistung und Speicherplatz effizient nutzen.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="LZ-3-23">LZ 3-23: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen können</h4>
+<h4 id="LZ-3-20">LZ 3-20: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen die Bedeutung von Erklärbarkeit und Interpretierbarkeit in KI-Systemen und wissen,
 wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-24">LZ 3-24: Bias in Daten und Modellen erkennen können</h4>
+<h4 id="LZ-3-21">LZ 3-21: Bias in Daten und Modellen erkennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduziert werden können, um Fairness und Gleichbehandlung in KI-Anwendungen sicherzustellen.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-3-25">LZ 3-25: Fehlertoleranz in KI-Systemen kennen</h4>
+<h4 id="LZ-3-22">LZ 3-22: Fehlertoleranz in KI-Systemen kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläutern, wie KI-Systeme trotz Fehlern oder Störungen funktionsfähig bleiben.</p>
 </div>
@@ -3277,12 +3192,11 @@ wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.</p>
 <div class="paragraph">
 <p><a href="#tuberlin">[TU Berlin]</a>, <a href="#bornstein">[Bornstein et al.]</a>,
 <a href="#crowe">[Crowe et al. 2024]</a>, <a href="#lakshmanan">[Lakshmanan et al.]</a>,
-<a href="#alake">[Alake]</a>, <a href="#lakshmanan-chapter-four">[Lakshmanan et al.]</a>,
-<a href="#lakshmanan-chapter-five">[Lakshmanan et al.]</a>, <a href="#koc">[Koc]</a>,
-<a href="#cdteliot">[Cdteliot]</a>, <a href="#visenger-three">[Visengeriyeva]</a>,
+<a href="#alake">[Alake]</a>, <a href="#koc">[Koc]</a>,
+<a href="#cdteliot">[Cdteliot]</a>, <a href="#visenger-three">[Visengeriyeva, AI Agents]</a>,
 <a href="#zaharia">[Zaharia et al.]</a>, <a href="#savarese">[Savarese]</a>,
 <a href="#tdcox">[tdcox]</a>, <a href="#studer">[Studer et al.]</a>,
-<a href="#hotz-two">[Hotz]</a>, <a href="#hotz-three">[Hotz]</a>,
+<a href="#hotz-two">[Hotz, Life Cycle]</a>, <a href="#hotz-three">[Hotz, TDSP]</a>,
 <a href="#saltz">[Saltz]</a>, <a href="#serban">[Serban]</a>,
 <a href="#heiland">[Heiland et al. 2023]</a>, <a href="#nahar">[Nahar et al.]</a>,
 <a href="#mlsoftwarearchitecture">[ML software architecture]</a>,</p>
@@ -3315,7 +3229,7 @@ wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.</p>
 <div class="sect2">
 <h3 id="_lernziele_4">4.2. Lernziele</h3>
 <div class="sect3">
-<h4 id="LZ-4-1">LZ 4-1: Daten zu akquirieren und Daten zu labeln</h4>
+<h4 id="LZ-4-1">LZ 4-1: Daten akquirieren und labeln</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen überblicken verschiedene Methoden, um Daten zu akquirieren und Daten zu labeln.</p>
 </div>
@@ -3333,7 +3247,7 @@ wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-4-4">LZ 4-4: Effiziente Datenpipelines und -architekturen sowie effiziente Speicherlösungen und deren Management entwerfen</h4>
+<h4 id="LZ-4-4">LZ 4-4: Effiziente Datenpipelines und -architekturen entwerfen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität
 sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:innen Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse.</p>
@@ -3354,12 +3268,26 @@ sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:in
 <div class="sect3">
 <h4 id="LZ-4-7">LZ 4-7: Möglichkeiten zur Speicherung der Daten kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Daten sowie deren Vor- und Nachteile. Zu den Möglichkeiten gehören die folgenden Technologien:
-* CSV-Dateien
-* Spaltenorientierte Dateien
-* Relationale und NoSQL-Datenbanken
-* Data Warehouses
-* Data Lakes</p>
+<p>Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Daten sowie deren Vor- und Nachteile. Zu den Möglichkeiten gehören die folgenden Technologien:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>CSV-Dateien</p>
+</li>
+<li>
+<p>Spaltenorientierte Dateien</p>
+</li>
+<li>
+<p>Relationale und NoSQL-Datenbanken</p>
+</li>
+<li>
+<p>Data Warehouses</p>
+</li>
+<li>
+<p>Data Lakes</p>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -3374,7 +3302,7 @@ sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:in
 </div>
 </div>
 <div class="sect1">
-<h2 id="_skalierbarkeit_und_leistungsoptimierung_von_ki_systemen">5. Skalierbarkeit und Leistungsoptimierung von KI-Systemen</h2>
+<h2 id="_wichtige_qualitätsmerkmale_für_den_betrieb_von_ki_systemen">5. Wichtige Qualitätsmerkmale für den Betrieb von KI-Systemen</h2>
 <div class="sectionbody">
 <table class="tableblock frame-all grid-all stretch">
 <colgroup>
@@ -3391,7 +3319,7 @@ sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:in
 <div class="sect2">
 <h3 id="_begriffe_und_konzepte_5">5.1. Begriffe und Konzepte</h3>
 <div class="paragraph">
-<p>Monitoring, Logging, Feedback, FinOps für KI-Plattformen</p>
+<p>Qualitätsmerkmale, Skalierbarkeit, Leistungsoptimierung, Monitoring, Logging, Feedback, FinOps für KI-Plattformen</p>
 </div>
 </div>
 <div class="sect2">
@@ -3403,26 +3331,38 @@ sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:in
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-2">LZ 5-2: Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale überblicken</h4>
+<h4 id="LZ-5-2">LZ 5-2: Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen können beispielhaft Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale nennen. Insbesondere für Skalierung, Effizienz und Speicherlast sollten die Teilnehmer:innen die Trade-Offs sowie die Vor- und Nachteile von wichtigen Architzekturen wie beispielsweise RNNs und Transformern kennen.</p>
+<p>Die Teilnehmer:innen können beispielhaft Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale nennen. Insbesondere für Skalierung, Effizienz und Speicherlast sollten die Teilnehmer:innen die Trade-Offs sowie die Vor- und Nachteile von wichtigen Architekturen wie beispielsweise RNNs und Transformern kennen.</p>
 </div>
 </div>
 <div class="sect3">
 <h4 id="LZ-5-3">LZ 5-3: Verschiedene Qualitätsmerkmale eines ML-Modells abstimmen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen Möglichkeiten, um verschiedene Qualitätsmerkmale wie Genauigkeit, Effizienz und Speicherlast eines ML-Modells abzustimmen und gegeneinander
-einzutauschen. Insbesondere kennen die Teilnehmer:innen die folgendsen Techniken:
-* Quantisierung
-* Pruning
-* Destillierung
-* LoRA.</p>
+einzutauschen. Insbesondere kennen die Teilnehmer:innen die folgenden Techniken:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Quantisierung</p>
+</li>
+<li>
+<p>Pruning</p>
+</li>
+<li>
+<p>Destillierung</p>
+</li>
+<li>
+<p>LoRA</p>
+</li>
+</ul>
 </div>
 </div>
 <div class="sect3">
 <h4 id="LZ-5-4">LZ 5-4: Kosten, Stromverbrauch und nachhaltige Nutzung von KI (Green IT) verstehen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen erlangen ein Verständnis für Kosten, Stromverbrauch und nachhaltige Nutzung von KI (Green IT).</p>
+<p>Die Teilnehmer:innen erlangen ein Verständnis für Kosten, Stromverbrauch und nachhaltige Nutzung von KI (Green IT). Insbesondere wissen die Teilnehmer:innen, wie man KI-Modelle und -Systeme entwickelt, die ressourcenschonend arbeiten, indem sie Speicher, Rechenleistung und Speicherplatz effizient nutzen.</p>
 </div>
 </div>
 <div class="sect3">
@@ -3432,7 +3372,7 @@ einzutauschen. Insbesondere kennen die Teilnehmer:innen die folgendsen Techniken
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-6">LZ 5-6: Modelltraining, Parametern, Metriken und Ergebnissen tracken</h4>
+<h4 id="LZ-5-6">LZ 5-6: Modelltraining, Parameter, Metriken und Ergebnisse tracken</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen haben ein Verständnis vom Tracking im Modelltraining, Parametern, Metriken und Ergebnissen.</p>
 </div>
@@ -3456,105 +3396,123 @@ einzutauschen. Insbesondere kennen die Teilnehmer:innen die folgendsen Techniken
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-10">LZ 5-10: Zusammenarbeit und Verantwortungsaufteilung zwischen den verschiedenen Rollen kennen</h4>
-<div class="paragraph">
-<p>Die Teilnehmer:innen kennen verschiedene Möglichkeiten der Zusammenarbeit und Verantwortungsaufteilung zwischen den verschiedenen Rollen, wie beispielsweise
-Data Engineer, ML-Engineer und Softwareentwickler:in bezogen auf die verschiedenen Phasen des Life-Cycles.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="LZ-5-11">LZ 5-11: Plattformen für die Modellbereitstellung kennen</h4>
+<h4 id="LZ-5-10">LZ 5-10: Plattformen für die Modellbereitstellung kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen gängige Plattformen für die Modellbereitstellung, wie beispielsweise Huggingface Hub.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-12">LZ 5-12: Werkzeuge für das Erstellen von POCs von KI-Systemen einordnen können</h4>
+<h4 id="LZ-5-11">LZ 5-11: Werkzeuge für das Erstellen von POCs von KI-Systemen einordnen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen können gängige Werkzeuge für das Erstellen von POCs von KI-Systemen, wie beispielsweise Gradi, nennen und verstehen die konzeptionelle Funktionsweise.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-13">LZ 5-13: Deployment-Möglichkeiten von KI-Modellen kennen</h4>
+<h4 id="LZ-5-12">LZ 5-12: Deployment-Möglichkeiten von KI-Modellen kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modellen. Eine Auswahl der folgenden Möglichkeiten verstehen die Teilnehmer:innen:
-* API Deployment
-* Embedded Deployment
-* Batch Prediction
-* Streaming
-* Containerization
-* Serverless Deployment
-* Cloud Services</p>
+<p>Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modellen. Eine Auswahl der folgenden Möglichkeiten verstehen die Teilnehmer:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>API Deployment</p>
+</li>
+<li>
+<p>Embedded Deployment</p>
+</li>
+<li>
+<p>Batch Prediction</p>
+</li>
+<li>
+<p>Streaming</p>
+</li>
+<li>
+<p>Containerization</p>
+</li>
+<li>
+<p>Serverless Deployment</p>
+</li>
+<li>
+<p>Cloud Services</p>
+</li>
+</ul>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-14">LZ 5-14: Vor- und Nachteile von SaaS und Self-Hosting nennen können</h4>
+<h4 id="LZ-5-13">LZ 5-13: Vor- und Nachteile von SaaS und Self-Hosting nennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen die Vor- und Nachteile von SaaS und Self-Hosting und können dazwischen abwägen.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-15">LZ 5-15: SaaS-KI-Lösungen überblicken</h4>
+<h4 id="LZ-5-14">LZ 5-14: SaaS-KI-Lösungen überblicken</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen überblicken bekannte SaaS-KI-Lösungen, wie beispielsweise Azure OpenAI Services.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-16">LZ 5-16: Embedded Deployments von ML-Modellen kennen</h4>
+<h4 id="LZ-5-15">LZ 5-15: Embedded Deployments von ML-Modellen kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen verschiedene Möglichkeiten und Standards für Embedded Deployments von ML-Modellen.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-17">LZ 5-17: Monitoring im Hinblick auf KI-spezifische Anforderungen verstehen</h4>
+<h4 id="LZ-5-16">LZ 5-16: Monitoring im Hinblick auf KI-spezifische Anforderungen verstehen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen verstehen die Notwendigkeit für Monitoring, auch im Hinblick auf KI-spezifische Anforderungen wie das Tracking von Drift.</p>
 </div>
-</div>
-<div class="sect3">
-<h4 id="LZ-5-18">LZ 5-18: Relevante Metriken für das Monitotring kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen relevante Metriken wie beispielsweise Accuracy, Precision, Recall, F1-Score, MAE, MSE, Perplexity, Latenz, Durchsatz und Ressourcenauslastung und verstehen, warum diese für das Monitoring relevant sind.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-19">LZ 5-19: Beispiel-Werkzeuge für Monitoring überblicken</h4>
+<h4 id="LZ-5-17">LZ 5-17: Beispiel-Werkzeuge für Monitoring überblicken</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen Beispiel-Werkzeuge für Monitoring. Dies betrifft sowohl allgemeine Werkzeuge, wie beispielsweise Prometheus &amp; Grafana,
 als auch ML-spezifische wie beispielsweise MLflow.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-20">LZ 5-20: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen</h4>
+<h4 id="LZ-5-18">LZ 5-18: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining. Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise Auswahl zwischen mehreren Antworten und Flagging in Gradio.</p>
+<p>Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining. Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise die Auswahl zwischen mehreren Antworten und Flagging in Gradio.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-21">LZ 5-21: Methoden zur Nutzung von Feedback für das Modell-Training kennen</h4>
+<h4 id="LZ-5-19">LZ 5-19: Methoden zur Nutzung von Feedback für das Modell-Training kennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen verschiedene Methoden zur Nutzung von Feedback für das Modell-Training, wie beispielsweise RLHF, RLAIF und DPO.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-23">LZ 5-23: [OPTIONAL] MLOps-Pipeline an einem Praxisbeispiel verstehen</h4>
+<h4 id="LZ-5-20">LZ 5-20: [OPTIONAL] MLOps-Pipeline an einem Praxisbeispiel verstehen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen erfahren anhand eines Praxisbeispiels, wie eine MLOps-Pipeline aussehen kann und welche Einsichten diese auf die Parameter, Metriken usw. bietet.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-24">LZ 5-24: [OPTIONAL] Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten treffen</h4>
+<h4 id="LZ-5-21">LZ 5-21: [OPTIONAL] Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten treffen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen sind in der Lage, Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten zu treffen.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-25">LZ 5-25: [OPTIONAL] MLOps-Werkzeuge und End-to-End Plattformen kennen</h4>
+<h4 id="LZ-5-22">LZ 5-22: [OPTIONAL] MLOps-Werkzeuge und End-to-End Plattformen kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen bekannte MLOps-Werkzeuge und End-to-End Plattformen,wie beispielsweise:
-* Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Kubeflow, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights &amp; Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
-* OpenSource: MLFlow, Weights &amp; Biases, ClearML
-* PaaS: AWS SageMaker, Azure ML.</p>
+<p>Die Teilnehmer:innen kennen bekannte MLOps-Werkzeuge und End-to-End Plattformen,wie beispielsweise:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Kubeflow, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights &amp; Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai</p>
+</li>
+<li>
+<p>OpenSource: MLFlow, Weights &amp; Biases, ClearML</p>
+</li>
+<li>
+<p>PaaS: AWS SageMaker, Azure ML.</p>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -3594,11 +3552,23 @@ als auch ML-spezifische wie beispielsweise MLflow.</p>
 <div class="sect3">
 <h4 id="LZ-6-1">LZ 6-1: Integrationsebenen von KI überblicken</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen verschiedene Integrationsebenen von KI. Dazu gehören die folgenden Ebenen:
-* Anwendungen (z.B. Coding Assistenten)
-* AI-Engineering (z.B. Prompt Engineering)
-* ML-Modellentwicklung (z.B. pytorch)
-* ML-Infrastruktur (z.B. Vektor-DBs).</p>
+<p>Die Teilnehmer:innen kennen verschiedene Integrationsebenen von KI. Dazu gehören die folgenden Ebenen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Anwendungen (z.&#160;B. Coding Assistenten)</p>
+</li>
+<li>
+<p>AI-Engineering (z.&#160;B. Prompt Engineering)</p>
+</li>
+<li>
+<p>ML-Modellentwicklung (z.&#160;B. pytorch)</p>
+</li>
+<li>
+<p>ML-Infrastruktur (z.&#160;B. Vektor-DBs).</p>
+</li>
+</ul>
 </div>
 </div>
 <div class="sect3">
@@ -3610,7 +3580,7 @@ als auch ML-spezifische wie beispielsweise MLflow.</p>
 <div class="sect3">
 <h4 id="LZ-6-3">LZ 6-3: KI-Systeme in die Gesamtarchitektur einer IT-Landschaft integrieren</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielswiese
+<p>Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielsweise
 können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen,
 um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.</p>
 </div>
@@ -3618,13 +3588,29 @@ um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu doku
 <div class="sect3">
 <h4 id="LZ-6-4">LZ 6-4: Relevante Qualitätsmerkmale für KI-Systeme überblicken</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen verstehen die Qualitätsmerkmale, die für KI-Systeme besonders relevant sind. Dazu gehören insbesondere die folgenden Qualitätsmerkmale:
-* Verlässlichkeit
-* Skalierbarkeit
-* Effizienz
-* Sicherheit
-* Wartbarkeit
-* Interpretierbarkeit</p>
+<p>Die Teilnehmer:innen verstehen die Qualitätsmerkmale, die für KI-Systeme besonders relevant sind. Dazu gehören insbesondere die folgenden Qualitätsmerkmale:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Verlässlichkeit</p>
+</li>
+<li>
+<p>Skalierbarkeit</p>
+</li>
+<li>
+<p>Effizienz</p>
+</li>
+<li>
+<p>Sicherheit</p>
+</li>
+<li>
+<p>Wartbarkeit</p>
+</li>
+<li>
+<p>Interpretierbarkeit</p>
+</li>
+</ul>
 </div>
 </div>
 <div class="sect3">
@@ -3708,10 +3694,20 @@ um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu doku
 <div class="sect3">
 <h4 id="LZ-6-12">LZ 6-12: Arten von Prompt Engineering kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen verschiedene Arten von Prompt Engineering, wie beispielsweise
-* Few-Shot-Learning
-* Chain-of-Thought
-* Role-Playing</p>
+<p>Die Teilnehmer:innen kennen verschiedene Arten von Prompt Engineering, wie beispielsweise</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Few-Shot-Learning</p>
+</li>
+<li>
+<p>Chain-of-Thought</p>
+</li>
+<li>
+<p>Role-Playing</p>
+</li>
+</ul>
 </div>
 <div class="paragraph">
 <p>sowie allgemeine Best Practices für das Prompting.</p>
@@ -3720,13 +3716,13 @@ um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu doku
 <div class="sect3">
 <h4 id="LZ-6-13">LZ 6-13: Agentic Workflows überblicken</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen wissen, was Agentic Workflows sind und kennen die Begriffe Reflexion, Werkzeug-Nutzung, Planung und Multi-Agenten-Kollaboration.</p>
+<p>Die Teilnehmer:innen wissen, was Agentic Workflows sind und kennen die Begriffe Reflexion, Werkzeugnutzung, Planung und Multi-Agenten-Kollaboration.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-6-14">LZ 6-14: Eine Auswahl von Design Patterns für Generative AI-Systeme kennen</h4>
+<h4 id="LZ-6-14">LZ 6-14: Eine Auswahl von Design Patterns für Generative KI-Systeme kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen wissen welche Design Patterns für Generative AI-Systeme existieren. Sie kennen eine Auswahl der folgenden Patterns:</p>
+<p>Die Teilnehmer:innen wissen welche Design Patterns für Generative KI-Systeme existieren. Sie kennen eine Auswahl der folgenden Patterns:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -3798,16 +3794,16 @@ um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu doku
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-6-18">LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen können</h4>
+<h4 id="LZ-6-18">LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen</h4>
 <div class="paragraph">
 <p>Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang
 mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-6-19">LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen vom AI Agentarchitekturen kennen</h4>
+<h4 id="LZ-6-19">LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen von AI Agentarchitekturen kennen</h4>
 <div class="paragraph">
-<p>Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen vom AI Agentarchitekturen.</p>
+<p>Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen von AI Agentarchitekturen.</p>
 </div>
 </div>
 </div>
@@ -3975,9 +3971,6 @@ mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.</p>
 <p><a id="hall"></a>[Hall et al. 2023] P. Hall, J. Curtis, P. Pandey: Machine Learning for High-Risk Applications <a href="https://www.oreilly.com/library/view/machine-learning-for/9781098102425/" class="bare">https://www.oreilly.com/library/view/machine-learning-for/9781098102425/</a></p>
 </li>
 <li>
-<p><a id="hall-chapter-one"></a>[Hall et al. 2023] P. Hall, J. Curtis, P. Pandey: Machine Learning for High-Risk Applications (Chapter 1 Chapter 1. Contemporary Machine Learning Risk Management <a href="https://www.oreilly.com/library/view/machine-learning-for/9781098102425/ch01.html#:-:text=Contemporary%20Machine%20Lear,ning%20Risk%20Management" class="bare">https://www.oreilly.com/library/view/machine-learning-for/9781098102425/ch01.html#:-:text=Contemporary%20Machine%20Lear,ning%20Risk%20Management</a>)</p>
-</li>
-<li>
 <p><a id="harvard"></a>[Harvard et al. 2024] Harvard Business Review, E. Mollick, D. De Cremer, T. Neeley, P. Sinha: Generative AI: The Insights You Need. (Generative AI Use Cases) <a href="https://learning.oreilly.com/library/view/generative-ai-the/9781647826406/" class="bare">https://learning.oreilly.com/library/view/generative-ai-the/9781647826406/</a></p>
 </li>
 <li>
@@ -3987,13 +3980,13 @@ mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.</p>
 <p><a id="heiland"></a>[Heiland et al. 2023] L. Heiland, M. Hauser, J. Bogner: Design Patterns for AI-based Systems: A Multivocal Literature Review and Pattern Repository. 2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN). IEEE, 2023.</p>
 </li>
 <li>
-<p><a id="hotz"></a>[Hotz] N. Hotz: 15 Data Science Documentation Best Practices <a href="https://www.datascience-pm.com/documentation-best-practices/" class="bare">https://www.datascience-pm.com/documentation-best-practices/</a></p>
+<p><a id="hotz"></a>[Hotz, Best Practices] N. Hotz: 15 Data Science Documentation Best Practices <a href="https://www.datascience-pm.com/documentation-best-practices/" class="bare">https://www.datascience-pm.com/documentation-best-practices/</a></p>
 </li>
 <li>
-<p><a id="hotz-two"></a>[Hotz] N. Hotz: What is a Data Science Life Cycle? <a href="https://www.datascience-pm.com/data-science-life-cycle/" class="bare">https://www.datascience-pm.com/data-science-life-cycle/</a></p>
+<p><a id="hotz-two"></a>[Hotz, Life Cycle] N. Hotz: What is a Data Science Life Cycle? <a href="https://www.datascience-pm.com/data-science-life-cycle/" class="bare">https://www.datascience-pm.com/data-science-life-cycle/</a></p>
 </li>
 <li>
-<p><a id="hotz-three"></a>[Hotz] N. Hotz: What is TDSP <a href="https://www.datascience-pm.com/tdsp/" class="bare">https://www.datascience-pm.com/tdsp/</a></p>
+<p><a id="hotz-three"></a>[Hotz, TDSP] N. Hotz: What is TDSP <a href="https://www.datascience-pm.com/tdsp/" class="bare">https://www.datascience-pm.com/tdsp/</a></p>
 </li>
 <li>
 <p><a id="huyen"></a>[Huyen 2022] C. Huyen: Designing Machine Learning Systems <a href="https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/" class="bare">https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/</a></p>
@@ -4036,12 +4029,6 @@ mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.</p>
 <ul class="bibliography">
 <li>
 <p><a id="lakshmanan"></a>[Lakshmanan et al.] V. Lakshmanan, S Robinson, M. Munn: Machine Learning Design Patterns <a href="https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/" class="bare">https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/</a></p>
-</li>
-<li>
-<p><a id="lakshmanan-chapter-four"></a>[Lakshmanan et al.] V. Lakshmanan, S Robinson, M. Munn: Machine Learning Design Patterns Chapter 4 <a href="https://www.oreilly.com/library/view/machine-learning-design/9781098115777/ch04.html" class="bare">https://www.oreilly.com/library/view/machine-learning-design/9781098115777/ch04.html</a></p>
-</li>
-<li>
-<p><a id="lakshmanan-chapter-five"></a>[Lakshmanan et al.] V. Lakshmanan, S Robinson, M. Munn: Machine Learning Design Patterns Chapter 5 <a href="https://www.oreilly.com/library/view/machine-learning-design/9781098115777/ch05.html" class="bare">https://www.oreilly.com/library/view/machine-learning-design/9781098115777/ch05.html</a></p>
 </li>
 </ul>
 </div>
@@ -4178,16 +4165,16 @@ mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.</p>
 <p><a id="vaughan"></a>[Vaughan 2020] Vaughan, D.: Analytical Skills for AI and Data Science (AI Use Cases) <a href="https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/" class="bare">https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/</a></p>
 </li>
 <li>
-<p><a id="visenger-one"></a>[Visengeriyeva] Visengeriyeva, L.: Defining Jagged Technological Frontier:https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA</p>
+<p><a id="visenger-one"></a>[Visengeriyeva, JTF] Visengeriyeva, L.: Defining Jagged Technological Frontier:https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA</p>
 </li>
 <li>
-<p><a id="visenger-two"></a>[Visengeriyeva] Visengeriyeva, L.: The Productivity J-Curve of AI: <a href="https://www.perplexity" class="bare">https://www.perplexity</a></p>
+<p><a id="visenger-two"></a>[Visengeriyeva, J-Curve] Visengeriyeva, L.: The Productivity J-Curve of AI: <a href="https://www.perplexity" class="bare">https://www.perplexity</a></p>
 </li>
 <li>
-<p><a id="visenger-three"></a>[Visengeriyeva] Visengeriyeva, L.: AI Agents vs. Traditional Models <a href="https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g" class="bare">https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g</a></p>
+<p><a id="visenger-three"></a>[Visengeriyeva, AI Agents] Visengeriyeva, L.: AI Agents vs. Traditional Models <a href="https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g" class="bare">https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g</a></p>
 </li>
 <li>
-<p><a id="visenger-links"></a>[Visengeriyeva] Model Governance, Ethics, Responsible AI (Linksammlung) <a href="https://github.com/visenger/Awesome-ML-Model-Governance" class="bare">https://github.com/visenger/Awesome-ML-Model-Governance</a></p>
+<p><a id="visenger-links"></a>[Visengeriyeva, Ethics] Model Governance, Ethics, Responsible AI (Linksammlung) <a href="https://github.com/visenger/Awesome-ML-Model-Governance" class="bare">https://github.com/visenger/Awesome-ML-Model-Governance</a></p>
 </li>
 </ul>
 </div>
@@ -4220,8 +4207,8 @@ Concerns, Challenges and Best Practices <a href="https://arxiv.org/pdf/2402.1639
 </div>
 <div id="footer">
 <div id="footer-text">
- 2024.1-RC3-DE<br>
-Last updated 2024-11-12 08:34:18 UTC
+ 2024.1-RC4-DE<br>
+Last updated 2024-11-20 21:35:05 UTC
 </div>
 </div>
 </body>
