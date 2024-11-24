@@ -12,7 +12,7 @@ machine learning systems as well as generative AI and teaches how these can be c
 learn what the architecture for such hybrid systems must look like in order to ensure
 ensure scalability, maintainability and extensibility.
 
-The advanced module is structured as follows (german headlines):
+The advanced module is structured as follows (german headlines): 
 
 1. Einführung in softwarearchitekturrelevante Konzepte für Künstliche Intelligenz
 2. Compliance, Security, Alignment
