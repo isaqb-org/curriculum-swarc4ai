@@ -6,9 +6,9 @@
 | Inhalt | Empfohlene Mindestdauer (min)
 | Einführung in softwarearchitekturrelevante Konzepte für Künstliche Intelligenz | 120
 | Compliance, Security, Alignment | 120
-| Architektur von KI-Systemen | 320
+| Entwurf und Entwicklung von KI-Systemen | 320
 | Datenmanagement und Datenverarbeitung für KI-Systeme | 90
-| Skalierbarkeit und Leistungsoptimierung von KI-Systemen | 160
+| Wichtige Qualitätsmerkmale für den Betrieb von KI-Systemen | 160
 | Systemarchitekturen- und Plattformen für Generative KI-Systeme | 160
 | Fallstudien und Praxisprojekte | 110
 | Gesamt | 1080
