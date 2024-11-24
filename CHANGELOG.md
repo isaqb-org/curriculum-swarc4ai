@@ -24,22 +24,3 @@ The advanced module is structured as follows (german headlines):
 
 
 We have tried to cover the current state of modern AI systems, while leaving room for the latest developments to be integrated into the training materials. The aim of this module is not to train machine learning or GenAI experts, but rather to provide the essential skills for designing AI systems and integrating them with classical software systems. After this first release, we will continue to improve and adapt the curriculum to make it a useful module for participants.
-
-## New in 2020.9
-- Improved text in index-page
-
-## New in 2020.8
-- Move all workflows to separate repository
-- Update to Gradle Wrapper 8.8
-
-## New in 2020.7
-- Remove lots of old/unused stuff regarding remarks
-- Use Gradle Wrapper in GitHub Actions
-- Take document version from git tag
-
-## New in 2020.6
-
-- CHANGELOG can be created from file
-- Use new and simplified release action
-- Update to latest Aciidoctor versions
-- Update to latest Gradle (7.5.1)
