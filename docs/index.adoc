@@ -9,7 +9,7 @@ The terminology used in the iSAQB curricula can be found as a (freely available)
 
 == Latest Release {release-version}
 
-The advanced level curriculum **{curriculum-name} [{curriculum-short}]** is currently maintained and published in both English (EN) and German (DE). Maintainers of this curriculum and voluntary reviewers collaborate on https://github.com/isaqb-org[GitHub] to improve the curriculum.
+The advanced level curriculum **{curriculum-name} [{curriculum-short}]** is currently maintained and published German (DE). Maintainers of this curriculum and voluntary reviewers collaborate on https://github.com/isaqb-org[GitHub] to improve the curriculum.
 
 [cols="<,^,^"]
 |===
@@ -19,8 +19,8 @@ The advanced level curriculum **{curriculum-name} [{curriculum-short}]** is curr
 | link:{curriculumFileName}-de.html[HTML]
 | link:{curriculumFileName}-de.pdf[PDF]
 
-| English
-| link:{curriculumFileName}-en.html[HTML]
-| link:{curriculumFileName}-en.pdf[PDF]
+// | English
+// | link:{curriculumFileName}-en.html[HTML]
+// | link:{curriculumFileName}-en.pdf[PDF]
 
 |===
