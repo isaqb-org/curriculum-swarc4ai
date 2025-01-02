@@ -156,4 +156,148 @@ Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architek
 
 // tag::EN[]
 
+[[LG-6-1]]
+==== LG 6-1: Overview of AI integration levels
+
+The participants are familiar with various AI integration levels. These include the following levels:
+
+* Applications (e.g. coding assistants)
+* AI engineering (e.g. prompt engineering)
+* ML model development (e.g. pytorch)
+* ML infrastructure (e.g. Vector DBs).
+
+[[LG-6-2]]
+==== LG 6-2: Know libraries, interfaces and tools for integrating AI models
+
+The participants are familiar with some examples of common libraries, interfaces and tools for integrating AI models.
+
+[[LG-6-3]]
+==== LG 6-3: Integrating AI systems into the overall architecture of an IT-Landscape
+
+The participants know ways to integrate AI systems into IT landscapes at a strategic level. For example, they can use the strategic design of DDD (especially context maps) to determine and document the type and degree of integration of AI systems.
+
+[[LG-6-4]]
+==== LG 6-4: Overview of relevant quality characteristics for AI-Systems
+
+The participants understand the quality characteristics that are particularly relevant for AI-Systems. These include in particular the following quality characteristics:
+
+* Reliability
+* Scalability
+* Efficiency
+* Security
+* Maintainability
+* Interpretability
+
+[[LG-6-5]]
+==== LG 6-5: [OPTIONAL] Know evaluation frameworks for AI systems
+
+The participants are familiar with common evaluation frameworks such as LangSmith or LangFuse to deal with uncertainty and errors in AI-Systems.
+
+[[LG-6-6]]
+==== LG 6-6: [OPTIONAL] Discuss a case study with an imaginary technical aspect
+
+The participants practice and discuss weighing up integration options for AI in an existing software landscape using a case study with an imaginary technical aspect.
+
+[[LG-6-7]]
+==== LG 6-7: Basic understanding of generative AI
+
+The participants have a basic understanding of generative AI such as LLMs and Stable Diffusion.
+
+[[LG-6-8]]
+==== LG 6-8: Understanding how LLMs work
+
+The participants understand how LLMs work and can classify the associated terminology: Token, Embedding, RNN, Transformer, Attention.
+
+[[LG-6-9]]
+==== LG 6-9: Knowing familiar patterns when using LLMs
+
+The participants know familiar patterns when using LLMs. This includes the following patterns:
+* RAG and Retrieval Strategies
+* Function Calling
+* Fine-Tuning
+* Assistants
+* Agents
+
+[[LG-6-10]]
+==== LG 6-10: Know use cases for RAG (Retrieval-Augmented Generation)
+
+The participants know typical use cases for RAG such as “Talk to your Documents/Database/API”.
+
+[[LG-6-11]]
+==== LG 6-11: Know and understand selected RAG techniques
+
+The participants know a selection of the common RAG techniques such as:
+
+* Simple RAG
+* Context Enrichment Techniques
+* Fusion Retrieval
+* Intelligent Reranking
+* Query Transformations
+* Adaptive Retrieval
+* Iterative Retrieval
+* Ensemble Retrieval
+* Knowledge Graph Integration
+
+[[LG-6-12]]
+==== LG 6-12: Know types of Prompt-Engineering
+
+The participants know different types of prompt engineering, such as:
+
+* Few-shot Learning
+* Chain-of-Thought
+* Role-Playing
+
+as well as general best practices for prompting.
+
+[[LG-6-13]]
+==== LZ G-13: Overview of Agentic-Workflows
+
+The participants know what Agentic-Workflows are and are familiar with the terms reflection, tool usage, planning and multi-agent collaboration.
+
+[[LG-6-14]]
+==== LG 6-14: Know a selection of design patterns for Generative AI-Systems
+
+The participants know which design patterns exist for generative AI-Systems. They know a selection of the following patterns:
+
+* AI Query Router [Simple Router; Ranking-based Router; Learning-based Router]
+* Layered Caching Strategy Leading to Fine-Tuning
+* Multiplexing AI-Agents
+* Fine-Tuning LLMs for Multiple Tasks
+* Blending Rules-Based and Generative Approaches
+* Utilizing Knowledge Graphs with LLMs
+* Swarm of Generative AI Agents
+* Modular Monolith LLM Approach with Composability
+* Memory Cognition for LLMs
+* Red and Blue Team Dual-Model Evaluation
+
+[[LG-6-15]]
+==== LG 6-15: Know techniques for evaluating LLM Applications
+
+The participants know several techniques for evaluating LLM Applications. These can be, for example, the following techniques:
+
+* Scoring
+* Human Feedback
+* Comparative Evaluation
+* Model Based Evaluation
+
+[[LG-6-16]]
+==== LG 6-16: Overview of well-known LLMs and selection Criteria
+
+The participants know well-known LLMs such as GPT, Claude, Gemini, Llama, Mistral or Luminous, and selection Criteria for a suitable LLM.
+
+[[LG-6-17]]
+==== LG 6-17: Understanding the importance of cost management for GenAI Applications
+
+The participants understand the importance of cost management for GenAI Applications.
+
+[[LG-6-18]]
+==== LG 6-18: Give examples of common libraries, interfaces and tools related to LLM applications
+
+The participants know some examples of common libraries, interfaces and tools related to LLM applications such as OpenAI API or LangChain.
+
+[[LG-6-19]]
+==== LG 6-19: [OPTIONAL] Know Agentic AI Software Architectures, AI Agent Architecture Components and types of AI Agent Architectures
+
+The participants know Agentic AI software architectures, AI agent architecture components, types of AI agent architectures.
+
 // end::EN[]
