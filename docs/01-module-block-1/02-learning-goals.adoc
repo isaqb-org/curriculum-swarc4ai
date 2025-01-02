@@ -81,6 +81,77 @@ Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung v
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: This the first learning goal, in category xy
-tbd.
+==== LG 1-1: Being able to classify artificial intelligence and machine learning, data science, deep learning, generative AI
+
+The participants know how to define artificial intelligence and how machine learning, data science, deep learning, generative AI are classified within it.
+
+[[LG-1-2]]
+==== LG 1-2: Specifying typical general use cases for AI
+
+The participants know how to specify typical general use cases for AI. This includes use cases for e.g. image recognition & generation, speech processing, predictions, personalization and anomaly detection.
+
+[[LG-1-3]]
+==== LG 1-3: Knowing possible uses in different industries and end-user applications
+
+The participants know the possible uses in different industries, e.g. marketing, medicine, robotics and content creation. In addition, they have an overview of the possible uses of AI in end-user applications. These include, for example, voice assistants (chatbots) and recommendation systems (recommender engines).
+
+[[LG-1-4]]
+==== LG 1-4: Identify risks when using AI
+
+The participants can identify risks that arise when using AI. These can be, for example, the following risks:
+
+* Hallucinations
+* Bias
+* (un-)fairness
+* social risks such as deepfakes, AI-enabled cyberattacks, safety risks in critical systems, social manipulation, intellectual property issues, etc.
+
+[[LG-1-5]]
+==== LG 1-5: Understanding differences to traditional software
+
+The participants understand the differences between AI systems and traditional software:
+
+* Data-driven (in ML) – data-centric instead of code-centric development
+* Probabilistic results (non-deterministic behavior)
+* Statistical validation
+* Experimental design: support for rapid iteration and testing of models.
+
+* Model complexity and interpretability: ML models, especially deep learning models, can be extremely complex. The "black box" character makes interpretability and explainability more difficult.
+* Debugging and testing are more complex due to non-determinism.
+* Model decay: Continuous monitoring and retraining are necessary to maintain the performance of the models.
+
+* AI-specific regulations of industries and at EU level must be taken into account.
+
+* Interoperability: Seamless integration into existing systems and technology stacks.
+
+[[LG-1-6]]
+==== LG 1-6: Decide whether to solve problems using AI or classic software development
+
+Participants can decide and explain whether and why a problem should be solved using AI or classic software development.
+
+[[LG-1-7]]
+==== LG 1-7: Know roles and their tasks as well as their collaboration in the context of AI
+
+The participants know typical roles and their tasks in these contexts. The roles include in particular:
+
+Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Engineer, AI Architect,
+Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist and ML Researcher.
+
+Participants also know how these roles could work together in a team (team topologies for ML teams).
+
+[[LG-1-8]]
+==== LG 1-8: Identify and prioritize AI use cases
+
+Participants can identify and prioritize AI use cases.
+
+[[LG-1-9]]
+==== LG 1-9: Know the strengths and limitations of AI
+
+Participants understand the strengths and limitations of AI and know the so-called "Jagged Technological Frontier".
+
+[[LG-1-10]]
+==== LG 1-10: Know the concept of the productivity J-curve in connection with AI technology
+
+This phenomenon helps to understand why companies can initially experience a decline in productivity when implementing AI, but this can be followed by productivity gains as they develop further.
+
+
 // end::EN[]

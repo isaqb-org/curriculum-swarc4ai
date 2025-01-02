@@ -10,9 +10,9 @@ KI, Generative KI, Machine Learning, Symbolische KI, Evolutionäre Algorithmen, 
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 0 min
 |===
 
-=== Terms and Principles
-Term 1, Term 2, Term 3
+AI, Generative AI, Machine Learning, Symbolic AI, Evolutionary Algorithms, Statistical Learning, Deep Learning, LLMs, Hallucination, Bias, Jagged Technological Frontier, Data Preparation, Model Training, Model Evaluation, Feature Engineering, Data Science, Data Engineering
+
 // end::EN[]
