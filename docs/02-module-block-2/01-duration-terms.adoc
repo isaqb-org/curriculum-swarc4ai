@@ -10,10 +10,10 @@ EU AI Act, Datenschutz, Urheberrecht, Lizenz, Open (Source), AI Security, Jailbr
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+EU AI Act, Data Protection, Copyright, License, Open (Source), AI Security, Jailbreak, Adversarial Attack, Data Poisoning, Model Inversion & Extraction, AI Safety, AI Ethics, AI Alignment, Model and Data Documentation, Transparency Obligation, Human Oversight, Data Governance, AI Governance, AI Systems by Risk Levels (Prohibited, High-Risk, Limited Risk, Low-Risk)
 
 // end::EN[]
