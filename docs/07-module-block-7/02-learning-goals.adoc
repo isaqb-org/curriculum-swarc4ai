@@ -10,4 +10,6 @@
 
 // tag::EN[]
 
+==== LG 7-1: [OPTIONAL] Apply the acquired knowledge in real scenarios using case studies and practical projects
+
 // end::EN[]
