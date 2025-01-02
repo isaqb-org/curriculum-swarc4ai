@@ -48,11 +48,46 @@ Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Date
 // end::DE[]
 
 // tag::EN[]
+
 [[LG-4-1]]
-==== LG 4-1: TBD
-tbd.
+==== LG 4-1: Acquiring and labeling data
+
+The participants have an overview of various methods for acquiring data and labeling data.
 
 [[LG-4-2]]
-==== LG 4-2: TBD
-tbd.
+==== LG 4-2: Knowing common platforms for publicly accessible data
+
+The participants can name common platforms for publicly accessible data.
+
+[[LG-4-3]]
+==== LG 4-3: Overview of relevant tools for data labeling
+
+The participants are familiar with relevant tools for data labeling such as CVAT, Amazon Mechanical Turk.
+
+[[LG-4-4]]
+==== LG 4-4: Designing efficient Data- Pipelines and Architectures
+
+The participants have an understanding of the design of efficient data pipelines and architectures, the consideration of data quality as well as storage solutions and their management. In addition, the participants know architectural patterns for data engineering pipelines and ETL processes.
+
+[[LG-4-5]]
+==== LG 4-5: Know strategies for data aggregation, cleansing, transformation, enrichment and augmentation
+
+The participants know strategies for data aggregation, cleansing, transformation, enrichment and augmentation.
+
+[[LG-4-6]]
+==== LG 4-6: Overview of tools for data engineering pipelines
+
+The participants have an overview of relevant tools for data engineering pipelines such as Apache Spark and Apache Flink.
+
+[[LG-4-7]]
+==== LG 4-7: Know options for storing data
+
+The participants know various options for storing data and their advantages and disadvantages. The possibilities include the following technologies:
+
+* CSV files
+* Column-oriented files (Columnar Format)
+* Relational and NoSQL databases
+* Data Warehouses
+* Data Lakes
+
 // end::EN[]

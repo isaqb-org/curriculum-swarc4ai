@@ -10,9 +10,10 @@ Datenakquise, Labelling, Daten-Pipeline, ETL-Prozesse, Datenaggregation, Datenbe
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 90 min | Practice time: 0 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Data Acquisition, Labeling, Data-Pipeline, ETL-Process, Data-Aggregation, Data-Cleansing, Transformation, Augmentation, Files, RDBMS, NoSQL, Data Products, Data Contracts, Data Architectures: Data Warehouse, Data Lake, Data Mesh
+
 // end::EN[]
