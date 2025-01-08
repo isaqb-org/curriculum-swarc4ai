@@ -1,0 +1,35 @@
+// tag::DE[]
+=== Voraussetzungen
+
+Teilnehmer:innen **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+
+
+* Ein grundlegendes Verständnis von Künstlicher Intelligenz, Machine Learning und Data Science
+* Vertrautheit mit Machine Learning-Methoden, wie Supervised Learning, Unsupervised Learning und Reinforcement Learning, einschließlich Klassifikation, Clustering, Regression und Dimensionality Reduction
+* Grundkenntnisse über gängige Algorithmen, wie z. B. lineare und logistische Regression, Entscheidungsbäume, Random Forests, Support Vector Machines, K-Means Clustering sowie neuronale Netze und Deep Learning
+* Ein Verständnis der Modellevaluation, einschließlich Cross-Validation, relevanter Metriken (Accuracy, Precision, Recall, F1-Score) und des Bias-Variance Tradeoffs
+* Erfahrung mit typischen Frameworks wie scikit-learn, TensorFlow und PyTorch
+* Vertrautheit mit Jupyter Notebooks oder ähnlichen Werkzeugen zur schnellen Anwendungsentwicklung (Rapid Application Development, RAD)
+* Ein grundlegendes Verständnis der technischen Verfahren hinter Künstlicher Intelligenz, einschließlich Maschinellen Lernens (insbesondere Deep Learning und LLMs) sowie Ansätzen im Bereich Natural Language Processing (NLP) und Transformationsmodellen
+* Praktische Erfahrung im Training von Künstlichen Intelligenz-Modellen
+
+
+// end::DE[]
+
+// tag::EN[]
+=== Prerequisites
+
+Participants **should** have the following prerequisite knowledge:
+
+- Prerequisite 1
+- Prerequisite 2, etc.
+
+Knowledge in the following areas may be **helpful** for understanding some concepts:
+
+- Area 1:
+  * Knowledge 1
+  * Experience 2
+  * Knowledge 3
+  * Experience 4
+  * Understanding 5
+// end::EN[]

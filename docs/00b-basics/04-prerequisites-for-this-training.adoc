@@ -19,17 +19,15 @@ Teilnehmer:innen **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 // tag::EN[]
 === Prerequisites
 
-Participants **should** have the following prerequisite knowledge:
+Participants should have the following knowledge and/or experience:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+-	A basic understanding of artificial intelligence, machine learning and data science
+-	Familiarity with machine learning methods, such as supervised learning, unsupervised learning and reinforcement learning, including classification, clustering, regression and dimensionality reduction
+-	Basic knowledge of common algorithms, such as linear and logistic regression, decision trees, random forests, support vector machines, K-Means clustering, neural networks and deep learning
+-	An understanding of model evaluation, including cross-validation, relevant metrics (accuracy, precision, recall, F1 score) and the bias-variance tradeoff
+-	Experience with typical frameworks such as scikit-learn, TensorFlow and PyTorch
+-	Familiarity with Jupyter notebooks or similar tools for rapid application development (RAD)
+-	A basic understanding of the technical processes behind artificial intelligence, including machine learning (especially deep learning and LLMs) as well as natural language processing (NLP) approaches and transformation models
+-	Practical experience in training artificial intelligence models
 
-Knowledge in the following areas may be **helpful** for understanding some concepts:
-
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
 // end::EN[]

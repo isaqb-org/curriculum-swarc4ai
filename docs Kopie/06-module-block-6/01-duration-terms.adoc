@@ -1,0 +1,19 @@
+// tag::DE[]
+|===
+| Dauer: 160 Min. | Übungszeit: 30 Min.
+|===
+
+=== Begriffe und Konzepte
+Generative KI, LLMs, MLflow, Managed MLflow, Azure Machine Learning, Metaflow, Generative KI, LLM, (Stable) Diffusion, Vektor-DB, Embedding, RNN, Transformer, RAG, Agentic Workflows etc.
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+=== Terms and Principles
+Term 1, Term 2, Term 3
+
+// end::EN[]

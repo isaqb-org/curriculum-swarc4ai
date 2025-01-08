@@ -1,0 +1,19 @@
+// tag::DE[]
+|===
+| Dauer: 160 Min. | Übungszeit: 30 Min.
+|===
+
+=== Begriffe und Konzepte
+Qualitätsmerkmale, Skalierbarkeit, Leistungsoptimierung, Monitoring, Logging, Feedback, FinOps für KI-Plattformen
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+=== Terms and Principles
+Term 1, Term 2, Term 3
+
+// end::EN[]

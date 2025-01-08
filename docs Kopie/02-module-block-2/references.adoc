@@ -1,0 +1,10 @@
+=== {references}
+
+<<engler>>, <<nist>>, <<hall>>, <<masood>>, <<csiro>>,
+<<pruksachatkun>>, <<chen>>, <<atlas>>, <<visenger-links>>,
+<<eu-ai-act>>, <<hotz>>, <<bhajaria>>, <<jarmul>>, <<molnar>>
+
+// tag::DE[]
+// end::DE[]
+// tag::EN[]
+// end::EN[]

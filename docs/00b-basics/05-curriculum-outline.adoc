@@ -11,7 +11,7 @@ Dieser Abschnitt skizziert damit auch die zu erwerbenden Kenntnisse in entsprech
 // end::DE[]
 
 // tag::EN[]
-=== Structure of the Curriculum
+=== Structure of the curriculum
 
 The individual sections of the curriculum are described according to the following structure:
 

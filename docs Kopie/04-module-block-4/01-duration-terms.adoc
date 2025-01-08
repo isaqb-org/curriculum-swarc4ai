@@ -1,0 +1,18 @@
+// tag::DE[]
+|===
+| Dauer: 90 Min. | Übungszeit: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+Datenakquise, Labelling, Daten-Pipeline, ETL-Prozesse, Datenaggregation, Datenbereinigung, Transformation, Augmentierung, Dateien, RDBMS, NoSQL, Data Products, Data Contracts, Data Architectures: Data Warehouse, Data Lake, Data Mesh
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+=== Terms and Principles
+Term 1, Term 2, Term 3
+// end::EN[]

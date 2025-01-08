@@ -1,0 +1,19 @@
+// tag::DE[]
+|===
+| Dauer: 120 Min. | Übungszeit: 30 Min.
+|===
+
+=== Begriffe und Konzepte
+EU AI Act, Datenschutz, Urheberrecht, Lizenz, Open (Source), AI Security, Jailbreak,Adversarial Attack, Data Poisoning, Model Inversion & Extraction, AI Safety, AI Ethics, AI Alignment, Model und Data Dokumentation, Transparenzpflicht, Human Oversight, Data Governance, AI Governance, AI Systems by Risk Levels (Prohibited, High-Risk, Limited Risk, Low-Risk)
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+=== Terms and Principles
+Term 1, Term 2, Term 3
+
+// end::EN[]

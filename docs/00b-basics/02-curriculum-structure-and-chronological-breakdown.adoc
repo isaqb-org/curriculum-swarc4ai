@@ -22,16 +22,15 @@
 
 [cols="<,>", options="header"]
 |===
-| Content
-| Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
-| |
-| Total | 960 (16h)
+| Contents | Recommended minimum duration (min)
+| Introduction to software architecture-relevant concepts for artificial intelligence | 120
+| Compliance, security, alignment | 120
+| Design and development of AI systems | 320
+| Data management and data processing for AI systems | 90
+| Important quality features for the operation of AI systems | 160
+| System architectures and platforms for generative AI systems | 160
+| Case studies and practical projects | 110
+| Total | 1080
 
 |===
 

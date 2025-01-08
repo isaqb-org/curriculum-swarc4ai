@@ -1,0 +1,147 @@
+// header file for curriculum section "References"
+// (c) iSAQB e.V. (https://isaqb.org)
+// ===============================================
+
+[bibliography]
+== {references}
+
+// tag::DE[]
+Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
+// end::DE[]
+
+// tag::EN[]
+This section contains references that are cited in the curriculum.
+// end::EN[]
+
+**A**
+
+- [[[agrawal,Agrawal et al.]]] A. Agrawal, J. Gans, A. Goldfarb:  Prediction Machines: The Simple Economics of Artificial Intelligence https://www.predictionmachines.ai/
+- [[[alake, Alake]]] R. Alake: ML Pipeline Architecture Design Patterns (With 10 Real-World Examples) https://neptune.ai/blog/ml-pipeline-architecture-design-patterns
+- [[[atlas, ATLAS]]] ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems. https://github.com/mitre/advmlthreatmatrix
+
+**B**
+
+- [[[bahree,Bahree 2024]]] Bahree, A.: Generative AI in Action https://www.manning.com/books/generative-ai-in-action
+- [[[bhajaria,Bhajaria 2022]]] N. Bhajaria: Data Privacy - A runbook for engineers https://www.manning.com/books/data-privacy
+- [[[bornstein,Bornstein et al.]]] M. Bornstein, J. Li, M. Casado: Emerging Architectures for Modern Data Infrastructure https://a16z.com/emerging-architectures-for-modern-data-infrastructure/
+- [[[bornstein-radovanic]]] M. Bornstein and R. Radovanovic: Emerging Architectures for LLM Applications https://a16z.com/emerging-architectures-for-llm-applications/
+- [[[burkov,Burkov 2019]]] Burkov, A.: The Hundred-Page Machine Learning Book https://themlbook.com/
+
+**C**
+
+- [[[cdteliot,Cdteliot]]] AI Agents: Understanding Their Impact and Functions https://www.perplexity.ai/page/ai-agents-understanding-their-bL1Mg8FeStyUB4o9u3HT5Q
+- [[[chen, Chen et al. 2022]]] C. Chen, N. R. Murphy, K. Parisa, D. Sculley, T. Underwood: Reliable Machine Learning https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/
+- [[[chong,Chong et al.]]] J. Chong, Y. C. Chang: How to Lead in Data Science https://www.manning.com/books/how-to-lead-in-data-science
+- [[[crowe, Crowe et al. 2024]]] R. Crowe, H. Hapke, E. Caveness, D. Zhu: Machine Learning Production Systems https://learning.oreilly.com/library/view/machine-learning-production/9781098156008/
+- [[[csiro,CSIRO et al. 2023]]] CSIRO, Q. Lu, J. Wittle, X. Xu, L. Xhu: Responsible AI: Best Practices for Creating Trustworthy AI Systems https://www.oreilly.com/library/view/responsible-ai-best/9780138073947/
+
+**D**
+
+- [[[dehghani,Dehghani]]] Z. Dehghani: Data Mesh https://learning.oreilly.com/library/view/data-mesh/9781492092384/
+- [[[dellacqua,Dell'Acqua 2022]]] Fabrizio Dell'Acqua et al.: Paper: “Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality” https://www.hbs.edu/ris/Publication%20Files/24-013_d9b45b68-9e74-42d6-a1c6-c72fb70c7282.pdf
+- [[[dibia,Dibia 2025]]] V. Dibia with C. Wang: Multi-Agent Systems with AutoGen https://www.manning.com/books/multi-agent-systems-with-autogen
+
+**E**
+
+- [[[engler,Engler et al.]]] M. Engler, N. Dhamani: Generative AI. Misuse and Adversarial Attacks. https://learning.oreilly.com/library/view/introduction-to-generative/9781633437197/OEBPS/Text/05.html
+- [[[eu-ai-act, EU AI Act]]] EU AI Act https://artificialintelligenceact.eu/de/ai-act-explorer/
+
+**F**
+
+- [[[ford,Ford et al.]]] N. Ford, M. Richards, P. Sadalage, Z. Dehghani Software Architecture: The Hard Parts. https://learning.oreilly.com/library/view/software-architecture-the/9781492086888/
+- [[[foster,Foster 2023]]] D. Foster: Generative Deep Learning, 2nd Edition https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/
+
+**G**
+
+- [[[geron,Géron 2022]]] Aurélien Géron: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
+- [[[gradientflow,Gradient Flow]]] LLM Routers Unpacked https://gradientflow.com/llm-routers-unpacked/
+
+**H**
+
+- [[[hall,Hall et al. 2023]]] P. Hall, J. Curtis, P. Pandey: Machine Learning for High-Risk Applications https://www.oreilly.com/library/view/machine-learning-for/9781098102425/
+- [[[harvard,Harvard et al. 2024]]] Harvard Business Review, E. Mollick, D. De Cremer, T. Neeley, P. Sinha: Generative AI: The Insights You Need. (Generative AI Use Cases) https://learning.oreilly.com/library/view/generative-ai-the/9781647826406/
+- [[[haviv,Haviv et al. 2023]]] Y. Haviv, N. Gift: Implementing MLOps in the Enterprise https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/
+- [[[heiland,Heiland et al. 2023]]] L. Heiland, M. Hauser, J. Bogner: Design Patterns for AI-based Systems: A Multivocal Literature Review and Pattern Repository. 2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN). IEEE, 2023.
+- [[[hotz,Hotz, Best Practices]]] N. Hotz: 15 Data Science Documentation Best Practices https://www.datascience-pm.com/documentation-best-practices/
+- [[[hotz-two,Hotz, Life Cycle]]] N. Hotz: What is a Data Science Life Cycle? https://www.datascience-pm.com/data-science-life-cycle/
+- [[[hotz-three,Hotz, TDSP]]] N. Hotz: What is TDSP https://www.datascience-pm.com/tdsp/
+- [[[huyen,Huyen 2022]]] C. Huyen: Designing Machine Learning Systems https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/
+
+**J**
+
+- [[[jarmul,Jarmul 2023]]] K. Jarmul: Practical Data Privacy https://www.oreilly.com/library/view/practical-data-privacy/9781098129453/
+- [[[jones,Jones]]] A. Jones: Driving Data Quality with Data Contracts https://learning.oreilly.com/library/view/driving-data-quality/9781837635009/
+
+**K**
+
+- [[[kelleher,Kelleher 2015]]] John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy: Fundamentals of Machine Learning for Predictive Data Analytics https://mitpress.mit.edu/9780262029445/fundamentals-of-machine-learning-for-predictive-data-analytics
+- [[[koc,Koc]]] V. Koc: Generative AI Design Patterns: A Comprehensive Guide https://towardsdatascience.com/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0
+- [[[kumara,Kumara et al.]]] I. Kumara, R., D. Di Nucci, W. J. Van Den Heuvel, D. A. Tamburri: Requirements and Reference Architecture for MLOps:Insights from Industry https://www.techrxiv.org/doi/full/10.36227/techrxiv.21397413.v1
+
+**L**
+
+- [[[lakshmanan, Lakshmanan et al.]]] V. Lakshmanan, S Robinson, M. Munn: Machine Learning Design Patterns https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/
+
+**M**
+
+- [[[masood,Masood et al. 2023]]] A. Masood, H. Dawe: Responsible AI in the Enterprise https://www.oreilly.com/library/view/responsible-ai-in/9781803230528/
+- [[[mlsoftwarearchitecture,ML software architecture]]] ML software architecture https://appliedaiinitiative.notion.site/ML-software-architecture-790b9f5fcfcf408884287acb82f4d75e
+- [[[molnar,Molnar 2024]]] C. Molnar: Interpretable Machine Learning, 2nd ed. https://christophm.github.io/interpretable-ml-book/
+
+**N**
+
+- [[[nahar,Nahar et al.]]] N. Nahar, et al.: A meta-summary of challenges in building products with ml components–collecting experiences from 4758+ practitioners. 2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN). IEEE, 2023.
+- [[[nirdiamant,NirDiamant]]] RAG Techniques https://github.com/NirDiamant/RAG_Techniques
+- [[[nist, Nist]]] NIST AI Risk Management Framework. https://www.nist.gov/itl/ai-risk-management-framework
+
+**O**
+
+- [[[osipov, Osipov 2022]]] C. Osipov: MLOps Engineering at Scale https://www.manning.com/books/mlops-engineering-at-scale
+
+**P**
+
+- [[[parnin,Parnin]]] Building Your Own Product Copilot: Challenges, Opportunities, and Needs https://arxiv.org/pdf/2312.14231v1
+- [[[pruksachatkun,Pruksachatkun et al. 2023]]] Y. Pruksachatkun, M. Mcateer, S. Majudmar: Practicing Trustworthy Machine Learning https://www.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/
+
+**R**
+
+- [[[reis,Reis et al.]]] J. Reis, M. Housley: Fundamentals of Data Engineering https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/
+- [[[roser,Roser 2022]]] Roser, Max: Brief History of AI: https://ourworldindata.org/brief-history-of-ai
+
+**S**
+
+- [[[salama,Salama et al.]]] K. Salama, J. Kazmierczak, D. Schut: Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning. https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
+- [[[saltz,Saltz]]] J. Saltz: The GenAI Life Cycle https://www.datascience-pm.com/the-genai-life-cycle/
+- [[[sanderson,Sanderson et al.]]] C. Sanderson, M. Freeman: Data Contracts https://learning.oreilly.com/library/view/data-contracts/9781098157623/
+- [[[sarkis,Sarkis]]] A. Sarkis: Training Data for Machine Learning https://learning.oreilly.com/library/view/training-data-for/9781492094517/
+- [[[savarese,Savarese]]] S. Savarese: How AI Agents Will Revolutionize the AI Enterprise https://blog.salesforceairesearch.com/how-ai-agents-will-revolutionize-the-ai-enterprise/
+- [[[serban,Serban]]] A. Serban, J. Visser: "Adapting software architectures to machine learning challenges." 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). IEEE, 2022.
+- [[[serra,Serra]]] J. Serra: Deciphering Data Architectures https://learning.oreilly.com/library/view/deciphering-data-architectures/9781098150754/
+- [[[spirin,Spirin et al.]]] N. Spirin, M. Balint: Mastering LLM Techniques: LLMOps https://developer.nvidia.com/blog/mastering-llm-techniques-llmops/
+- [[[studer,Studer et al.]]] S. Studer et al.: Towards CRISP-ML(Q): A Machine Learning Process Model with Quality Assurance Methodology https://arxiv.org/abs/2003.05155
+
+**T**
+
+- [[[tan,Tan et al.]]] D. Tan, A. Leung, D. Colls: Effective Machine Learning Teams https://learning.oreilly.com/library/view/effective-machine-learning/9781098144623/
+- [[[tanweihao, Tan Wei Hao et al. 2024]]] B. Tan Wei Hao, S. Padmanabhan, V. Mallya: Design a Machine Learning System (From Scratch) https://www.manning.com/books/design-a-machine-learning-system-design-from-scratch
+- [[[tdcox,tdcox]]] MLOps Roadmap 2024 - DRAFT https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2024/MLOpsRoadmap2024.md
+- [[[treveil,Treveil et al. 2020]]] M. Treveil, N. Omont, C. Stenac, K. Lefevre, D. Phan, J. Zentici, A. Lavoillotte, M. Miyazaki, L. Heidmann: Introducing MLOps https://www.oreilly.com/library/view/introducing-mlops/9781492083283/
+- [[[tuberlin,TU Berlin]]] Architecture of Machine Learning Systems (TU Berlin, SS 2024): https://mboehm7.github.io/teaching/ss24_amls/index.htm
+
+**V**
+
+- [[[vaughan,Vaughan 2020]]] Vaughan, D.: Analytical Skills for AI and Data Science (AI Use Cases) https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/
+- [[[visenger-one,Visengeriyeva, JTF]]] Visengeriyeva, L.: Defining Jagged Technological Frontier:https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA
+- [[[visenger-two,Visengeriyeva, J-Curve]]] Visengeriyeva, L.: The Productivity J-Curve of AI: https://www.perplexity
+- [[[visenger-three,Visengeriyeva, AI Agents]]] Visengeriyeva, L.: AI Agents vs. Traditional Models https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g
+- [[[visenger-links,Visengeriyeva, Ethics]]] Model Governance, Ethics, Responsible AI (Linksammlung) https://github.com/visenger/Awesome-ML-Model-Governance
+
+**W**
+
+- [[[wang,Wang et al. 2024]]] C. Wang et al.: Quality Assurance for Artificial Intelligence: A Study of Industrial
+Concerns, Challenges and Best Practices https://arxiv.org/pdf/2402.16391
+- [[[wilson, Wilson 2022]]] B. Wilson: Machine Learning Engineering in Action https://www.manning.com/books/machine-learning-engineering-in-action
+
+**Z**
+
+- [[[zaharia,Zaharia et al.]]] M. Zaharia et al.: The Shift from Models to Compound AI Systems https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/

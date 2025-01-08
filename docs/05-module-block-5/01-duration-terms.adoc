@@ -10,10 +10,10 @@ Qualitätsmerkmale, Skalierbarkeit, Leistungsoptimierung, Monitoring, Logging, F
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 160 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Quality features, scalability, performance optimization, monitoring, logging, feedback, FinOps for AI platforms
 
 // end::EN[]

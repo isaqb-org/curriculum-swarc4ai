@@ -1,0 +1,58 @@
+=== {learning-goals}
+
+// tag::DE[]
+
+[[LZ-4-1]]
+==== LZ 4-1: Daten akquirieren und labeln
+
+Die Teilnehmer:innen überblicken verschiedene Methoden, um Daten zu akquirieren und Daten zu labeln.
+
+[[LZ-4-2]]
+==== LZ 4-2: Gängige Plattformen für öffentlich zugängliche Daten kennen
+
+Die Teilnehmer:innen können gängige Plattformen für öffentlich zugängliche Daten nennen.
+
+[[LZ-4-3]]
+==== LZ 4-3: Relevante Werkzeuge für das Daten-Labeln überblicken
+
+Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispielsweise CVAT, Amazon Mechanical Turk.
+
+[[LZ-4-4]]
+==== LZ 4-4: Effiziente Datenpipelines und -architekturen entwerfen
+
+Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität
+sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:innen Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse.
+
+
+[[LZ-4-5]]
+==== LZ 4-5: Strategien für Datenaggregation, -bereinigung, -transformation, -anreicherung und -augmentierung kennen
+
+Die Teilnehmer:innen kennen Strategien für Datenaggregation, -bereinigung, -transformation, -anreicherung und -augmentierung.
+
+[[LZ-4-6]]
+==== LZ 4-6: Werkzeuge für Data Engineering Pipelines überblicken
+
+Die Teilnehmer:innen überblicken relevante Werkzeuge für Data Engineering Pipelines wie beispielsweise Apache Spark und Flink.
+
+[[LZ-4-7]]
+==== LZ 4-7: Möglichkeiten zur Speicherung der Daten kennen
+
+Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Daten sowie deren Vor- und Nachteile. Zu den Möglichkeiten gehören die folgenden Technologien:
+
+* CSV-Dateien
+* Spaltenorientierte Dateien
+* Relationale und NoSQL-Datenbanken
+* Data Warehouses
+* Data Lakes
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: TBD
+tbd.
+
+[[LG-4-2]]
+==== LG 4-2: TBD
+tbd.
+// end::EN[]

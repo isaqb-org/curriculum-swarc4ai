@@ -1,0 +1,9 @@
+=== {references}
+
+<<sarkis>>, <<serra>>, <<dehghani>>, <<reis>>, <<bornstein>>,
+<<ford>>, <<bhajaria>>, <<sanderson>>, <<jones>>
+
+// tag::DE[]
+// end::DE[]
+// tag::EN[]
+// end::EN[]

@@ -1,0 +1,38 @@
+// tag::DE[]
+=== Struktur des Lehrplans und empfohlene zeitliche Aufteilung
+
+[cols="<,>", options="header"]
+|===
+| Inhalt | Empfohlene Mindestdauer (min)
+| Einführung in softwarearchitekturrelevante Konzepte für Künstliche Intelligenz | 120
+| Compliance, Security, Alignment | 120
+| Entwurf und Entwicklung von KI-Systemen | 320
+| Datenmanagement und Datenverarbeitung für KI-Systeme | 90
+| Wichtige Qualitätsmerkmale für den Betrieb von KI-Systemen | 160
+| Systemarchitekturen- und Plattformen für Generative KI-Systeme | 160
+| Fallstudien und Praxisprojekte | 110
+| Gesamt | 1080
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Curriculum Structure and Recommended Durations
+
+[cols="<,>", options="header"]
+|===
+| Content
+| Recommended minimum duration (minutes)
+| 1. Introduction | 180
+| 2. xz | 150
+| 3. Lots of theory | 120
+| 4. xy and example | 180
+| 5. abc und d | 210
+| 6. Final example | 120
+| |
+| Total | 960 (16h)
+
+|===
+
+// end::EN[]

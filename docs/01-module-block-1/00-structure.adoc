@@ -8,7 +8,7 @@
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== Introduction to software architecture-relevant concepts for artificial intelligence
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
