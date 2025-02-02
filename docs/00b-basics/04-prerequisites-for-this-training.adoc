@@ -21,13 +21,14 @@ Teilnehmer:innen **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
 Participants should have the following knowledge and/or experience:
 
--	A basic understanding of artificial intelligence, machine learning and data science
--	Familiarity with machine learning methods, such as supervised learning, unsupervised learning and reinforcement learning, including classification, clustering, regression and dimensionality reduction
--	Basic knowledge of common algorithms, such as linear and logistic regression, decision trees, random forests, support vector machines, K-Means clustering, neural networks and deep learning
--	An understanding of model evaluation, including cross-validation, relevant metrics (accuracy, precision, recall, F1 score) and the bias-variance tradeoff
--	Experience with typical frameworks such as scikit-learn, TensorFlow and PyTorch
--	Familiarity with Jupyter notebooks or similar tools for rapid application development (RAD)
--	A basic understanding of the technical processes behind artificial intelligence, including machine learning (especially deep learning and LLMs) as well as natural language processing (NLP) approaches and transformation models
--	Practical experience in training artificial intelligence models
+* A basic understanding of artificial intelligence, machine learning and data science
+* A basic understanding of software architecture, DevOps and the design of software systems and APIs
+* A basic knowledge of the Python programming language and its use for AI problems
+* Overview of common libraries such as scikit-learn, TensorFlow and PyTorch
+
+Knowledge in the following areas can be helpful for understanding some concepts
+
+* Experience with the command line interface on Linux systems
+* Knowledge from the iSAQB CPSA Foundation level training for a general understanding of software architecture, design patterns and methodologies
 
 // end::EN[]
