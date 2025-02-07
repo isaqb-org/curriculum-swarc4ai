@@ -63,7 +63,7 @@ Die Teilnehmer:innen kennen gängige Plattformen für die Modellbereitstellung, 
 [[LZ-5-11]]
 ==== LZ 5-11: Werkzeuge für das Erstellen von POCs von KI-Systemen einordnen
 
-Die Teilnehmer:innen können gängige Werkzeuge für das Erstellen von POCs von KI-Systemen, wie beispielsweise Gradi, nennen und verstehen die konzeptionelle Funktionsweise.
+Die Teilnehmer:innen können gängige Werkzeuge für das Erstellen von POCs von KI-Systemen, wie beispielsweise Gradio, nennen und verstehen die konzeptionelle Funktionsweise.
 
 
 [[LZ-5-12]]
@@ -211,7 +211,7 @@ The participants are familiar with common platforms for model provision, such as
 [[LG-5-11]]
 ==== LG 5-11: Classify tools for the creation of POCs of AI systems
 
-Participants will be able to name common tools for creating POCs for AI systems, such as Gradi, and understand how they work conceptually.
+Participants will be able to name common tools for creating POCs for AI systems, such as Gradio, and understand how they work conceptually.
 
 [[LG-5-12]]
 ==== LG 5-12: Knowing the deployment options of AI models
