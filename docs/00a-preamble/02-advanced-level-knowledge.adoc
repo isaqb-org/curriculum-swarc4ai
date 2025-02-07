@@ -10,7 +10,7 @@ CPSA-A-Absolventen können:
 // end::DE[]
 
 // tag::EN[]
-=== What can Advanced Level (CPSA-A) graduates do?
+=== What are Advanced Level (CPSA-A) graduates qualified for?
 CPSA-A graduates can:
 
 -	design medium-sized to large IT systems independently and methodically

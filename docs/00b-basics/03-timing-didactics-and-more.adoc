@@ -23,7 +23,7 @@ Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließ
 // tag::EN[]
 === Duration, didactics and further details
 
-The duration of a training course on the SWARC4AI module should at least 3 days, but can be longer. Providers may differ in terms of duration, didactics, type and structure of the exercises and the detailed course structure. In particular, syllabus leaves the type of examples and exercises completely open. Licensed training courses on SWARC4AI contribute to admission to the final Advanced Level certification examination (following credit points):
+The duration of a training course on the SWARC4AI module should be at least 3 days, but can be longer. Providers may differ in terms of duration, didactics, type and structure of the exercises and the detailed course structure. In particular, syllabus leaves the type of examples and exercises completely open. Licensed training courses on SWARC4AI contribute to admission to the final Advanced Level certification examination (following credit points):
 
 [stripes=none, frame=none, grid=rows]
 |===

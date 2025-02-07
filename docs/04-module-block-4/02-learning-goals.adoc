@@ -66,12 +66,12 @@ The participants know relevant tools for data labeling such as CVAT, Amazon Mech
 [[LG-4-4]]
 ==== LG 4-4: Designing efficient data pipelines and architectures
 
-The participants have an understanding of the design of efficient data pipelines and
-the participants will learn about data architectures, the consideration of data quality and storage solutions and their management. To this end, participants are familiar with architectural patterns for data engineering pipelines and ETL processes.
+The participants have an understanding of the design of efficient data pipelines and data architectures, and they understand how to consider data quality for storage solutions and their management. 
+To this end, participants are familiar with architectural patterns for data engineering pipelines and ETL processes.
 
 
 [[LG-4-5]]
-==== LG 4-5: Know strategies for data aggregation, cleansing, transformation, enrichment and -augmentation
+==== LG 4-5: Know strategies for data aggregation, cleansing, transformation, enrichment and augmentation
 
 The participants know strategies for data aggregation, cleansing, transformation, enrichment and augmentation.
 

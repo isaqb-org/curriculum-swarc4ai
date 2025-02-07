@@ -143,12 +143,12 @@ The participants understand the objectives and regulations of the EU AI Act and 
 -	Automatic recording/logging of events in the AI system.
 -	Provision of clear and understandable information for users
 -	Implementation of measures for human supervision
--	Ensuring an appropriate level of accuracy/accuracy and robustness
+-	Ensuring an appropriate level of accuracy and robustness
 -	Implementation of cyber security measures
 
 
 [[LG-2-3]]
-==== LG 2-3: Perform classification of AI systems according to EU AI Act risk level
+==== LG 2-3: Perform classification of AI systems according to the EU AI Act risk level
 
 The participants know the classification of AI systems according to the EU AI Act risk levels (prohibited, high-risk, limited-risk, low-risk) and know which regulatory requirements apply in each case.
 
@@ -156,7 +156,7 @@ The participants know the classification of AI systems according to the EU AI Ac
 [[LG-2-4]]
 ==== LG 2-4: Classify copyright issues of AI-generated content
 
-The participants understand the copyright issues for AI-generated content and know the effects on certain software license models and possible ways of dealing with them.
+The participants understand the copyright issues for AI-generated content, know the effects on certain software license models and can devise potential solutions for these issues.
 
 
 [[LG-2-5]]
@@ -192,7 +192,7 @@ Participants will be familiar with possible security pitfalls and typical types 
 [[LG-2-9]]
 ==== LG 2-9: Know and apply strategies for AI risk minimization
 
-Participants know how develop and apply strategies to minimize AI risks. In particular, the participants know the following strategies:
+Participants know how to develop and apply strategies to minimize AI risks. In particular, the participants know the following strategies:
 
 -	Strengthening robustness through extensive testing
 -	Fault-tolerant AI systems
@@ -204,7 +204,7 @@ Participants know how develop and apply strategies to minimize AI risks. In part
 [[LG-2-10]]
 ==== LG 2-10: Apply options for protection against attacks (AI security)
 
-Participants will be familiar with various options for protecting against attacks (AI security) and, in particular, they will be familiar with options for integrating security standards into the architecture and can take these into account in the design.
+Participants will be familiar with various options for protecting against attacks (AI security) and, in particular, they will be familiar with options for integrating security standards into the architecture and can take these into account for the design of the system.
 
 
 [[LG-2-11]]
@@ -216,7 +216,7 @@ The participants understand the basic problems of AI safety and know the various
 [[LG-2-12]]
 ==== LG 2-12: Understand ethical problems of AI systems and know approaches to dealing with them
 
-Participants are aware of the ethical problems that AI systems can bring with them and know approaches and possibilities for dealing with ethical problems. This includes, for example, AI alignment (and its limits) and the creation of their own AI guidelines.
+Participants are aware of the ethical problems that AI systems can bring with them and know approaches and possibilities for resolving these problems. This includes, for example, AI alignment (and its limits) and the creation of their own AI guidelines.
 
 
 [[LG-2-13]]
@@ -238,9 +238,9 @@ The participants are familiar with the most important documents on AI governance
 
 
 [[LG-2-15]]
-==== LG 2-15: Gain insight into the establishment of regulatory sandboxes
+==== LG 2-15: Gain insight into the creation of regulatory sandboxes
 
-Participants will gain an insight into the establishment of regulatory sandboxes to promote innovation and the possible legal consequences of non-compliance with the provisions of the AI Act.
+Participants will gain an insight into the creation of regulatory sandboxes to promote innovation and the possible legal consequences of non-compliance with the provisions of the AI Act.
 
 
 [[LG-2-16]]

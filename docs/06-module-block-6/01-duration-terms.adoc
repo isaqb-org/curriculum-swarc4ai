@@ -13,7 +13,7 @@ Generative KI, LLMs, MLflow, Managed MLflow, Azure Machine Learning, Metaflow, G
 | Duration: 160 min | Practice time: 30 min
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 Generative AI, LLMs, MLflow, Managed MLflow, Azure Machine Learning, Metaflow, Generative AI, LLM, (Stable) Diffusion, Vector DB, Embedding, RNN, Transformer, RAG, Agentic Workflows etc.
 
 // end::EN[]

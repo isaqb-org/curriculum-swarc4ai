@@ -155,7 +155,7 @@ The participants know the different (hardware) requirements for TPU, GPU or CPU 
 Participants will be able to name examples of trade-offs between different model architectures with regard to quality characteristics. In particular for scaling, efficiency and storage load, participants should know the trade-offs as well as the advantages and disadvantages of important architectures such as RNNs and transformers.
 
 [[LG-5-3]]
-==== LG 5-3: Coordinate different quality features of an ML model
+==== LG 5-3: Adjust different quality features of an ML model
 
 Participants will be familiar with ways to adjust various quality characteristics such as accuracy, efficiency and storage load of an ML model and to trade them off against each other. In particular, the participants know the following techniques:
 
@@ -255,7 +255,7 @@ Participants are familiar with relevant metrics such as accuracy, precision, rec
 [[LG-5-17]]
 ==== LG 5-17: Overview of sample tools for monitoring
 
-The participants know example tools for monitoring. This concerns both general tools, such as Prometheus & Grafana, as well as ML-specific tools, such as MLflow.
+The participants know example tools for monitoring. This includes both general tools, such as Prometheus & Grafana, as well as ML-specific tools, such as MLflow.
 
 
 [[LG-5-18]]

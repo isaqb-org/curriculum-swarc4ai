@@ -23,7 +23,7 @@
 [cols="<,>", options="header"]
 |===
 | Contents | Recommended minimum duration (min)
-| Introduction to software architecture-relevant concepts for artificial intelligence | 120
+| Introduction to concepts relevant to software architecture for artificial intelligence | 120
 | Compliance, security, alignment | 120
 | Design and development of AI systems | 320
 | Data management and data processing for AI systems | 90

@@ -13,7 +13,7 @@ CI/CD, MLOps, CRISP-ML(Q), AI-Application, AI-Engineering, ML-Modellentwicklung,
 | Duration: 320 min | Practice time: 45 min
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 CI/CD, MLOps, CRISP-ML(Q), AI application, AI engineering, ML model development, ML infrastructure, performance, robustness, reliability, fault tolerance, model-as-service, model-as-dependency, precompute, model-on-demand, hybrid serving, multi-agent system (MAS)
 
 // end::EN[]

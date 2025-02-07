@@ -13,7 +13,7 @@ Datenakquise, Labelling, Daten-Pipeline, ETL-Prozesse, Datenaggregation, Datenbe
 | Duration: 90 min | Practice time: 0 min
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 Data acquisition, labeling, data pipeline, ETL processes, data aggregation, data cleansing, transformation, augmentation, files, RDBMS, NoSQL, data products, data contracts, data architectures: Data Warehouse, Data Lake, Data Mesh
 
 // end::EN[]

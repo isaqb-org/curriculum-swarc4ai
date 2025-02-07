@@ -219,7 +219,7 @@ are required.
 
 
 [[LG-3-6]]
-==== LG 3-6: Dealing with challenges such as non-determinism, data quality and concept and model Bypass drift
+==== LG 3-6: Dealing with challenges such as non-determinism, data quality and concept and model drift
 
 
 Participants understand how to deal with challenges such as non-determinism, data quality and concept and model drift.
@@ -227,7 +227,7 @@ Participants understand how to deal with challenges such as non-determinism, dat
 [[LG-3-7]]
 ==== LG 3-7: Knowing transfer learning or fine-tuning
 
-The participants are familiar with transfer learning and fine-tuning as a way of adopting the pre-trained basic models to existing use cases.
+The participants are familiar with transfer learning and fine-tuning as a way of incorporating the pre-trained basic models into existing use cases.
 
 
 [[LG-3-8]]
@@ -285,9 +285,9 @@ Participants understand the importance of key performance indicators such as lat
 
 
 [[LG-3-15]]
-==== LG 3-15: Dealing with scalability on increased data volumes
+==== LG 3-15: Managing scalability for increased data volumes
 
-Participants understand the importance of scalability to increased data volumes and know how to develop AI systems that can handle increasing data volumes without losing performance.
+Participants understand the importance of scalability for increased data volumes and know how to develop AI systems that can handle increasing data volumes without losing performance.
 
 
 [[LG-3-16]]
@@ -316,7 +316,7 @@ Participants are familiar with the requirements for security, data protection an
 [[LG-3-20]]
 ==== LG 3-20: Classify explainability and interpretability in AI systems
 
-Participants understand the importance of explainability and interpretability in AI systems and know how ensure this in order to promote trust and transparency.
+Participants understand the importance of explainability and interpretability in AI systems and know how to ensure this in order to promote trust and transparency.
 
 
 [[LG-3-21]]

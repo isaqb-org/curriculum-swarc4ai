@@ -13,7 +13,7 @@ Qualitätsmerkmale, Skalierbarkeit, Leistungsoptimierung, Monitoring, Logging, F
 | Duration: 160 min | Practice time: 30 min
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 Quality features, scalability, performance optimization, monitoring, logging, feedback, FinOps for AI platforms
 
 // end::EN[]

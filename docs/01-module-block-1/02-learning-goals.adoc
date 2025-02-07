@@ -89,12 +89,12 @@ Participants will know how artificial intelligence is defined and how machine le
 [[LG-1-2]]
 ==== LG 1-2: Specify typical general use cases for AI
 
-Participants will know how specify typical general use cases for AI. This includes use cases for e.g. image recognition & generation, language processing, prediction, personalization and anomaly detection.
+Participants will know how to specify typical general use cases for AI. This includes use cases for e.g. image recognition & generation, language processing, prediction, personalization and anomaly detection.
 
 [[LG-1-3]]
 ==== LG 1-3: Know possible applications in different industries and end-user applications
 
-Participants will be familiar with the possible applications in various industries, e.. marketing, medicine, robotics and content creation. They will also gain an overview of the possible uses of AI in end-user applications. These include, for example, voice assistants (chatbots) and recommendation systems (recommender engines).
+Participants will be familiar with the possible applications in various industries, e.g. marketing, medicine, robotics and content creation. They will also gain an overview of the possible uses of AI in end-user applications. These include, for example, voice assistants (chatbots) and recommendation systems (recommender engines).
 
 [[LG-1-4]]
 ==== LG 1-4: Identify risks in the application of AI
@@ -103,7 +103,7 @@ Participants can identify risks that arise when using AI. These can be the follo
 
 -	Hallucinations
 -	Bias
--	(in)fairness
+-	(un)fairness
 -	societal risks such as deepfakes, AI-enabled cyberattacks, safety risks in critical systems, social manipulation, intellectual property issues, etc.
 
 
@@ -126,7 +126,7 @@ Participants understand the differences between AI systems and traditional softw
 [[LG-1-6]]
 ==== LG 1-6: Decide on solutions to problems using AI or classic software development
 
-Participants can decide and explain whether and why a problem  be solved using AI or classic software development.
+Participants can decide and explain whether and why a problem should be solved using either AI or classic software development.
 
 [[LG-1-7]]
 ==== LG 1-7: Know roles and their tasks as well as their cooperation in the context of AI

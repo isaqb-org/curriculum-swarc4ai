@@ -198,7 +198,7 @@ Participants are familiar with common evaluation frameworks such as LangSmith or
 [[LG-6-6]]
 ==== LG 6-6: [OPTIONAL] Discuss a case study with an imaginary professionalism
 
-Participants will practise and discuss a case study with an imaginary technicality to weigh up integration options for AI in an existing software landscape.
+Participants will practise and discuss a case study with an imaginary technicality to weigh up integration options for AI into an existing software landscape.
 
 [[LG-6-7]]
 ==== LG 6-7: Fundamental understanding of generative AI
@@ -279,7 +279,7 @@ The participants know which design patterns exist for generative AI systems. The
 [[LG-6-15]]
 ==== LG 6-15: Know techniques for evaluating LLM applications
 
-The participants know several techniques for evaluating LLM applications. These can , for example, the following techniques:
+The participants know several techniques for evaluating LLM applications. These can be, for example, the following techniques:
 
 -	Scoring
 -	Human feedback

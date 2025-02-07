@@ -13,7 +13,7 @@ EU AI Act, Datenschutz, Urheberrecht, Lizenz, Open (Source), AI Security, Jailbr
 | Duration: 120 min | Practice time: 30 min
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 EU AI Act, data protection, copyright, license, open (source), AI security, jailbreak, adversarial attack, data poisoning, model inversion & extraction, AI safety, AI ethics, AI alignment, model and data documentation, transparency obligation, human oversight, data governance, AI governance, AI systems by risk levels (prohibited, high-risk, limited risk, low-risk)
 
 // end::EN[]
