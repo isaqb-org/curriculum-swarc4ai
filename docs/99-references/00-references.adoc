@@ -25,6 +25,7 @@ This section contains references that are cited in the curriculum.
 - [[[bhajaria,Bhajaria 2022]]] N. Bhajaria: Data Privacy - A runbook for engineers https://www.manning.com/books/data-privacy
 - [[[bornstein,Bornstein et al.]]] M. Bornstein, J. Li, M. Casado: Emerging Architectures for Modern Data Infrastructure https://a16z.com/emerging-architectures-for-modern-data-infrastructure/
 - [[[bornstein-radovanic]]] M. Bornstein and R. Radovanovic: Emerging Architectures for LLM Applications https://a16z.com/emerging-architectures-for-llm-applications/
+- [[[brynjolfsson,Brynjolfsson et al.]]] Brynjolfsson, E.: The Productivity J-Curve: How Intangibles complement General Purpose Technologies https://www.nber.org/system/files/working_papers/w25148/w25148.pdf
 - [[[burkov,Burkov 2019]]] Burkov, A.: The Hundred-Page Machine Learning Book https://themlbook.com/
 
 **C**
@@ -132,7 +133,6 @@ This section contains references that are cited in the curriculum.
 
 - [[[vaughan,Vaughan 2020]]] Vaughan, D.: Analytical Skills for AI and Data Science (AI Use Cases) https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/
 - [[[visenger-one,Visengeriyeva, JTF]]] Visengeriyeva, L.: Defining Jagged Technological Frontier:https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA
-- [[[visenger-two,Visengeriyeva, J-Curve]]] Visengeriyeva, L.: The Productivity J-Curve of AI: https://www.perplexity
 - [[[visenger-three,Visengeriyeva, AI Agents]]] Visengeriyeva, L.: AI Agents vs. Traditional Models https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g
 - [[[visenger-links,Visengeriyeva, Ethics]]] Model Governance, Ethics, Responsible AI (Linksammlung) https://github.com/visenger/Awesome-ML-Model-Governance
 
