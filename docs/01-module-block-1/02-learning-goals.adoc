@@ -101,10 +101,10 @@ Participants will be familiar with the possible applications in various industri
 
 Participants can identify risks that arise when using AI. These can be the following risks, for example:
 
--	Hallucinations
--	Bias
--	(un)fairness
--	societal risks such as deepfakes, AI-enabled cyberattacks, safety risks in critical systems, social manipulation, intellectual property issues, etc.
+- Hallucinations
+- Bias
+- (un)fairness
+- societal risks such as deepfakes, AI-enabled cyberattacks, safety risks in critical systems, social manipulation, intellectual property issues, etc.
 
 
 [[LG-1-5]]
@@ -112,15 +112,15 @@ Participants can identify risks that arise when using AI. These can be the follo
 
 Participants understand the differences between AI systems and traditional software:
 
--	Data-driven (with ML) - data-centric instead of code-centric development
--	Probabilistic results (non-deterministic behavior)
--	Statistical validation
--	Experimental design: Support for rapid iteration and testing of models.
--	Model complexity and interpretability: ML models, especially deep learning models, can be extremely complex. The "black box" character makes them difficult to interpret and explain.
--	Debugging and testing are more complex due to non-determinism.
--	Model decay: Continuous monitoring and retraining are necessary to maintain model performance.
--	AI-specific regulation of industries and at EU level must be taken into account.
--	Interoperability: Seamless integration into existing systems and technology stacks.
+- Data-driven (with ML) - data-centric instead of code-centric development
+- Probabilistic results (non-deterministic behavior)
+- Statistical validation
+- Experimental design: Support for rapid iteration and testing of models.
+- Model complexity and interpretability: ML models, especially deep learning models, can be extremely complex. The "black box" character makes them difficult to interpret and explain.
+- Debugging and testing are more complex due to non-determinism.
+- Model decay: Continuous monitoring and retraining are necessary to maintain model performance.
+- AI-specific regulation of industries and at EU level must be taken into account.
+- Interoperability: Seamless integration into existing systems and technology stacks.
 
 
 [[LG-1-6]]

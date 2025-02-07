@@ -159,10 +159,10 @@ Participants will be able to name examples of trade-offs between different model
 
 Participants will be familiar with ways to adjust various quality characteristics such as accuracy, efficiency and storage load of an ML model and to trade them off against each other. In particular, the participants know the following techniques:
 
--	Quantization
--	Pruning
--	Distillation
--	LoRA
+- Quantization
+- Pruning
+- Distillation
+- LoRA
 
 
 
@@ -218,13 +218,13 @@ Participants will be able to name common tools for creating POCs for AI systems,
 
 Participants are familiar with various deployment options for AI models. Participants will understand a selection of the following options:
 
--	API Deployment
--	Embedded Deployment
--	Batch Prediction
--	Streaming
--	Containerization
--	Serverless Deployment
--	Cloud services
+- API Deployment
+- Embedded Deployment
+- Batch Prediction
+- Streaming
+- Containerization
+- Serverless Deployment
+- Cloud services
 
 
 
@@ -249,7 +249,7 @@ Participants will be familiar with various options and standards for embedded de
 [[LG-5-16]]
 ==== LG 5-16: Understanding monitoring with regard to AI-specific requirements
 
-The participants understand the need for monitoring, also with regard to AI-specific requirements such as drift tracking. 
+The participants understand the need for monitoring, also with regard to AI-specific requirements such as drift tracking.
 Participants are familiar with relevant metrics such as accuracy, precision, recall and F1 score, MAE, MSE, perplexity, latency, throughput and resource utilization and understand why these are relevant for monitoring.
 
 [[LG-5-17]]
@@ -286,9 +286,9 @@ Participants will be able to make build vs. buy decisions for MLOps systems/comp
 
 The participants are familiar with well-known MLOps tools and end-to-end platforms, such as:
 
--	Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Kubeflow, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
--	OpenSource: MLFlow, Weights & Biases, ClearML
--	PaaS: AWS SageMaker, Azure ML.
+- Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Kubeflow, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
+- OpenSource: MLFlow, Weights & Biases, ClearML
+- PaaS: AWS SageMaker, Azure ML.
 
 
 

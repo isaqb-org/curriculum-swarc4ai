@@ -29,7 +29,7 @@ Die Teilnehmer:innen kennen typische Vorgehensmodelle für die Softwareentwicklu
 ==== LZ 3-3: Arten von sowie Anforderungen an Daten und typische ML-Probleme kennen
 
 Die Teilnehmer:innen kennen verschiedene Arten von Daten und typische ML-Probleme sowie Anwendungsfälle für die Nutzung der Daten. Darüber hinaus haben
-die Teilnehmer:innen ein Verständnis für verschiedene Anforderungen an die Daten, z.{nbsp}B. Vorhandensein von korrekten Labels verschiedener Art. 
+die Teilnehmer:innen ein Verständnis für verschiedene Anforderungen an die Daten, z.{nbsp}B. Vorhandensein von korrekten Labels verschiedener Art.
 
 [[LZ-3-4]]
 ==== LZ 3-4: Machine Learning Problemstellungen und deren Anforderungen verstehen
@@ -169,22 +169,22 @@ Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläute
 
 Participants have an understanding of the life cycle of a machine learning or data science project. In particular, they are familiar with the following phases:
 
--	Exploratory Data Analysis
--	Data cleansing and preparation
--	Feature Engineering
--	Model training and selection
--	POC
--	Deployment
--	Maintenance
+- Exploratory Data Analysis
+- Data cleansing and preparation
+- Feature Engineering
+- Model training and selection
+- POC
+- Deployment
+- Maintenance
 
 
 [[LG-3-2]]
 ==== LG 3-2: Knowing process models for the software development of AI systems
 Participants will be familiar with typical process models for the software development of AI systems. These are, for example
 
--	CRISP-ML(Q)
--	Team Data Science Process
--	GenAI Life Cycle.
+- CRISP-ML(Q)
+- Team Data Science Process
+- GenAI Life Cycle.
 
 
 [[LG-3-3]]
@@ -197,10 +197,10 @@ Participants know different types of data and typical ML problems as well as use
 
 The participants understand the various machine learning problems such as
 
--	Supervised Learning
--	Unsupervised Learning
--	Reinforcement Learning
- 
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+
 and know what requirements they have.
 
 
@@ -210,9 +210,9 @@ and know what requirements they have.
 
 Participants know which data is required for AI algorithms and have a good understanding of the need for validation and knowledge of the typical data breakdown into training, validation and test data. In addition, participants have a good understanding of the input data required for various AI algorithms such as
 
--	Neural networks as numerical vectors and matrices or tensors
--	One-Hot-Encodings
--	embeddings 
+- Neural networks as numerical vectors and matrices or tensors
+- One-Hot-Encodings
+- embeddings
 
 are required.
 
@@ -235,11 +235,11 @@ The participants are familiar with transfer learning and fine-tuning as a way of
 
 Participants will know which design patterns exist for AI systems and how to select suitable patterns. This concerns the following design patterns:
 
--	ML Systems Topology Patterns
--	Pipeline Architecture Patterns
--	Model Training Pattern
--	Model Serving Patterns
--	Model Deployment Patterns
+- ML Systems Topology Patterns
+- Pipeline Architecture Patterns
+- Model Training Pattern
+- Model Serving Patterns
+- Model Deployment Patterns
 
 
 
@@ -260,9 +260,9 @@ Participants understand which inputs and outputs are required for the functionin
 
 Participants are familiar with various metrics for measuring the performance of ML models, such as:
 
--	Precision, Recall
--	F1
--	Accuracy
+- Precision, Recall
+- F1
+- Accuracy
 
 and know how to define evaluation criteria for performance assessment.
 

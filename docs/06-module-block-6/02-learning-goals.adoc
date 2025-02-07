@@ -161,10 +161,10 @@ Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architek
 
 Participants are familiar with the various levels of AI integration. These include the following levels:
 
--	Applications (e.g. coding assistants)
--	AI engineering (e.g. prompt engineering)
--	ML model development (e.g. pytorch)
--	ML infrastructure (e.g. vector DBs).
+- Applications (e.g. coding assistants)
+- AI engineering (e.g. prompt engineering)
+- ML model development (e.g. pytorch)
+- ML infrastructure (e.g. vector DBs).
 
 [[LG-6-2]]
 ==== LG 6-2: Know libraries, interfaces and tools for the integration of AI models
@@ -182,12 +182,12 @@ Participants know how integrate AI systems into IT landscapes at a strategic lev
 
 The participants understand the quality characteristics that are particularly relevant for AI systems. This includes the following quality characteristics in particular:
 
--	Reliability
--	Scalability
--	Efficiency
--	Security
--	Maintainability
--	Interpretability
+- Reliability
+- Scalability
+- Efficiency
+- Security
+- Maintainability
+- Interpretability
 
 
 [[LG-6-5]]
@@ -213,12 +213,12 @@ Participants understand how LLMs work and can categorize the associated terminol
 [[LG-6-9]]
 ==== LG 6-9: Understand known patterns in the use of LLMs
 
-The participants understand known patterns for the use of LLMs. This includes the following patterns: 
+The participants understand known patterns for the use of LLMs. This includes the following patterns:
 
-- RAG and retrieval strategies 
-- Function calling 
-- Finetuning 
-- Assistants 
+- RAG and retrieval strategies
+- Function calling
+- Finetuning
+- Assistants
 - Agents
 
 [[LG-6-10]]
@@ -231,15 +231,15 @@ The participants know typical use cases for RAG such as "Talk to your documents/
 
 The participants know a selection of common RAG techniques such as:
 
--	Simple RAG
--	Context Enrichment Techniques
--	Fusion Retrieval
--	Intelligent Reranking
--	Query Transformations
--	Adaptive Retrieval
--	Iterative retrieval
--	Ensemble Retrieval
--	Knowledge Graph Integration
+- Simple RAG
+- Context Enrichment Techniques
+- Fusion Retrieval
+- Intelligent Reranking
+- Query Transformations
+- Adaptive Retrieval
+- Iterative retrieval
+- Ensemble Retrieval
+- Knowledge Graph Integration
 
 
 [[LG-6-12]]
@@ -247,9 +247,9 @@ The participants know a selection of common RAG techniques such as:
 
 The participants know different types of prompt engineering, such as
 
--	Few-Shot-Learning
--	Chain-of-Thought
--	Role-Playing
+- Few-Shot-Learning
+- Chain-of-Thought
+- Role-Playing
 
 as well as general best practices for prompting.
 
@@ -264,16 +264,16 @@ Participants know what agentic workflows are and are familiar with the terms ref
 
 The participants know which design patterns exist for generative AI systems. They know a selection of the following patterns:
 
--	AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
--	Layered Caching Strategy Leading to Fine-Tuning
--	Multiplexing AI Agents
--	Fine-Tuning LLMs for Multiple Tasks
--	Blending Rules-Based and Generative Approaches
--	Utilizing Knowledge Graphs with LLMs
--	Swarm of Generative AI Agents
--	Modular Monolith LLM Approach with Composability
--	Memory Cognition for LLMs
--	Red and Blue Team Dual-Model Evaluation
+- AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
+- Layered Caching Strategy Leading to Fine-Tuning
+- Multiplexing AI Agents
+- Fine-Tuning LLMs for Multiple Tasks
+- Blending Rules-Based and Generative Approaches
+- Utilizing Knowledge Graphs with LLMs
+- Swarm of Generative AI Agents
+- Modular Monolith LLM Approach with Composability
+- Memory Cognition for LLMs
+- Red and Blue Team Dual-Model Evaluation
 
 
 [[LG-6-15]]
@@ -281,10 +281,10 @@ The participants know which design patterns exist for generative AI systems. The
 
 The participants know several techniques for evaluating LLM applications. These can be, for example, the following techniques:
 
--	Scoring
--	Human feedback
--	Comparative Evaluation
--	Model Based Evaluation
+- Scoring
+- Human feedback
+- Comparative Evaluation
+- Model Based Evaluation
 
 
 [[LG-6-16]]
