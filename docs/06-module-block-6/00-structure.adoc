@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== And This is Module no 6
+== System architectures and platforms for generative AI systems
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

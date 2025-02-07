@@ -21,14 +21,9 @@ Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließ
 // end::DE[]
 
 // tag::EN[]
-=== Duration, Teaching Method and Further Details
+=== Duration, didactics and further details
 
-The times stated below are recommendations.
-The duration of a training course on the {curriculum-short} module should be at least {recommended-duration-in-days} days, but may be longer.
-Providers may differ in terms of duration, teaching method, type and structure of the exercises, and the detailed course structure.
-In particular, the curriculum provides no specifications on the nature of the examples and exercises.
-
-Licensed training courses for the {curriculum-short} module contribute the following credit points towards admission to the final Advanced Level certification exam:
+The duration of a training course on the SWARC4AI module should be at least 3 days, but can be longer. Providers may differ in terms of duration, didactics, type and structure of the exercises and the detailed course structure. In particular, syllabus leaves the type of examples and exercises completely open. Licensed training courses on SWARC4AI contribute to admission to the final Advanced Level certification examination (following credit points):
 
 [stripes=none, frame=none, grid=rows]
 |===

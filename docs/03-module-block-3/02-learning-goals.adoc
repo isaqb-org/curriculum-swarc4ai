@@ -165,10 +165,173 @@ Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläute
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: TBD
-tbd.
+==== LG 3-1: Understanding the life cycle of a machine learning or data science project
+
+Participants have an understanding of the life cycle of a machine learning or data science project. In particular, they are familiar with the following phases:
+
+-	Exploratory Data Analysis
+-	Data cleansing and preparation
+-	Feature Engineering
+-	Model training and selection
+-	POC
+-	Deployment
+-	Maintenance
+
 
 [[LG-3-2]]
-==== LG 3-2: TBD
-tbd.
+==== LG 3-2: Knowing process models for the software development of AI systems
+Participants will be familiar with typical process models for the software development of AI systems. These are, for example
+
+-	CRISP-ML(Q)
+-	Team Data Science Process
+-	GenAI Life Cycle.
+
+
+[[LG-3-3]]
+==== LG 3-3: Know types of and requirements for data and typical ML problems
+
+Participants know different types of data and typical ML problems as well as use cases for utilizing the data. In addition, the participants have an understanding of various requirements for the data, e.g. the presence of correct labels of various types.
+
+[[LG-3-4]]
+==== LG 3-4: Understanding machine learning problems and their requirements
+
+The participants understand the various machine learning problems such as
+
+-	Supervised Learning
+-	Unsupervised Learning
+-	Reinforcement Learning
+ 
+and know what requirements they have.
+
+
+
+[[LG-3-5]]
+==== LG 3-5: Use input data for various AI algorithms
+
+Participants know which data is required for AI algorithms and have a good understanding of the need for validation and knowledge of the typical data breakdown into training, validation and test data. In addition, participants have a good understanding of the input data required for various AI algorithms such as
+
+-	Neural networks as numerical vectors and matrices or tensors
+-	One-Hot-Encodings
+-	embeddings 
+
+are required.
+
+
+
+[[LG-3-6]]
+==== LG 3-6: Dealing with challenges such as non-determinism, data quality and concept and model drift
+
+
+Participants understand how to deal with challenges such as non-determinism, data quality and concept and model drift.
+
+[[LG-3-7]]
+==== LG 3-7: Knowing transfer learning or fine-tuning
+
+The participants are familiar with transfer learning and fine-tuning as a way of incorporating the pre-trained basic models into existing use cases.
+
+
+[[LG-3-8]]
+==== LG 3-8: Selecting design patterns for AI systems
+
+Participants will know which design patterns exist for AI systems and how to select suitable patterns. This concerns the following design patterns:
+
+-	ML Systems Topology Patterns
+-	Pipeline Architecture Patterns
+-	Model Training Pattern
+-	Model Serving Patterns
+-	Model Deployment Patterns
+
+
+
+[[LG-3-9]]
+==== LG 3-9: Define the task of an ML model
+
+The participants know how to define the use cases / tasks of an ML model, such as the classification of images or fraud detection.
+
+
+[[LG-3-10]]
+==== LG 3-10: Understand and specify inputs and outputs for the functioning of an ML system
+
+Participants understand which inputs and outputs are required for the functioning of an ML system and can specify them.
+
+
+[[LG-3-11]]
+==== LG 3-11: Know metrics for measuring the performance of ML models
+
+Participants are familiar with various metrics for measuring the performance of ML models, such as:
+
+-	Precision, Recall
+-	F1
+-	Accuracy
+
+and know how to define evaluation criteria for performance assessment.
+
+
+[[LG-3-12]]
+==== LG 3-12: Integrating ML models into existing systems
+
+Participants understand how ML models can be integrated into existing systems and are familiar with the interfaces and integration points.
+
+[[LG-3-13]]
+==== LG 3-13: Designing user interfaces for AI systems
+
+Participants know how user interfaces should be designed to enable effective interactions with the ML system and optimize the user experience.
+
+
+[[LG-3-14]]
+==== LG 3-14: Understanding performance metrics such as latency and throughput in AI systems
+
+Participants understand the importance of key performance indicators such as latency and throughput in AI systems and know how these can be optimized.
+
+
+[[LG-3-15]]
+==== LG 3-15: Managing scalability for increased data volumes
+
+Participants understand the importance of scalability for increased data volumes and know how to develop AI systems that can handle increasing data volumes without losing performance.
+
+
+[[LG-3-16]]
+==== LG 3-16: Understanding robustness in AI systems and applying strategies to increase robustness
+
+Participants have an understanding of what robustness means in AI systems and can apply strategies to increase robustness in different application contexts.
+
+
+[[LG-3-17]]
+==== LG 3-17: Classify the reliability and availability of AI systems
+
+Participants understand the concepts of reliability and availability and know how to build AI systems that are stable and constantly available.
+
+
+[[LG-3-18]]
+==== LG 3-18: Understanding the reproducibility and testability of AI results
+
+The participants know how important it is that AI results are reproducible and testable and know which methods can be used to ensure these properties.
+
+[[LG-3-19]]
+==== LG 3-19: Know security, data protection and compliance requirements
+
+Participants are familiar with the requirements for security, data protection and compliance and know how these are implemented in AI systems.
+
+
+[[LG-3-20]]
+==== LG 3-20: Classify explainability and interpretability in AI systems
+
+Participants understand the importance of explainability and interpretability in AI systems and know how to ensure this in order to promote trust and transparency.
+
+
+[[LG-3-21]]
+==== LG 3-21: Recognizing bias in data and models
+
+The participants know how bias in data and models can be recognized and reduced in order to ensure fairness and equal treatment in AI applications.
+
+
+[[LG-3-22]]
+==== LG 3-22: Knowing fault tolerance in AI systems
+
+Participants are familiar with the concepts of fault tolerance and can explain how AI systems remain functional despite errors or malfunctions.
+
+
+
+
+
 // end::EN[]

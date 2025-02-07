@@ -1,7 +1,7 @@
 === {references}
 
-<<roser>>, <<burkov>>, <<geron>>, <<kelleher>>, <<vaughan>>,
-<<bahree>>, <<harvard>>, <<dellacqua>>, <<visenger-one>>, <<visenger-two>>,
+<<roser>>, <<brynjolfsson>>, <<burkov>>, <<geron>>, <<kelleher>>, <<vaughan>>,
+<<bahree>>, <<harvard>>, <<dellacqua>>, <<visenger-one>>,
 <<agrawal>>, <<tan>>, <<chong>>, <<hall>>, <<huyen>>, <<wang>>
 
 // tag::DE[]

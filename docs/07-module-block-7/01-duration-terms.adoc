@@ -9,10 +9,10 @@
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 110 min | Practice time: 110 min
 |===
 
-=== Terms and Principles
-Term 1, Term 2, Term 3
+// === Terms and Principles
+
 
 // end::EN[]

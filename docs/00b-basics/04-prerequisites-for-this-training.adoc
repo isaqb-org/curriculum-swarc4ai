@@ -18,17 +18,16 @@ Wissen in folgenden Bereichen können **hilfreich** für das Verständnis einige
 // tag::EN[]
 === Prerequisites
 
-Participants **should** have the following prerequisite knowledge:
+Participants should have the following knowledge and/or experience:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+* A basic understanding of artificial intelligence, machine learning and data science
+* A basic understanding of software architecture, DevOps and the design of software systems and APIs
+* A basic knowledge of the Python programming language and its use for AI problems
+* Overview of common libraries such as scikit-learn, TensorFlow and PyTorch
 
-Knowledge in the following areas may be **helpful** for understanding some concepts:
+Knowledge in the following areas can be helpful for understanding some concepts
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
+* Experience with the command line interface on Linux systems
+* Knowledge from the iSAQB CPSA Foundation level training for a general understanding of software architecture, design patterns and methodologies
+
 // end::EN[]

@@ -128,10 +128,125 @@ Die Teilnehmer:innen wissen, wie effektive Datenverwaltung die Qualität und Sic
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: TBD
-tbd.
+==== LG 2-1: Know the influence of data protection laws on the implementation and use of AI
+
+Participants are familiar with data protection laws such as the GDPR and know how they affect the collection, processing and storage of data by AI systems.
 
 [[LG-2-2]]
-==== LG 2-2: TBD
-tbd.
+==== LG 2-2: Understand the objectives and regulations of the EU AI Act and their impact on the development process and architecture
+
+The participants understand the objectives and regulations of the EU AI Act and know what influence this has on the development and use of AI systems. They also understand the requirements of the EU AI Act (Trustworthy AI) and what influence these requirements have on the development process and the architecture of the software system. In particular, they know the influence on some of the following aspects:
+
+-	Risk management system (risk minimization)
+-	Data quality and data governance (quality management system)
+-	Creation and maintenance of comprehensive technical documentation for the AI system
+-	Automatic recording/logging of events in the AI system.
+-	Provision of clear and understandable information for users
+-	Implementation of measures for human supervision
+-	Ensuring an appropriate level of accuracy and robustness
+-	Implementation of cyber security measures
+
+
+[[LG-2-3]]
+==== LG 2-3: Perform classification of AI systems according to the EU AI Act risk level
+
+The participants know the classification of AI systems according to the EU AI Act risk levels (prohibited, high-risk, limited-risk, low-risk) and know which regulatory requirements apply in each case.
+
+
+[[LG-2-4]]
+==== LG 2-4: Classify copyright issues of AI-generated content
+
+The participants understand the copyright issues for AI-generated content, know the effects on certain software license models and can devise potential solutions for these issues.
+
+
+[[LG-2-5]]
+==== LG 2-5: Overview of types and degrees of openness and types of licenses of free ML models
+
+The participants gain an overview of different types and degrees of openness of free ML models. This concerns, for example, the disclosure of data and model parameters. In addition, they know different types of licenses of free ML models and their impact on the AI system.
+
+
+[[LG-2-6]]
+==== LG 2-6: Understand strategies for compliance with the EU AI Act and potential challenges
+
+The participants understand the basic statements of the EU AI Act (in particular transparency obligations) and know strategies for compliance and possible challenges.
+
+
+[[LG-2-7]]
+==== LG 2-7: Document models and data sets for traceability and transparency
+
+Participants know how to effectively document models and data sets to ensure traceability and transparency.
+
+
+[[LG-2-8]]
+==== LG 2-8: Know security pitfalls and types of attack on ML models
+
+Participants will be familiar with possible security pitfalls and typical types of attack on ML models. This applies, for example:
+
+-	LLM jailbreaks through prompt engineering
+-	Adversarial Attacks
+-	Data Poisoning
+-	Model Inversion & Extraction.
+
+
+
+[[LG-2-9]]
+==== LG 2-9: Know and apply strategies for AI risk minimization
+
+Participants know how to develop and apply strategies to minimize AI risks. In particular, the participants know the following strategies:
+
+-	Strengthening robustness through extensive testing
+-	Fault-tolerant AI systems
+-	Transparent development
+-	Explainable AI
+
+
+
+[[LG-2-10]]
+==== LG 2-10: Apply options for protection against attacks (AI security)
+
+Participants will be familiar with various options for protecting against attacks (AI security) and, in particular, they will be familiar with options for integrating security standards into the architecture and can take these into account for the design of the system.
+
+
+[[LG-2-11]]
+==== LG 2-11: Understanding the basic issues and facets of AI safety
+
+The participants understand the basic problems of AI safety and know the various facets of it. In particular, participants will be familiar with specific problems such as "AI model risks by poisoning" and "bias".
+
+
+[[LG-2-12]]
+==== LG 2-12: Understand ethical problems of AI systems and know approaches to dealing with them
+
+Participants are aware of the ethical problems that AI systems can bring with them and know approaches and possibilities for resolving these problems. This includes, for example, AI alignment (and its limits) and the creation of their own AI guidelines.
+
+
+[[LG-2-13]]
+==== LG 2-13: Overview of ethical guidelines
+
+The participants review important ethics guidelines such as the "EU Ethics Guidelines for trustworthy AI" and the "Google AI Ethics Guidelines".
+
+
+
+[[LG-2-14]]
+==== LG 2-14: Know the core principles of AI governance and responsible AI for companies
+
+The participants are familiar with the most important documents on AI governance in order to develop the core principles of AI governance and responsible AI for the company. This applies in particular to the following documents:
+
+-	OECD AI Principles, https://oecd.ai/en/ai-principles
+-	The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
+-	The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
+
+
+
+[[LG-2-15]]
+==== LG 2-15: Gain insight into the creation of regulatory sandboxes
+
+Participants will gain an insight into the creation of regulatory sandboxes to promote innovation and the possible legal consequences of non-compliance with the provisions of the AI Act.
+
+
+[[LG-2-16]]
+==== LG 2-16: Ensuring effective data management for the quality and security of data in AI applications
+
+Participants will know how effective data management ensures the quality and security of data in AI applications.
+
+
 // end::EN[]

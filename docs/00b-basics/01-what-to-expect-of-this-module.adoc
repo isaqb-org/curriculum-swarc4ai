@@ -19,6 +19,6 @@ Skalierbarkeit, Wartbarkeit und Erweiterbarkeit zu gewährleisten.
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+The module presents participants with modern software architecture concepts for AI systems as a means of designing powerful, scalable and integrable AI solutions. At the end of the module, participants will be familiar with the key principles of software architecture for AI systems and will be able to apply them to the design and implementation of machine learning and generative AI systems. With the help of the modeling techniques and architecture tools taught, they will be able to seamlessly integrate AI components into existing software systems. The course covers both machine learning systems and generative AI and teaches how these can be combined with classic software systems. Participants learn what the architecture for such hybrid systems must look like in order to ensure scalability, maintainability and extensibility.
+
 // end::EN[]
