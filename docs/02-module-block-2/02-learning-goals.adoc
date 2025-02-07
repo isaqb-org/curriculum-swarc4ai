@@ -137,14 +137,14 @@ Participants are familiar with data protection laws such as the GDPR and know ho
 
 The participants understand the objectives and regulations of the EU AI Act and know what influence this has on the development and use of AI systems. They also understand the requirements of the EU AI Act (Trustworthy AI) and what influence these requirements have on the development process and the architecture of the software system. In particular, they know the influence on some of the following aspects:
 
--	Risk management system (risk minimization)
--	Data quality and data governance (quality management system)
--	Creation and maintenance of comprehensive technical documentation for the AI system
--	Automatic recording/logging of events in the AI system.
--	Provision of clear and understandable information for users
--	Implementation of measures for human supervision
--	Ensuring an appropriate level of accuracy and robustness
--	Implementation of cyber security measures
+- Risk management system (risk minimization)
+- Data quality and data governance (quality management system)
+- Creation and maintenance of comprehensive technical documentation for the AI system
+- Automatic recording/logging of events in the AI system.
+- Provision of clear and understandable information for users
+- Implementation of measures for human supervision
+- Ensuring an appropriate level of accuracy and robustness
+- Implementation of cyber security measures
 
 
 [[LG-2-3]]
@@ -182,10 +182,10 @@ Participants know how to effectively document models and data sets to ensure tra
 
 Participants will be familiar with possible security pitfalls and typical types of attack on ML models. This applies, for example:
 
--	LLM jailbreaks through prompt engineering
--	Adversarial Attacks
--	Data Poisoning
--	Model Inversion & Extraction.
+- LLM jailbreaks through prompt engineering
+- Adversarial Attacks
+- Data Poisoning
+- Model Inversion & Extraction.
 
 
 
@@ -194,10 +194,10 @@ Participants will be familiar with possible security pitfalls and typical types 
 
 Participants know how to develop and apply strategies to minimize AI risks. In particular, the participants know the following strategies:
 
--	Strengthening robustness through extensive testing
--	Fault-tolerant AI systems
--	Transparent development
--	Explainable AI
+- Strengthening robustness through extensive testing
+- Fault-tolerant AI systems
+- Transparent development
+- Explainable AI
 
 
 
@@ -231,9 +231,9 @@ The participants review important ethics guidelines such as the "EU Ethics Guide
 
 The participants are familiar with the most important documents on AI governance in order to develop the core principles of AI governance and responsible AI for the company. This applies in particular to the following documents:
 
--	OECD AI Principles, https://oecd.ai/en/ai-principles
--	The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
--	The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
+- OECD AI Principles, https://oecd.ai/en/ai-principles
+- The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
+- The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
 
 
 

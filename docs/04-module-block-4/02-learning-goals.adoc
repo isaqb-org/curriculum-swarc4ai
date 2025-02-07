@@ -66,7 +66,7 @@ The participants know relevant tools for data labeling such as CVAT, Amazon Mech
 [[LG-4-4]]
 ==== LG 4-4: Designing efficient data pipelines and architectures
 
-The participants have an understanding of the design of efficient data pipelines and data architectures, and they understand how to consider data quality for storage solutions and their management. 
+The participants have an understanding of the design of efficient data pipelines and data architectures, and they understand how to consider data quality for storage solutions and their management.
 To this end, participants are familiar with architectural patterns for data engineering pipelines and ETL processes.
 
 
@@ -87,11 +87,11 @@ Participants will gain an overview of relevant tools for data engineering pipeli
 
 Participants will be familiar with various options for storing data as well as their advantages and disadvantages. The options include the following technologies:
 
--	CSV files
--	Column-oriented files
--	Relational and NoSQL databases
--	Data warehouses
--	Data Lakes
+- CSV files
+- Column-oriented files
+- Relational and NoSQL databases
+- Data warehouses
+- Data Lakes
 
 
 // end::EN[]

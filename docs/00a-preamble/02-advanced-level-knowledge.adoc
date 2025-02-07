@@ -13,10 +13,10 @@ CPSA-A-Absolventen können:
 === What are Advanced Level (CPSA-A) graduates qualified for?
 CPSA-A graduates can:
 
--	design medium-sized to large IT systems independently and methodically
--	assume technical and content-related responsibility in IT systems of medium to high criticality
--	Conceptualize, design and document measures to achieve quality requirements and support development teams in the implementation of these measures
--	Manage and carry out architecture-related communication in medium to large development teams
+- design medium-sized to large IT systems independently and methodically
+- assume technical and content-related responsibility in IT systems of medium to high criticality
+- Conceptualize, design and document measures to achieve quality requirements and support development teams in the implementation of these measures
+- Manage and carry out architecture-related communication in medium to large development teams
 
 // end::EN[]
 
