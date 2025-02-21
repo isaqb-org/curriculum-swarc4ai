@@ -47,7 +47,7 @@ git clone https://github.com/isaqb-org/curriculum-swarc4ai.git --recursive
 == How to build the documents
 
 Prerequisite: You need a Java 17 (or higher) JDK installed.
-Build the project with http://www.gradle.com[Gradle] (you need a locally installed JDK 17 or higher) via `./gradlew`.
+Build the project with http://www.gradle.com[Gradle] (you need a locally installed JDK 17 or higher) via `./gradle-tools/gradlew buildDocs`.
 
 == Maintainers
 
