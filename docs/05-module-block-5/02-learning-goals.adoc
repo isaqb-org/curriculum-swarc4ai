@@ -41,7 +41,7 @@ Die Teilnehmer:innen kennen den Begriff MLOps für die Automatisierung des Life-
 Die Teilnehmer:innen haben ein Verständnis vom Tracking im Modelltraining, Parametern, Metriken und Ergebnissen.
 
 [[LZ-5-7]]
-==== LZ 5-7: ML-Modelle und darauf aufbauenden KI-Systeme evaluieren
+==== LZ 5-7: Modellevaluation, Systemevaluation und fachliche Nutzenbewertung unterscheiden und geeignete Evaluationsansätze für KI-Systeme auswählen.
 
 Die Teilnehmer:innen überblicken Ansätze zur Evaluation von ML-Modellen und darauf aufbauenden KI-Systemen.
 
@@ -95,7 +95,7 @@ Die Teilnehmer:innen überblicken bekannte SaaS-KI-Lösungen, wie beispielsweise
 Die Teilnehmer:innen kennen verschiedene Möglichkeiten und Standards für Embedded Deployments von ML-Modellen.
 
 [[LZ-5-16]]
-==== LZ 5-16: Monitoring im Hinblick auf KI-spezifische Anforderungen verstehen
+==== LZ 5-16: Monitoring und Observability für KI-Systeme konzipieren, insbesondere für Drift, Qualitätsverlust, Kosten, Latenz, Sicherheitsereignisse und Governance-relevante Nachweise.
 
 Die Teilnehmer:innen verstehen die Notwendigkeit für Monitoring, auch im Hinblick auf KI-spezifische Anforderungen wie das Tracking von Drift.
 
@@ -124,12 +124,12 @@ Die Teilnehmer:innen kennen verschiedene Methoden zur Nutzung von Feedback für 
 Die Teilnehmer:innen erfahren anhand eines Praxisbeispiels, wie eine MLOps-Pipeline aussehen kann und welche Einsichten diese auf die Parameter, Metriken usw. bietet.
 
 [[LZ-5-21]]
-==== LZ 5-21: [OPTIONAL] Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten treffen
+==== LZ 5-21: Build-vs.-Buy-Entscheidungen für MLOps- und KI-Plattform-Komponenten anhand von Qualitätsanforderungen, Kosten, Risiko, Compliance und Integrationsaufwand treffen.
 
 Die Teilnehmer:innen sind in der Lage, Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten zu treffen.
 
 [[LZ-5-22]]
-==== LZ 5-22: [OPTIONAL] MLOps-Werkzeuge und End-to-End Plattformen kennen
+==== LZ 5-22: [OPTIONAL] Klassen von MLOps-Werkzeugen und Plattformen sowie wesentliche Auswahlkriterien für ihren Einsatz kennen.
 
 Die Teilnehmer:innen kennen bekannte MLOps-Werkzeuge und End-to-End Plattformen,wie beispielsweise:
 

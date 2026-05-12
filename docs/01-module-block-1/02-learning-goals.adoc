@@ -8,15 +8,11 @@
 Die Teilnehmer:innen wissen, wie man Künstliche Intelligenz definiert und wie Machine Learning, Data Science, Deep Learning, Generative KI darin eingeordnet werden.
 
 [[LZ-1-2]]
-==== LZ 1-2: Typische allgemeine Anwendungsfälle für KI spezifizieren
+==== LZ 1-2: Typische KI-Anwendungsfälle einordnen, fachlich beschreiben und hinsichtlich Nutzen, Risiken und Architekturauswirkungen bewerten.
 
-Die Teilnehmer:innen wissen, wie typische allgemeine Anwendungsfälle für KI spezifiziert werden können. Dies umfasst Anwendungsfälle für z.{nbsp}B. Bilderkennung & -erzeugung, Sprachverarbeitung, Vorhersagen, Personalisierung und Anomalieerkennung.
+Die Teilnehmer:innen kennen typische allgemeine Anwendungsfälle und Einsatzmöglichkeiten von KI in verschiedenen Branchen sowie in Endnutzeranwendungen. Dazu zählen z. B. Bilderkennung und Bildgenerierung, Sprachverarbeitung, Vorhersagemodelle, Personalisierung und Anomalieerkennung sowie Anwendungen wie Chatbots, Empfehlungssysteme und intelligente Assistenzsysteme in Bereichen wie Marketing, Medizin, Robotik und Content-Creation.
 
-[[LZ-1-3]]
-==== LZ 1-3: Einsatzmöglichkeiten in verschiedenen Branchen und Endnutzeranwendungen kennen
-
-Die Teilnehmer:innen kennen die möglichen Einsatzmöglichkeiten in verschiedenen Branchen, z.{nbsp}B. Marketing, Medizin, Robotik und Content-Creation. Darüber hinaus überblicken sie die Einsatzmöglichkeiten in Endnutzeranwendungen von KI. Darunter fallen z.{nbsp}B. Sprachassistenten (Chatbots) und Empfehlungssysteme (Recommender Engine).
-
+Die Teilnehmer:innen sind in der Lage, diese Anwendungsfälle fachlich einzuordnen sowie hinsichtlich Nutzen, Risiken und möglicher Auswirkungen auf Softwarearchitekturen zu bewerten.
 
 [[LZ-1-4]]
 ==== LZ 1-4: Risiken bei der Anwendung von KI identifizieren
@@ -62,7 +58,7 @@ Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenar
 
 
 [[LZ-1-8]]
-==== LZ 1-8: KI Anwendungsfällen identifizieren und priorisieren
+==== LZ 1-8: KI-Anwendungsfälle anhand fachlicher Ziele, Datenverfügbarkeit, Umsetzbarkeit, Risiken, Integrationsaufwand und erwartbarem Mehrwert identifizieren, priorisieren und begründen.
 
 Die Teilnehmer:innen können KI Anwendungsfälle identifizieren und priorisieren.
 
@@ -72,7 +68,7 @@ Die Teilnehmer:innen können KI Anwendungsfälle identifizieren und priorisieren
 Die Teilnehmer:innen verstehen die Stärken und die Grenzen von KI und kennen die sog. "Jagged Technological Frontier".
 
 [[LZ-1-10]]
-==== LZ 1-10: Konzept der Productivity J-Curve in Verbindung mit KI-Technologie kennen
+==== LZ 1-10 [OPTIONAL]: Das Konzept der Productivity J-Curve als Einordnungsrahmen für die Einführung von KI in Organisationen kennen.
 
 Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung von KI zunächst einen Produktivitätsrückgang verzeichnen können, dem bei der weiteren Entwicklung aber Produktivitätsgewinne folgen können.
 

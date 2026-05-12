@@ -9,7 +9,7 @@
 Die Teilnehmer:innen kennen die Datenschutzgesetze wie die DSGVO und wissen, wie diese die Sammlung, Verarbeitung und Speicherung von Daten durch KI-Systeme beeinflussen.
 
 [[LZ-2-2]]
-==== LZ 2-2: Ziele und Regelungen des EU AI Act sowie deren Einfluss auf den Entwicklungsprozess und die Architektur verstehen
+==== LZ 2-2: Die Anforderungen des EU AI Act analysieren und daraus architekturrelevante Maßnahmen für Datenflüsse, Logging, technische Dokumentation, Human Oversight, Robustheit und Deployment ableiten.
 
 Die Teilnehmer:innen verstehen die Ziele und Regelungen des EU AI Act und wissen welchen Einfluss dies auf die Entwicklung und den Einsatz von KI-Systemen hat. Außerdem verstehen sie die Anforderungen des EU AI Act (Trustworthy AI) und welchen Einfluss diese Anforderungen auf den Entwicklungsprozess und die Architektur
 des Softwaresystems haben. Insbesondere kennen sie den Einfluss auf einige der folgenden Aspekte:
@@ -44,13 +44,13 @@ und der Modellparameter. Darüber hinaus kennen sie verschiedene Arten von Lizen
 
 
 [[LZ-2-6]]
-==== LZ 2-6: Strategien für die Einhaltung des EU AI Acts und mögliche Herausforderungen verstehen
+==== LZ 2-6: Strategien zur Einhaltung regulatorischer Anforderungen definieren und geeignete Nachweis- und Dokumentationsartefakte für Modelle, Datensätze und Betriebsprozesse festlegen.
 
 Die Teilnehmer:innen verstehen die Grundaussagen des EU AI Acts (insbesondere Transparenzpflichten) und kennen Strategien
 für deren Einhaltung sowie mögliche Herausforderungen dabei.
 
 [[LZ-2-7]]
-==== LZ 2-7: Modelle und Datensätze für die Nachvollziehbarkeit und Transparenz dokumentieren
+==== LZ 2-7: Dokumentationsartefakte für Modelle, Datensätze, Prompts, Evaluationsverfahren und Betriebsprozesse auswählen und deren Beitrag zu Nachvollziehbarkeit, Transparenz und Auditierbarkeit erklären.
 
 Die Teilnehmer:innen wissen, wie man Modelle und Datensätze effektiv dokumentiert, um Nachvollziehbarkeit und Transparenz zu gewährleisten.
 
@@ -79,7 +79,7 @@ Die Teilnehmer:innen wissen, wie Strategien zur KI-Risikominimierung entwickelt 
 
 
 [[LZ-2-10]]
-==== LZ 2-10: Möglichkeiten zur Absicherung gegen Angriffe (AI Security) anwenden
+==== LZ 2-10: Sicherheitsmaßnahmen gegen Angriffe auf KI-Systeme auswählen und in Architektur, Schnittstellen, Betriebsmodell und Schutzmechanismen integrieren.
 
 Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Absicherung gegen Angriffe (AI Security) und insbesondere kennen sie Möglichkeiten
 zur Integration von Sicherheitsstandards in die Architektur und können diese beim Entwurf berücksichtigen.
@@ -103,7 +103,7 @@ Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme m
 Die Teilnehmer:innen überblicken wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“ sowie die „Google AI Ethics Guidelines“.
 
 [[LZ-2-14]]
-==== LZ 2-14: Kernprinzipien zu AI Governance und Responsible AI für Unternehmen kennen
+==== LZ 2-14: Prinzipien von AI Governance und Responsible AI in Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen.
 
 Die Teilnehmer:innen kennen die wichtigsten Dokumente zu AI Governance, um die Kernprinzipien zu AI Governance und Responsible AI für das Unternehmen auszuarbeiten. Dies betrifft
 insbesondere die folgenden Dokumente:

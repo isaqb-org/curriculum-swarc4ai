@@ -38,7 +38,7 @@ Die Teilnehmer:innen verstehen die Qualitätsmerkmale, die für KI-Systeme beson
 * Interpretierbarkeit
 
 [[LZ-6-5]]
-==== LZ 6-5: [OPTIONAL] Evaluations-Frameworks für KI-Systeme kennen
+==== LZ 6-5: [OPTIONAL] Frameworks und Ansätze zur Evaluation von GenAI- und LLM-basierten Systemen einordnen und passend auswählen.
 
 Die Teilnehmer:innen kennen gängige Evaluations-Frameworks wie beispielsweise LangSmith oder LangFuse, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen.
 
@@ -59,7 +59,7 @@ Die Teilnehmer:innen haben ein grundlegendes Verständnis von generativer KI wie
 Die Teilnehmer:innen verstehen die Funktionsweise von LLMs und können die zugehörige Begriffswelteinordnen: Token, Embedding, RNN, Transformer, Attention.
 
 [[LZ-6-9]]
-==== LZ 6-9: Bekannte Patterns bei der Nutzung von LLMs kennen
+==== LZ 6-9: Architekturmuster für den Einsatz von LLMs kennen und deren Einsatzgrenzen, Risiken und Trade-offs bewerten, insbesondere bei RAG, Function Calling, Fine-Tuning, Assistenzsystemen und Agenten.
 
 Die Teilnehmer:innen kennen bekannte Patterns bei der Nutzung von LLMs. Dies umfasst die folgenden Patterns:
 * RAG und Retrieval-Strategien
@@ -100,7 +100,7 @@ Die Teilnehmer:innen kennen verschiedene Arten von Prompt Engineering, wie beisp
 sowie allgemeine Best Practices für das Prompting.
 
 [[LZ-6-13]]
-==== LZ 6-13: Agentic Workflows überblicken
+==== LZ 6-13: Agentic Workflows hinsichtlich Planung, Werkzeugnutzung, Reflexion, Zustandsmanagement, Kontrollmechanismen und Multi-Agenten-Kollaboration analysieren und architektonisch einordnen.
 
 Die Teilnehmer:innen wissen, was Agentic Workflows sind und kennen die Begriffe Reflexion, Werkzeugnutzung, Planung und Multi-Agenten-Kollaboration.
 
@@ -121,7 +121,7 @@ Die Teilnehmer:innen wissen welche Design Patterns für Generative KI-Systeme ex
 * Red and Blue Team Dual-Model Evaluation
 
 [[LZ-6-15]]
-==== LZ 6-15: Techniken zur Evaluation von LLM-Anwendungen kennen
+==== LZ 6-15: Techniken zur Evaluation von LLM-Anwendungen auswählen und auf Antwortqualität, Retrieval-Qualität, Halluzinationen, Sicherheit, Kosten und Nutzermehrwert anwenden.
 
 Die Teilnehmer:innen kennen mehrere Techniken zur Evaluation von LLM-Anwendungen. Dies können beispielsweise die folgenden Techniken sein:
 
@@ -142,15 +142,28 @@ Die Teilnehmer:innen kennen bekannte LLMs wie beispielsweise GPT, Claude, Gemini
 Die Teilnehmer:innen verstehen die Bedeutung von Cost Management für GenAI Applikationen.
 
 [[LZ-6-18]]
-==== LZ 6-18: Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang mit LLM-Anwendungen nennen
+==== LZ 6-18: Klassen von Bibliotheken, Schnittstellen und Werkzeugen für LLM-Anwendungen sowie deren Einsatzkontexte und Auswahlkriterien kennen.
 
 Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools im Zusammenhang
 mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.
 
 [[LZ-6-19]]
-==== LZ 6-19: [OPTIONAL] Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen von AI Agentarchitekturen kennen
+==== LZ 6-19: [OPTIONAL] Agentic-AI-Architekturen, zentrale Architekturkomponenten, Sicherheits- und Governance-Grenzen sowie typische Einsatzmuster und Grenzen von Agentensystemen kennen und bewerten.
 
 Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen von AI Agentarchitekturen.
+
+[[LZ 6-20]]
+==== LZ 6-20: Harness Engineering für LLM- und Agentensysteme architektonisch einordnen und anwenden
+
+Die Teilnehmer:innen verstehen Harness Engineering als architektonische Kontroll- und Integrationsschicht für probabilistische KI-Komponenten wie LLMs und Agenten. Sie können Harness-Ansätze mit klassischen Architekturkonzepten wie Kapselung, Schnittstellenkontrolle, Invarianten, Betriebsgrenzen, Observability, Policy Enforcement, Fehlerisolierung, kontrollierter Änderung, Governance und Auditierbarkeit beschreiben und beim Entwurf produktionsfähiger KI-Systeme anwenden.
+Sie können insbesondere ableiten, wie ein Harness:
+•	die Autonomie einer KI-Komponente durch klare Schnittstellen, erlaubte Aktionen und Betriebsgrenzen begrenzt,
+•	Eingaben, Kontext, Toolzugriffe, Zustände und Ausgaben kontrolliert,
+•	Systeminvarianten und Policies durchsetzt,
+•	Fehler und unsichere Modelloutputs isoliert,
+•	Beobachtbarkeit, Nachvollziehbarkeit und Auditierbarkeit sicherstellt,
+•	kontrollierte Änderungen an Prompts, Modellen, Retrieval-Komponenten und Tools ermöglicht,
+•	Sicheren Betrieb sowie die sichere Weiterentwicklung von KI-Systemen unterstützt.
 
 // end::DE[]
 

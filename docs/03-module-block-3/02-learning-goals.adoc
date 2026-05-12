@@ -66,7 +66,7 @@ Die Teilnehmer:innen kennen Transfer-Learning bzw. Fine-Tuning als Möglichkeit,
 
 
 [[LZ-3-8]]
-==== LZ 3-8: Design Patterns für KI-Systeme auswählen
+==== LZ 3-8: Geeignete Architektur- und Design-Patterns für KI-Systeme auswählen, gegeneinander abwägen und anhand von Qualitätsanforderungen begründen.
 
 Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt. Das betrifft die folgenden Design Patterns:
 
@@ -100,12 +100,12 @@ Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance vo
 und wissen, wie man Bewertungskriterien zur Leistungsbeurteilung festlegt.
 
 [[LZ-3-12]]
-==== LZ 3-12: ML-Modelle in bestehende Systeme integrieren
+==== LZ 3-12: KI-Komponenten über geeignete Integrationsmuster, Schnittstellen und Entkopplungsmechanismen in bestehende Systeme und Domänenarchitekturen integrieren.
 
 Die Teilnehmer:innen verstehen, wie ML-Modelle in bestehende Systeme integriert werden können und kennen die Schnittstellen und Integrationspunkte.
 
 [[LZ-3-13]]
-==== LZ 3-13: Benutzeroberflächen für KI-Systeme gestalten
+==== LZ 3-13: Benutzerinteraktionen für KI-Systeme so gestalten, dass Unsicherheit, Erklärbarkeit, Freigaben und Human-in-the-Loop angemessen berücksichtigt werden.
 
 Die Teilnehmer:innen wissen, wie Benutzeroberflächen gestaltet werden sollten, um effektive Interaktionen mit dem ML-System zu ermöglichen und die Benutzererfahrung zu optimieren.
 
@@ -127,14 +127,13 @@ wie man KI-Systeme entwickelt, die mit steigenden Datenvolumen umgehen können, 
 Die Teilnehmer:innen haben ein Verständnis davon, was Robustheit in KI-Systemen bedeutet,
 und können Strategien zur Erhöhung der Robustheit in verschiedenen Anwendungskontexten anwenden.
 
-
 [[LZ-3-17]]
 ==== LZ 3-17: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen
 
 Die Teilnehmer:innen verstehen die Konzepte der Zuverlässigkeit und Verfügbarkeit und wissen, wie sie KI-Systeme bauen, die stabil und konstant verfügbar sind.
 
 [[LZ-3-18]]
-==== LZ 3-18: Reproduzierbarkeit und Prüfbarkeit von KI-Ergebnisse verstehen
+==== LZ 3-18: Maßnahmen für Reproduzierbarkeit, Auditierbarkeit und Nachvollziehbarkeit von Modellen, Datenständen, Prompts, Konfigurationen und Ergebnissen festlegen.
 
 Die Teilnehmer:innen wissen, wie wichtig es ist, dass KI-Ergebnisse reproduzierbar und prüfbar sind, und wissen, welche Methoden zur Sicherstellung dieser Eigenschaften eingesetzt werden können.
 
@@ -160,6 +159,9 @@ Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduzier
 ==== LZ 3-22: Fehlertoleranz in KI-Systemen kennen
 
 Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläutern, wie KI-Systeme trotz Fehlern oder Störungen funktionsfähig bleiben.
+
+[[LZ-3-23]] 
+==== LZ 3-23: Architekturentscheidungen für KI-Systeme dokumentieren, insbesondere Trade-offs zu RAG versus Fine-Tuning, SaaS versus Self-Hosting, Batch versus Realtime und zentralem versus domänenspezifischem KI-Service.
 
 // end::DE[]
 
