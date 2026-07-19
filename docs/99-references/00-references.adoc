@@ -39,7 +39,7 @@ This section contains references that are cited in the curriculum.
 **D**
 
 - [[[dehghani,Dehghani]]] Z. Dehghani: Data Mesh https://learning.oreilly.com/library/view/data-mesh/9781492092384/
-- [[[dellacqua,Dell'Acqua 2022]]] Fabrizio Dell'Acqua et al.: Paper: “Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality” https://www.hbs.edu/ris/Publication%20Files/24-013_d9b45b68-9e74-42d6-a1c6-c72fb70c7282.pdf
+- [[[dellacqua,Dell'Acqua 2026]]] Fabrizio Dell'Acqua et al.: Paper: "Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality" https://doi.org/10.1287/orsc.2025.21838
 - [[[dibia,Dibia 2025]]] V. Dibia with C. Wang: Multi-Agent Systems with AutoGen https://www.manning.com/books/multi-agent-systems-with-autogen
 
 **E**
