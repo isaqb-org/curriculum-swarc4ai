@@ -115,7 +115,7 @@ This section contains references that are cited in the curriculum.
 - [[[saltz,Saltz]]] J. Saltz: The GenAI Life Cycle https://www.datascience-pm.com/the-genai-life-cycle/
 - [[[sanderson,Sanderson et al.]]] C. Sanderson, M. Freeman: Data Contracts https://learning.oreilly.com/library/view/data-contracts/9781098157623/
 - [[[sarkis,Sarkis]]] A. Sarkis: Training Data for Machine Learning https://learning.oreilly.com/library/view/training-data-for/9781492094517/
-- [[[savarese,Savarese]]] S. Savarese: How AI Agents Will Revolutionize the AI Enterprise https://blog.salesforceairesearch.com/how-ai-agents-will-revolutionize-the-ai-enterprise/
+- [[[savarese,Savarese]]] S. Savarese: How AI Agents Will Revolutionize the AI Enterprise https://www.salesforce.com/blog/how-ai-agents-will-revolutionize-the-ai-enterprise/
 - [[[serban,Serban]]] A. Serban, J. Visser: "Adapting software architectures to machine learning challenges." 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). IEEE, 2022.
 - [[[serra,Serra]]] J. Serra: Deciphering Data Architectures https://learning.oreilly.com/library/view/deciphering-data-architectures/9781098150754/
 - [[[spirin,Spirin et al.]]] N. Spirin, M. Balint: Mastering LLM Techniques: LLMOps https://developer.nvidia.com/blog/mastering-llm-techniques-llmops/
