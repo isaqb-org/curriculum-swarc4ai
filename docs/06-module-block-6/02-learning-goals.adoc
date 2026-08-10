@@ -45,6 +45,7 @@ Die Teilnehmer:innen verstehen die Funktionsweise von LLMs und können die zugeh
 ==== LZ 6-9: Architekturmuster für den Einsatz von LLMs kennen und deren Einsatzgrenzen, Risiken und Trade-offs bewerten, insbesondere bei RAG, Function Calling, Fine-Tuning, Assistenzsystemen und Agenten.
 
 Die Teilnehmer:innen kennen bekannte Patterns bei der Nutzung von LLMs. Dies umfasst die folgenden Patterns:
+
 * RAG und Retrieval-Strategien
 * Function Calling
 * Finetuning
@@ -260,7 +261,7 @@ Participants know what agentic workflows are and are familiar with the terms ref
 
 The participants know which design patterns exist for generative AI systems. They know a selection of the following patterns:
 
-- AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
+- AI Query Router (Simple Router; Ranking-based Router; Learning-based Router)
 - Layered Caching Strategy Leading to Fine-Tuning
 - Multiplexing AI Agents
 - Fine-Tuning LLMs for Multiple Tasks
