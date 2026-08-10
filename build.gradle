@@ -1,6 +1,0 @@
-ext {
-    curriculumFileName = "curriculum-swarc4ai"
-    languages = ["DE", "EN"]
-}
-
-defaultTasks 'buildDocs'

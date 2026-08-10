@@ -4,6 +4,10 @@
 :imagesdir: images
 :!chapter-signifier:
 
+ifdef::prepress[]
+:media: prepress
+endif::[]
+
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: DE
@@ -22,4 +26,15 @@ endif::[]
 ifeval::["{language}" == "EN"]
 :curriculum-name: Software Architecture for AI Systems
 :curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
+endif::[]
+
+// title definitions for proper formatting in PDF and HTML – DO NOT TOUCH
+ifdef::backend-pdf[]
+:title-break: :{sp}
+:toc: macro
+:toc-placement: macro
+endif::[]
+ifndef::backend-pdf[]
+:title-break: pass:q[<br>]
+:toc: left
 endif::[]
