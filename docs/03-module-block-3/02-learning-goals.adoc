@@ -68,7 +68,7 @@ Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren u
 Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance von ML-Modellen wie beispielsweise:
 
 * Precision, Recall
-* F1
+* F1-Score
 * Accuracy
 
 und wissen, wie man Bewertungskriterien zur Leistungsbeurteilung festlegt.
@@ -234,7 +234,7 @@ Participants understand which inputs and outputs are required for the functionin
 Participants are familiar with various metrics for measuring the performance of ML models, such as:
 
 - Precision, Recall
-- F1
+- F1 Score
 - Accuracy
 
 and know how to define evaluation criteria for performance assessment.
