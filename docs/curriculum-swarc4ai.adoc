@@ -3,29 +3,24 @@
 include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
-= Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulpass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+= Curriculum für Certified Professional for Software Architecture (CPSA)^(R)^ Advanced Level{title-break}**{curriculum-short}** __– {curriculum-name}__
 :toc-title: Inhaltsverzeichnis
-:toc: left
 endif::[]
-
 ifeval::["{language}" == "EN"]
-= Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulepass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
-:toc: left
+= Curriculum for Certified Professional for Software Architecture (CPSA)^(R)^ Advanced Level{title-break}**{curriculum-short}** __– {curriculum-name}__
 endif::[]
-
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]
 
 <<<
 :sectnums!:
+
+[#copyright]
+== {copyright-title}
 include::../license-copyright/copyright.adoc[{include_configuration}]
 
 <<<
 toc::[]
-
-<<<
-// Auto-generated list of learning objectives
-include::learning-objectives.adoc[{include_configuration}]
 
 <<<
 :sectnums!:

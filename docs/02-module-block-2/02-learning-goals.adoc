@@ -89,7 +89,9 @@ zur Integration von Sicherheitsstandards in die Architektur und können diese be
 ==== LZ 2-11: Grundproblematik und Facetten von AI-Safety verstehen
 
 Die Teilnehmer:innen verstehen die Grundproblematik von AI-Safety und kennen die verschiedenen Facetten dazu. Insbesondere kennen die Teilnehmer:innen
-spezifische Probleme wie beispielsweise "AI model risks by poisoning" und  "Bias".
+spezifische Probleme wie beispielsweise "AI model risks by poisoning" und "Bias".
+
+Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduziert werden können, um Fairness und Gleichbehandlung in KI-Anwendungen sicherzustellen.
 
 [[LZ-2-12]]
 ==== LZ 2-12: Ethische Probleme von KI-Systemen verstehen und Ansätze zum Umgang damit kennen
@@ -98,30 +100,21 @@ Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme m
 
 
 [[LZ-2-13]]
-==== LZ 2-13: Ethikleitlinien überblicken
+==== LZ 2-13: Ethikleitlinien und Prinzipien von AI Governance in Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen
 
-Die Teilnehmer:innen überblicken wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“ sowie die „Google AI Ethics Guidelines“.
+Die Teilnehmer:innen überblicken wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“.
 
-[[LZ-2-14]]
-==== LZ 2-14: Prinzipien von AI Governance und Responsible AI in Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen.
-
-Die Teilnehmer:innen kennen die wichtigsten Dokumente zu AI Governance, um die Kernprinzipien zu AI Governance und Responsible AI für das Unternehmen auszuarbeiten. Dies betrifft
-insbesondere die folgenden Dokumente:
+Optional kennen die Teilnehmer:innen die wichtige Dokumente und Frameworks zu AI Governance, um die Kernprinzipien zu AI Governance und Responsible AI für das Unternehmen auszuarbeiten, z.B.:
 
 * OECD AI Principles, https://oecd.ai/en/ai-principles
 * The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
 * The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
 
-[[LZ-2-15]]
-==== LZ 2-15: Einblick in die Einrichtung von "Regulatory Sandboxes" bekommen
+[[LZ-2-14]]
+==== LZ 2-14: Einblick in die Einrichtung von "Regulatory Sandboxes" bekommen
 
 Die Teilnehmer:innen erhalten einen Einblick in die Einrichtung von "Regulatory Sandboxes" zur Förderung von Innovationen und
 in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts.
-
-[[LZ-2-16]]
-==== LZ 2-16: Effektive Datenverwaltung für Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellen
-
-Die Teilnehmer:innen wissen, wie effektive Datenverwaltung die Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellt.
 
 
 // end::DE[]

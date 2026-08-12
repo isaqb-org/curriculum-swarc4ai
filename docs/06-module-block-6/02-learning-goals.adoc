@@ -12,10 +12,6 @@ Die Teilnehmer:innen kennen verschiedene Integrationsebenen von KI. Dazu gehöre
 * ML-Modellentwicklung (z.{nbsp}B. pytorch)
 * ML-Infrastruktur (z.{nbsp}B. Vektor-DBs).
 
-
-[[LZ-6-2]]
-==== LZ 6-2: Bibliotheken, Schnittstellen und Tools zur Integration von KI-Modellen kennen
-
 Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schnittstellen und Tools zur Integration von KI-Modellen.
 
 [[LZ-6-3]]
@@ -25,17 +21,6 @@ Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf st
 können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen,
 um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
 
-[[LZ-6-4]]
-==== LZ 6-4: Relevante Qualitätsmerkmale für KI-Systeme überblicken
-
-Die Teilnehmer:innen verstehen die Qualitätsmerkmale, die für KI-Systeme besonders relevant sind. Dazu gehören insbesondere die folgenden Qualitätsmerkmale:
-
-* Verlässlichkeit
-* Skalierbarkeit
-* Effizienz
-* Sicherheit
-* Wartbarkeit
-* Interpretierbarkeit
 
 [[LZ-6-5]]
 ==== LZ 6-5: [OPTIONAL] Frameworks und Ansätze zur Evaluation von GenAI- und LLM-basierten Systemen einordnen und passend auswählen.
@@ -49,19 +34,18 @@ Die Teilnehmer:innen kennen gängige Evaluations-Frameworks wie beispielsweise L
 Die Teilnehmer:innen üben und diskutieren anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, Integrationsoptionen für KI in eine bestehende Software-Landschaft abzuwägen.
 
 [[LZ-6-7]]
-==== LZ 6-7: Generative KI grundlegend verstehen
+==== LZ 6-7: Generative KI und ihre Funktionsweise grundlegend verstehen
 
-Die Teilnehmer:innen haben ein grundlegendes Verständnis von generativer KI wie beispielsweise LLMs und Stable Diffusion.
-
-[[LZ-6-8]]
-==== LZ 6-8: Funktionsweise von LLMs verstehen
+Die Teilnehmer:innen haben ein grundlegendes Verständnis von generativer KI wie beispielsweise LLMs und Diffusionmodelle.
 
 Die Teilnehmer:innen verstehen die Funktionsweise von LLMs und können die zugehörige Begriffswelteinordnen: Token, Embedding, RNN, Transformer, Attention.
+
 
 [[LZ-6-9]]
 ==== LZ 6-9: Architekturmuster für den Einsatz von LLMs kennen und deren Einsatzgrenzen, Risiken und Trade-offs bewerten, insbesondere bei RAG, Function Calling, Fine-Tuning, Assistenzsystemen und Agenten.
 
 Die Teilnehmer:innen kennen bekannte Patterns bei der Nutzung von LLMs. Dies umfasst die folgenden Patterns:
+
 * RAG und Retrieval-Strategien
 * Function Calling
 * Finetuning
@@ -78,7 +62,7 @@ Die Teilnehmer:innen kennen typische Use-Cases für RAG wie beispielsweise „Ta
 
 Die Teilnehmer:innen kennen eine Auswahl der gängigen RAG-Techniken wie beispielsweise:
 
-* Simple RAG
+* Reguläres RAG, GraphRAG, CAG, Agentic RAG and Multi-Agent RAG
 * Context Enrichment Techniques
 * Fusion Retrieval
 * Intelligent Reranking
@@ -153,10 +137,10 @@ mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.
 Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen von AI Agentarchitekturen.
 
 [[LZ 6-20]]
-==== LZ 6-20: Harness Engineering für LLM- und Agentensysteme architektonisch einordnen und anwenden
+==== LZ 6-20: Agenten-Laufzeitsysteme für LLM- und Agentensysteme architektonisch einordnen und anwenden
 
-Die Teilnehmer:innen verstehen Harness Engineering als architektonische Kontroll- und Integrationsschicht für probabilistische KI-Komponenten wie LLMs und Agenten. Sie können Harness-Ansätze mit klassischen Architekturkonzepten wie Kapselung, Schnittstellenkontrolle, Invarianten, Betriebsgrenzen, Observability, Policy Enforcement, Fehlerisolierung, kontrollierter Änderung, Governance und Auditierbarkeit beschreiben und beim Entwurf produktionsfähiger KI-Systeme anwenden.
-Sie können insbesondere ableiten, wie ein Harness:
+Die Teilnehmer:innen verstehen Agenten-Laufzeitsysteme als architektonische Kontroll- und Integrationsschicht für probabilistische KI-Komponenten wie LLMs und Agenten. Sie können Harness-Ansätze mit klassischen Architekturkonzepten wie Kapselung, Schnittstellenkontrolle, Invarianten, Betriebsgrenzen, Observability, Policy Enforcement, Fehlerisolierung, kontrollierter Änderung, Governance und Auditierbarkeit beschreiben und beim Entwurf produktionsfähiger KI-Systeme anwenden.
+Sie können insbesondere ableiten, wie ein Agenten-Laufzeitsystem:
 •	die Autonomie einer KI-Komponente durch klare Schnittstellen, erlaubte Aktionen und Betriebsgrenzen begrenzt,
 •	Eingaben, Kontext, Toolzugriffe, Zustände und Ausgaben kontrolliert,
 •	Systeminvarianten und Policies durchsetzt,
@@ -214,9 +198,9 @@ Participants are familiar with common evaluation frameworks such as LangSmith or
 Participants will practise and discuss a case study with an imaginary technicality to weigh up integration options for AI into an existing software landscape.
 
 [[LG-6-7]]
-==== LG 6-7: Fundamental understanding of generative AI
+==== LG 6-7: Fundamental understanding of Generative AI, Language and Diffusion Models, and how they work
 
-The participants have a basic understanding of generative AI such as LLMs and stable diffusion.
+The participants have a basic understanding of Generative AI such as LLMs and diffusion models.
 
 [[LG-6-8]]
 ==== LG 6-8: Understanding how LLMs work
@@ -244,13 +228,13 @@ The participants know typical use cases for RAG such as "Talk to your documents/
 
 The participants know a selection of common RAG techniques such as:
 
-- Simple RAG
+- Regular RAG, GraphRAG, CAG, Agentic RAG and Multi-Agent RAG
 - Context Enrichment Techniques
 - Fusion Retrieval
 - Intelligent Reranking
 - Query Transformations
 - Adaptive Retrieval
-- Iterative retrieval
+- Iterative Retrieval
 - Ensemble Retrieval
 - Knowledge Graph Integration
 
@@ -277,7 +261,7 @@ Participants know what agentic workflows are and are familiar with the terms ref
 
 The participants know which design patterns exist for generative AI systems. They know a selection of the following patterns:
 
-- AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
+- AI Query Router (Simple Router; Ranking-based Router; Learning-based Router)
 - Layered Caching Strategy Leading to Fine-Tuning
 - Multiplexing AI Agents
 - Fine-Tuning LLMs for Multiple Tasks

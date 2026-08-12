@@ -16,9 +16,6 @@ Die Teilnehmer:innen haben ein Verständnis für den Life-Cycle eines Machine-Le
 * Deployment
 * Maintenance
 
-[[LZ-3-2]]
-==== LZ 3-2: Vorgehensmodelle für die Softwareentwicklung von KI-Systemen kennen
-
 Die Teilnehmer:innen kennen typische Vorgehensmodelle für die Softwareentwicklung von KI-Systemen. Dies sind beispielsweise
 
 * CRISP-ML(Q)
@@ -26,38 +23,26 @@ Die Teilnehmer:innen kennen typische Vorgehensmodelle für die Softwareentwicklu
 * GenAI Life Cycle.
 
 [[LZ-3-3]]
-==== LZ 3-3: Arten von sowie Anforderungen an Daten und typische ML-Probleme kennen
+==== LZ 3-3: Datenarten und Anforderungen an Daten sowie typische ML-Problemstellungen und deren Anforderungen verstehen
 
-Die Teilnehmer:innen kennen verschiedene Arten von Daten und typische ML-Probleme sowie Anwendungsfälle für die Nutzung der Daten. Darüber hinaus haben
-die Teilnehmer:innen ein Verständnis für verschiedene Anforderungen an die Daten, z.{nbsp}B. Vorhandensein von korrekten Labels verschiedener Art.
-
-[[LZ-3-4]]
-==== LZ 3-4: Machine Learning Problemstellungen und deren Anforderungen verstehen
-
-Die Teilnehmer:innen verstehen die verschiedenen Machine Learning Problemstellungen wie beispielsweise
+Die Teilnehmer:innen kennen verschiedene Arten von Daten sowie typische ML-Probleme und Anwendungsfälle für die Nutzung der Daten aus den Bereichen:
 
 * Supervised Learning
 * Unsupervised Learning
 * Reinforcement Learning
 
-und wissen, welche Anforderungen diese haben.
+und verstehen, welche Anforderungen diese haben können, z.B.:
 
-[[LZ-3-5]]
-==== LZ 3-5: Input Daten für verschiedene KI-Algorithmen nutzen
+* Vorhandensein von korrekten Labels verschiedener Art
+* Datenumfang und -diversität
+* Zeitliche oder semantische Abhängigkeiten in Datenmerkmalen
+* Kodierung der Eingabedaten von ML-Modellen, z.B.:
+  * One-Hot-Encodings
+  * Label Encodings
+  * Embeddings
 
-Die Teilnehmer:innen wissen welche Daten für KI-Algorithmen benötigt werden und haben ein gutes Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten. Außerdem haben die Teilnehmer:innen ein gutes Verständnis der Input-Daten, die für verschiedene KI-Algorithmen wie beispielsweise
+Insbesondere haben die Teilnehmer:innen ein gutes Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten.
 
-* Neuronale Netze als numerische Vektoren und Matrizen bzw. Tensoren
-* One-Hot-Encodings
-* Embeddings
-
-benötigt werden.
-
-
-[[LZ-3-6]]
-==== LZ 3-6: Mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgehen
-
-Die Teilnehmer:innen verstehen, wie man mit Herausforderungen wie Nicht-Determinismus, Datenqualität und Concept- und Modell-Drift umgeht.
 
 [[LZ-3-7]]
 ==== LZ 3-7: Transfer-Learning bzw. Fine-Tuning kennen
@@ -76,17 +61,6 @@ Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren u
 * Model Serving Patterns
 * Model Deployment Patterns
 
-[[LZ-3-9]]
-==== LZ 3-9: Aufgabe eines ML-Modells definieren
-
-Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Modells definiert, wie beispielsweise die
-Klassifikation von Bildern oder die Erkennung von Betrug.
-
-
-[[LZ-3-10]]
-==== LZ 3-10: Eingaben und Ausgaben für das Funktionieren eines ML-Systems verstehen und spezifizieren
-
-Die Teilnehmer:innen verstehen, welche Eingaben und Ausgaben für das Funktionieren eines ML-Systems erforderlich sind und können diese spezifizieren.
 
 [[LZ-3-11]]
 ==== LZ 3-11: Metriken zur Messung der Performance von ML-Modellen kennen
@@ -94,7 +68,7 @@ Die Teilnehmer:innen verstehen, welche Eingaben und Ausgaben für das Funktionie
 Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance von ML-Modellen wie beispielsweise:
 
 * Precision, Recall
-* F1
+* F1-Score
 * Accuracy
 
 und wissen, wie man Bewertungskriterien zur Leistungsbeurteilung festlegt.
@@ -137,11 +111,6 @@ Die Teilnehmer:innen verstehen die Konzepte der Zuverlässigkeit und Verfügbark
 
 Die Teilnehmer:innen wissen, wie wichtig es ist, dass KI-Ergebnisse reproduzierbar und prüfbar sind, und wissen, welche Methoden zur Sicherstellung dieser Eigenschaften eingesetzt werden können.
 
-[[LZ-3-19]]
-==== LZ 3-19: Anforderungen an Sicherheit, Datenschutz und Compliance kennen
-
-Die Teilnehmer:innen kennen die Anforderungen an Sicherheit, Datenschutz und Compliance und wissen, wie diese in KI-Systemen umgesetzt werden.
-
 
 [[LZ-3-20]]
 ==== LZ 3-20: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen
@@ -149,19 +118,21 @@ Die Teilnehmer:innen kennen die Anforderungen an Sicherheit, Datenschutz und Com
 Die Teilnehmer:innen verstehen die Bedeutung von Erklärbarkeit und Interpretierbarkeit in KI-Systemen und wissen,
 wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.
 
-
-[[LZ-3-21]]
-==== LZ 3-21: Bias in Daten und Modellen erkennen
-
-Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduziert werden können, um Fairness und Gleichbehandlung in KI-Anwendungen sicherzustellen.
-
 [[LZ-3-22]]
 ==== LZ 3-22: Fehlertoleranz in KI-Systemen kennen
 
 Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläutern, wie KI-Systeme trotz Fehlern oder Störungen funktionsfähig bleiben.
 
 [[LZ-3-23]] 
-==== LZ 3-23: Architekturentscheidungen für KI-Systeme dokumentieren, insbesondere Trade-offs zu RAG versus Fine-Tuning, SaaS versus Self-Hosting, Batch versus Realtime und zentralem versus domänenspezifischem KI-Service.
+==== LZ 3-23: Architekturentscheidungen für KI-Systeme dokumentieren.
+
+Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Modells definiert und dokumentiert, wie beispielsweise die Klassifikation von Bildern oder die Erkennung von Betrug, insbesondere Trade-offs zu:
+* RAG versus Fine-Tuning
+* SaaS versus Self-Hosting
+* Batch versus Realtime
+* Zentralem versus domänenspezifischem KI-Service.
+
+Die Teilnehmer:innen kennen // TODO
 
 // end::DE[]
 
@@ -263,7 +234,7 @@ Participants understand which inputs and outputs are required for the functionin
 Participants are familiar with various metrics for measuring the performance of ML models, such as:
 
 - Precision, Recall
-- F1
+- F1 Score
 - Accuracy
 
 and know how to define evaluation criteria for performance assessment.
@@ -331,9 +302,5 @@ The participants know how bias in data and models can be recognized and reduced 
 ==== LG 3-22: Knowing fault tolerance in AI systems
 
 Participants are familiar with the concepts of fault tolerance and can explain how AI systems remain functional despite errors or malfunctions.
-
-
-
-
 
 // end::EN[]

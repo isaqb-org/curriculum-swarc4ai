@@ -6,7 +6,7 @@
 [[LZ-5-1]]
 ==== LZ 5-1: (Hardware)-Anforderungen an Training und Inferenz kennen
 
-Die Teilnehmer:innen kennen unterschiedliche (Hardware)-Anforderungen für beispielsweise TPU, GPU oder CPU an Training und Inferenz.
+Die Teilnehmer:innen kennen unterschiedliche (Hardware)-Anforderungen für beispielsweise TPU, NPU, LPU, GPU oder CPU an Training und Inferenz.
 
 [[LZ-5-2]]
 ==== LZ 5-2: Trade-Offs verschiedener Modellarchitekturen bezüglich der Qualitätsmerkmale kennen
@@ -56,12 +56,9 @@ Die Teilnehmer:innen kennen verschiedene Arten von Drift, wie beispielsweise Dat
 Die Teilnehmer:innen haben ein Verständnis von CI/CD-Pipelines, Modellmanagement und Deployment-Strategien für KI-Modelle.
 
 [[LZ-5-10]]
-==== LZ 5-10: Plattformen für die Modellbereitstellung kennen
+==== LZ 5-10: [OPTIONAL] Plattformen für die Modellbereitstellung kennen
 
 Die Teilnehmer:innen kennen gängige Plattformen für die Modellbereitstellung, wie beispielsweise Huggingface Hub.
-
-[[LZ-5-11]]
-==== LZ 5-11: Werkzeuge für das Erstellen von POCs von KI-Systemen einordnen
 
 Die Teilnehmer:innen können gängige Werkzeuge für das Erstellen von POCs von KI-Systemen, wie beispielsweise Gradio, nennen und verstehen die konzeptionelle Funktionsweise.
 
@@ -89,10 +86,6 @@ Die Teilnehmer:innen kennen die Vor- und Nachteile von SaaS und Self-Hosting und
 
 Die Teilnehmer:innen überblicken bekannte SaaS-KI-Lösungen, wie beispielsweise Azure OpenAI Services.
 
-[[LZ-5-15]]
-==== LZ 5-15: Embedded Deployments von ML-Modellen kennen
-
-Die Teilnehmer:innen kennen verschiedene Möglichkeiten und Standards für Embedded Deployments von ML-Modellen.
 
 [[LZ-5-16]]
 ==== LZ 5-16: Monitoring und Observability für KI-Systeme konzipieren, insbesondere für Drift, Qualitätsverlust, Kosten, Latenz, Sicherheitsereignisse und Governance-relevante Nachweise.
@@ -100,9 +93,6 @@ Die Teilnehmer:innen kennen verschiedene Möglichkeiten und Standards für Embed
 Die Teilnehmer:innen verstehen die Notwendigkeit für Monitoring, auch im Hinblick auf KI-spezifische Anforderungen wie das Tracking von Drift.
 
 Die Teilnehmer:innen kennen relevante Metriken wie beispielsweise Accuracy, Precision, Recall, F1-Score, MAE, MSE, Perplexity, Latenz, Durchsatz und Ressourcenauslastung und verstehen, warum diese für das Monitoring relevant sind.
-
-[[LZ-5-17]]
-==== LZ 5-17: Beispiel-Werkzeuge für Monitoring überblicken
 
 Die Teilnehmer:innen kennen Beispiel-Werkzeuge für Monitoring. Dies betrifft sowohl allgemeine Werkzeuge, wie beispielsweise Prometheus & Grafana,
 als auch ML-spezifische wie beispielsweise MLflow.
@@ -114,7 +104,7 @@ Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere M
 
 
 [[LZ-5-19]]
-==== LZ 5-19: Methoden zur Nutzung von Feedback für das Modell-Training kennen
+==== LZ 5-19: [OPTIONAL] Methoden zur Nutzung von Feedback für das Modell-Training kennen
 
 Die Teilnehmer:innen kennen verschiedene Methoden zur Nutzung von Feedback für das Modell-Training, wie beispielsweise RLHF, RLAIF und DPO.
 
