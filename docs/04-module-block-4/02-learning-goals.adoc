@@ -7,32 +7,32 @@
 
 Die Teilnehmer:innen überblicken verschiedene Methoden, um Daten zu akquirieren und Daten zu labeln.
 
+[OPTIONAL]
+Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispielsweise CVAT, Label Studio oder Amazon Mechanical Turk.
+
 [[LZ-4-2]]
-==== LZ 4-2: Gängige Plattformen für öffentlich zugängliche Daten kennen
+==== LZ 4-2: Quellen und Eignung öffentlich verfügbarer Datensätze hinsichtlich Qualität, Lizenz, Repräsentativität und Risiken bewerten.
 
 Die Teilnehmer:innen können gängige Plattformen für öffentlich zugängliche Daten nennen.
 
-[[LZ-4-3]]
-==== LZ 4-3: Relevante Werkzeuge für das Daten-Labeln überblicken
-
-Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispielsweise CVAT, Amazon Mechanical Turk.
 
 [[LZ-4-4]]
-==== LZ 4-4: Effiziente Datenpipelines und -architekturen entwerfen
+==== LZ 4-4: Datenpipelines und Datenarchitekturen für KI-Systeme so entwerfen, dass Qualität, Nachvollziehbarkeit, Skalierbarkeit, Governance und Wiederverwendbarkeit unterstützt werden.
 
 Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität
-sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:innen Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse.
+sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:innen:
 
+* Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse
+* Wie eine effektive Datenverwaltung die Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellt
+
+[OPTIONAL]
+Die Teilnehmer:innen überblicken relevante Werkzeuge für Data Engineering Pipelines wie beispielsweise Apache Spark und Flink.
 
 [[LZ-4-5]]
 ==== LZ 4-5: Strategien für Datenaggregation, -bereinigung, -transformation, -anreicherung und -augmentierung kennen
 
 Die Teilnehmer:innen kennen Strategien für Datenaggregation, -bereinigung, -transformation, -anreicherung und -augmentierung.
 
-[[LZ-4-6]]
-==== LZ 4-6: Werkzeuge für Data Engineering Pipelines überblicken
-
-Die Teilnehmer:innen überblicken relevante Werkzeuge für Data Engineering Pipelines wie beispielsweise Apache Spark und Flink.
 
 [[LZ-4-7]]
 ==== LZ 4-7: Möglichkeiten zur Speicherung der Daten kennen
@@ -41,9 +41,16 @@ Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Date
 
 * CSV-Dateien
 * Spaltenorientierte Dateien
-* Relationale und NoSQL-Datenbanken
+* Relationale und Dokumentbasierte Datenbanken
 * Data Warehouses
 * Data Lakes
+* Vektordatenbanken
+* Graphdatenbanken
+
+[[LZ-4-8]]
+==== LZ 4-8: Data Products, Data Contracts und Verantwortlichkeiten in Datenarchitekturen für KI-Systeme einordnen und für robuste Schnittstellen zwischen Fachlichkeit, Datenplattform und KI-Komponenten nutzen.
+
+Die Teilnehmer:innen kennen grundlegende Konzepte moderner Datenarchitekturen für KI-Systeme und verstehen die Rolle von Data Products, Data Contracts sowie fachlicher und technischer Verantwortlichkeiten für stabile und skalierbare Datenflüsse.
 
 // end::DE[]
 
