@@ -46,13 +46,12 @@ und der Modellparameter. Darüber hinaus kennen sie verschiedene Arten von Lizen
 [[LZ-2-6]]
 ==== LZ 2-6: Strategien zur Einhaltung regulatorischer Anforderungen definieren und geeignete Nachweis- und Dokumentationsartefakte für Modelle, Datensätze und Betriebsprozesse festlegen.
 
-Die Teilnehmer:innen verstehen die Grundaussagen des EU AI Acts (insbesondere Transparenzpflichten) und kennen Strategien
-für deren Einhaltung sowie mögliche Herausforderungen dabei.
+Die Teilnehmer:innen verstehen die Grundaussagen des EU AI Acts (insbesondere Transparenzpflichten) und kennen Strategien für deren Einhaltung sowie mögliche Herausforderungen dabei.
 
-[[LZ-2-7]]
-==== LZ 2-7: Dokumentationsartefakte für Modelle, Datensätze, Prompts, Evaluationsverfahren und Betriebsprozesse auswählen und deren Beitrag zu Nachvollziehbarkeit, Transparenz und Auditierbarkeit erklären.
+Sie können insbesondere Dokumentationsartefakte für Modelle, Datensätze, Prompts, Evaluationsverfahren, Änderungen und Betriebsprozesse auswählen und erklären, wie diese Nachvollziehbarkeit, Transparenz und Auditierbarkeit unterstützen.
 
-Die Teilnehmer:innen wissen, wie man Modelle und Datensätze effektiv dokumentiert, um Nachvollziehbarkeit und Transparenz zu gewährleisten.
+[OPTIONAL]
+Die Teilnehmer:innen können Regulatory Sandboxes als Instrument zur kontrollierten Erprobung innovativer KI-Systeme einordnen und deren Möglichkeiten, Grenzen und Konsequenzen bei Nichteinhaltung des EU AI Acts erläutern.
 
 
 [[LZ-2-8]]
@@ -64,7 +63,6 @@ Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie ty
 * Adversarial Attacks
 * Data Poisoning
 * Model Inversion & Extraction.
-
 
 
 [[LZ-2-9]]
@@ -109,12 +107,6 @@ Optional kennen die Teilnehmer:innen die wichtige Dokumente und Frameworks zu AI
 * OECD AI Principles, https://oecd.ai/en/ai-principles
 * The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
 * The IEEE Ethically Aligned Design framework, https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf
-
-[[LZ-2-14]]
-==== LZ 2-14: Einblick in die Einrichtung von "Regulatory Sandboxes" bekommen
-
-Die Teilnehmer:innen erhalten einen Einblick in die Einrichtung von "Regulatory Sandboxes" zur Förderung von Innovationen und
-in die möglichen rechtlichen Konsequenzen bei Nichteinhaltung der Vorschriften des AI-Acts.
 
 
 // end::DE[]
