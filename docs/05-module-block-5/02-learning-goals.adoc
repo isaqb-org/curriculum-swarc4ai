@@ -58,18 +58,7 @@ Die Teilnehmer:innen kennen verschiedene Arten von Drift, wie beispielsweise Dat
 
 Die Teilnehmer:innen haben ein Verständnis von CI/CD-Pipelines, Modellmanagement und Deployment-Strategien für KI-Modelle.
 
-[[LZ-5-10]]
-==== LZ 5-10: [OPTIONAL] Plattformen für die Modellbereitstellung kennen
-
-Die Teilnehmer:innen kennen gängige Plattformen für die Modellbereitstellung, wie beispielsweise Huggingface Hub.
-
-Die Teilnehmer:innen können gängige Werkzeuge für das Erstellen von POCs von KI-Systemen, wie beispielsweise Gradio, nennen und verstehen die konzeptionelle Funktionsweise.
-
-
-[[LZ-5-12]]
-==== LZ 5-12: Deployment-Möglichkeiten von KI-Modellen kennen
-
-Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modellen. Eine Auswahl der folgenden Möglichkeiten verstehen die Teilnehmer:innen:
+Die Teilnehmer:innen kennen eine Auswahl verschiedener Deployment-Möglichkeiten von KI-Modellen:
 
 * API Deployment
 * Embedded Deployment
@@ -78,6 +67,10 @@ Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modell
 * Containerization
 * Serverless Deployment
 * Cloud Services
+
+[OPTIONAL]
+Die Teilnehmer:innen kennen gängige Plattformen und Werkzeuge für die Modellbereitstellung sowie Erstellung von POCs und verstehen die konzeptionelle Funktionsweise.
+
 
 [[LZ-5-13]]
 ==== LZ 5-13: Vor- und Nachteile von SaaS und Self-Hosting nennen
