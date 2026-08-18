@@ -115,9 +115,9 @@ Die Teilnehmer:innen sind in der Lage, Build vs. Buy Entscheidungen für MLOps S
 
 Die Teilnehmer:innen kennen bekannte MLOps-Werkzeuge und End-to-End Plattformen,wie beispielsweise:
 
-* Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Kubeflow, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
-* OpenSource: MLFlow, Weights & Biases, ClearML
-* PaaS: AWS SageMaker, Azure ML.
+* Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
+* OpenSource: MLFlow, Kubeflow, ClearML
+* PaaS: AWS SageMaker, Azure ML, Google Vertex AI
 
 // end::DE[]
 
