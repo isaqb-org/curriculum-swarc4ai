@@ -45,13 +45,7 @@ Insbesondere haben die Teilnehmer:innen ein gutes Verständnis für die Notwendi
 
 
 [[LZ-3-7]]
-==== LZ 3-7: Transfer-Learning bzw. Fine-Tuning kennen
-
-Die Teilnehmer:innen kennen Transfer-Learning bzw. Fine-Tuning als Möglichkeit, um die vortrainierten Basismodelle auf bestehende Anwendungsfälle zu adoptieren.
-
-
-[[LZ-3-8]]
-==== LZ 3-8: Geeignete Architektur- und Design-Patterns für KI-Systeme auswählen, gegeneinander abwägen und anhand von Qualitätsanforderungen begründen.
+==== LZ 3-7: Geeignete Architektur- und Design-Patterns für KI-Systeme auswählen, gegeneinander abwägen und anhand von Qualitätsanforderungen begründen.
 
 Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt. Das betrifft die folgenden Design Patterns:
 
@@ -60,6 +54,8 @@ Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren u
 * Model Training Pattern
 * Model Serving Patterns
 * Model Deployment Patterns
+
+Insbesondere kennen die Teilnehmer:innen Transfer-Learning bzw. Fine-Tuning als Möglichkeit, um die vortrainierten Basismodelle auf bestehende Anwendungsfälle zu adoptieren.
 
 
 [[LZ-3-11]]
