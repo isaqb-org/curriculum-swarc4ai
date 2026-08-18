@@ -21,17 +21,14 @@ Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf st
 können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen,
 um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
 
+[OPTIONAL]
+Die Teilnehmer:innen üben und diskutieren anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, Integrationsoptionen für KI in eine bestehende Software-Landschaft abzuwägen.
 
 [[LZ-6-5]]
 ==== LZ 6-5: [OPTIONAL] Frameworks und Ansätze zur Evaluation von GenAI- und LLM-basierten Systemen einordnen und passend auswählen.
 
 Die Teilnehmer:innen kennen gängige Evaluations-Frameworks wie beispielsweise LangSmith oder LangFuse, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen.
 
-
-[[LZ-6-6]]
-==== LZ 6-6: [OPTIONAL] Fallbeispiel mit einer ausgedachten Fachlichkeit diskutieren
-
-Die Teilnehmer:innen üben und diskutieren anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, Integrationsoptionen für KI in eine bestehende Software-Landschaft abzuwägen.
 
 [[LZ-6-7]]
 ==== LZ 6-7: Generative KI und ihre Funktionsweise grundlegend verstehen
