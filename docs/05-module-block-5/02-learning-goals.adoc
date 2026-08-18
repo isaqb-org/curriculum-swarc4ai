@@ -95,13 +95,11 @@ als auch ML-spezifische wie beispielsweise MLflow.
 [[LZ-5-18]]
 ==== LZ 5-18: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen
 
-Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining. Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise die Auswahl zwischen mehreren Antworten und Flagging in Gradio.
+Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining.
+Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise die Auswahl zwischen mehreren Antworten oder Flagging in Gradio.
 
-
-[[LZ-5-19]]
-==== LZ 5-19: [OPTIONAL] Methoden zur Nutzung von Feedback für das Modell-Training kennen
-
-Die Teilnehmer:innen kennen verschiedene Methoden zur Nutzung von Feedback für das Modell-Training, wie beispielsweise RLHF, RLAIF und DPO.
+[OPTIONAL]
+Die Teilnehmer:innen kennen weitere Methoden zur Gewinnung von Nutzer-Feedback, wie beispielsweise RLHF, RLAIF und DPO.
 
 
 [[LZ-5-22]]
