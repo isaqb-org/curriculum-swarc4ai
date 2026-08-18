@@ -32,15 +32,11 @@ Die Teilnehmer:innen kennen die Klassifikation von KI-Systemen nach den EU AI Ac
 
 
 [[LZ-2-4]]
-==== LZ 2-4: Urheberrechtsproblematik von KI-generierten Inhalten einordnen
+==== LZ 2-4: Urheberrecht, Offenheitsgrade und Lizenzbedingungen von KI-Modellen und KI-generierten Inhalten bewerten
 
-Die Teilnehmer:innen verstehen die Urheberrechtsproblematik für KI-generierte Inhalte und kennen die Auswirkungen auf bestimmte Softwarelizenzmodelle sowie mögliche Umgänge damit.
+Die Teilnehmer:innen können urheberrechtliche Fragestellungen bei Trainingsdaten und KI-generierten Inhalten einordnen und deren Auswirkungen auf Entwicklung, Bereitstellung und Nutzung von KI-Systemen erläutern.
 
-[[LZ-2-5]]
-==== LZ 2-5: Arten bzw. Grade der Offenheit sowie Arten von Lizenzen freier ML-Modelle überblicken
-
-Die Teilnehmer:innen überblicken verschiedene Arten bzw. Grade der Offenheit freier ML-Modelle. Das betrifft beispielsweise die Offenlegung der Daten
-und der Modellparameter. Darüber hinaus kennen sie verschiedene Arten von Lizenzen freier ML-Modelle sowie deren Auswirkungen auf das KI-System.
+Sie können unterschiedliche Grade der Offenheit von ML-Modellen, beispielsweise hinsichtlich Trainingsdaten, Quellcode, Modellarchitektur und Modellparametern, unterscheiden sowie Lizenzbedingungen und daraus resultierende Einschränkungen für ein KI-System bewerten.
 
 
 [[LZ-2-6]]
