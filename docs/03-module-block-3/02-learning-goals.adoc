@@ -22,8 +22,8 @@ Die Teilnehmer:innen kennen typische Vorgehensmodelle für die Softwareentwicklu
 * Team Data Science Process
 * GenAI Life Cycle.
 
-[[LZ-3-3]]
-==== LZ 3-3: Datenarten und Anforderungen an Daten sowie typische ML-Problemstellungen und deren Anforderungen verstehen
+[[LZ-3-2]]
+==== LZ 3-2: Datenarten und Anforderungen an Daten sowie typische ML-Problemstellungen und deren Anforderungen verstehen
 
 Die Teilnehmer:innen kennen verschiedene Arten von Daten sowie typische ML-Probleme und Anwendungsfälle für die Nutzung der Daten aus den Bereichen:
 
@@ -44,8 +44,8 @@ und verstehen, welche Anforderungen diese haben können, z.B.:
 Insbesondere haben die Teilnehmer:innen ein gutes Verständnis für die Notwendigkeit von Validierung und Kenntnis der typischen Datenaufteilung in Trainings-, Validierungs- und Testdaten.
 
 
-[[LZ-3-7]]
-==== LZ 3-7: Geeignete Architektur- und Design-Patterns für KI-Systeme auswählen, gegeneinander abwägen und anhand von Qualitätsanforderungen begründen.
+[[LZ-3-3]]
+==== LZ 3-3: Geeignete Architektur- und Design-Patterns für KI-Systeme auswählen, gegeneinander abwägen und anhand von Qualitätsanforderungen begründen.
 
 Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt. Das betrifft die folgenden Design Patterns:
 
@@ -58,8 +58,8 @@ Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren u
 Insbesondere kennen die Teilnehmer:innen Transfer-Learning bzw. Fine-Tuning als Möglichkeit, um die vortrainierten Basismodelle auf bestehende Anwendungsfälle zu adoptieren.
 
 
-[[LZ-3-11]]
-==== LZ 3-11: Metriken zur Messung der Performance von ML-Modellen kennen
+[[LZ-3-4]]
+==== LZ 3-4: Metriken zur Messung der Performance von ML-Modellen kennen
 
 Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance von ML-Modellen wie beispielsweise:
 
@@ -69,54 +69,54 @@ Die Teilnehmer:innen kennen verschiedene Metriken zur Messung der Performance vo
 
 und wissen, wie man Bewertungskriterien zur Leistungsbeurteilung festlegt.
 
-[[LZ-3-12]]
-==== LZ 3-12: KI-Komponenten über geeignete Integrationsmuster, Schnittstellen und Entkopplungsmechanismen in bestehende Systeme und Domänenarchitekturen integrieren.
+[[LZ-3-5]]
+==== LZ 3-5: KI-Komponenten über geeignete Integrationsmuster, Schnittstellen und Entkopplungsmechanismen in bestehende Systeme und Domänenarchitekturen integrieren.
 
 Die Teilnehmer:innen verstehen, wie ML-Modelle in bestehende Systeme integriert werden können und kennen die Schnittstellen und Integrationspunkte.
 
-[[LZ-3-13]]
-==== LZ 3-13: Benutzerinteraktionen für KI-Systeme so gestalten, dass Unsicherheit, Erklärbarkeit, Freigaben und Human-in-the-Loop angemessen berücksichtigt werden.
+[[LZ-3-6]]
+==== LZ 3-6: Benutzerinteraktionen für KI-Systeme so gestalten, dass Unsicherheit, Erklärbarkeit, Freigaben und Human-in-the-Loop angemessen berücksichtigt werden.
 
 Die Teilnehmer:innen wissen, wie Benutzeroberflächen gestaltet werden sollten, um effektive Interaktionen mit dem ML-System zu ermöglichen und die Benutzererfahrung zu optimieren.
 
-[[LZ-3-14]]
-==== LZ 3-14: Leistung und Skalierbarkeit von KI-Systemen analysieren und gestalten
+[[LZ-3-7]]
+==== LZ 3-7: Leistung und Skalierbarkeit von KI-Systemen analysieren und gestalten
 
 Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz, Durchsatz und Resourcenauslastung in KI-Systemen für Training sowie Inferenz und verstehen,
 wie diese optimiert werden können.
 
 Sie können Ursachen von Leistungs- und Skalierungsproblemen analysieren und geeignete Maßnahmen auswählen, damit KI-Systeme steigende Datenmengen, Nutzerzahlen und Anfragevolumen verarbeiten können.
 
-[[LZ-3-16]]
-==== LZ 3-16: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden
+[[LZ-3-8]]
+==== LZ 3-8: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden
 
 Die Teilnehmer:innen haben ein Verständnis davon, was Robustheit in KI-Systemen bedeutet,
 und können Strategien zur Erhöhung der Robustheit in verschiedenen Anwendungskontexten anwenden.
 
-[[LZ-3-17]]
-==== LZ 3-17: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen
+[[LZ-3-9]]
+==== LZ 3-9: Zuverlässigkeit und Verfügbarkeit von KI-Systemen einordnen
 
 Die Teilnehmer:innen verstehen die Konzepte der Zuverlässigkeit und Verfügbarkeit und wissen, wie sie KI-Systeme bauen, die stabil und konstant verfügbar sind.
 
-[[LZ-3-18]]
-==== LZ 3-18: Maßnahmen für Reproduzierbarkeit, Auditierbarkeit und Nachvollziehbarkeit von Modellen, Datenständen, Prompts, Konfigurationen und Ergebnissen festlegen.
+[[LZ-3-10]]
+==== LZ 3-10: Maßnahmen für Reproduzierbarkeit, Auditierbarkeit und Nachvollziehbarkeit von Modellen, Datenständen, Prompts, Konfigurationen und Ergebnissen festlegen.
 
 Die Teilnehmer:innen wissen, wie wichtig es ist, dass KI-Ergebnisse reproduzierbar und prüfbar sind, und wissen, welche Methoden zur Sicherstellung dieser Eigenschaften eingesetzt werden können.
 
 
-[[LZ-3-20]]
-==== LZ 3-20: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen
+[[LZ-3-11]]
+==== LZ 3-11: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen
 
 Die Teilnehmer:innen verstehen die Bedeutung von Erklärbarkeit und Interpretierbarkeit in KI-Systemen und wissen,
 wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.
 
-[[LZ-3-22]]
-==== LZ 3-22: Fehlertoleranz in KI-Systemen kennen
+[[LZ-3-12]]
+==== LZ 3-12: Fehlertoleranz in KI-Systemen kennen
 
 Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläutern, wie KI-Systeme trotz Fehlern oder Störungen funktionsfähig bleiben.
 
-[[LZ-3-23]] 
-==== LZ 3-23: Architekturentscheidungen für KI-Systeme dokumentieren.
+[[LZ-3-13]]
+==== LZ 3-13: Architekturentscheidungen für KI-Systeme dokumentieren.
 
 Die Teilnehmer:innen wissen, wie man die Anwendungsfälle bzw. Aufgaben eines ML-Modells definiert und dokumentiert, wie beispielsweise die Klassifikation von Bildern oder die Erkennung von Betrug, insbesondere Trade-offs zu:
 * RAG versus Fine-Tuning

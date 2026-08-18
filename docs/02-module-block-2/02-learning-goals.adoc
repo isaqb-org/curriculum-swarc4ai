@@ -39,8 +39,8 @@ Die Teilnehmer:innen können urheberrechtliche Fragestellungen bei Trainingsdate
 Sie können unterschiedliche Grade der Offenheit von ML-Modellen, beispielsweise hinsichtlich Trainingsdaten, Quellcode, Modellarchitektur und Modellparametern, unterscheiden sowie Lizenzbedingungen und daraus resultierende Einschränkungen für ein KI-System bewerten.
 
 
-[[LZ-2-6]]
-==== LZ 2-6: Strategien zur Einhaltung regulatorischer Anforderungen definieren und geeignete Nachweis- und Dokumentationsartefakte für Modelle, Datensätze und Betriebsprozesse festlegen.
+[[LZ-2-5]]
+==== LZ 2-5: Strategien zur Einhaltung regulatorischer Anforderungen definieren und geeignete Nachweis- und Dokumentationsartefakte für Modelle, Datensätze und Betriebsprozesse festlegen.
 
 Die Teilnehmer:innen verstehen die Grundaussagen des EU AI Acts (insbesondere Transparenzpflichten) und kennen Strategien für deren Einhaltung sowie mögliche Herausforderungen dabei.
 
@@ -50,8 +50,8 @@ Sie können insbesondere Dokumentationsartefakte für Modelle, Datensätze, Prom
 Die Teilnehmer:innen können Regulatory Sandboxes als Instrument zur kontrollierten Erprobung innovativer KI-Systeme einordnen und deren Möglichkeiten, Grenzen und Konsequenzen bei Nichteinhaltung des EU AI Acts erläutern.
 
 
-[[LZ-2-8]]
-==== LZ 2-8: Fallstricke hinsichtlich Security sowie Angriffsarten auf ML-Modelle kennen und geeignete Sicherheitsmaßnahmen gegen Angriffe auf KI-Systeme auswählen
+[[LZ-2-6]]
+==== LZ 2-6: Fallstricke hinsichtlich Security sowie Angriffsarten auf ML-Modelle kennen und geeignete Sicherheitsmaßnahmen gegen Angriffe auf KI-Systeme auswählen
 
 Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie typische Angriffsarten auf ML-Modelle. Dies betrifft beispielsweise:
 
@@ -63,8 +63,8 @@ Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie ty
 Die Teilnehmer:innen kennen Sicherheitsmaßnahmen zur Absicherung gegen Angriffe (AI Security) und kennen insbesondere Möglichkeiten
 zur Integration von Sicherheitsstandards und Schutzmechanismen in Architektur, Schnittstellen und Betriebsmodell.
 
-[[LZ-2-9]]
-==== LZ 2-9: Strategien zur KI-Risikominimierung kennen und anwenden
+[[LZ-2-7]]
+==== LZ 2-7: Strategien zur KI-Risikominimierung kennen und anwenden
 
 Die Teilnehmer:innen wissen, wie Strategien zur KI-Risikominimierung entwickelt und angewendet werden können. Insbesondere kennen die Teilnehmer:innen die folgenden Strategien:
 
@@ -74,8 +74,8 @@ Die Teilnehmer:innen wissen, wie Strategien zur KI-Risikominimierung entwickelt 
 * Erklärbare KI (explainable AI)
 
 
-[[LZ-2-11]]
-==== LZ 2-11: Grundproblematik und Facetten von AI-Safety verstehen
+[[LZ-2-8]]
+==== LZ 2-8: Grundproblematik und Facetten von AI-Safety verstehen
 
 Die Teilnehmer:innen verstehen die Grundproblematik von AI-Safety und kennen die verschiedenen Facetten dazu. Insbesondere kennen die Teilnehmer:innen
 spezifische Probleme wie beispielsweise "AI model risks by poisoning" und "Bias".
@@ -83,8 +83,8 @@ spezifische Probleme wie beispielsweise "AI model risks by poisoning" und "Bias"
 Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduziert werden können, um Fairness und Gleichbehandlung in KI-Anwendungen sicherzustellen.
 
 
-[[LZ-2-12]]
-==== LZ 2-12: Ethikleitlinien und Prinzipien von AI Governance in Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen
+[[LZ-2-9]]
+==== LZ 2-9: Ethikleitlinien und Prinzipien von AI Governance in Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen
 
 Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können und kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen, bspw. durch Erstellung von KI-Richtlinien.
 Dazu überblicken die Teilnehmer:innen wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“.

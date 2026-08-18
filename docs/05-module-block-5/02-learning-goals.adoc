@@ -72,8 +72,8 @@ Die Teilnehmer:innen kennen eine Auswahl verschiedener Deployment-Möglichkeiten
 Die Teilnehmer:innen kennen gängige Plattformen und Werkzeuge für die Modellbereitstellung sowie Erstellung von POCs und verstehen die konzeptionelle Funktionsweise.
 
 
-[[LZ-5-13]]
-==== LZ 5-13: Vor- und Nachteile von SaaS und Self-Hosting nennen sowie Make-or-Buy-Entscheidungen anhand von Qualitätsanforderungen treffen
+[[LZ-5-10]]
+==== LZ 5-10: Vor- und Nachteile von SaaS und Self-Hosting nennen sowie Make-or-Buy-Entscheidungen anhand von Qualitätsanforderungen treffen
 
 Die Teilnehmer:innen kennen die Vor- und Nachteile von SaaS und Self-Hosting und können dazwischen abwägen.
 
@@ -82,8 +82,8 @@ Die Teilnehmer:innen sind in der Lage, Make-or-Buy Entscheidungen für MLOps- un
 [OPTIONAL]
 Die Teilnehmer:innen überblicken bekannte SaaS-KI-Lösungen, wie beispielsweise Azure OpenAI Services.
 
-[[LZ-5-16]]
-==== LZ 5-16: Monitoring und Observability für KI-Systeme konzipieren, insbesondere für Drift, Qualitätsverlust, Kosten, Latenz, Sicherheitsereignisse und Governance-relevante Nachweise.
+[[LZ-5-11]]
+==== LZ 5-11: Monitoring und Observability für KI-Systeme konzipieren, insbesondere für Drift, Qualitätsverlust, Kosten, Latenz, Sicherheitsereignisse und Governance-relevante Nachweise.
 
 Die Teilnehmer:innen verstehen die Notwendigkeit für Monitoring, auch im Hinblick auf KI-spezifische Anforderungen wie das Tracking von Drift.
 
@@ -92,8 +92,8 @@ Die Teilnehmer:innen kennen relevante Metriken wie beispielsweise Accuracy, Prec
 Die Teilnehmer:innen kennen Beispiel-Werkzeuge für Monitoring. Dies betrifft sowohl allgemeine Werkzeuge, wie beispielsweise Prometheus & Grafana,
 als auch ML-spezifische wie beispielsweise MLflow.
 
-[[LZ-5-18]]
-==== LZ 5-18: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen
+[[LZ-5-12]]
+==== LZ 5-12: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen
 
 Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining.
 Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise die Auswahl zwischen mehreren Antworten oder Flagging in Gradio.
@@ -102,8 +102,8 @@ Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge 
 Die Teilnehmer:innen kennen weitere Methoden zur Gewinnung von Nutzer-Feedback, wie beispielsweise RLHF, RLAIF und DPO.
 
 
-[[LZ-5-22]]
-==== LZ 5-22: [OPTIONAL] Klassen von MLOps-Werkzeugen und Plattformen sowie wesentliche Auswahlkriterien für ihren Einsatz kennen.
+[[LZ-5-13]]
+==== LZ 5-13: [OPTIONAL] Klassen von MLOps-Werkzeugen und Plattformen sowie wesentliche Auswahlkriterien für ihren Einsatz kennen.
 
 Die Teilnehmer:innen kennen bekannte MLOps-Werkzeuge und End-to-End Plattformen,wie beispielsweise:
 

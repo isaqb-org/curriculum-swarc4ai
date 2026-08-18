@@ -14,8 +14,8 @@ Die Teilnehmer:innen können typische KI-Anwendungsfälle identifizieren und fac
 
 Typische Anwendungsfälle umfassen beispielsweise Bilderkennung und Bildgenerierung, Sprachverarbeitung, Vorhersagemodelle, Personalisierung, Anomalieerkennung, Chatbots, Empfehlungssysteme und intelligente Assistenzsysteme.
 
-[[LZ-1-4]]
-==== LZ 1-4: Stärken, Grenzen und typische Risiken von KI einordnen
+[[LZ-1-3]]
+==== LZ 1-3: Stärken, Grenzen und typische Risiken von KI einordnen
 
 Die Teilnehmer:innen können Stärken und Grenzen von KI-Technologien in unterschiedlichen Anwendungskontexten einordnen und erklären, warum die Eignung von KI stark von der jeweiligen Aufgabe abhängt.
 
@@ -32,8 +32,8 @@ Sie können typische technische und gesellschaftliche Risiken identifizieren, be
 [OPTIONAL]
 Die Teilnehmer:innen kennen die „Jagged Technological Frontier“ bzgl. der aufgabebezogenen Eignung von KI.
 
-[[LZ-1-5]]
-==== LZ 1-5: Unterschiede zwischen KI-Systemen und traditioneller Software verstehen, erklären und die geeignete Lösungsart entscheiden
+[[LZ-1-4]]
+==== LZ 1-4: Unterschiede zwischen KI-Systemen und traditioneller Software verstehen, erklären und die geeignete Lösungsart entscheiden
 
 Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu traditioneller Software:
 
@@ -49,8 +49,8 @@ Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu traditionelle
 
 Teilnehmer:innen können entscheiden und erklären, ob und warum ein Problem mittels KI oder klassischer SW-Entwicklung zu lösen ist.
 
-[[LZ-1-7]]
-==== LZ 1-7: Rollen und deren Aufgaben sowie ihre Zusammenarbeit im Kontext von KI kennen
+[[LZ-1-5]]
+==== LZ 1-5: Rollen und deren Aufgaben sowie ihre Zusammenarbeit im Kontext von KI kennen
 
 Die Teilnehmer:innen kennen typische Rollen und deren Aufgaben in diesen Kontexten. Die Rollen umfassen insbesondere:
 
@@ -60,8 +60,8 @@ Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist
 Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenarbeiten könnten (Team Topologies für ML-Teams).
 
 
-[[LZ-1-10]]
-==== LZ 1-10 [OPTIONAL]: Das Konzept der Productivity J-Curve als Einordnungsrahmen für die Einführung von KI in Organisationen kennen.
+[[LZ-1-6]]
+==== LZ 1-6 [OPTIONAL]: Das Konzept der Productivity J-Curve als Einordnungsrahmen für die Einführung von KI in Organisationen kennen.
 
 Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung von KI zunächst einen Produktivitätsrückgang verzeichnen können, dem bei der weiteren Entwicklung aber Produktivitätsgewinne folgen können.
 
