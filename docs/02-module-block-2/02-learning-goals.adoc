@@ -51,7 +51,7 @@ Die Teilnehmer:innen können Regulatory Sandboxes als Instrument zur kontrollier
 
 
 [[LZ-2-8]]
-==== LZ 2-8: Fallstricke hinsichtlich Security sowie Angriffsarten auf ML-Modelle kennen
+==== LZ 2-8: Fallstricke hinsichtlich Security sowie Angriffsarten auf ML-Modelle kennen und geeignete Sicherheitsmaßnahmen gegen Angriffe auf KI-Systeme auswählen
 
 Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie typische Angriffsarten auf ML-Modelle. Dies betrifft beispielsweise:
 
@@ -60,6 +60,8 @@ Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie ty
 * Data Poisoning
 * Model Inversion & Extraction.
 
+Die Teilnehmer:innen kennen Sicherheitsmaßnahmen zur Absicherung gegen Angriffe (AI Security) und kennen insbesondere Möglichkeiten
+zur Integration von Sicherheitsstandards und Schutzmechanismen in Architektur, Schnittstellen und Betriebsmodell.
 
 [[LZ-2-9]]
 ==== LZ 2-9: Strategien zur KI-Risikominimierung kennen und anwenden
@@ -70,13 +72,6 @@ Die Teilnehmer:innen wissen, wie Strategien zur KI-Risikominimierung entwickelt 
 * Fehlertolerante KI-Systeme
 * Transparente Entwicklung
 * Erklärbare KI (explainable AI)
-
-
-[[LZ-2-10]]
-==== LZ 2-10: Sicherheitsmaßnahmen gegen Angriffe auf KI-Systeme auswählen und in Architektur, Schnittstellen, Betriebsmodell und Schutzmechanismen integrieren.
-
-Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Absicherung gegen Angriffe (AI Security) und insbesondere kennen sie Möglichkeiten
-zur Integration von Sicherheitsstandards in die Architektur und können diese beim Entwurf berücksichtigen.
 
 
 [[LZ-2-11]]
