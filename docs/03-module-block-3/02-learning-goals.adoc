@@ -132,7 +132,6 @@ Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Mo
 * Batch versus Realtime
 * Zentralem versus domänenspezifischem KI-Service.
 
-Die Teilnehmer:innen kennen // TODO
 
 // end::DE[]
 
