@@ -15,16 +15,22 @@ Die Teilnehmer:innen können typische KI-Anwendungsfälle identifizieren und fac
 Typische Anwendungsfälle umfassen beispielsweise Bilderkennung und Bildgenerierung, Sprachverarbeitung, Vorhersagemodelle, Personalisierung, Anomalieerkennung, Chatbots, Empfehlungssysteme und intelligente Assistenzsysteme.
 
 [[LZ-1-4]]
-==== LZ 1-4: Risiken bei der Anwendung von KI identifizieren
+==== LZ 1-4: Stärken, Grenzen und typische Risiken von KI einordnen
 
-Die Teilnehmer:innen können Risiken, die bei der Anwendung von KI auftreten, identifizieren. Das können beispielsweise folgende Risiken sein:
+Die Teilnehmer:innen können Stärken und Grenzen von KI-Technologien in unterschiedlichen Anwendungskontexten einordnen und erklären, warum die Eignung von KI stark von der jeweiligen Aufgabe abhängt.
 
-* Halluzinationen
-* Bias
-* (un-)Fairness
-* gesellschaftlichen Risiken wie Deepfakes, AI-enabled Cyberattacks, Safety Risks in Critical Systems, Social Manipulation, Intellectual Property Issues usw.
+Sie können typische technische und gesellschaftliche Risiken identifizieren, beispielsweise
+* Halluzinationen,
+* Bias,
+* Unfairness
+* Deepfakes,
+* KI-gestützte Cyberangriffe,
+* Sicherheitsrisiken in kritischen Systemen,
+* Soziale Manipulation,
+* Verletzungen geistiger Eigentumsrechte
 
-
+[OPTIONAL]
+Die Teilnehmer:innen kennen die „Jagged Technological Frontier“ bzgl. der aufgabebezogenen Eignung von KI.
 
 [[LZ-1-5]]
 ==== LZ 1-5: Unterschiede zu traditioneller Software verstehen
@@ -56,11 +62,6 @@ Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist
 
 Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenarbeiten könnten (Team Topologies für ML-Teams).
 
-
-[[LZ-1-9]]
-==== LZ 1-9: Stärken und Grenzen von KI kennen
-
-Die Teilnehmer:innen verstehen die Stärken und die Grenzen von KI und kennen die sog. "Jagged Technological Frontier".
 
 [[LZ-1-10]]
 ==== LZ 1-10 [OPTIONAL]: Das Konzept der Productivity J-Curve als Einordnungsrahmen für die Einführung von KI in Organisationen kennen.
