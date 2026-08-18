@@ -80,16 +80,12 @@ Die Teilnehmer:innen verstehen, wie ML-Modelle in bestehende Systeme integriert 
 Die Teilnehmer:innen wissen, wie Benutzeroberflächen gestaltet werden sollten, um effektive Interaktionen mit dem ML-System zu ermöglichen und die Benutzererfahrung zu optimieren.
 
 [[LZ-3-14]]
-==== LZ 3-14: Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen verstehen
+==== LZ 3-14: Leistung und Skalierbarkeit von KI-Systemen analysieren und gestalten
 
-Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz und Durchsatz in KI-Systemen und wissen,
+Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz, Durchsatz und Resourcenauslastung in KI-Systemen für Training sowie Inferenz und verstehen,
 wie diese optimiert werden können.
 
-[[LZ-3-15]]
-==== LZ 3-15: Mit Skalierbarkeit auf erhöhten Datenmengen umgehen
-
-Die Teilnehmer:innen verstehen die Bedeutung der Skalierbarkeit auf erhöhte Datenmengen und wissen,
-wie man KI-Systeme entwickelt, die mit steigenden Datenvolumen umgehen können, ohne an Leistung zu verlieren.
+Sie können Ursachen von Leistungs- und Skalierungsproblemen analysieren und geeignete Maßnahmen auswählen, damit KI-Systeme steigende Datenmengen, Nutzerzahlen und Anfragevolumen verarbeiten können.
 
 [[LZ-3-16]]
 ==== LZ 3-16: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden
@@ -122,7 +118,7 @@ Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläute
 [[LZ-3-23]] 
 ==== LZ 3-23: Architekturentscheidungen für KI-Systeme dokumentieren.
 
-Die Teilnehmer:innen wissen, wie man die Anwendungsfälle / Aufgaben eines ML-Modells definiert und dokumentiert, wie beispielsweise die Klassifikation von Bildern oder die Erkennung von Betrug, insbesondere Trade-offs zu:
+Die Teilnehmer:innen wissen, wie man die Anwendungsfälle bzw. Aufgaben eines ML-Modells definiert und dokumentiert, wie beispielsweise die Klassifikation von Bildern oder die Erkennung von Betrug, insbesondere Trade-offs zu:
 * RAG versus Fine-Tuning
 * SaaS versus Self-Hosting
 * Batch versus Realtime
