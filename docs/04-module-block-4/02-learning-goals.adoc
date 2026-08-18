@@ -52,10 +52,6 @@ Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Date
 
 Die Teilnehmer:innen kennen grundlegende Konzepte moderner Datenarchitekturen für KI-Systeme und verstehen die Rolle von Data Products, Data Contracts sowie fachlicher und technischer Verantwortlichkeiten für stabile und skalierbare Datenflüsse.
 
-[[LZ-4-8]]
-==== LZ 4-8: Data Products, Data Contracts und Verantwortlichkeiten in Datenarchitekturen für KI-Systeme einordnen und für robuste Schnittstellen zwischen Fachlichkeit, Datenplattform und KI-Komponenten nutzen.
-
-Die Teilnehmer:innen kennen grundlegende Konzepte moderner Datenarchitekturen für KI-Systeme und verstehen die Rolle von Data Products, Data Contracts sowie fachlicher und technischer Verantwortlichkeiten für stabile und skalierbare Datenflüsse.
 
 // end::DE[]
 
