@@ -33,7 +33,7 @@ Sie können typische technische und gesellschaftliche Risiken identifizieren, be
 Die Teilnehmer:innen kennen die „Jagged Technological Frontier“ bzgl. der aufgabebezogenen Eignung von KI.
 
 [[LZ-1-5]]
-==== LZ 1-5: Unterschiede zu traditioneller Software verstehen
+==== LZ 1-5: Unterschiede zwischen KI-Systemen und traditioneller Software verstehen, erklären und die geeignete Lösungsart entscheiden
 
 Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu traditioneller Software:
 
@@ -46,9 +46,6 @@ Die Teilnehmer:innen verstehen die Unterschiede von KI-Systemen zu traditionelle
 * Model Decay: Continuous monitoring und Retraining sind notwendig, um die Leistung der Modelle aufrechtzuerhalten.
 * KI-spezifische Regulatorik von Branchen und auf EU-Ebene müssen berücksichtigt werden.
 * Interoperabilität: Nahtlose Integration in bestehende Systeme und Technologiestacks.
-
-[[LZ-1-6]]
-==== LZ 1-6: Lösung von Problemen mittels KI oder klassischer SW-Entwicklung entscheiden
 
 Teilnehmer:innen können entscheiden und erklären, ob und warum ein Problem mittels KI oder klassischer SW-Entwicklung zu lösen ist.
 
