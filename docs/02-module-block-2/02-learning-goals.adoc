@@ -82,16 +82,12 @@ spezifische Probleme wie beispielsweise "AI model risks by poisoning" und "Bias"
 
 Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduziert werden können, um Fairness und Gleichbehandlung in KI-Anwendungen sicherzustellen.
 
+
 [[LZ-2-12]]
-==== LZ 2-12: Ethische Probleme von KI-Systemen verstehen und Ansätze zum Umgang damit kennen
+==== LZ 2-12: Ethikleitlinien und Prinzipien von AI Governance in Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen
 
-Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können und kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen. Dies umfasst beispielsweise  KI-Alignment (und dessen Grenzen) sowie die Erstellung eigener KI-Richtlinien.
-
-
-[[LZ-2-13]]
-==== LZ 2-13: Ethikleitlinien und Prinzipien von AI Governance in Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen
-
-Die Teilnehmer:innen überblicken wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“.
+Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können und kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen, bspw. durch Erstellung von KI-Richtlinien.
+Dazu überblicken die Teilnehmer:innen wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“.
 
 Optional kennen die Teilnehmer:innen die wichtige Dokumente und Frameworks zu AI Governance, um die Kernprinzipien zu AI Governance und Responsible AI für das Unternehmen auszuarbeiten, z.B.:
 
