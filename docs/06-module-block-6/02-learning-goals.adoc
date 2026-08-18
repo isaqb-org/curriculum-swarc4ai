@@ -24,11 +24,6 @@ um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu doku
 [OPTIONAL]
 Die Teilnehmer:innen üben und diskutieren anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, Integrationsoptionen für KI in eine bestehende Software-Landschaft abzuwägen.
 
-[[LZ-6-5]]
-==== LZ 6-5: [OPTIONAL] Frameworks und Ansätze zur Evaluation von GenAI- und LLM-basierten Systemen einordnen und passend auswählen.
-
-Die Teilnehmer:innen kennen gängige Evaluations-Frameworks wie beispielsweise LangSmith oder LangFuse, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen.
-
 
 [[LZ-6-7]]
 ==== LZ 6-7: Generative KI und ihre Funktionsweise grundlegend verstehen
@@ -108,6 +103,9 @@ Die Teilnehmer:innen kennen mehrere Techniken zur Evaluation von LLM-Anwendungen
 * Human Feedback
 * Comparative Evaluation
 * Model Based Evaluation
+
+[OPTIONAL]
+Die Teilnehmer:innen kennen gängige Evaluations-Frameworks wie beispielsweise LangSmith oder LangFuse, um mit Unbestimmtheit und Fehlern in KI-Systemen umzugehen.
 
 [[LZ-6-16]]
 ==== LZ 6-16: Bekannte LLMs und Auswahlkriterien überblicken
