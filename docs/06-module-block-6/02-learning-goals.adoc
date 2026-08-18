@@ -50,14 +50,11 @@ Die Teilnehmer:innen kennen bekannte Patterns bei der Nutzung von LLMs. Dies umf
 * Agenten
 
 [[LZ-6-10]]
-==== LZ 6-10: Use-Cases für RAG (Retrieval-Augmented Generation) kennen
+==== LZ 6-10: Use-Cases für RAG (Retrieval-Augmented Generation) sowie ausgewählte RAG-Techniken kennen und verstehen
 
 Die Teilnehmer:innen kennen typische Use-Cases für RAG wie beispielsweise „Talk to your documents/database/API“.
 
-[[LZ-6-11]]
-==== LZ 6-11: Ausgewählte RAG-Techniken kennen und verstehen
-
-Die Teilnehmer:innen kennen eine Auswahl der gängigen RAG-Techniken wie beispielsweise:
+Insbesondere kennen die Teilnehmer:innen kennen eine Auswahl der gängigen RAG-Techniken wie beispielsweise:
 
 * Reguläres RAG, GraphRAG, CAG, Agentic RAG and Multi-Agent RAG
 * Context Enrichment Techniques
@@ -68,6 +65,7 @@ Die Teilnehmer:innen kennen eine Auswahl der gängigen RAG-Techniken wie beispie
 * Iterative Retrieval
 * Ensemble Retrieval
 * Knowledge Graph Integration
+
 
 [[LZ-6-12]]
 ==== LZ 6-12: Arten von Prompt Engineering kennen
