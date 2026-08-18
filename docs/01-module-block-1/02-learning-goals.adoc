@@ -8,11 +8,11 @@
 Die Teilnehmer:innen wissen, wie man Künstliche Intelligenz definiert und wie Machine Learning, Data Science, Deep Learning, Generative KI darin eingeordnet werden.
 
 [[LZ-1-2]]
-==== LZ 1-2: Typische KI-Anwendungsfälle einordnen, fachlich beschreiben und hinsichtlich Nutzen, Risiken und Architekturauswirkungen bewerten.
+==== LZ 1-2: KI-Anwendungsfälle identifizieren, fachlich einordnen, priorisieren und bewerten
 
-Die Teilnehmer:innen kennen typische allgemeine Anwendungsfälle und Einsatzmöglichkeiten von KI in verschiedenen Branchen sowie in Endnutzeranwendungen. Dazu zählen z. B. Bilderkennung und Bildgenerierung, Sprachverarbeitung, Vorhersagemodelle, Personalisierung und Anomalieerkennung sowie Anwendungen wie Chatbots, Empfehlungssysteme und intelligente Assistenzsysteme in Bereichen wie Marketing, Medizin, Robotik und Content-Creation.
+Die Teilnehmer:innen können typische KI-Anwendungsfälle identifizieren und fachlich beschreiben. Sie können deren Eignung anhand fachlicher Ziele, Datenverfügbarkeit und -qualität, technischer Umsetzbarkeit, erwartbarem Mehrwert, Risiken, Integrationsaufwand und Auswirkungen auf die Softwarearchitektur bewerten und eine begründete Priorisierung vornehmen.
 
-Die Teilnehmer:innen sind in der Lage, diese Anwendungsfälle fachlich einzuordnen sowie hinsichtlich Nutzen, Risiken und möglicher Auswirkungen auf Softwarearchitekturen zu bewerten.
+Typische Anwendungsfälle umfassen beispielsweise Bilderkennung und Bildgenerierung, Sprachverarbeitung, Vorhersagemodelle, Personalisierung, Anomalieerkennung, Chatbots, Empfehlungssysteme und intelligente Assistenzsysteme.
 
 [[LZ-1-4]]
 ==== LZ 1-4: Risiken bei der Anwendung von KI identifizieren
@@ -56,11 +56,6 @@ Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist
 
 Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenarbeiten könnten (Team Topologies für ML-Teams).
 
-
-[[LZ-1-8]]
-==== LZ 1-8: KI-Anwendungsfälle anhand fachlicher Ziele, Datenverfügbarkeit, Umsetzbarkeit, Risiken, Integrationsaufwand und erwartbarem Mehrwert identifizieren, priorisieren und begründen.
-
-Die Teilnehmer:innen können KI Anwendungsfälle identifizieren und priorisieren.
 
 [[LZ-1-9]]
 ==== LZ 1-9: Stärken und Grenzen von KI kennen
