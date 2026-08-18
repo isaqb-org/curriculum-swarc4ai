@@ -35,6 +35,9 @@ Die Teilnehmer:innen erlangen ein Verständnis für Kosten, Stromverbrauch und n
 
 Die Teilnehmer:innen kennen den Begriff MLOps für die Automatisierung des Life-Cycles eines Data-Science-Projekts sowie den Zusammenhang mit DevOps.
 
+[OPTIONAL]
+Die Teilnehmer:innen verstehen anhand eines Praxisbeispiels, wie eine MLOps-Pipeline aussehen kann und welche Einsichten diese auf die Parameter, Metriken usw. bietet.
+
 [[LZ-5-6]]
 ==== LZ 5-6: Modelltraining, Parameter, Metriken und Ergebnisse tracken
 
@@ -108,10 +111,6 @@ Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere M
 
 Die Teilnehmer:innen kennen verschiedene Methoden zur Nutzung von Feedback für das Modell-Training, wie beispielsweise RLHF, RLAIF und DPO.
 
-[[LZ-5-20]]
-==== LZ 5-20: [OPTIONAL] MLOps-Pipeline an einem Praxisbeispiel verstehen
-
-Die Teilnehmer:innen erfahren anhand eines Praxisbeispiels, wie eine MLOps-Pipeline aussehen kann und welche Einsichten diese auf die Parameter, Metriken usw. bietet.
 
 [[LZ-5-21]]
 ==== LZ 5-21: Build-vs.-Buy-Entscheidungen für MLOps- und KI-Plattform-Komponenten anhand von Qualitätsanforderungen, Kosten, Risiko, Compliance und Integrationsaufwand treffen.
