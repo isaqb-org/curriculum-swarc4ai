@@ -71,73 +71,67 @@ Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung v
 // tag::EN[]
 
 [[LG-1-1]]
-==== LG 1-1: Classify artificial intelligence and machine learning, data science, deep learning, generative AI
+==== LG 1-1: Classify artificial intelligence and machine learning, data science, deep learning, and generative AI
 
-Participants will know how artificial intelligence is defined and how machine learning, data science, deep learning and generative AI are categorized within it.
+Participants know how artificial intelligence is defined and how machine learning, data science, deep learning, and generative AI fit within it.
 
 [[LG-1-2]]
-==== LG 1-2: Specify typical general use cases for AI
+==== LG 1-2: Identify, classify, prioritize, and evaluate AI use cases from a business perspective
 
-Participants will know how to specify typical general use cases for AI. This includes use cases for e.g. image recognition & generation, language processing, prediction, personalization and anomaly detection.
+Participants can identify and describe typical AI use cases from a business perspective. They can evaluate their suitability based on business goals, data availability and quality, technical feasibility, expected benefits, risks, integration effort, and impact on the software architecture, and can establish a well-founded prioritization.
+
+Typical use cases include image recognition and image generation, natural language processing, predictive models, personalization, anomaly detection, chatbots, recommender systems, and intelligent assistance systems.
 
 [[LG-1-3]]
-==== LG 1-3: Know possible applications in different industries and end-user applications
+==== LG 1-3: Classify the strengths, limitations, and typical risks of AI
 
-Participants will be familiar with the possible applications in various industries, e.g. marketing, medicine, robotics and content creation. They will also gain an overview of the possible uses of AI in end-user applications. These include, for example, voice assistants (chatbots) and recommendation systems (recommender engines).
+Participants can classify the strengths and limitations of AI technologies in different application contexts and explain why the suitability of AI depends heavily on the task at hand.
+
+They can identify typical technical and societal risks, such as
+
+* hallucinations,
+* bias,
+* unfairness,
+* deepfakes,
+* AI-assisted cyberattacks,
+* safety risks in critical systems,
+* social manipulation,
+* infringements of intellectual property rights.
+
+[OPTIONAL]
+Participants are familiar with the “Jagged Technological Frontier” in relation to the task-specific suitability of AI.
 
 [[LG-1-4]]
-==== LG 1-4: Identify risks in the application of AI
-
-Participants can identify risks that arise when using AI. These can be the following risks, for example:
-
-- Hallucinations
-- Bias
-- (un)fairness
-- societal risks such as deepfakes, AI-enabled cyberattacks, safety risks in critical systems, social manipulation, intellectual property issues, etc.
-
-
-[[LG-1-5]]
-==== LG 1-5: Understanding differences to traditional software
+==== LG 1-4: Understand and explain the differences between AI systems and traditional software and decide on the appropriate type of solution
 
 Participants understand the differences between AI systems and traditional software:
 
-- Data-driven (with ML) - data-centric instead of code-centric development
-- Probabilistic results (non-deterministic behavior)
-- Statistical validation
-- Experimental design: Support for rapid iteration and testing of models.
-- Model complexity and interpretability: ML models, especially deep learning models, can be extremely complex. The "black box" character makes them difficult to interpret and explain.
-- Debugging and testing are more complex due to non-determinism.
-- Model decay: Continuous monitoring and retraining are necessary to maintain model performance.
-- AI-specific regulation of industries and at EU level must be taken into account.
-- Interoperability: Seamless integration into existing systems and technology stacks.
+* Data-driven (for ML) – data-centric rather than code-centric development
+* Probabilistic results (non-deterministic behavior)
+* Statistical validation
+* Experimental design: support for rapid iteration and model testing
+* Model complexity and interpretability: ML models, particularly deep learning models, can be extremely complex. Their “black-box” nature makes interpretation and explanation more difficult.
+* Debugging and testing are more complex due to non-determinism.
+* Model decay: continuous monitoring and retraining are necessary to maintain model performance.
+* AI-specific regulations at industry and EU level must be taken into account.
+* Interoperability: seamless integration into existing systems and technology stacks.
 
+Participants can decide and explain whether and why a problem should be solved using AI or traditional software development.
+
+[[LG-1-5]]
+==== LG 1-5: Know roles, their responsibilities, and how they collaborate in the context of AI
+
+Participants know typical roles and their responsibilities in these contexts. In particular, these roles include:
+
+Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Engineer, AI Architect,
+Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist, and ML Researcher.
+
+Participants also know how these roles can collaborate within a team (team topologies for ML teams).
 
 [[LG-1-6]]
-==== LG 1-6: Decide on solutions to problems using AI or classic software development
+==== LG 1-6 [OPTIONAL]: Know the concept of the Productivity J-Curve as a framework for introducing AI in organizations
 
-Participants can decide and explain whether and why a problem should be solved using either AI or classic software development.
-
-[[LG-1-7]]
-==== LG 1-7: Know roles and their tasks as well as their cooperation in the context of AI
-
-The participants know typical roles and their tasks in these contexts. The roles include in particular
-
-Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Engineer, AI Architect, Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist and ML Researcher.
-
-[[LG-1-8]]
-==== LG 1-8: Identify and prioritize AI use cases
-
-Participants will be able to identify and prioritize AI use cases.
-
-[[LG-1-9]]
-==== LG 1-9: Know the strengths and limitations of AI
-Participants understand the strengths and limitations of AI and are familiar with the so-called "Jagged Technological Frontier".
-
-[[LG-1-10]]
-==== LG 1-10: Know the concept of the Productivity J-Curve in conjunction with AI technology
-
-This phenomenon helps to understand why companies can initially experience a drop in productivity when implementing AI, but this can be followed by productivity gains as it develops further.
-
+This phenomenon helps explain why organizations may initially experience a decline in productivity when implementing AI, followed by productivity gains as implementation progresses.
 
 
 // end::EN[]

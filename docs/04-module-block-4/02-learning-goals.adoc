@@ -57,49 +57,51 @@ Die Teilnehmer:innen kennen grundlegende Konzepte moderner Datenarchitekturen f√
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Acquiring and labeling data
+==== LG 4-1: Acquire and label data
 
-Participants gain an overview of various methods for acquiring and labeling data.
+Participants have an overview of various methods for acquiring and labeling data.
+
+[OPTIONAL]
+Participants know relevant data-labeling tools such as CVAT, Label Studio, or Amazon Mechanical Turk.
 
 [[LG-4-2]]
-==== LG 4-2: Know common platforms for publicly accessible data
+==== LG 4-2: Evaluate the sources and suitability of publicly available datasets in terms of quality, licensing, representativeness, and risks
+
 Participants can name common platforms for publicly accessible data.
 
 [[LG-4-3]]
-==== LG 4-3: Overview of relevant tools for data labeling
+==== LG 4-3: Design data pipelines and data architectures for AI systems that support quality, traceability, scalability, governance, and reusability
 
-The participants know relevant tools for data labeling such as CVAT, Amazon Mechanical Turk.
+Participants understand the design of efficient data pipelines and architectures, the consideration of data quality, and storage solutions and their management. To this end, participants know:
 
+* Architecture patterns for data engineering pipelines and ETL processes
+* How effective data management ensures the quality and security of data in AI applications
+
+[OPTIONAL]
+Participants have an overview of relevant tools for data engineering pipelines, such as Apache Spark and Flink.
 
 [[LG-4-4]]
-==== LG 4-4: Designing efficient data pipelines and architectures
+==== LG 4-4: Know strategies for data aggregation, cleansing, transformation, enrichment, and augmentation
 
-The participants have an understanding of the design of efficient data pipelines and data architectures, and they understand how to consider data quality for storage solutions and their management.
-To this end, participants are familiar with architectural patterns for data engineering pipelines and ETL processes.
-
+Participants know strategies for data aggregation, cleansing, transformation, enrichment, and augmentation.
 
 [[LG-4-5]]
-==== LG 4-5: Know strategies for data aggregation, cleansing, transformation, enrichment and augmentation
+==== LG 4-5: Know options for storing data
 
-The participants know strategies for data aggregation, cleansing, transformation, enrichment and augmentation.
+Participants know various options for storing data as well as their advantages and disadvantages. The options include the following technologies:
 
+* CSV files
+* Column-oriented files
+* Relational and document databases
+* Data warehouses
+* Data lakes
+* Vector databases
+* Graph databases
 
 [[LG-4-6]]
-==== LG 4-6: Overview of tools for data engineering pipelines
+==== LG 4-6: Classify data products, data contracts, and responsibilities in data architectures for AI systems and use them to establish robust interfaces between the business domain, data platform, and AI components
 
-Participants will gain an overview of relevant tools for data engineering pipelines such as Apache Spark and Flink.
-
-
-[[LG-4-7]]
-==== LG 4-7: Know the options for storing data
-
-Participants will be familiar with various options for storing data as well as their advantages and disadvantages. The options include the following technologies:
-
-- CSV files
-- Column-oriented files
-- Relational and NoSQL databases
-- Data warehouses
-- Data Lakes
+Participants know fundamental concepts of modern data architectures for AI systems and understand the role of data products, data contracts, and business and technical responsibilities in stable and scalable data flows.
 
 
 // end::EN[]
