@@ -54,6 +54,7 @@ This section contains references that are cited in the curriculum.
 
 **G**
 
+- [[[gharbi,Gharbi et al. 2026]]] M. Gharbi, H. Klus, H. Tiemeyer, M. Zhang: Praxiswissen Softwarearchitektur für KI-Systeme: Grundlagen, Konzepte, Techniken und Plattformen. Aus- und Weiterbildung zum Certified Professional for Software Architecture – Advanced Level – Modul SWARC4AI nach iSAQB®-Standard. dpunkt.verlag, 2026.
 - [[[geron,Géron 2022]]] Aurélien Géron: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
 - [[[gradientflow,Gradient Flow]]] LLM Routers Unpacked https://gradientflow.com/llm-routers-unpacked/
 

@@ -1,7 +1,7 @@
 === {references}
 
-<<chen>>, <<treveil>>, <<haviv>>, <<osipov>>,
-<<tanweihao>>, <<wilson>>, <<salama>>, <<kumara>>
+<<chen>>, <<gharbi>>, <<haviv>>, <<kumara>>, <<osipov>>, <<salama>>,
+<<tanweihao>>, <<treveil>>, <<wilson>>
 
 // tag::DE[]
 // end::DE[]

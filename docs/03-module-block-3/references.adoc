@@ -1,15 +1,9 @@
 === {references}
 
-<<tuberlin>>, <<bornstein>>,
-<<crowe>>, <<lakshmanan>>,
-<<alake>>, <<koc>>,
-<<cdteliot>>, <<visenger-three>>,
-<<zaharia>>, <<savarese>>,
-<<tdcox>>, <<studer>>,
-<<hotz-two>>, <<hotz-three>>,
-<<saltz>>, <<serban>>,
-<<heiland>>, <<nahar>>,
-<<mlsoftwarearchitecture>>,
+<<alake>>, <<bornstein>>, <<cdteliot>>, <<crowe>>, <<gharbi>>, <<heiland>>,
+<<hotz-two>>, <<hotz-three>>, <<koc>>, <<lakshmanan>>,
+<<mlsoftwarearchitecture>>, <<nahar>>, <<saltz>>, <<savarese>>, <<serban>>,
+<<studer>>, <<tdcox>>, <<tuberlin>>, <<visenger-three>>, <<zaharia>>
 
 // tag::DE[]
 // end::DE[]

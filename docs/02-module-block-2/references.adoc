@@ -1,8 +1,8 @@
 === {references}
 
-<<engler>>, <<nist>>, <<hall>>, <<masood>>, <<csiro>>,
-<<pruksachatkun>>, <<chen>>, <<atlas>>, <<visenger-links>>,
-<<eu-ai-act>>, <<hotz>>, <<bhajaria>>, <<jarmul>>, <<molnar>>
+<<atlas>>, <<bhajaria>>, <<chen>>, <<csiro>>, <<engler>>, <<eu-ai-act>>,
+<<gharbi>>, <<hall>>, <<hotz>>, <<jarmul>>, <<masood>>, <<molnar>>,
+<<nist>>, <<pruksachatkun>>, <<visenger-links>>
 
 // tag::DE[]
 // end::DE[]
