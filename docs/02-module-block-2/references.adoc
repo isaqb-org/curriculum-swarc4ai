@@ -1,6 +1,6 @@
 === {references}
 
-<<atlas>>, <<bhajaria>>, <<chen>>, <<csiro>>, <<engler>>, <<eu-ai-act>>,
+<<atlas>>, <<bhajaria>>, <<chen>>, <<csiro>>, <<eu-ai-act>>,
 <<gharbi>>, <<hall>>, <<hotz>>, <<jarmul>>, <<masood>>, <<molnar>>,
 <<nist>>, <<pruksachatkun>>, <<visenger-links>>
 

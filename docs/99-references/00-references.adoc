@@ -44,7 +44,6 @@ This section contains references that are cited in the curriculum.
 
 **E**
 
-- [[[engler,Engler et al.]]] M. Engler, N. Dhamani: Generative AI. Misuse and Adversarial Attacks. https://learning.oreilly.com/library/view/introduction-to-generative/9781633437197/OEBPS/Text/05.html
 - [[[eu-ai-act, EU AI Act]]] EU AI Act https://artificialintelligenceact.eu/de/ai-act-explorer/
 
 **F**
