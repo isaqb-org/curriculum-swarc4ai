@@ -4,13 +4,13 @@
 
 
 [[LZ-7-1]]
-==== LZ 7-1: [OPTIONAL] Anhand von Fallstudien und Praxisprojekten das erworbene Wissen in realen Szenarien anwenden
+==== LZ 7-1: Anhand einer durchgehenden Fallstudie oder eines Praxisprojekts Architekturentscheidungen für ein KI-System treffen, dokumentieren, begründen und im Hinblick auf Qualität, Compliance, Betrieb und Integration bewerten.
 
 // end::DE[]
 
 // tag::EN[]
 
 [[LG-7-1]]
-==== LG 7-1: [OPTIONAL] Apply the acquired knowledge in real-life scenarios using case studies and practical projects
+==== LG 7-1: Use an end-to-end case study or practical project to make, document, and justify architectural decisions for an AI system and evaluate them in terms of quality, compliance, operations, and integration.
 
 // end::EN[]

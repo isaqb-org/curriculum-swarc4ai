@@ -1,7 +1,7 @@
 === {references}
 
-<<sarkis>>, <<serra>>, <<dehghani>>, <<reis>>, <<bornstein>>,
-<<ford>>, <<bhajaria>>, <<sanderson>>, <<jones>>
+<<bhajaria>>, <<bornstein>>, <<dehghani>>, <<ford>>, <<gharbi>>, <<jones>>,
+<<reis>>, <<sanderson>>, <<sarkis>>, <<serra>>
 
 // tag::DE[]
 // end::DE[]

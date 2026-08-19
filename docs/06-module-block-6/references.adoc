@@ -1,7 +1,7 @@
 === {references}
 
-<<koc>>, <<dibia>>, <<gradientflow>>, <<bornstein-radovanic>>, <<bahree>>,
-<<spirin>>, <<foster>>, <<parnin>>
+<<bahree>>, <<bornstein-radovanic>>, <<dibia>>, <<foster>>, <<gharbi>>,
+<<gradientflow>>, <<koc>>, <<parnin>>, <<spirin>>
 
 // tag::DE[]
 // end::DE[]

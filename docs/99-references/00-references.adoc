@@ -16,7 +16,6 @@ This section contains references that are cited in the curriculum.
 **A**
 
 - [[[agrawal,Agrawal et al.]]] A. Agrawal, J. Gans, A. Goldfarb:  Prediction Machines: The Simple Economics of Artificial Intelligence https://www.predictionmachines.ai/
-- [[[alake, Alake]]] R. Alake: ML Pipeline Architecture Design Patterns (With 10 Real-World Examples) https://neptune.ai/blog/ml-pipeline-architecture-design-patterns
 - [[[atlas, ATLAS]]] ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems. https://github.com/mitre/advmlthreatmatrix
 
 **B**
@@ -44,7 +43,6 @@ This section contains references that are cited in the curriculum.
 
 **E**
 
-- [[[engler,Engler et al.]]] M. Engler, N. Dhamani: Generative AI. Misuse and Adversarial Attacks. https://learning.oreilly.com/library/view/introduction-to-generative/9781633437197/OEBPS/Text/05.html
 - [[[eu-ai-act, EU AI Act]]] EU AI Act https://artificialintelligenceact.eu/de/ai-act-explorer/
 
 **F**
@@ -54,6 +52,7 @@ This section contains references that are cited in the curriculum.
 
 **G**
 
+- [[[gharbi,Gharbi et al. 2026]]] M. Gharbi, H. Klus, H. Tiemeyer, M. Zhang: Praxiswissen Softwarearchitektur für KI-Systeme: Grundlagen, Konzepte, Techniken und Plattformen. Aus- und Weiterbildung zum Certified Professional for Software Architecture – Advanced Level – Modul SWARC4AI nach iSAQB®-Standard. dpunkt.verlag, 2026.
 - [[[geron,Géron 2022]]] Aurélien Géron: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
 - [[[gradientflow,Gradient Flow]]] LLM Routers Unpacked https://gradientflow.com/llm-routers-unpacked/
 

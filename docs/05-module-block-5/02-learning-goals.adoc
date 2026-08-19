@@ -35,6 +35,9 @@ Die Teilnehmer:innen erlangen ein Verständnis für Kosten, Stromverbrauch und n
 
 Die Teilnehmer:innen kennen den Begriff MLOps für die Automatisierung des Life-Cycles eines Data-Science-Projekts sowie den Zusammenhang mit DevOps.
 
+[OPTIONAL]
+Die Teilnehmer:innen verstehen anhand eines Praxisbeispiels, wie eine MLOps-Pipeline aussehen kann und welche Einsichten diese auf die Parameter, Metriken usw. bietet.
+
 [[LZ-5-6]]
 ==== LZ 5-6: Modelltraining, Parameter, Metriken und Ergebnisse tracken
 
@@ -55,18 +58,7 @@ Die Teilnehmer:innen kennen verschiedene Arten von Drift, wie beispielsweise Dat
 
 Die Teilnehmer:innen haben ein Verständnis von CI/CD-Pipelines, Modellmanagement und Deployment-Strategien für KI-Modelle.
 
-[[LZ-5-10]]
-==== LZ 5-10: [OPTIONAL] Plattformen für die Modellbereitstellung kennen
-
-Die Teilnehmer:innen kennen gängige Plattformen für die Modellbereitstellung, wie beispielsweise Huggingface Hub.
-
-Die Teilnehmer:innen können gängige Werkzeuge für das Erstellen von POCs von KI-Systemen, wie beispielsweise Gradio, nennen und verstehen die konzeptionelle Funktionsweise.
-
-
-[[LZ-5-12]]
-==== LZ 5-12: Deployment-Möglichkeiten von KI-Modellen kennen
-
-Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modellen. Eine Auswahl der folgenden Möglichkeiten verstehen die Teilnehmer:innen:
+Die Teilnehmer:innen kennen eine Auswahl verschiedener Deployment-Möglichkeiten von KI-Modellen:
 
 * API Deployment
 * Embedded Deployment
@@ -76,19 +68,22 @@ Die Teilnehmer:innen kennen verschiedene Deployment-Möglichkeiten von KI-Modell
 * Serverless Deployment
 * Cloud Services
 
-[[LZ-5-13]]
-==== LZ 5-13: Vor- und Nachteile von SaaS und Self-Hosting nennen
+[OPTIONAL]
+Die Teilnehmer:innen kennen gängige Plattformen und Werkzeuge für die Modellbereitstellung sowie Erstellung von POCs und verstehen die konzeptionelle Funktionsweise.
+
+
+[[LZ-5-10]]
+==== LZ 5-10: Vor- und Nachteile von SaaS und Self-Hosting nennen sowie Make-or-Buy-Entscheidungen anhand von Qualitätsanforderungen treffen
 
 Die Teilnehmer:innen kennen die Vor- und Nachteile von SaaS und Self-Hosting und können dazwischen abwägen.
 
-[[LZ-5-14]]
-==== LZ 5-14: SaaS-KI-Lösungen überblicken
+Die Teilnehmer:innen sind in der Lage, Make-or-Buy Entscheidungen für MLOps- und KI-Plattform Systemen/Komponenten anhand von Qualitätsanforderungen, Kosten, Risiko, Compliance und Integrationsaufwand zu treffen.
 
+[OPTIONAL]
 Die Teilnehmer:innen überblicken bekannte SaaS-KI-Lösungen, wie beispielsweise Azure OpenAI Services.
 
-
-[[LZ-5-16]]
-==== LZ 5-16: Monitoring und Observability für KI-Systeme konzipieren, insbesondere für Drift, Qualitätsverlust, Kosten, Latenz, Sicherheitsereignisse und Governance-relevante Nachweise.
+[[LZ-5-11]]
+==== LZ 5-11: Monitoring und Observability für KI-Systeme konzipieren, insbesondere für Drift, Qualitätsverlust, Kosten, Latenz, Sicherheitsereignisse und Governance-relevante Nachweise.
 
 Die Teilnehmer:innen verstehen die Notwendigkeit für Monitoring, auch im Hinblick auf KI-spezifische Anforderungen wie das Tracking von Drift.
 
@@ -97,35 +92,24 @@ Die Teilnehmer:innen kennen relevante Metriken wie beispielsweise Accuracy, Prec
 Die Teilnehmer:innen kennen Beispiel-Werkzeuge für Monitoring. Dies betrifft sowohl allgemeine Werkzeuge, wie beispielsweise Prometheus & Grafana,
 als auch ML-spezifische wie beispielsweise MLflow.
 
-[[LZ-5-18]]
-==== LZ 5-18: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen
+[[LZ-5-12]]
+==== LZ 5-12: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen
 
-Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining. Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise die Auswahl zwischen mehreren Antworten und Flagging in Gradio.
+Die Teilnehmer:innen verstehen den Nutzen von Nutzer-Feedback für das weitere Modelltraining.
+Darüber hinaus kennen die Teilnehmer:innen verschiedene Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback, wie beispielsweise die Auswahl zwischen mehreren Antworten oder Flagging in Gradio.
+
+[OPTIONAL]
+Die Teilnehmer:innen kennen weitere Methoden zur Gewinnung von Nutzer-Feedback, wie beispielsweise RLHF, RLAIF und DPO.
 
 
-[[LZ-5-19]]
-==== LZ 5-19: [OPTIONAL] Methoden zur Nutzung von Feedback für das Modell-Training kennen
-
-Die Teilnehmer:innen kennen verschiedene Methoden zur Nutzung von Feedback für das Modell-Training, wie beispielsweise RLHF, RLAIF und DPO.
-
-[[LZ-5-20]]
-==== LZ 5-20: [OPTIONAL] MLOps-Pipeline an einem Praxisbeispiel verstehen
-
-Die Teilnehmer:innen erfahren anhand eines Praxisbeispiels, wie eine MLOps-Pipeline aussehen kann und welche Einsichten diese auf die Parameter, Metriken usw. bietet.
-
-[[LZ-5-21]]
-==== LZ 5-21: Build-vs.-Buy-Entscheidungen für MLOps- und KI-Plattform-Komponenten anhand von Qualitätsanforderungen, Kosten, Risiko, Compliance und Integrationsaufwand treffen.
-
-Die Teilnehmer:innen sind in der Lage, Build vs. Buy Entscheidungen für MLOps Systeme/Komponenten zu treffen.
-
-[[LZ-5-22]]
-==== LZ 5-22: [OPTIONAL] Klassen von MLOps-Werkzeugen und Plattformen sowie wesentliche Auswahlkriterien für ihren Einsatz kennen.
+[[LZ-5-13]]
+==== LZ 5-13: [OPTIONAL] Klassen von MLOps-Werkzeugen und Plattformen sowie wesentliche Auswahlkriterien für ihren Einsatz kennen.
 
 Die Teilnehmer:innen kennen bekannte MLOps-Werkzeuge und End-to-End Plattformen,wie beispielsweise:
 
-* Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Kubeflow, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
-* OpenSource: MLFlow, Weights & Biases, ClearML
-* PaaS: AWS SageMaker, Azure ML.
+* Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
+* OpenSource: MLFlow, Kubeflow, ClearML
+* PaaS: AWS SageMaker, Azure ML, Google Vertex AI
 
 // end::DE[]
 
@@ -138,46 +122,49 @@ Die Teilnehmer:innen kennen bekannte MLOps-Werkzeuge und End-to-End Plattformen,
 [[LG-5-1]]
 ==== LG 5-1: Know (hardware) requirements for training and inference
 
-The participants know the different (hardware) requirements for TPU, GPU or CPU for training and inference, for example.
+Participants know the different (hardware) requirements for training and inference, for example for TPUs, NPUs, LPUs, GPUs, or CPUs.
 
 [[LG-5-2]]
 ==== LG 5-2: Know the trade-offs of different model architectures with regard to quality characteristics
-Participants will be able to name examples of trade-offs between different model architectures with regard to quality characteristics. In particular for scaling, efficiency and storage load, participants should know the trade-offs as well as the advantages and disadvantages of important architectures such as RNNs and transformers.
+Participants can give examples of trade-offs between different model architectures with regard to quality characteristics. Particularly for scaling, efficiency, and memory footprint, participants should know the trade-offs as well as the advantages and disadvantages of important architectures such as RNNs and transformers.
 
 [[LG-5-3]]
 ==== LG 5-3: Adjust different quality features of an ML model
 
-Participants will be familiar with ways to adjust various quality characteristics such as accuracy, efficiency and storage load of an ML model and to trade them off against each other. In particular, the participants know the following techniques:
+Participants know ways to balance and trade off different quality characteristics of an ML model, such as accuracy, efficiency, and memory footprint. In particular, they know the following techniques:
 
-- Quantization
-- Pruning
-- Distillation
-- LoRA
+* Quantization
+* Pruning
+* Distillation
+* LoRA
 
 
 
 [[LG-5-4]]
-==== LG 5-4: Understanding the costs, power consumption and sustainable use of AI (Green IT)
+==== LG 5-4: Understand the costs, power consumption, and sustainable use of AI (Green IT)
 
-Participants gain an understanding of the costs, power consumption and sustainable use of AI (green IT). In particular, participants will know how to develop AI models and systems that work in a resource-efficient manner by using memory, computing power and storage space efficiently.
+Participants gain an understanding of the costs, power consumption, and sustainable use of AI (Green IT). In particular, they know how to develop AI models and systems that operate efficiently by making economical use of memory, compute capacity, and storage space.
 
 
 [[LG-5-5]]
-==== LG 5-5: Know (hardware) requirements for training and inference
+==== LG 5-5: Gain an overview of MLOps for automating the life cycle of a data science project
 
-The participants know the term MLOps for the automation of the life cycle of a data science project and the connection with DevOps.
+Participants know the term MLOps for automating the life cycle of a data science project and its relationship to DevOps.
+
+[OPTIONAL]
+Using a practical example, participants understand what an MLOps pipeline can look like and what insights it provides into parameters, metrics, and other aspects.
 
 
 [[LG-5-6]]
-==== LG 5-6: Model training, parameters, metrics and results tracking
+==== LG 5-6: Track model training, parameters, metrics, and results
 
-The participants have an understanding of tracking in model training, parameters, metrics and results.
+Participants understand tracking in model training, including parameters, metrics, and results.
 
 
 [[LG-5-7]]
-==== LG 5-7: Evaluate ML models and AI systems based on them
+==== LG 5-7: Distinguish model evaluation, system evaluation, and assessment of business value, and select suitable evaluation approaches for AI systems
 
-Participants will gain an overview of approaches for evaluating ML models and AI systems based on them.
+Participants have an overview of approaches for evaluating ML models and the AI systems based on them.
 
 
 [[LG-5-8]]
@@ -187,98 +174,62 @@ Participants are familiar with different types of drift, such as data drift or m
 
 
 [[LG-5-9]]
-==== LG 5-9: Overview of CI/CD pipelines, model management and deployment strategies for AI models
+==== LG 5-9: Gain an overview of CI/CD pipelines, model management, and deployment strategies for AI models
 
-Participants will have an understanding of CI/CD pipelines, model management and deployment strategies for AI models.
+Participants understand CI/CD pipelines, model management, and deployment strategies for AI models.
+
+Participants know a selection of different deployment options for AI models:
+
+* API deployment
+* Embedded deployment
+* Batch prediction
+* Streaming
+* Containerization
+* Serverless deployment
+* Cloud services
+
+[OPTIONAL]
+Participants know common platforms and tools for model provision and for creating POCs and understand how they work conceptually.
 
 
 [[LG-5-10]]
-==== LG 5-10: Know platforms for model provision
+==== LG 5-10: State the advantages and disadvantages of SaaS and self-hosting and make make-or-buy decisions based on quality requirements
 
-The participants are familiar with common platforms for model provision, such as Huggingface Hub.
+Participants know the advantages and disadvantages of SaaS and self-hosting and can weigh them against each other.
+
+Participants can make make-or-buy decisions for MLOps and AI platform systems or components based on quality requirements, cost, risk, compliance, and integration effort.
+
+[OPTIONAL]
+Participants have an overview of well-known SaaS AI solutions, such as Azure OpenAI Services.
 
 
 [[LG-5-11]]
-==== LG 5-11: Classify tools for the creation of POCs of AI systems
+==== LG 5-11: Design monitoring and observability for AI systems, particularly for drift, quality degradation, costs, latency, security events, and governance-relevant evidence
 
-Participants will be able to name common tools for creating POCs for AI systems, such as Gradio, and understand how they work conceptually.
+Participants understand the need for monitoring, including with regard to AI-specific requirements such as drift tracking.
+
+Participants know relevant metrics such as accuracy, precision, recall, F1 score, MAE, MSE, perplexity, latency, throughput, and resource utilization, and understand why they are relevant for monitoring.
+
+Participants know example monitoring tools. These include both general-purpose tools, such as Prometheus and Grafana, and ML-specific tools, such as MLflow.
+
 
 [[LG-5-12]]
-==== LG 5-12: Knowing the deployment options of AI models
+==== LG 5-12: Understand user feedback and methods and tools for collecting it
 
-Participants are familiar with various deployment options for AI models. Participants will understand a selection of the following options:
+Participants understand the benefits of user feedback for further model training. They also know various methods and tools for collecting user feedback, such as choosing between multiple answers or flagging in Gradio.
 
-- API Deployment
-- Embedded Deployment
-- Batch Prediction
-- Streaming
-- Containerization
-- Serverless Deployment
-- Cloud services
-
+[OPTIONAL]
+Participants know further methods for obtaining user feedback, such as RLHF, RLAIF, and DPO.
 
 
 [[LG-5-13]]
-==== LG 5-13: List advantages and disadvantages of SaaS and self-hosting
+==== LG 5-13: [OPTIONAL] Know classes of MLOps tools and platforms and essential criteria for selecting them
 
-The participants know the advantages and disadvantages of SaaS and self-hosting and can weigh up the pros and cons.
+Participants know well-known MLOps tools and end-to-end platforms, such as:
 
-
-[[LG-5-14]]
-==== LG 5-14: Overview of SaaS AI solutions
-
-Participants will gain an overview of well-known SaaS AI solutions, such as Azure OpenAI Services.
-
-
-[[LG-5-15]]
-==== LG 5-15: Know embedded deployments of ML models
-
-Participants will be familiar with various options and standards for embedded deployments of ML models.
-
-
-[[LG-5-16]]
-==== LG 5-16: Understanding monitoring with regard to AI-specific requirements
-
-The participants understand the need for monitoring, also with regard to AI-specific requirements such as drift tracking.
-Participants are familiar with relevant metrics such as accuracy, precision, recall and F1 score, MAE, MSE, perplexity, latency, throughput and resource utilization and understand why these are relevant for monitoring.
-
-[[LG-5-17]]
-==== LG 5-17: Overview of sample tools for monitoring
-
-The participants know example tools for monitoring. This includes both general tools, such as Prometheus & Grafana, as well as ML-specific tools, such as MLflow.
-
-
-[[LG-5-18]]
-==== LG 5-18: Understanding user feedback and methods and tools for collecting user feedback
-
-Participants understand the benefits of user feedback for further model training. In addition, participants are familiar with various methods and tools for collecting user feedback, such as choosing between multiple answers and flagging in Gradio.
-
-[[LG-5-19]]
-==== LG 5-19: Know methods for using feedback for model training
-
-Participants are familiar with various methods of using feedback for model training, such as RLHF, RLAIF and DPO.
-
-
-[[LG-5-20]]
-==== LG 5-20: [OPTIONAL] Understanding the MLOps pipeline using a practical example
-
-Using a practical example, participants will learn what an MLOps pipeline can look like and what insights it offers into parameters, metrics, etc.
-
-
-[[LG-5-21]]
-==== LG 5-21: [OPTIONAL] Make build vs. buy decisions for MLOps systems/components
-
-Participants will be able to make build vs. buy decisions for MLOps systems/components.
-
-
-[[LG-5-22]]
-==== LG 5-22: [OPTIONAL] Know MLOps tools and end-to-end platforms
-
-The participants are familiar with well-known MLOps tools and end-to-end platforms, such as:
-
-- Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Kubeflow, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
-- OpenSource: MLFlow, Weights & Biases, ClearML
-- PaaS: AWS SageMaker, Azure ML.
+* Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights & Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai
+* Open source: MLflow, Kubeflow, ClearML
+* PaaS: AWS SageMaker, Azure ML, Google Vertex AI
 
 
 
