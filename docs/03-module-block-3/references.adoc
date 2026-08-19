@@ -1,6 +1,6 @@
 === {references}
 
-<<alake>>, <<bornstein>>, <<cdteliot>>, <<crowe>>, <<gharbi>>, <<heiland>>,
+<<bornstein>>, <<cdteliot>>, <<crowe>>, <<gharbi>>, <<heiland>>,
 <<hotz-two>>, <<hotz-three>>, <<koc>>, <<lakshmanan>>,
 <<mlsoftwarearchitecture>>, <<nahar>>, <<saltz>>, <<savarese>>, <<serban>>,
 <<studer>>, <<tdcox>>, <<tuberlin>>, <<visenger-three>>, <<zaharia>>

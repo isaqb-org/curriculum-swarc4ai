@@ -16,7 +16,6 @@ This section contains references that are cited in the curriculum.
 **A**
 
 - [[[agrawal,Agrawal et al.]]] A. Agrawal, J. Gans, A. Goldfarb:  Prediction Machines: The Simple Economics of Artificial Intelligence https://www.predictionmachines.ai/
-- [[[alake, Alake]]] R. Alake: ML Pipeline Architecture Design Patterns (With 10 Real-World Examples) https://neptune.ai/blog/ml-pipeline-architecture-design-patterns
 - [[[atlas, ATLAS]]] ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems. https://github.com/mitre/advmlthreatmatrix
 
 **B**
