@@ -1,0 +1,2148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.26">
+<link rel="icon" type="image/png" href="html-theme/favicon.png">
+<title>Curriculum for Certified Professional for Software Architecture (CPSA)&#174; Advanced LevelSWARC4AI – Software Architecture for AI Systems</title>
+<link rel="stylesheet" href="html-theme/isaqb-theme.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body class="book toc2 toc-left">
+<div id="header">
+<h1>Curriculum for Certified Professional for Software Architecture (CPSA)<sup>&#174;</sup> Advanced Level<br><strong>SWARC4AI</strong> <em>– Software Architecture for AI Systems</em></h1>
+<div class="details">
+<span id="revnumber"> 2026.1-RC1-EN,</span>
+<span id="revdate">20260831</span>
+</div>
+<div id="toc" class="toc2">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#copyright">License and Copyright</a></li>
+<li><a href="#learning-goals-overview">Learning Goals Overview</a></li>
+<li><a href="#_introduction_general_information_about_the_isaqb_advanced_level">Introduction: General information about the iSAQB Advanced Level</a>
+<ul class="sectlevel2">
+<li><a href="#_what_is_taught_in_an_advanced_level_module">What is taught in an Advanced Level module?</a></li>
+<li><a href="#_what_are_advanced_level_cpsa_a_graduates_qualified_for">What are Advanced Level (CPSA-A) graduates qualified for?</a></li>
+<li><a href="#_requirements_for_cpsa_a_certification">Requirements for CPSA-A certification</a></li>
+</ul>
+</li>
+<li><a href="#_essentials">Essentials</a>
+<ul class="sectlevel2">
+<li><a href="#_what_does_the_module_swarc4ai_convey">What does the module “SWARC4AI” convey?</a></li>
+<li><a href="#_curriculum_structure_and_recommended_durations">Curriculum Structure and Recommended Durations</a></li>
+<li><a href="#_duration_didactics_and_further_details">Duration, didactics and further details</a></li>
+<li><a href="#_prerequisites">Prerequisites</a></li>
+<li><a href="#_structure_of_the_curriculum">Structure of the curriculum</a></li>
+<li><a href="#_supplementary_information_terms_translations">Supplementary Information, Terms, Translations</a></li>
+</ul>
+</li>
+<li><a href="#_introduction_to_software_architecture_relevant_concepts_for_artificial_intelligence">1. Introduction to software architecture-relevant concepts for artificial intelligence</a>
+<ul class="sectlevel2">
+<li><a href="#_terms_and_concepts">1.1. Terms and Concepts</a></li>
+<li><a href="#_learning_goals">1.2. Learning Goals</a></li>
+<li><a href="#_references">1.3. References</a></li>
+</ul>
+</li>
+<li><a href="#_compliance_security_alignment">2. Compliance, security, alignment</a>
+<ul class="sectlevel2">
+<li><a href="#_terms_and_concepts_2">2.1. Terms and Concepts</a></li>
+<li><a href="#_learning_goals_2">2.2. Learning Goals</a></li>
+<li><a href="#_references_2">2.3. References</a></li>
+</ul>
+</li>
+<li><a href="#_design_and_development_of_ai_systems">3. Design and development of AI systems</a>
+<ul class="sectlevel2">
+<li><a href="#_terms_and_concepts_3">3.1. Terms and Concepts</a></li>
+<li><a href="#_learning_goals_3">3.2. Learning Goals</a></li>
+<li><a href="#_references_3">3.3. References</a></li>
+</ul>
+</li>
+<li><a href="#_data_management_and_data_processing_for_ai_systems">4. Data management and data processing for AI systems</a>
+<ul class="sectlevel2">
+<li><a href="#_terms_and_concepts_4">4.1. Terms and Concepts</a></li>
+<li><a href="#_learning_goals_4">4.2. Learning Goals</a></li>
+<li><a href="#_references_4">4.3. References</a></li>
+</ul>
+</li>
+<li><a href="#_important_quality_features_for_the_operation_of_ai_systems">5. Important quality features for the operation of AI systems</a>
+<ul class="sectlevel2">
+<li><a href="#_terms_and_concepts_5">5.1. Terms and Concepts</a></li>
+<li><a href="#_learning_goals_5">5.2. Learning Goals</a></li>
+<li><a href="#_references_5">5.3. References</a></li>
+</ul>
+</li>
+<li><a href="#_system_architectures_and_platforms_for_generative_ai_systems">6. System architectures and platforms for generative AI systems</a>
+<ul class="sectlevel2">
+<li><a href="#_terms_and_concepts_6">6.1. Terms and Concepts</a></li>
+<li><a href="#_learning_goals_6">6.2. Learning Goals</a></li>
+<li><a href="#_references_6">6.3. References</a></li>
+</ul>
+</li>
+<li><a href="#_case_studies_and_practical_projects">7. Case studies and practical projects</a>
+<ul class="sectlevel2">
+<li><a href="#_learning_goals_7">7.1. Learning Goals</a></li>
+<li><a href="#_references_7">7.2. References</a></li>
+</ul>
+</li>
+<li><a href="#_references_8">References</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="copyright">License and Copyright</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>&#169; (Copyright), International Software Architecture Qualification Board e. V.
+(iSAQB<sup>&#174;</sup> e. V.) 2026</strong></p>
+</div>
+<div class="paragraph">
+<p>The curriculum may only be used subject to the following conditions:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>You wish to obtain the CPSA Certified Professional for Software Architecture Foundation Level<sup>&#174;</sup> certificate or the CPSA Certified Professional for Software Architecture Advanced Level<sup>&#174;</sup> certificate. For the purpose of obtaining the certificate, it shall be permitted to use these text documents and/or curricula by creating working copies for your own computer. If any other use of documents and/or curricula is intended, for instance for their dissemination to third parties, for advertising etc., please write to <a href="mailto:info@isaqb.org">info@isaqb.org</a> to enquire whether this is permitted. A separate license agreement would then have to be entered into.</p>
+</li>
+<li>
+<p>If you are a trainer or training provider, it shall be possible for you to use the documents and/or curricula once you have obtained a usage license.
+Please address any enquiries to <a href="mailto:info@isaqb.org">info@isaqb.org</a>. License agreements with comprehensive provisions for all aspects exist.</p>
+</li>
+<li>
+<p>If you fall neither into category 1 nor category 2, but would like to use these documents and/or curricula nonetheless, please also contact the iSAQB e. V. by writing to <a href="mailto:info@isaqb.org">info@isaqb.org</a>. You will then be informed about the possibility of acquiring relevant licenses through existing license agreements, allowing you to obtain your desired usage authorizations.</p>
+</li>
+</ol>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Important Notice</div>
+<div class="paragraph">
+<p><strong>We stress that, as a matter of principle, this curriculum is protected by copyright.
+The International Software Architecture Qualification Board e. V. (iSAQB<sup>&#174;</sup> e. V.) has exclusive entitlement to these copyrights.</strong></p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>The abbreviation "e. V." is part of the iSAQB&#8217;s official name and stands for "eingetragener Verein" (registered association), which describes its status as a legal entity according to German law.
+For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSAQB without the use of said abbreviation.</p>
+</div>
+<div style="page-break-after: always;"></div>
+<!-- toc disabled -->
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="learning-goals-overview">Learning Goals Overview</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="#LG-1-1">LG 1-1: Classify artificial intelligence and machine learning, data science, deep learning, and generative AI</a></p>
+</li>
+<li>
+<p><a href="#LG-1-2">LG 1-2: Identify, classify, prioritize, and evaluate AI use cases from a business perspective</a></p>
+</li>
+<li>
+<p><a href="#LG-1-3">LG 1-3: Classify the strengths, limitations, and typical risks of AI</a></p>
+</li>
+<li>
+<p><a href="#LG-1-4">LG 1-4: Understand and explain the differences between AI systems and traditional software and decide on the appropriate type of solution</a></p>
+</li>
+<li>
+<p><a href="#LG-1-5">LG 1-5: Know roles, their responsibilities, and how they collaborate in the context of AI</a></p>
+</li>
+<li>
+<p><a href="#LG-1-6">LG 1-6 &#91;OPTIONAL&#93;: Know the concept of the Productivity J-Curve as a framework for introducing AI in organizations</a></p>
+</li>
+<li>
+<p><a href="#LG-2-1">LG 2-1: Know how data protection laws affect the implementation and use of AI</a></p>
+</li>
+<li>
+<p><a href="#LG-2-2">LG 2-2: Analyze the requirements of the EU AI Act and derive architecture-relevant measures for data flows, logging, technical documentation, human oversight, robustness, and deployment</a></p>
+</li>
+<li>
+<p><a href="#LG-2-3">LG 2-3: Classify AI systems according to the EU AI Act risk levels</a></p>
+</li>
+<li>
+<p><a href="#LG-2-4">LG 2-4: Evaluate copyright, degrees of openness, and licensing terms for AI models and AI-generated content</a></p>
+</li>
+<li>
+<p><a href="#LG-2-5">LG 2-5: Define strategies for complying with regulatory requirements and specify suitable evidence and documentation artifacts for models, datasets, and operational processes</a></p>
+</li>
+<li>
+<p><a href="#LG-2-6">LG 2-6: Know security pitfalls and types of attacks on ML models and select suitable security measures against attacks on AI systems</a></p>
+</li>
+<li>
+<p><a href="#LG-2-7">LG 2-7: Know and apply strategies for AI risk mitigation</a></p>
+</li>
+<li>
+<p><a href="#LG-2-8">LG 2-8: Understand the fundamental issues and facets of AI safety</a></p>
+</li>
+<li>
+<p><a href="#LG-2-9">LG 2-9: Translate ethical guidelines and AI governance principles into organizational, development, and architectural decisions</a></p>
+</li>
+<li>
+<p><a href="#LG-3-1">LG 3-1: Understand the life cycle of a machine learning or data science project</a></p>
+</li>
+<li>
+<p><a href="#LG-3-2">LG 3-2: Understand data types and requirements as well as typical ML problems and their requirements</a></p>
+</li>
+<li>
+<p><a href="#LG-3-3">LG 3-3: Select and compare suitable architecture and design patterns for AI systems and justify the selection based on quality requirements</a></p>
+</li>
+<li>
+<p><a href="#LG-3-4">LG 3-4: Know metrics for measuring the performance of ML models</a></p>
+</li>
+<li>
+<p><a href="#LG-3-5">LG 3-5: Integrate AI components into existing systems and domain architectures using suitable integration patterns, interfaces, and decoupling mechanisms</a></p>
+</li>
+<li>
+<p><a href="#LG-3-6">LG 3-6: Design user interactions for AI systems that appropriately account for uncertainty, explainability, approvals, and human-in-the-loop</a></p>
+</li>
+<li>
+<p><a href="#LG-3-7">LG 3-7: Analyze and design the performance and scalability of AI systems</a></p>
+</li>
+<li>
+<p><a href="#LG-3-8">LG 3-8: Understand robustness in AI systems and apply strategies to increase robustness</a></p>
+</li>
+<li>
+<p><a href="#LG-3-9">LG 3-9: Classify the reliability and availability of AI systems</a></p>
+</li>
+<li>
+<p><a href="#LG-3-10">LG 3-10: Specify measures for the reproducibility, auditability, and traceability of models, dataset versions, prompts, configurations, and results</a></p>
+</li>
+<li>
+<p><a href="#LG-3-11">LG 3-11: Classify explainability and interpretability in AI systems</a></p>
+</li>
+<li>
+<p><a href="#LG-3-12">LG 3-12: Know fault tolerance in AI systems</a></p>
+</li>
+<li>
+<p><a href="#LG-3-13">LG 3-13: Document architectural decisions for AI systems</a></p>
+</li>
+<li>
+<p><a href="#LG-4-1">LG 4-1: Acquire and label data</a></p>
+</li>
+<li>
+<p><a href="#LG-4-2">LG 4-2: Evaluate the sources and suitability of publicly available datasets in terms of quality, licensing, representativeness, and risks</a></p>
+</li>
+<li>
+<p><a href="#LG-4-3">LG 4-3: Design data pipelines and data architectures for AI systems that support quality, traceability, scalability, governance, and reusability</a></p>
+</li>
+<li>
+<p><a href="#LG-4-4">LG 4-4: Know strategies for data aggregation, cleansing, transformation, enrichment, and augmentation</a></p>
+</li>
+<li>
+<p><a href="#LG-4-5">LG 4-5: Know options for storing data</a></p>
+</li>
+<li>
+<p><a href="#LG-4-6">LG 4-6: Classify data products, data contracts, and responsibilities in data architectures for AI systems and use them to establish robust interfaces between the business domain, data platform, and AI components</a></p>
+</li>
+<li>
+<p><a href="#LG-5-1">LG 5-1: Know (hardware) requirements for training and inference</a></p>
+</li>
+<li>
+<p><a href="#LG-5-2">LG 5-2: Know the trade-offs of different model architectures with regard to quality characteristics</a></p>
+</li>
+<li>
+<p><a href="#LG-5-3">LG 5-3: Adjust different quality features of an ML model</a></p>
+</li>
+<li>
+<p><a href="#LG-5-4">LG 5-4: Understand the costs, power consumption, and sustainable use of AI (Green IT)</a></p>
+</li>
+<li>
+<p><a href="#LG-5-5">LG 5-5: Gain an overview of MLOps for automating the life cycle of a data science project</a></p>
+</li>
+<li>
+<p><a href="#LG-5-6">LG 5-6: Track model training, parameters, metrics, and results</a></p>
+</li>
+<li>
+<p><a href="#LG-5-7">LG 5-7: Distinguish model evaluation, system evaluation, and assessment of business value, and select suitable evaluation approaches for AI systems</a></p>
+</li>
+<li>
+<p><a href="#LG-5-8">LG 5-8: Know types of drift and possible causes and solutions for them</a></p>
+</li>
+<li>
+<p><a href="#LG-5-9">LG 5-9: Gain an overview of CI/CD pipelines, model management, and deployment strategies for AI models</a></p>
+</li>
+<li>
+<p><a href="#LG-5-10">LG 5-10: State the advantages and disadvantages of SaaS and self-hosting and make make-or-buy decisions based on quality requirements</a></p>
+</li>
+<li>
+<p><a href="#LG-5-11">LG 5-11: Design monitoring and observability for AI systems, particularly for drift, quality degradation, costs, latency, security events, and governance-relevant evidence</a></p>
+</li>
+<li>
+<p><a href="#LG-5-12">LG 5-12: Understand user feedback and methods and tools for collecting it</a></p>
+</li>
+<li>
+<p><a href="#LG-5-13">LG 5-13: &#91;OPTIONAL&#93; Know classes of MLOps tools and platforms and essential criteria for selecting them</a></p>
+</li>
+<li>
+<p><a href="#LG-6-1">LG 6-1: Gain an overview of AI integration levels</a></p>
+</li>
+<li>
+<p><a href="#LG-6-2">LG 6-2: Integrate AI systems into the overall architecture of an IT landscape</a></p>
+</li>
+<li>
+<p><a href="#LG-6-3">LG 6-3: Develop a fundamental understanding of generative AI and how it works</a></p>
+</li>
+<li>
+<p><a href="#LG-6-4">LG 6-4: Know architecture patterns for using LLMs and evaluate their limitations, risks, and trade-offs, particularly for RAG, function calling, fine-tuning, assistance systems, and agents</a></p>
+</li>
+<li>
+<p><a href="#LG-6-5">LG 6-5: Know and understand use cases for RAG (Retrieval-Augmented Generation) and selected RAG techniques</a></p>
+</li>
+<li>
+<p><a href="#LG-6-6">LG 6-6: Know types of prompt engineering</a></p>
+</li>
+<li>
+<p><a href="#LG-6-7">LG 6-7: Analyze and architecturally classify agentic workflows with regard to planning, tool use, reflection, state management, control mechanisms, and multi-agent collaboration</a></p>
+</li>
+<li>
+<p><a href="#LG-6-8">LG 6-8: Know a selection of design patterns for generative AI systems</a></p>
+</li>
+<li>
+<p><a href="#LG-6-9">LG 6-9: Select techniques for evaluating LLM applications and apply them to response quality, retrieval quality, hallucinations, safety, costs, and user value</a></p>
+</li>
+<li>
+<p><a href="#LG-6-10">LG 6-10: Gain an overview of well-known LLMs and selection criteria</a></p>
+</li>
+<li>
+<p><a href="#LG-6-11">LG 6-11: Understand the importance of cost management for GenAI applications</a></p>
+</li>
+<li>
+<p><a href="#LG-6-12">LG 6-12: Know classes of libraries, interfaces, and tools for LLM applications as well as their application contexts and selection criteria</a></p>
+</li>
+<li>
+<p><a href="#LG-6-13">LG 6-13: &#91;OPTIONAL&#93; Know and evaluate agentic AI architectures, key architecture components, security and governance boundaries, and typical usage patterns and limitations of agent systems</a></p>
+</li>
+<li>
+<p><a href="#LG-6-14">LG 6-14: Architecturally classify and apply agent runtime systems for LLM and agent systems</a></p>
+</li>
+<li>
+<p><a href="#LG-7-1">LG 7-1: Use an end-to-end case study or practical project to make, document, and justify architectural decisions for an AI system and evaluate them in terms of quality, compliance, operations, and integration.</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1 arabic-start">
+<h2 id="_introduction_general_information_about_the_isaqb_advanced_level">Introduction: General information about the iSAQB Advanced Level</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_what_is_taught_in_an_advanced_level_module">What is taught in an Advanced Level module?</h3>
+<div class="paragraph">
+<p>The module can be attended independently of a CPSA-F certification.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>The iSAQB Advanced Level offers modular training in three areas of competence with flexible training paths. It takes into account individual inclinations and specializations.</p>
+</li>
+<li>
+<p>The certification takes the form of a term paper. The assessment and oral examination are carried out by experts appointed by the iSAQB.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_what_are_advanced_level_cpsa_a_graduates_qualified_for">What are Advanced Level (CPSA-A) graduates qualified for?</h3>
+<div class="paragraph">
+<p>CPSA-A graduates can:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>design medium-sized to large IT systems independently and methodically</p>
+</li>
+<li>
+<p>assume technical and content-related responsibility in IT systems of medium to high criticality</p>
+</li>
+<li>
+<p>Conceptualize, design and document measures to achieve quality requirements and support development teams in the implementation of these measures</p>
+</li>
+<li>
+<p>Manage and carry out architecture-related communication in medium to large development teams</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_requirements_for_cpsa_a_certification">Requirements for CPSA-A certification</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Successful training and certification as a Certified Professional for Software Architecture, Foundation Level<sup>&#174;</sup> (CPSA-F)</p>
+</li>
+<li>
+<p>At least three years of full-time professional experience in the IT sector; collaboration on the design and development of at least two different IT systems</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Exceptions are allowed on application (e.g., collaboration on open source projects)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Training and further education within the scope of iSAQB Advanced Level training courses with a minimum of 70 credit points from at least three different areas of competence</p>
+</li>
+<li>
+<p>Successful completion of the CPSA-A certification exam</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><br>
+<br></p>
+</div>
+<div class="paragraph text-center">
+<p><span class="image"><img src="images/00-preamble/cpsa-a-logo.png" alt="Certified Professional for Software Architecture<sup>&#174;</sup> Advanced Level (CPSA-A)"></span></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_essentials">Essentials</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_what_does_the_module_swarc4ai_convey">What does the module “SWARC4AI” convey?</h3>
+<div class="paragraph">
+<p>The module presents participants with modern software architecture concepts for AI systems as a means of designing powerful, scalable and integrable AI solutions. At the end of the module, participants will be familiar with the key principles of software architecture for AI systems and will be able to apply them to the design and implementation of machine learning and generative AI systems. With the help of the modeling techniques and architecture tools taught, they will be able to seamlessly integrate AI components into existing software systems. The course covers both machine learning systems and generative AI and teaches how these can be combined with classic software systems. Participants learn what the architecture for such hybrid systems must look like in order to ensure scalability, maintainability and extensibility.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_curriculum_structure_and_recommended_durations">Curriculum Structure and Recommended Durations</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Contents</th>
+<th class="tableblock halign-right valign-top">Recommended minimum duration (min)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Introduction to concepts relevant to software architecture for artificial intelligence</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">120</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Compliance, security, alignment</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">120</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Design and development of AI systems</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">320</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Data management and data processing for AI systems</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">90</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Important quality features for the operation of AI systems</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">160</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">System architectures and platforms for generative AI systems</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">160</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Case studies and practical projects</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">110</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Total</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1080</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_duration_didactics_and_further_details">Duration, didactics and further details</h3>
+<div class="paragraph">
+<p>The duration of a training course on the SWARC4AI module should be at least 3 days, but can be longer. Providers may differ in terms of duration, didactics, type and structure of the exercises and the detailed course structure. In particular, syllabus leaves the type of examples and exercises completely open. Licensed training courses on SWARC4AI contribute to admission to the final Advanced Level certification examination (following credit points):</p>
+</div>
+<table class="tableblock frame-none grid-rows stripes-none stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Methodical Competence:</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10 Points</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Technical Competence:</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">20 Points</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Communicative Competence:</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">0 Points</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_prerequisites">Prerequisites</h3>
+<div class="paragraph">
+<p>Participants should have the following knowledge and/or experience:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>A basic understanding of artificial intelligence, machine learning and data science</p>
+</li>
+<li>
+<p>A basic understanding of software architecture, DevOps and the design of software systems and APIs</p>
+</li>
+<li>
+<p>A basic knowledge of the Python programming language and its use for AI problems</p>
+</li>
+<li>
+<p>Overview of common libraries such as scikit-learn, TensorFlow and PyTorch</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Knowledge in the following areas can be helpful for understanding some concepts</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Experience with the command line interface on Linux systems</p>
+</li>
+<li>
+<p>Knowledge from the iSAQB CPSA Foundation level training for a general understanding of software architecture, design patterns and methodologies</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_structure_of_the_curriculum">Structure of the curriculum</h3>
+<div class="paragraph">
+<p>The individual sections of the curriculum are described according to the following structure:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Terms/concepts</strong>: Essential core terms of this topic.</p>
+</li>
+<li>
+<p><strong>Teaching/practice time</strong>: Defines the minimum amount of teaching and practice time that must be spent on this topic or its practice in an accredited training course.</p>
+</li>
+<li>
+<p><strong>Learning goals</strong>: Describes the content to be conveyed including its core terms and principles.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>This section therefore also outlines the skills to be acquired in corresponding training courses.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_supplementary_information_terms_translations">Supplementary Information, Terms, Translations</h3>
+<div class="paragraph">
+<p>To the extent necessary for understanding the curriculum, we have added definitions of technical terms to the <a href="https://github.com/isaqb-org/glossary">iSAQB glossary</a> and complemented them by adding referenes to the literature.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_introduction_to_software_architecture_relevant_concepts_for_artificial_intelligence">1. Introduction to software architecture-relevant concepts for artificial intelligence</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 120 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 0 min</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_terms_and_concepts">1.1. Terms and Concepts</h3>
+<div class="paragraph">
+<p>AI, Generative AI, Machine Learning, Symbolic AI, Evolutionary Algorithms, Statistical Learning, Deep Learning, LLMs, Hallucination, Bias, Jagged Technological Frontier, Data Preparation, Model Training, Model Evaluation, Feature Engineering, Data Science, Data Engineering</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals">1.2. Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-1-1">LG 1-1: Classify artificial intelligence and machine learning, data science, deep learning, and generative AI</h4>
+<div class="paragraph">
+<p>Participants know how artificial intelligence is defined and how machine learning, data science, deep learning, and generative AI fit within it.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-1-2">LG 1-2: Identify, classify, prioritize, and evaluate AI use cases from a business perspective</h4>
+<div class="paragraph">
+<p>Participants can identify and describe typical AI use cases from a business perspective. They can evaluate their suitability based on business goals, data availability and quality, technical feasibility, expected benefits, risks, integration effort, and impact on the software architecture, and can establish a well-founded prioritization.</p>
+</div>
+<div class="paragraph">
+<p>Typical use cases include image recognition and image generation, natural language processing, predictive models, personalization, anomaly detection, chatbots, recommender systems, and intelligent assistance systems.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-1-3">LG 1-3: Classify the strengths, limitations, and typical risks of AI</h4>
+<div class="paragraph">
+<p>Participants can classify the strengths and limitations of AI technologies in different application contexts and explain why the suitability of AI depends heavily on the task at hand.</p>
+</div>
+<div class="paragraph">
+<p>They can identify typical technical and societal risks, such as</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>hallucinations,</p>
+</li>
+<li>
+<p>bias,</p>
+</li>
+<li>
+<p>unfairness,</p>
+</li>
+<li>
+<p>deepfakes,</p>
+</li>
+<li>
+<p>AI-assisted cyberattacks,</p>
+</li>
+<li>
+<p>safety risks in critical systems,</p>
+</li>
+<li>
+<p>social manipulation,</p>
+</li>
+<li>
+<p>infringements of intellectual property rights.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Participants are familiar with the “Jagged Technological Frontier” in relation to the task-specific suitability of AI.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-1-4">LG 1-4: Understand and explain the differences between AI systems and traditional software and decide on the appropriate type of solution</h4>
+<div class="paragraph">
+<p>Participants understand the differences between AI systems and traditional software:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Data-driven (for ML) – data-centric rather than code-centric development</p>
+</li>
+<li>
+<p>Probabilistic results (non-deterministic behavior)</p>
+</li>
+<li>
+<p>Statistical validation</p>
+</li>
+<li>
+<p>Experimental design: support for rapid iteration and model testing</p>
+</li>
+<li>
+<p>Model complexity and interpretability: ML models, particularly deep learning models, can be extremely complex. Their “black-box” nature makes interpretation and explanation more difficult.</p>
+</li>
+<li>
+<p>Debugging and testing are more complex due to non-determinism.</p>
+</li>
+<li>
+<p>Model decay: continuous monitoring and retraining are necessary to maintain model performance.</p>
+</li>
+<li>
+<p>AI-specific regulations at industry and EU level must be taken into account.</p>
+</li>
+<li>
+<p>Interoperability: seamless integration into existing systems and technology stacks.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Participants can decide and explain whether and why a problem should be solved using AI or traditional software development.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-1-5">LG 1-5: Know roles, their responsibilities, and how they collaborate in the context of AI</h4>
+<div class="paragraph">
+<p>Participants know typical roles and their responsibilities in these contexts. In particular, these roles include:</p>
+</div>
+<div class="paragraph">
+<p>Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Engineer, AI Architect,
+Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist, and ML Researcher.</p>
+</div>
+<div class="paragraph">
+<p>Participants also know how these roles can collaborate within a team (team topologies for ML teams).</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-1-6">LG 1-6 [OPTIONAL]: Know the concept of the Productivity J-Curve as a framework for introducing AI in organizations</h4>
+<div class="paragraph">
+<p>This phenomenon helps explain why organizations may initially experience a decline in productivity when implementing AI, followed by productivity gains as implementation progresses.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references">1.3. References</h3>
+<div class="paragraph">
+<p><a href="#agrawal">[Agrawal et al.]</a>, <a href="#bahree">[Bahree 2024]</a>, <a href="#brynjolfsson">[Brynjolfsson et al.]</a>, <a href="#burkov">[Burkov 2019]</a>, <a href="#chong">[Chong et al.]</a>,
+<a href="#dellacqua">[Dell&#8217;Acqua 2026]</a>, <a href="#geron">[Géron 2022]</a>, <a href="#gharbi">[Gharbi et al. 2026]</a>, <a href="#hall">[Hall et al. 2023]</a>, <a href="#harvard">[Harvard et al. 2024]</a>, <a href="#huyen">[Huyen 2022]</a>,
+<a href="#kelleher">[Kelleher 2015]</a>, <a href="#roser">[Roser 2022]</a>, <a href="#tan">[Tan et al.]</a>, <a href="#vaughan">[Vaughan 2020]</a>, <a href="#visenger-one">[Visengeriyeva, JTF]</a>, <a href="#wang">[Wang et al. 2024]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_compliance_security_alignment">2. Compliance, security, alignment</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 120 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 30 min</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_terms_and_concepts_2">2.1. Terms and Concepts</h3>
+<div class="paragraph">
+<p>EU AI Act, data protection, copyright, license, open (source), AI security, jailbreak, adversarial attack, data poisoning, model inversion &amp; extraction, AI safety, AI ethics, AI alignment, model and data documentation, transparency obligation, human oversight, data governance, AI governance, AI systems by risk levels (prohibited, high-risk, limited risk, low-risk)</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_2">2.2. Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-2-1">LG 2-1: Know how data protection laws affect the implementation and use of AI</h4>
+<div class="paragraph">
+<p>Participants are familiar with data protection laws such as the GDPR and know how they affect the collection, processing, and storage of data by AI systems.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-2-2">LG 2-2: Analyze the requirements of the EU AI Act and derive architecture-relevant measures for data flows, logging, technical documentation, human oversight, robustness, and deployment</h4>
+<div class="paragraph">
+<p>Participants understand the objectives and provisions of the EU AI Act and know how they affect the development and use of AI systems. They also understand the EU AI Act requirements for trustworthy AI and how these requirements affect the development process and the architecture of the software system. In particular, they are familiar with the impact on some of the following aspects:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Risk management system (risk mitigation)</p>
+</li>
+<li>
+<p>Data quality and data governance (quality management system)</p>
+</li>
+<li>
+<p>Creation and maintenance of comprehensive technical documentation for the AI system</p>
+</li>
+<li>
+<p>Automatic recording/logging of events in the AI system</p>
+</li>
+<li>
+<p>Provision of clear and comprehensible information to users</p>
+</li>
+<li>
+<p>Implementation of human oversight measures</p>
+</li>
+<li>
+<p>Assurance of an appropriate level of accuracy and robustness</p>
+</li>
+<li>
+<p>Implementation of cybersecurity measures</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-2-3">LG 2-3: Classify AI systems according to the EU AI Act risk levels</h4>
+<div class="paragraph">
+<p>Participants know how AI systems are classified according to the EU AI Act risk levels (prohibited, high risk, limited risk, and low risk) and which regulatory requirements apply in each case.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-2-4">LG 2-4: Evaluate copyright, degrees of openness, and licensing terms for AI models and AI-generated content</h4>
+<div class="paragraph">
+<p>Participants can classify copyright issues relating to training data and AI-generated content and explain their impact on the development, provision, and use of AI systems.</p>
+</div>
+<div class="paragraph">
+<p>They can distinguish different degrees of openness of ML models, for example with regard to training data, source code, model architecture, and model parameters, and evaluate licensing terms and the resulting restrictions on an AI system.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-2-5">LG 2-5: Define strategies for complying with regulatory requirements and specify suitable evidence and documentation artifacts for models, datasets, and operational processes</h4>
+<div class="paragraph">
+<p>Participants understand the fundamental provisions of the EU AI Act, particularly its transparency obligations, and know strategies for complying with them as well as potential challenges.</p>
+</div>
+<div class="paragraph">
+<p>In particular, they can select documentation artifacts for models, datasets, prompts, evaluation procedures, changes, and operational processes, and explain how these support traceability, transparency, and auditability.</p>
+</div>
+<div class="paragraph">
+<p>Participants can classify regulatory sandboxes as an instrument for the controlled testing of innovative AI systems and explain their opportunities, limitations, and the consequences of non-compliance with the EU AI Act.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-2-6">LG 2-6: Know security pitfalls and types of attacks on ML models and select suitable security measures against attacks on AI systems</h4>
+<div class="paragraph">
+<p>Participants know potential security pitfalls and typical types of attacks on ML models. These include, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>LLM jailbreaks through prompt engineering</p>
+</li>
+<li>
+<p>Adversarial attacks</p>
+</li>
+<li>
+<p>Data poisoning</p>
+</li>
+<li>
+<p>Model inversion and extraction</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Participants know security measures for protecting against attacks (AI security), particularly ways to integrate security standards and safeguards into the architecture, interfaces, and operating model.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-2-7">LG 2-7: Know and apply strategies for AI risk mitigation</h4>
+<div class="paragraph">
+<p>Participants know how strategies for AI risk mitigation can be developed and applied. In particular, they know the following strategies:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Strengthening robustness through extensive testing</p>
+</li>
+<li>
+<p>Fault-tolerant AI systems</p>
+</li>
+<li>
+<p>Transparent development</p>
+</li>
+<li>
+<p>Explainable AI (XAI)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-2-8">LG 2-8: Understand the fundamental issues and facets of AI safety</h4>
+<div class="paragraph">
+<p>Participants understand the fundamental issues of AI safety and are familiar with its various facets. In particular, they know specific problems such as “AI model risks by poisoning” and bias.</p>
+</div>
+<div class="paragraph">
+<p>Participants know how bias in data and models can be detected and reduced to ensure fairness and equal treatment in AI applications.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-2-9">LG 2-9: Translate ethical guidelines and AI governance principles into organizational, development, and architectural decisions</h4>
+<div class="paragraph">
+<p>Participants are aware of the ethical issues that AI systems can create and know approaches and options for dealing with ethical problems, for example by creating AI guidelines. They have an overview of important ethical guidelines such as the “Ethics Guidelines for Trustworthy AI” of the EU.</p>
+</div>
+<div class="paragraph">
+<p>Optionally, participants know important documents and frameworks on AI governance that can be used to develop the core principles of AI governance and responsible AI for an organization, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>OECD AI Principles, <a href="https://oecd.ai/en/ai-principles" class="bare">https://oecd.ai/en/ai-principles</a></p>
+</li>
+<li>
+<p>The Asilomar AI Principles, <a href="https://futureoflife.org/open-letter/ai-principles/" class="bare">https://futureoflife.org/open-letter/ai-principles/</a></p>
+</li>
+<li>
+<p>The IEEE Ethically Aligned Design framework, <a href="https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf" class="bare">https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_2">2.3. References</h3>
+<div class="paragraph">
+<p><a href="#atlas">[ATLAS]</a>, <a href="#bhajaria">[Bhajaria 2022]</a>, <a href="#chen">[Chen et al. 2022]</a>, <a href="#csiro">[CSIRO et al. 2023]</a>, <a href="#eu-ai-act">[EU AI Act]</a>,
+<a href="#gharbi">[Gharbi et al. 2026]</a>, <a href="#hall">[Hall et al. 2023]</a>, <a href="#hotz">[Hotz, Best Practices]</a>, <a href="#jarmul">[Jarmul 2023]</a>, <a href="#masood">[Masood et al. 2023]</a>, <a href="#molnar">[Molnar 2024]</a>,
+<a href="#nist">[Nist]</a>, <a href="#pruksachatkun">[Pruksachatkun et al. 2023]</a>, <a href="#visenger-links">[Visengeriyeva, Ethics]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_design_and_development_of_ai_systems">3. Design and development of AI systems</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 320 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 45 min</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_terms_and_concepts_3">3.1. Terms and Concepts</h3>
+<div class="paragraph">
+<p>CI/CD, MLOps, CRISP-ML(Q), AI application, AI engineering, ML model development, ML infrastructure, performance, robustness, reliability, fault tolerance, model-as-service, model-as-dependency, precompute, model-on-demand, hybrid serving, multi-agent system (MAS)</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_3">3.2. Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-3-1">LG 3-1: Understand the life cycle of a machine learning or data science project</h4>
+<div class="paragraph">
+<p>Participants have an understanding of the life cycle of a machine learning or data science project. In particular, they are familiar with the following phases:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Exploratory data analysis</p>
+</li>
+<li>
+<p>Data cleansing and preparation</p>
+</li>
+<li>
+<p>Feature engineering</p>
+</li>
+<li>
+<p>Model training and selection</p>
+</li>
+<li>
+<p>POC</p>
+</li>
+<li>
+<p>Deployment</p>
+</li>
+<li>
+<p>Maintenance</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Participants know typical process models for the software development of AI systems. These include, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>CRISP-ML(Q)</p>
+</li>
+<li>
+<p>Team Data Science Process</p>
+</li>
+<li>
+<p>GenAI Life Cycle</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-2">LG 3-2: Understand data types and requirements as well as typical ML problems and their requirements</h4>
+<div class="paragraph">
+<p>Participants know different types of data as well as typical ML problems and use cases involving data from the following areas:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Supervised learning</p>
+</li>
+<li>
+<p>Unsupervised learning</p>
+</li>
+<li>
+<p>Reinforcement learning</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>They understand the requirements these may have, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Availability of correct labels of different types</p>
+</li>
+<li>
+<p>Data volume and diversity</p>
+</li>
+<li>
+<p>Temporal or semantic dependencies in data features</p>
+</li>
+<li>
+<p>Encoding the input data of ML models, for example:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>One-hot encodings</p>
+</li>
+<li>
+<p>Label encodings</p>
+</li>
+<li>
+<p>Embeddings</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>In particular, participants have a good understanding of the need for validation and of the typical division of data into training, validation, and test datasets.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-3">LG 3-3: Select and compare suitable architecture and design patterns for AI systems and justify the selection based on quality requirements</h4>
+<div class="paragraph">
+<p>Participants know which design patterns exist for AI systems and how to select suitable patterns. This includes the following design patterns:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>ML systems topology patterns</p>
+</li>
+<li>
+<p>Pipeline architecture patterns</p>
+</li>
+<li>
+<p>Model training patterns</p>
+</li>
+<li>
+<p>Model serving patterns</p>
+</li>
+<li>
+<p>Model deployment patterns</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>In particular, participants know transfer learning and fine-tuning as ways to adapt pretrained foundation models to existing use cases.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-4">LG 3-4: Know metrics for measuring the performance of ML models</h4>
+<div class="paragraph">
+<p>Participants are familiar with various metrics for measuring the performance of ML models, such as:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Precision, recall</p>
+</li>
+<li>
+<p>F1 score</p>
+</li>
+<li>
+<p>Accuracy</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>and know how to define evaluation criteria for performance assessment.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-5">LG 3-5: Integrate AI components into existing systems and domain architectures using suitable integration patterns, interfaces, and decoupling mechanisms</h4>
+<div class="paragraph">
+<p>Participants understand how ML models can be integrated into existing systems and are familiar with the interfaces and integration points.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-6">LG 3-6: Design user interactions for AI systems that appropriately account for uncertainty, explainability, approvals, and human-in-the-loop</h4>
+<div class="paragraph">
+<p>Participants know how user interfaces should be designed to enable effective interactions with the ML system and optimize the user experience.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-7">LG 3-7: Analyze and design the performance and scalability of AI systems</h4>
+<div class="paragraph">
+<p>Participants understand the importance of performance indicators such as latency, throughput, and resource utilization in AI systems for both training and inference, and understand how these can be optimized.</p>
+</div>
+<div class="paragraph">
+<p>They can analyze the causes of performance and scalability problems and select suitable measures that enable AI systems to handle growing data volumes, numbers of users, and request volumes.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-8">LG 3-8: Understand robustness in AI systems and apply strategies to increase robustness</h4>
+<div class="paragraph">
+<p>Participants have an understanding of what robustness means in AI systems and can apply strategies to increase robustness in different application contexts.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-9">LG 3-9: Classify the reliability and availability of AI systems</h4>
+<div class="paragraph">
+<p>Participants understand the concepts of reliability and availability and know how to build AI systems that are stable and constantly available.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-10">LG 3-10: Specify measures for the reproducibility, auditability, and traceability of models, dataset versions, prompts, configurations, and results</h4>
+<div class="paragraph">
+<p>Participants know the importance of AI results being reproducible and auditable and know which methods can be used to ensure these properties.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-11">LG 3-11: Classify explainability and interpretability in AI systems</h4>
+<div class="paragraph">
+<p>Participants understand the importance of explainability and interpretability in AI systems and know how to ensure this in order to promote trust and transparency.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-12">LG 3-12: Know fault tolerance in AI systems</h4>
+<div class="paragraph">
+<p>Participants are familiar with the concepts of fault tolerance and can explain how AI systems remain functional despite errors or malfunctions.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-3-13">LG 3-13: Document architectural decisions for AI systems</h4>
+<div class="paragraph">
+<p>Participants know how to define and document the use cases or tasks of an ML model, such as image classification or fraud detection, particularly the trade-offs between:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>RAG versus fine-tuning</p>
+</li>
+<li>
+<p>SaaS versus self-hosting</p>
+</li>
+<li>
+<p>Batch versus real time</p>
+</li>
+<li>
+<p>A centralized versus a domain-specific AI service</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_3">3.3. References</h3>
+<div class="paragraph">
+<p><a href="#bornstein">[Bornstein et al.]</a>, <a href="#cdteliot">[Cdteliot]</a>, <a href="#crowe">[Crowe et al. 2024]</a>, <a href="#gharbi">[Gharbi et al. 2026]</a>, <a href="#heiland">[Heiland et al. 2023]</a>,
+<a href="#hotz-two">[Hotz, Life Cycle]</a>, <a href="#hotz-three">[Hotz, TDSP]</a>, <a href="#koc">[Koc]</a>, <a href="#lakshmanan">[Lakshmanan et al.]</a>,
+<a href="#mlsoftwarearchitecture">[ML software architecture]</a>, <a href="#nahar">[Nahar et al.]</a>, <a href="#saltz">[Saltz]</a>, <a href="#savarese">[Savarese]</a>, <a href="#serban">[Serban]</a>,
+<a href="#studer">[Studer et al.]</a>, <a href="#tdcox">[tdcox]</a>, <a href="#tuberlin">[TU Berlin]</a>, <a href="#visenger-three">[Visengeriyeva, AI Agents]</a>, <a href="#zaharia">[Zaharia et al.]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_data_management_and_data_processing_for_ai_systems">4. Data management and data processing for AI systems</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 90 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 0 min</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_terms_and_concepts_4">4.1. Terms and Concepts</h3>
+<div class="paragraph">
+<p>Data acquisition, labeling, data pipeline, ETL processes, data aggregation, data cleansing, transformation, augmentation, files, RDBMS, NoSQL, data products, data contracts, data architectures: Data Warehouse, Data Lake, Data Mesh</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_4">4.2. Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-4-1">LG 4-1: Acquire and label data</h4>
+<div class="paragraph">
+<p>Participants have an overview of various methods for acquiring and labeling data.</p>
+</div>
+<div class="paragraph">
+<p>Participants know relevant data-labeling tools such as CVAT, Label Studio, or Amazon Mechanical Turk.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-4-2">LG 4-2: Evaluate the sources and suitability of publicly available datasets in terms of quality, licensing, representativeness, and risks</h4>
+<div class="paragraph">
+<p>Participants can name common platforms for publicly accessible data.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-4-3">LG 4-3: Design data pipelines and data architectures for AI systems that support quality, traceability, scalability, governance, and reusability</h4>
+<div class="paragraph">
+<p>Participants understand the design of efficient data pipelines and architectures, the consideration of data quality, and storage solutions and their management. To this end, participants know:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Architecture patterns for data engineering pipelines and ETL processes</p>
+</li>
+<li>
+<p>How effective data management ensures the quality and security of data in AI applications</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Participants have an overview of relevant tools for data engineering pipelines, such as Apache Spark and Flink.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-4-4">LG 4-4: Know strategies for data aggregation, cleansing, transformation, enrichment, and augmentation</h4>
+<div class="paragraph">
+<p>Participants know strategies for data aggregation, cleansing, transformation, enrichment, and augmentation.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-4-5">LG 4-5: Know options for storing data</h4>
+<div class="paragraph">
+<p>Participants know various options for storing data as well as their advantages and disadvantages. The options include the following technologies:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>CSV files</p>
+</li>
+<li>
+<p>Column-oriented files</p>
+</li>
+<li>
+<p>Relational and document databases</p>
+</li>
+<li>
+<p>Data warehouses</p>
+</li>
+<li>
+<p>Data lakes</p>
+</li>
+<li>
+<p>Vector databases</p>
+</li>
+<li>
+<p>Graph databases</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-4-6">LG 4-6: Classify data products, data contracts, and responsibilities in data architectures for AI systems and use them to establish robust interfaces between the business domain, data platform, and AI components</h4>
+<div class="paragraph">
+<p>Participants know fundamental concepts of modern data architectures for AI systems and understand the role of data products, data contracts, and business and technical responsibilities in stable and scalable data flows.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_4">4.3. References</h3>
+<div class="paragraph">
+<p><a href="#bhajaria">[Bhajaria 2022]</a>, <a href="#bornstein">[Bornstein et al.]</a>, <a href="#dehghani">[Dehghani]</a>, <a href="#ford">[Ford et al.]</a>, <a href="#gharbi">[Gharbi et al. 2026]</a>, <a href="#jones">[Jones]</a>,
+<a href="#reis">[Reis et al.]</a>, <a href="#sanderson">[Sanderson et al.]</a>, <a href="#sarkis">[Sarkis]</a>, <a href="#serra">[Serra]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_important_quality_features_for_the_operation_of_ai_systems">5. Important quality features for the operation of AI systems</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 160 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 30 min</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_terms_and_concepts_5">5.1. Terms and Concepts</h3>
+<div class="paragraph">
+<p>Quality features, scalability, performance optimization, monitoring, logging, feedback, FinOps for AI platforms</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_5">5.2. Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-5-1">LG 5-1: Know (hardware) requirements for training and inference</h4>
+<div class="paragraph">
+<p>Participants know the different (hardware) requirements for training and inference, for example for TPUs, NPUs, LPUs, GPUs, or CPUs.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-2">LG 5-2: Know the trade-offs of different model architectures with regard to quality characteristics</h4>
+<div class="paragraph">
+<p>Participants can give examples of trade-offs between different model architectures with regard to quality characteristics. Particularly for scaling, efficiency, and memory footprint, participants should know the trade-offs as well as the advantages and disadvantages of important architectures such as RNNs and transformers.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-3">LG 5-3: Adjust different quality features of an ML model</h4>
+<div class="paragraph">
+<p>Participants know ways to balance and trade off different quality characteristics of an ML model, such as accuracy, efficiency, and memory footprint. In particular, they know the following techniques:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Quantization</p>
+</li>
+<li>
+<p>Pruning</p>
+</li>
+<li>
+<p>Distillation</p>
+</li>
+<li>
+<p>LoRA</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-4">LG 5-4: Understand the costs, power consumption, and sustainable use of AI (Green IT)</h4>
+<div class="paragraph">
+<p>Participants gain an understanding of the costs, power consumption, and sustainable use of AI (Green IT). In particular, they know how to develop AI models and systems that operate efficiently by making economical use of memory, compute capacity, and storage space.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-5">LG 5-5: Gain an overview of MLOps for automating the life cycle of a data science project</h4>
+<div class="paragraph">
+<p>Participants know the term MLOps for automating the life cycle of a data science project and its relationship to DevOps.</p>
+</div>
+<div class="paragraph">
+<p>Using a practical example, participants understand what an MLOps pipeline can look like and what insights it provides into parameters, metrics, and other aspects.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-6">LG 5-6: Track model training, parameters, metrics, and results</h4>
+<div class="paragraph">
+<p>Participants understand tracking in model training, including parameters, metrics, and results.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-7">LG 5-7: Distinguish model evaluation, system evaluation, and assessment of business value, and select suitable evaluation approaches for AI systems</h4>
+<div class="paragraph">
+<p>Participants have an overview of approaches for evaluating ML models and the AI systems based on them.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-8">LG 5-8: Know types of drift and possible causes and solutions for them</h4>
+<div class="paragraph">
+<p>Participants are familiar with different types of drift, such as data drift or model drift, as well as possible causes and solutions.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-9">LG 5-9: Gain an overview of CI/CD pipelines, model management, and deployment strategies for AI models</h4>
+<div class="paragraph">
+<p>Participants understand CI/CD pipelines, model management, and deployment strategies for AI models.</p>
+</div>
+<div class="paragraph">
+<p>Participants know a selection of different deployment options for AI models:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>API deployment</p>
+</li>
+<li>
+<p>Embedded deployment</p>
+</li>
+<li>
+<p>Batch prediction</p>
+</li>
+<li>
+<p>Streaming</p>
+</li>
+<li>
+<p>Containerization</p>
+</li>
+<li>
+<p>Serverless deployment</p>
+</li>
+<li>
+<p>Cloud services</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Participants know common platforms and tools for model provision and for creating POCs and understand how they work conceptually.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-10">LG 5-10: State the advantages and disadvantages of SaaS and self-hosting and make make-or-buy decisions based on quality requirements</h4>
+<div class="paragraph">
+<p>Participants know the advantages and disadvantages of SaaS and self-hosting and can weigh them against each other.</p>
+</div>
+<div class="paragraph">
+<p>Participants can make make-or-buy decisions for MLOps and AI platform systems or components based on quality requirements, cost, risk, compliance, and integration effort.</p>
+</div>
+<div class="paragraph">
+<p>Participants have an overview of well-known SaaS AI solutions, such as Azure OpenAI Services.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-11">LG 5-11: Design monitoring and observability for AI systems, particularly for drift, quality degradation, costs, latency, security events, and governance-relevant evidence</h4>
+<div class="paragraph">
+<p>Participants understand the need for monitoring, including with regard to AI-specific requirements such as drift tracking.</p>
+</div>
+<div class="paragraph">
+<p>Participants know relevant metrics such as accuracy, precision, recall, F1 score, MAE, MSE, perplexity, latency, throughput, and resource utilization, and understand why they are relevant for monitoring.</p>
+</div>
+<div class="paragraph">
+<p>Participants know example monitoring tools. These include both general-purpose tools, such as Prometheus and Grafana, and ML-specific tools, such as MLflow.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-12">LG 5-12: Understand user feedback and methods and tools for collecting it</h4>
+<div class="paragraph">
+<p>Participants understand the benefits of user feedback for further model training. They also know various methods and tools for collecting user feedback, such as choosing between multiple answers or flagging in Gradio.</p>
+</div>
+<div class="paragraph">
+<p>Participants know further methods for obtaining user feedback, such as RLHF, RLAIF, and DPO.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-13">LG 5-13: [OPTIONAL] Know classes of MLOps tools and platforms and essential criteria for selecting them</h4>
+<div class="paragraph">
+<p>Participants know well-known MLOps tools and end-to-end platforms, such as:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Domino Data Lab, h2o.ai, DVC, activeloop, aporia, argo, arize, bentoML, comet ML, DagsHub, Databricks MLOps Stacks, Feast, Kedro, Metaflow, MLflow, MLRun, prefect, PrimeHub, Weights &amp; Biases, WhyLabs, zenML, KNIME, RapidMiner, NVIDIA AI Enterprise, watsonx.ai</p>
+</li>
+<li>
+<p>Open source: MLflow, Kubeflow, ClearML</p>
+</li>
+<li>
+<p>PaaS: AWS SageMaker, Azure ML, Google Vertex AI</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_5">5.3. References</h3>
+<div class="paragraph">
+<p><a href="#chen">[Chen et al. 2022]</a>, <a href="#gharbi">[Gharbi et al. 2026]</a>, <a href="#haviv">[Haviv et al. 2023]</a>, <a href="#kumara">[Kumara et al.]</a>, <a href="#osipov">[Osipov 2022]</a>, <a href="#salama">[Salama et al.]</a>,
+<a href="#tanweihao">[Tan Wei Hao et al. 2024]</a>, <a href="#treveil">[Treveil et al. 2020]</a>, <a href="#wilson">[Wilson 2022]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_system_architectures_and_platforms_for_generative_ai_systems">6. System architectures and platforms for generative AI systems</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 160 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 30 min</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_terms_and_concepts_6">6.1. Terms and Concepts</h3>
+<div class="paragraph">
+<p>Generative AI, LLMs, MLflow, Managed MLflow, Azure Machine Learning, Metaflow, Generative AI, LLM, (Stable) Diffusion, Vector DB, Embedding, RNN, Transformer, RAG, Agentic Workflows etc.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_6">6.2. Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-6-1">LG 6-1: Gain an overview of AI integration levels</h4>
+<div class="paragraph">
+<p>Participants are familiar with the various levels of AI integration. These include the following levels:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Applications (e.g., coding assistants)</p>
+</li>
+<li>
+<p>AI engineering (e.g., prompt engineering)</p>
+</li>
+<li>
+<p>ML model development (e.g., PyTorch)</p>
+</li>
+<li>
+<p>ML infrastructure (e.g., vector databases)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Participants know some examples of common libraries, interfaces, and tools for integrating AI models.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-2">LG 6-2: Integrate AI systems into the overall architecture of an IT landscape</h4>
+<div class="paragraph">
+<p>Participants know how to integrate AI systems into IT landscapes at a strategic level. For example, they can use strategic design from DDD, particularly context maps, to determine and document the type and degree of integration of AI systems.</p>
+</div>
+<div class="paragraph">
+<p>Using a case study with a fictional business domain, participants practice and discuss how to weigh integration options for AI in an existing software landscape.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-3">LG 6-3: Develop a fundamental understanding of generative AI and how it works</h4>
+<div class="paragraph">
+<p>Participants have a basic understanding of generative AI, such as LLMs and diffusion models.</p>
+</div>
+<div class="paragraph">
+<p>Participants understand how LLMs work and can classify the associated terminology: token, embedding, RNN, transformer, attention.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-4">LG 6-4: Know architecture patterns for using LLMs and evaluate their limitations, risks, and trade-offs, particularly for RAG, function calling, fine-tuning, assistance systems, and agents</h4>
+<div class="paragraph">
+<p>Participants know established patterns for using LLMs. These include the following patterns:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>RAG and retrieval strategies</p>
+</li>
+<li>
+<p>Function calling</p>
+</li>
+<li>
+<p>Fine-tuning</p>
+</li>
+<li>
+<p>Assistants</p>
+</li>
+<li>
+<p>Agents</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-5">LG 6-5: Know and understand use cases for RAG (Retrieval-Augmented Generation) and selected RAG techniques</h4>
+<div class="paragraph">
+<p>Participants know typical use cases for RAG, such as “Talk to your documents/database/API.”</p>
+</div>
+<div class="paragraph">
+<p>In particular, participants know a selection of common RAG techniques, such as:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Regular RAG, GraphRAG, CAG, agentic RAG, and multi-agent RAG</p>
+</li>
+<li>
+<p>Context enrichment techniques</p>
+</li>
+<li>
+<p>Fusion retrieval</p>
+</li>
+<li>
+<p>Intelligent reranking</p>
+</li>
+<li>
+<p>Query transformations</p>
+</li>
+<li>
+<p>Adaptive retrieval</p>
+</li>
+<li>
+<p>Iterative retrieval</p>
+</li>
+<li>
+<p>Ensemble retrieval</p>
+</li>
+<li>
+<p>Knowledge graph integration</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-6">LG 6-6: Know types of prompt engineering</h4>
+<div class="paragraph">
+<p>Participants know different types of prompt engineering, such as:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Few-shot learning</p>
+</li>
+<li>
+<p>Chain-of-thought</p>
+</li>
+<li>
+<p>Role-playing</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>as well as general best practices for prompting.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-7">LG 6-7: Analyze and architecturally classify agentic workflows with regard to planning, tool use, reflection, state management, control mechanisms, and multi-agent collaboration</h4>
+<div class="paragraph">
+<p>Participants know what agentic workflows are and are familiar with the concepts of reflection, tool use, planning, and multi-agent collaboration.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-8">LG 6-8: Know a selection of design patterns for generative AI systems</h4>
+<div class="paragraph">
+<p>Participants know which design patterns exist for generative AI systems. They know a selection of the following patterns:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>AI Query Router (Simple Router; Ranking-based Router; Learning-based Router)</p>
+</li>
+<li>
+<p>Layered Caching Strategy Leading to Fine-Tuning</p>
+</li>
+<li>
+<p>Multiplexing AI Agents</p>
+</li>
+<li>
+<p>Fine-Tuning LLMs for Multiple Tasks</p>
+</li>
+<li>
+<p>Blending Rules-Based and Generative Approaches</p>
+</li>
+<li>
+<p>Utilizing Knowledge Graphs with LLMs</p>
+</li>
+<li>
+<p>Swarm of Generative AI Agents</p>
+</li>
+<li>
+<p>Modular Monolith LLM Approach with Composability</p>
+</li>
+<li>
+<p>Memory Cognition for LLMs</p>
+</li>
+<li>
+<p>Red and Blue Team Dual-Model Evaluation</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-9">LG 6-9: Select techniques for evaluating LLM applications and apply them to response quality, retrieval quality, hallucinations, safety, costs, and user value</h4>
+<div class="paragraph">
+<p>Participants know several techniques for evaluating LLM applications. These may include the following techniques, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Scoring</p>
+</li>
+<li>
+<p>Human feedback</p>
+</li>
+<li>
+<p>Comparative evaluation</p>
+</li>
+<li>
+<p>Model-based evaluation</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Participants know common evaluation frameworks such as LangSmith or LangFuse for dealing with indeterminacy and errors in AI systems.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-10">LG 6-10: Gain an overview of well-known LLMs and selection criteria</h4>
+<div class="paragraph">
+<p>Participants are familiar with well-known LLMs such as GPT, Claude, Gemini, Llama, Mistral, or Luminous, and with criteria for selecting a suitable LLM.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-11">LG 6-11: Understand the importance of cost management for GenAI applications</h4>
+<div class="paragraph">
+<p>Participants understand the importance of cost management for GenAI applications.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-12">LG 6-12: Know classes of libraries, interfaces, and tools for LLM applications as well as their application contexts and selection criteria</h4>
+<div class="paragraph">
+<p>Participants know some examples of common libraries, interfaces, and tools related to LLM applications, such as the OpenAI API or LangChain.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-13">LG 6-13: [OPTIONAL] Know and evaluate agentic AI architectures, key architecture components, security and governance boundaries, and typical usage patterns and limitations of agent systems</h4>
+<div class="paragraph">
+<p>Participants know agentic AI software architectures, AI agent architecture components, and types of AI agent architectures.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-14">LG 6-14: Architecturally classify and apply agent runtime systems for LLM and agent systems</h4>
+<div class="paragraph">
+<p>Participants understand agent runtime systems as an architectural control and integration layer for probabilistic AI components such as LLMs and agents. They can describe harness approaches using established architecture concepts such as encapsulation, interface control, invariants, operational boundaries, observability, policy enforcement, fault isolation, controlled change, governance, and auditability, and can apply these approaches when designing production-ready AI systems.</p>
+</div>
+<div class="paragraph">
+<p>In particular, they can derive how an agent runtime system:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>limits the autonomy of an AI component through clear interfaces, permitted actions, and operational boundaries,</p>
+</li>
+<li>
+<p>controls inputs, context, tool access, state, and outputs,</p>
+</li>
+<li>
+<p>enforces system invariants and policies,</p>
+</li>
+<li>
+<p>isolates errors and unsafe model outputs,</p>
+</li>
+<li>
+<p>ensures observability, traceability, and auditability,</p>
+</li>
+<li>
+<p>enables controlled changes to prompts, models, retrieval components, and tools,</p>
+</li>
+<li>
+<p>supports the secure operation and safe evolution of AI systems.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_6">6.3. References</h3>
+<div class="paragraph">
+<p><a href="#bahree">[Bahree 2024]</a>, <a href="#bornstein-radovanic">[bornstein-radovanic]</a>, <a href="#dibia">[Dibia 2025]</a>, <a href="#foster">[Foster 2023]</a>, <a href="#gharbi">[Gharbi et al. 2026]</a>,
+<a href="#gradientflow">[Gradient Flow]</a>, <a href="#koc">[Koc]</a>, <a href="#parnin">[Parnin]</a>, <a href="#spirin">[Spirin et al.]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_case_studies_and_practical_projects">7. Case studies and practical projects</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 110 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 110 min</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_learning_goals_7">7.1. Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-7-1">LG 7-1: Use an end-to-end case study or practical project to make, document, and justify architectural decisions for an AI system and evaluate them in terms of quality, compliance, operations, and integration.</h4>
+
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_7">7.2. References</h3>
+<div class="paragraph">
+<p><a href="#gharbi">[Gharbi et al. 2026]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_references_8">References</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>This section contains references that are cited in the curriculum.</p>
+</div>
+<div class="paragraph">
+<p><strong>A</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="agrawal"></a>[Agrawal et al.] A. Agrawal, J. Gans, A. Goldfarb:  Prediction Machines: The Simple Economics of Artificial Intelligence <a href="https://www.predictionmachines.ai/" class="bare">https://www.predictionmachines.ai/</a></p>
+</li>
+<li>
+<p><a id="atlas"></a>[ATLAS] ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems. <a href="https://github.com/mitre/advmlthreatmatrix" class="bare">https://github.com/mitre/advmlthreatmatrix</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>B</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="bahree"></a>[Bahree 2024] Bahree, A.: Generative AI in Action <a href="https://www.manning.com/books/generative-ai-in-action" class="bare">https://www.manning.com/books/generative-ai-in-action</a></p>
+</li>
+<li>
+<p><a id="bhajaria"></a>[Bhajaria 2022] N. Bhajaria: Data Privacy - A runbook for engineers <a href="https://www.manning.com/books/data-privacy" class="bare">https://www.manning.com/books/data-privacy</a></p>
+</li>
+<li>
+<p><a id="bornstein"></a>[Bornstein et al.] M. Bornstein, J. Li, M. Casado: Emerging Architectures for Modern Data Infrastructure <a href="https://a16z.com/emerging-architectures-for-modern-data-infrastructure/" class="bare">https://a16z.com/emerging-architectures-for-modern-data-infrastructure/</a></p>
+</li>
+<li>
+<p><a id="bornstein-radovanic"></a>[bornstein-radovanic] M. Bornstein and R. Radovanovic: Emerging Architectures for LLM Applications <a href="https://a16z.com/emerging-architectures-for-llm-applications/" class="bare">https://a16z.com/emerging-architectures-for-llm-applications/</a></p>
+</li>
+<li>
+<p><a id="brynjolfsson"></a>[Brynjolfsson et al.] Brynjolfsson, E.: The Productivity J-Curve: How Intangibles complement General Purpose Technologies <a href="https://www.nber.org/system/files/working_papers/w25148/w25148.pdf" class="bare">https://www.nber.org/system/files/working_papers/w25148/w25148.pdf</a></p>
+</li>
+<li>
+<p><a id="burkov"></a>[Burkov 2019] Burkov, A.: The Hundred-Page Machine Learning Book <a href="https://themlbook.com/" class="bare">https://themlbook.com/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>C</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="cdteliot"></a>[Cdteliot] AI Agents: Understanding Their Impact and Functions <a href="https://www.perplexity.ai/page/ai-agents-understanding-their-bL1Mg8FeStyUB4o9u3HT5Q" class="bare">https://www.perplexity.ai/page/ai-agents-understanding-their-bL1Mg8FeStyUB4o9u3HT5Q</a></p>
+</li>
+<li>
+<p><a id="chen"></a>[Chen et al. 2022] C. Chen, N. R. Murphy, K. Parisa, D. Sculley, T. Underwood: Reliable Machine Learning <a href="https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/" class="bare">https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/</a></p>
+</li>
+<li>
+<p><a id="chong"></a>[Chong et al.] J. Chong, Y. C. Chang: How to Lead in Data Science <a href="https://www.manning.com/books/how-to-lead-in-data-science" class="bare">https://www.manning.com/books/how-to-lead-in-data-science</a></p>
+</li>
+<li>
+<p><a id="crowe"></a>[Crowe et al. 2024] R. Crowe, H. Hapke, E. Caveness, D. Zhu: Machine Learning Production Systems <a href="https://learning.oreilly.com/library/view/machine-learning-production/9781098156008/" class="bare">https://learning.oreilly.com/library/view/machine-learning-production/9781098156008/</a></p>
+</li>
+<li>
+<p><a id="csiro"></a>[CSIRO et al. 2023] CSIRO, Q. Lu, J. Wittle, X. Xu, L. Xhu: Responsible AI: Best Practices for Creating Trustworthy AI Systems <a href="https://www.oreilly.com/library/view/responsible-ai-best/9780138073947/" class="bare">https://www.oreilly.com/library/view/responsible-ai-best/9780138073947/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>D</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="dehghani"></a>[Dehghani] Z. Dehghani: Data Mesh <a href="https://learning.oreilly.com/library/view/data-mesh/9781492092384/" class="bare">https://learning.oreilly.com/library/view/data-mesh/9781492092384/</a></p>
+</li>
+<li>
+<p><a id="dellacqua"></a>[Dell&#8217;Acqua 2026] Fabrizio Dell&#8217;Acqua et al.: Paper: "Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality" <a href="https://doi.org/10.1287/orsc.2025.21838" class="bare">https://doi.org/10.1287/orsc.2025.21838</a></p>
+</li>
+<li>
+<p><a id="dibia"></a>[Dibia 2025] V. Dibia with C. Wang: Multi-Agent Systems with AutoGen <a href="https://www.manning.com/books/multi-agent-systems-with-autogen" class="bare">https://www.manning.com/books/multi-agent-systems-with-autogen</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>E</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="eu-ai-act"></a>[EU AI Act] EU AI Act <a href="https://artificialintelligenceact.eu/de/ai-act-explorer/" class="bare">https://artificialintelligenceact.eu/de/ai-act-explorer/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>F</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="ford"></a>[Ford et al.] N. Ford, M. Richards, P. Sadalage, Z. Dehghani Software Architecture: The Hard Parts. <a href="https://learning.oreilly.com/library/view/software-architecture-the/9781492086888/" class="bare">https://learning.oreilly.com/library/view/software-architecture-the/9781492086888/</a></p>
+</li>
+<li>
+<p><a id="foster"></a>[Foster 2023] D. Foster: Generative Deep Learning, 2nd Edition <a href="https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/" class="bare">https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>G</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="gharbi"></a>[Gharbi et al. 2026] M. Gharbi, H. Klus, H. Tiemeyer, M. Zhang: Praxiswissen Softwarearchitektur für KI-Systeme: Grundlagen, Konzepte, Techniken und Plattformen. Aus- und Weiterbildung zum Certified Professional for Software Architecture – Advanced Level – Modul SWARC4AI nach iSAQB®-Standard. dpunkt.verlag, 2026.</p>
+</li>
+<li>
+<p><a id="geron"></a>[Géron 2022] Aurélien Géron: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow <a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/" class="bare">https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/</a></p>
+</li>
+<li>
+<p><a id="gradientflow"></a>[Gradient Flow] LLM Routers Unpacked <a href="https://gradientflow.com/llm-routers-unpacked/" class="bare">https://gradientflow.com/llm-routers-unpacked/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>H</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="hall"></a>[Hall et al. 2023] P. Hall, J. Curtis, P. Pandey: Machine Learning for High-Risk Applications <a href="https://www.oreilly.com/library/view/machine-learning-for/9781098102425/" class="bare">https://www.oreilly.com/library/view/machine-learning-for/9781098102425/</a></p>
+</li>
+<li>
+<p><a id="harvard"></a>[Harvard et al. 2024] Harvard Business Review, E. Mollick, D. De Cremer, T. Neeley, P. Sinha: Generative AI: The Insights You Need. (Generative AI Use Cases) <a href="https://learning.oreilly.com/library/view/generative-ai-the/9781647826406/" class="bare">https://learning.oreilly.com/library/view/generative-ai-the/9781647826406/</a></p>
+</li>
+<li>
+<p><a id="haviv"></a>[Haviv et al. 2023] Y. Haviv, N. Gift: Implementing MLOps in the Enterprise <a href="https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/" class="bare">https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/</a></p>
+</li>
+<li>
+<p><a id="heiland"></a>[Heiland et al. 2023] L. Heiland, M. Hauser, J. Bogner: Design Patterns for AI-based Systems: A Multivocal Literature Review and Pattern Repository. 2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN). IEEE, 2023.</p>
+</li>
+<li>
+<p><a id="hotz"></a>[Hotz, Best Practices] N. Hotz: 15 Data Science Documentation Best Practices <a href="https://www.datascience-pm.com/documentation-best-practices/" class="bare">https://www.datascience-pm.com/documentation-best-practices/</a></p>
+</li>
+<li>
+<p><a id="hotz-two"></a>[Hotz, Life Cycle] N. Hotz: What is a Data Science Life Cycle? <a href="https://www.datascience-pm.com/data-science-life-cycle/" class="bare">https://www.datascience-pm.com/data-science-life-cycle/</a></p>
+</li>
+<li>
+<p><a id="hotz-three"></a>[Hotz, TDSP] N. Hotz: What is TDSP <a href="https://www.datascience-pm.com/tdsp/" class="bare">https://www.datascience-pm.com/tdsp/</a></p>
+</li>
+<li>
+<p><a id="huyen"></a>[Huyen 2022] C. Huyen: Designing Machine Learning Systems <a href="https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/" class="bare">https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>J</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="jarmul"></a>[Jarmul 2023] K. Jarmul: Practical Data Privacy <a href="https://www.oreilly.com/library/view/practical-data-privacy/9781098129453/" class="bare">https://www.oreilly.com/library/view/practical-data-privacy/9781098129453/</a></p>
+</li>
+<li>
+<p><a id="jones"></a>[Jones] A. Jones: Driving Data Quality with Data Contracts <a href="https://learning.oreilly.com/library/view/driving-data-quality/9781837635009/" class="bare">https://learning.oreilly.com/library/view/driving-data-quality/9781837635009/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>K</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="kelleher"></a>[Kelleher 2015] John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy: Fundamentals of Machine Learning for Predictive Data Analytics <a href="https://mitpress.mit.edu/9780262029445/fundamentals-of-machine-learning-for-predictive-data-analytics" class="bare">https://mitpress.mit.edu/9780262029445/fundamentals-of-machine-learning-for-predictive-data-analytics</a></p>
+</li>
+<li>
+<p><a id="koc"></a>[Koc] V. Koc: Generative AI Design Patterns: A Comprehensive Guide <a href="https://towardsdatascience.com/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0" class="bare">https://towardsdatascience.com/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0</a></p>
+</li>
+<li>
+<p><a id="kumara"></a>[Kumara et al.] I. Kumara, R., D. Di Nucci, W. J. Van Den Heuvel, D. A. Tamburri: Requirements and Reference Architecture for MLOps:Insights from Industry <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.21397413.v1" class="bare">https://www.techrxiv.org/doi/full/10.36227/techrxiv.21397413.v1</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>L</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="lakshmanan"></a>[Lakshmanan et al.] V. Lakshmanan, S Robinson, M. Munn: Machine Learning Design Patterns <a href="https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/" class="bare">https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>M</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="masood"></a>[Masood et al. 2023] A. Masood, H. Dawe: Responsible AI in the Enterprise <a href="https://www.oreilly.com/library/view/responsible-ai-in/9781803230528/" class="bare">https://www.oreilly.com/library/view/responsible-ai-in/9781803230528/</a></p>
+</li>
+<li>
+<p><a id="mlsoftwarearchitecture"></a>[ML software architecture] ML software architecture <a href="https://appliedaiinitiative.notion.site/ML-software-architecture-790b9f5fcfcf408884287acb82f4d75e" class="bare">https://appliedaiinitiative.notion.site/ML-software-architecture-790b9f5fcfcf408884287acb82f4d75e</a></p>
+</li>
+<li>
+<p><a id="molnar"></a>[Molnar 2024] C. Molnar: Interpretable Machine Learning, 2nd ed. <a href="https://christophm.github.io/interpretable-ml-book/" class="bare">https://christophm.github.io/interpretable-ml-book/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>N</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="nahar"></a>[Nahar et al.] N. Nahar, et al.: A meta-summary of challenges in building products with ml components–collecting experiences from 4758+ practitioners. 2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN). IEEE, 2023.</p>
+</li>
+<li>
+<p><a id="nirdiamant"></a>[NirDiamant] RAG Techniques <a href="https://github.com/NirDiamant/RAG_Techniques" class="bare">https://github.com/NirDiamant/RAG_Techniques</a></p>
+</li>
+<li>
+<p><a id="nist"></a>[Nist] NIST AI Risk Management Framework. <a href="https://www.nist.gov/itl/ai-risk-management-framework" class="bare">https://www.nist.gov/itl/ai-risk-management-framework</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>O</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="osipov"></a>[Osipov 2022] C. Osipov: MLOps Engineering at Scale <a href="https://www.manning.com/books/mlops-engineering-at-scale" class="bare">https://www.manning.com/books/mlops-engineering-at-scale</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>P</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="parnin"></a>[Parnin] Building Your Own Product Copilot: Challenges, Opportunities, and Needs <a href="https://arxiv.org/pdf/2312.14231v1" class="bare">https://arxiv.org/pdf/2312.14231v1</a></p>
+</li>
+<li>
+<p><a id="pruksachatkun"></a>[Pruksachatkun et al. 2023] Y. Pruksachatkun, M. Mcateer, S. Majudmar: Practicing Trustworthy Machine Learning <a href="https://www.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/" class="bare">https://www.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>R</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="reis"></a>[Reis et al.] J. Reis, M. Housley: Fundamentals of Data Engineering <a href="https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/" class="bare">https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/</a></p>
+</li>
+<li>
+<p><a id="roser"></a>[Roser 2022] Roser, Max: Brief History of AI: <a href="https://ourworldindata.org/brief-history-of-ai" class="bare">https://ourworldindata.org/brief-history-of-ai</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>S</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="salama"></a>[Salama et al.] K. Salama, J. Kazmierczak, D. Schut: Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning. <a href="https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf" class="bare">https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf</a></p>
+</li>
+<li>
+<p><a id="saltz"></a>[Saltz] J. Saltz: The GenAI Life Cycle <a href="https://www.datascience-pm.com/the-genai-life-cycle/" class="bare">https://www.datascience-pm.com/the-genai-life-cycle/</a></p>
+</li>
+<li>
+<p><a id="sanderson"></a>[Sanderson et al.] C. Sanderson, M. Freeman: Data Contracts <a href="https://learning.oreilly.com/library/view/data-contracts/9781098157623/" class="bare">https://learning.oreilly.com/library/view/data-contracts/9781098157623/</a></p>
+</li>
+<li>
+<p><a id="sarkis"></a>[Sarkis] A. Sarkis: Training Data for Machine Learning <a href="https://learning.oreilly.com/library/view/training-data-for/9781492094517/" class="bare">https://learning.oreilly.com/library/view/training-data-for/9781492094517/</a></p>
+</li>
+<li>
+<p><a id="savarese"></a>[Savarese] S. Savarese: How AI Agents Will Revolutionize the AI Enterprise <a href="https://www.salesforce.com/blog/how-ai-agents-will-revolutionize-the-ai-enterprise/" class="bare">https://www.salesforce.com/blog/how-ai-agents-will-revolutionize-the-ai-enterprise/</a></p>
+</li>
+<li>
+<p><a id="serban"></a>[Serban] A. Serban, J. Visser: "Adapting software architectures to machine learning challenges." 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). IEEE, 2022.</p>
+</li>
+<li>
+<p><a id="serra"></a>[Serra] J. Serra: Deciphering Data Architectures <a href="https://learning.oreilly.com/library/view/deciphering-data-architectures/9781098150754/" class="bare">https://learning.oreilly.com/library/view/deciphering-data-architectures/9781098150754/</a></p>
+</li>
+<li>
+<p><a id="spirin"></a>[Spirin et al.] N. Spirin, M. Balint: Mastering LLM Techniques: LLMOps <a href="https://developer.nvidia.com/blog/mastering-llm-techniques-llmops/" class="bare">https://developer.nvidia.com/blog/mastering-llm-techniques-llmops/</a></p>
+</li>
+<li>
+<p><a id="studer"></a>[Studer et al.] S. Studer et al.: Towards CRISP-ML(Q): A Machine Learning Process Model with Quality Assurance Methodology <a href="https://arxiv.org/abs/2003.05155" class="bare">https://arxiv.org/abs/2003.05155</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>T</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="tan"></a>[Tan et al.] D. Tan, A. Leung, D. Colls: Effective Machine Learning Teams <a href="https://learning.oreilly.com/library/view/effective-machine-learning/9781098144623/" class="bare">https://learning.oreilly.com/library/view/effective-machine-learning/9781098144623/</a></p>
+</li>
+<li>
+<p><a id="tanweihao"></a>[Tan Wei Hao et al. 2024] B. Tan Wei Hao, S. Padmanabhan, V. Mallya: Design a Machine Learning System (From Scratch) <a href="https://www.manning.com/books/design-a-machine-learning-system-design-from-scratch" class="bare">https://www.manning.com/books/design-a-machine-learning-system-design-from-scratch</a></p>
+</li>
+<li>
+<p><a id="tdcox"></a>[tdcox] MLOps Roadmap 2024 - DRAFT <a href="https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2024/MLOpsRoadmap2024.md" class="bare">https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2024/MLOpsRoadmap2024.md</a></p>
+</li>
+<li>
+<p><a id="treveil"></a>[Treveil et al. 2020] M. Treveil, N. Omont, C. Stenac, K. Lefevre, D. Phan, J. Zentici, A. Lavoillotte, M. Miyazaki, L. Heidmann: Introducing MLOps <a href="https://www.oreilly.com/library/view/introducing-mlops/9781492083283/" class="bare">https://www.oreilly.com/library/view/introducing-mlops/9781492083283/</a></p>
+</li>
+<li>
+<p><a id="tuberlin"></a>[TU Berlin] Architecture of Machine Learning Systems (TU Berlin, SS 2024): <a href="https://mboehm7.github.io/teaching/ss24_amls/index.htm" class="bare">https://mboehm7.github.io/teaching/ss24_amls/index.htm</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>V</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="vaughan"></a>[Vaughan 2020] Vaughan, D.: Analytical Skills for AI and Data Science (AI Use Cases) <a href="https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/" class="bare">https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/</a></p>
+</li>
+<li>
+<p><a id="visenger-one"></a>[Visengeriyeva, JTF] Visengeriyeva, L.: Defining Jagged Technological Frontier:https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA</p>
+</li>
+<li>
+<p><a id="visenger-three"></a>[Visengeriyeva, AI Agents] Visengeriyeva, L.: AI Agents vs. Traditional Models <a href="https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g" class="bare">https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g</a></p>
+</li>
+<li>
+<p><a id="visenger-links"></a>[Visengeriyeva, Ethics] Model Governance, Ethics, Responsible AI (Linksammlung) <a href="https://github.com/visenger/Awesome-ML-Model-Governance" class="bare">https://github.com/visenger/Awesome-ML-Model-Governance</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>W</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="wang"></a>[Wang et al. 2024] C. Wang et al.: Quality Assurance for Artificial Intelligence: A Study of Industrial
+Concerns, Challenges and Best Practices <a href="https://arxiv.org/pdf/2402.16391" class="bare">https://arxiv.org/pdf/2402.16391</a></p>
+</li>
+<li>
+<p><a id="wilson"></a>[Wilson 2022] B. Wilson: Machine Learning Engineering in Action <a href="https://www.manning.com/books/machine-learning-engineering-in-action" class="bare">https://www.manning.com/books/machine-learning-engineering-in-action</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Z</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="zaharia"></a>[Zaharia et al.] M. Zaharia et al.: The Shift from Models to Compound AI Systems <a href="https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/" class="bare">https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+ 2026.1-RC1-EN<br>
+Last updated 2026-08-31 13:54:14 UTC
+</div>
+</div>
+<script src="html-theme/isaqb-theme.js" defer></script>
+</body>
+</html>
