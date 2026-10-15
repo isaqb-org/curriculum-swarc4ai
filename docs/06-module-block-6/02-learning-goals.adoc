@@ -134,13 +134,14 @@ Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architek
 
 Die Teilnehmer:innen verstehen Agenten-Laufzeitsysteme als architektonische Kontroll- und Integrationsschicht für probabilistische KI-Komponenten wie LLMs und Agenten. Sie können Harness-Ansätze mit klassischen Architekturkonzepten wie Kapselung, Schnittstellenkontrolle, Invarianten, Betriebsgrenzen, Observability, Policy Enforcement, Fehlerisolierung, kontrollierter Änderung, Governance und Auditierbarkeit beschreiben und beim Entwurf produktionsfähiger KI-Systeme anwenden.
 Sie können insbesondere ableiten, wie ein Agenten-Laufzeitsystem:
-•	die Autonomie einer KI-Komponente durch klare Schnittstellen, erlaubte Aktionen und Betriebsgrenzen begrenzt,
-•	Eingaben, Kontext, Toolzugriffe, Zustände und Ausgaben kontrolliert,
-•	Systeminvarianten und Policies durchsetzt,
-•	Fehler und unsichere Modelloutputs isoliert,
-•	Beobachtbarkeit, Nachvollziehbarkeit und Auditierbarkeit sicherstellt,
-•	kontrollierte Änderungen an Prompts, Modellen, Retrieval-Komponenten und Tools ermöglicht,
-•	Sicheren Betrieb sowie die sichere Weiterentwicklung von KI-Systemen unterstützt.
+
+* die Autonomie einer KI-Komponente durch klare Schnittstellen, erlaubte Aktionen und Betriebsgrenzen begrenzt,
+* Eingaben, Kontext, Toolzugriffe, Zustände und Ausgaben kontrolliert,
+* Systeminvarianten und Policies durchsetzt,
+* Fehler und unsichere Modelloutputs isoliert,
+* Beobachtbarkeit, Nachvollziehbarkeit und Auditierbarkeit sicherstellt,
+* kontrollierte Änderungen an Prompts, Modellen, Retrieval-Komponenten und Tools ermöglicht,
+* Sicheren Betrieb sowie die sichere Weiterentwicklung von KI-Systemen unterstützt.
 
 // end::DE[]
 
