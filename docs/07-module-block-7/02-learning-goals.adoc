@@ -6,11 +6,16 @@
 [[LZ-7-1]]
 ==== LZ 7-1: Anhand einer durchgehenden Fallstudie oder eines Praxisprojekts Architekturentscheidungen für ein KI-System treffen, dokumentieren, begründen und im Hinblick auf Qualität, Compliance, Betrieb und Integration bewerten.
 
+Die Teilnehmer:innen können anhand einer durchgehenden Fallstudie oder eines Praxisprojekts eigenständig Architekturentscheidungen für ein KI-System treffen, dokumentieren und begründen. Dabei können sie die getroffenen Entscheidungen hinsichtlich relevanter Qualitätsanforderungen, regulatorischer Anforderungen (Compliance), betrieblicher Aspekte und der Integration in bestehende IT-Systeme bewerten.
+
+
 // end::DE[]
 
 // tag::EN[]
 
 [[LG-7-1]]
 ==== LG 7-1: Use an end-to-end case study or practical project to make, document, and justify architectural decisions for an AI system and evaluate them in terms of quality, compliance, operations, and integration.
+
+Participants can independently make, document, and justify architectural decisions for an AI system based on an end-to-end case study or practical project. They can evaluate these decisions with regard to relevant quality requirements, regulatory requirements (compliance), operational aspects, and integration into existing IT systems.
 
 // end::EN[]
