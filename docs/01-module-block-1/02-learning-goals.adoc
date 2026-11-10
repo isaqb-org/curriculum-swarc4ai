@@ -5,7 +5,7 @@
 [[LZ-1-1]]
 ==== LZ 1-1: Künstliche Intelligenz und Machine Learning, Data Science, Deep Learning, Generative KI einordnen können
 
-Die Teilnehmer:innen wissen, wie man Künstliche Intelligenz definiert und wie Machine Learning, Data Science, Deep Learning, Generative KI darin eingeordnet werden.
+Die Teilnehmer:innen können die Begriffe Künstliche Intelligenz, Machine Learning, Data Science, Deep Learning und Generative KI erläutern, voneinander abgrenzen und ihre Zusammenhänge einordnen.
 
 [[LZ-1-2]]
 ==== LZ 1-2: KI-Anwendungsfälle identifizieren, fachlich einordnen, priorisieren und bewerten
@@ -61,7 +61,7 @@ Die Teilnehmer:innen wissen darüber hinaus, wie diese Rollen im Team zusammenar
 
 
 [[LZ-1-6]]
-==== LZ 1-6 [OPTIONAL]: Das Konzept der Productivity J-Curve als Einordnungsrahmen für die Einführung von KI in Organisationen kennen.
+==== LZ 1-6 [OPTIONAL]: Das Konzept der Productivity J-Curve erläutern und seine Bedeutung für die Einführung von KI in Organisationen einordnen
 
 Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung von KI zunächst einen Produktivitätsrückgang verzeichnen können, dem bei der weiteren Entwicklung aber Produktivitätsgewinne folgen können.
 
@@ -73,7 +73,7 @@ Dieses Phänomen hilft zu verstehen, warum Unternehmen bei der Implementierung v
 [[LG-1-1]]
 ==== LG 1-1: Classify artificial intelligence and machine learning, data science, deep learning, and generative AI
 
-Participants know how artificial intelligence is defined and how machine learning, data science, deep learning, and generative AI fit within it.
+Participants can explain the concepts of Artificial Intelligence, Machine Learning, Data Science, Deep Learning, and Generative AI, distinguish between them, and describe how they relate to one another.
 
 [[LG-1-2]]
 ==== LG 1-2: Identify, classify, prioritize, and evaluate AI use cases from a business perspective
@@ -129,7 +129,7 @@ Data Architect, Business Intelligence (BI) Developer, Data Governance Specialist
 Participants also know how these roles can collaborate within a team (team topologies for ML teams).
 
 [[LG-1-6]]
-==== LG 1-6 [OPTIONAL]: Know the concept of the Productivity J-Curve as a framework for introducing AI in organizations
+==== LG 1-6 [OPTIONAL]: Explain the concept of the Productivity J-Curve and its significance for the introduction of AI in organizations
 
 This phenomenon helps explain why organizations may initially experience a decline in productivity when implementing AI, followed by productivity gains as implementation progresses.
 
