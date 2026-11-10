@@ -47,7 +47,7 @@ Insbesondere haben die Teilnehmer:innen ein gutes Verständnis für die Notwendi
 [[LZ-3-3]]
 ==== LZ 3-3: Geeignete Architektur- und Design-Patterns für KI-Systeme auswählen, gegeneinander abwägen und anhand von Qualitätsanforderungen begründen.
 
-Die Teilnehmer:innen wissen, welche Design Patterns für KI-Systeme existieren und wie man passende Patterns auswählt. Das betrifft die folgenden Design Patterns:
+Die Teilnehmer:innen können geeignete Design Patterns für KI-Systeme anhand von Qualitätsanforderungen auswählen, gegeneinander abwägen und ihre Auswahl begründen. Das betrifft die folgenden Design Patterns:
 
 * ML Systems Topology Patterns
 * Pipeline Architecture Patterns
@@ -72,20 +72,20 @@ und wissen, wie man Bewertungskriterien zur Leistungsbeurteilung festlegt.
 [[LZ-3-5]]
 ==== LZ 3-5: KI-Komponenten über geeignete Integrationsmuster, Schnittstellen und Entkopplungsmechanismen in bestehende Systeme und Domänenarchitekturen integrieren.
 
-Die Teilnehmer:innen verstehen, wie ML-Modelle in bestehende Systeme integriert werden können und kennen die Schnittstellen und Integrationspunkte.
+Die Teilnehmer:innen verstehen, wie ML-Modelle in bestehende Systeme integriert werden können, und kennen die entsprechenden Schnittstellen und Integrationspunkte. Sie können geeignete Integrationsmuster, Schnittstellen und Entkopplungsmechanismen anwenden, um KI-Komponenten in bestehende Systeme und Domänenarchitekturen zu integrieren.
 
 [[LZ-3-6]]
 ==== LZ 3-6: Benutzerinteraktionen für KI-Systeme so gestalten, dass Unsicherheit, Erklärbarkeit, Freigaben und Human-in-the-Loop angemessen berücksichtigt werden.
 
-Die Teilnehmer:innen wissen, wie Benutzeroberflächen gestaltet werden sollten, um effektive Interaktionen mit dem ML-System zu ermöglichen und die Benutzererfahrung zu optimieren.
+Die Teilnehmer:innen können Benutzerinteraktionen und Benutzeroberflächen für KI-Systeme so gestalten, dass effektive Interaktionen mit dem ML-System ermöglicht und die Benutzererfahrung optimiert werden. Dabei können sie Konzepte entwickeln, die Unsicherheit, Erklärbarkeit, Freigaben und Human-in-the-Loop angemessen berücksichtigen.
+
 
 [[LZ-3-7]]
 ==== LZ 3-7: Leistung und Skalierbarkeit von KI-Systemen analysieren und gestalten
 
-Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz, Durchsatz und Resourcenauslastung in KI-Systemen für Training sowie Inferenz und verstehen,
-wie diese optimiert werden können.
+Die Teilnehmer:innen verstehen die Bedeutung von Leistungskennzahlen wie Latenz, Durchsatz und Resourcenauslastung in KI-Systemen für Training sowie Inferenz und verstehen, wie diese optimiert werden können.
 
-Sie können Ursachen von Leistungs- und Skalierungsproblemen analysieren und geeignete Maßnahmen auswählen, damit KI-Systeme steigende Datenmengen, Nutzerzahlen und Anfragevolumen verarbeiten können.
+Sie können Ursachen von Leistungs- und Skalierungsproblemen analysieren und geeignete Maßnahmen auswählen, damit KI-Systeme steigende Datenmengen, Nutzerzahlen und Anfragevolumen verarbeiten können. Darauf aufbauend können sie Konzepte zur Leistungsoptimierung und Skalierung von KI-Systemen entwerfen.
 
 [[LZ-3-8]]
 ==== LZ 3-8: Robustheit in KI-Systemen verstehen und Strategien zur Erhöhung der Robustheit anwenden
@@ -101,8 +101,7 @@ Die Teilnehmer:innen verstehen die Konzepte der Zuverlässigkeit und Verfügbark
 [[LZ-3-10]]
 ==== LZ 3-10: Maßnahmen für Reproduzierbarkeit, Auditierbarkeit und Nachvollziehbarkeit von Modellen, Datenständen, Prompts, Konfigurationen und Ergebnissen festlegen.
 
-Die Teilnehmer:innen wissen, wie wichtig es ist, dass KI-Ergebnisse reproduzierbar und prüfbar sind, und wissen, welche Methoden zur Sicherstellung dieser Eigenschaften eingesetzt werden können.
-
+Die Teilnehmer:innen verstehen die Bedeutung reproduzierbarer und prüfbarer KI-Ergebnisse und kennen Methoden zur Sicherstellung dieser Eigenschaften. Sie können geeignete Maßnahmen zur Gewährleistung der Reproduzierbarkeit, Auditierbarkeit und Nachvollziehbarkeit von Modellen, Datenständen, Prompts, Konfigurationen und Ergebnissen anhand konkreter Anforderungen bewerten, auswählen und festlegen.
 
 [[LZ-3-11]]
 ==== LZ 3-11: Erklärbarkeit und Interpretierbarkeit in KI-Systemen einordnen
@@ -111,14 +110,15 @@ Die Teilnehmer:innen verstehen die Bedeutung von Erklärbarkeit und Interpretier
 wie man diese sicherstellen kann, um Vertrauen und Transparenz zu fördern.
 
 [[LZ-3-12]]
-==== LZ 3-12: Fehlertoleranz in KI-Systemen kennen
+==== LZ 3-12: Fehlertoleranz in KI-Systemen erläutern
 
 Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläutern, wie KI-Systeme trotz Fehlern oder Störungen funktionsfähig bleiben.
 
 [[LZ-3-13]]
 ==== LZ 3-13: Architekturentscheidungen für KI-Systeme dokumentieren.
 
-Die Teilnehmer:innen wissen, wie man die Anwendungsfälle bzw. Aufgaben eines ML-Modells definiert und dokumentiert, wie beispielsweise die Klassifikation von Bildern oder die Erkennung von Betrug, insbesondere Trade-offs zu:
+Die Teilnehmer:innen können die Anwendungsfälle bzw. Aufgaben eines ML-Modells definieren und dokumentieren, wie beispielsweise die Klassifikation von Bildern oder die Erkennung von Betrug. Darauf aufbauend können sie Architekturentscheidungen für KI-Systeme unter Berücksichtigung relevanter Trade-offs treffen, begründen und dokumentieren, insbesondere hinsichtlich:
+
 * RAG versus Fine-Tuning
 * SaaS versus Self-Hosting
 * Batch versus Realtime
@@ -174,7 +174,7 @@ In particular, participants have a good understanding of the need for validation
 [[LG-3-3]]
 ==== LG 3-3: Select and compare suitable architecture and design patterns for AI systems and justify the selection based on quality requirements
 
-Participants know which design patterns exist for AI systems and how to select suitable patterns. This includes the following design patterns:
+Participants can select suitable design patterns for AI systems based on quality requirements, weigh them against each other, and justify their selection. This applies to the following design patterns:
 
 * ML systems topology patterns
 * Pipeline architecture patterns
@@ -200,20 +200,21 @@ and know how to define evaluation criteria for performance assessment.
 [[LG-3-5]]
 ==== LG 3-5: Integrate AI components into existing systems and domain architectures using suitable integration patterns, interfaces, and decoupling mechanisms
 
-Participants understand how ML models can be integrated into existing systems and are familiar with the interfaces and integration points.
+Participants understand how ML models can be integrated into existing systems and are familiar with the corresponding interfaces and integration points. They can apply appropriate integration patterns, interfaces, and decoupling mechanisms to integrate AI components into existing systems and domain architectures.
+
 
 [[LG-3-6]]
 ==== LG 3-6: Design user interactions for AI systems that appropriately account for uncertainty, explainability, approvals, and human-in-the-loop
 
-Participants know how user interfaces should be designed to enable effective interactions with the ML system and optimize the user experience.
+Participants can design user interactions and user interfaces for AI systems to enable effective interactions with the ML system and optimize the user experience. In doing so, they can develop concepts that appropriately account for uncertainty, explainability, approvals, and human-in-the-loop.
 
 
 [[LG-3-7]]
 ==== LG 3-7: Analyze and design the performance and scalability of AI systems
 
-Participants understand the importance of performance indicators such as latency, throughput, and resource utilization in AI systems for both training and inference, and understand how these can be optimized.
+Participants understand the importance of performance metrics such as latency, throughput, and resource utilization in AI systems for both training and inference, and understand how these can be optimized.
 
-They can analyze the causes of performance and scalability problems and select suitable measures that enable AI systems to handle growing data volumes, numbers of users, and request volumes.
+They can analyze the causes of performance and scalability issues and select appropriate measures to enable AI systems to handle increasing data volumes, user numbers, and request volumes. Based on this, they can design concepts for performance optimization and scalability of AI systems.
 
 
 [[LG-3-8]]
@@ -231,7 +232,7 @@ Participants understand the concepts of reliability and availability and know ho
 [[LG-3-10]]
 ==== LG 3-10: Specify measures for the reproducibility, auditability, and traceability of models, dataset versions, prompts, configurations, and results
 
-Participants know the importance of AI results being reproducible and auditable and know which methods can be used to ensure these properties.
+Participants understand the importance of reproducible and verifiable AI results and are familiar with methods for ensuring these properties. They can evaluate, select, and determine appropriate measures to ensure the reproducibility, auditability, and traceability of models, data versions, prompts, configurations, and results based on specific requirements.
 
 [[LG-3-11]]
 ==== LG 3-11: Classify explainability and interpretability in AI systems
@@ -240,18 +241,18 @@ Participants understand the importance of explainability and interpretability in
 
 
 [[LG-3-12]]
-==== LG 3-12: Know fault tolerance in AI systems
+==== LG 3-12: Explain fault tolerance in AI systems
 
 Participants are familiar with the concepts of fault tolerance and can explain how AI systems remain functional despite errors or malfunctions.
 
 [[LG-3-13]]
 ==== LG 3-13: Document architectural decisions for AI systems
 
-Participants know how to define and document the use cases or tasks of an ML model, such as image classification or fraud detection, particularly the trade-offs between:
+Participants can define and document the use cases or tasks of an ML model, such as image classification or fraud detection. Based on this, they can make, justify, and document architectural decisions for AI systems while considering relevant trade-offs, particularly regarding:
 
-* RAG versus fine-tuning
-* SaaS versus self-hosting
-* Batch versus real time
-* A centralized versus a domain-specific AI service
+* RAG versus Fine-Tuning
+* SaaS versus Self-Hosting
+* Batch versus Real-Time
+* Centralized versus Domain-Specific AI Services.
 
 // end::EN[]
