@@ -5,7 +5,7 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Daten akquirieren und labeln
 
-Die Teilnehmer:innen überblicken verschiedene Methoden, um Daten zu akquirieren und Daten zu labeln.
+Die Teilnehmer:innen überblicken verschiedene Methoden, um Daten zu akquirieren und Daten zu labeln, und können geeignete Methoden zur Datenakquise und zum Datenlabeling auf konkrete Anwendungsfälle anwenden.
 
 [OPTIONAL]
 Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispielsweise CVAT, Label Studio oder Amazon Mechanical Turk.
@@ -13,14 +13,13 @@ Die Teilnehmer:innen kennen relevante Werkzeuge fürs Daten-Labeln wie beispiels
 [[LZ-4-2]]
 ==== LZ 4-2: Quellen und Eignung öffentlich verfügbarer Datensätze hinsichtlich Qualität, Lizenz, Repräsentativität und Risiken bewerten.
 
-Die Teilnehmer:innen können gängige Plattformen für öffentlich zugängliche Daten nennen.
+Die Teilnehmer:innen können gängige Plattformen für öffentlich zugängliche Daten nennen und die Eignung der dort verfügbaren Datensätze für konkrete Anwendungsfälle anhand von Kriterien wie Qualität, Lizenzbedingungen, Repräsentativität und Risiken bewerten und ihre Bewertung begründen.
 
 
 [[LZ-4-3]]
 ==== LZ 4-3: Datenpipelines und Datenarchitekturen für KI-Systeme so entwerfen, dass Qualität, Nachvollziehbarkeit, Skalierbarkeit, Governance und Wiederverwendbarkeit unterstützt werden.
 
-Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität
-sowie für Speicherlösungen und deren Management. Dazu kennen die Teilnehmer:innen:
+Die Teilnehmer:innen haben ein Verständnis für die Gestaltung effizienter Datenpipelines und -architekturen, die Betrachtung von Datenqualität sowie für Speicherlösungen und deren Management. Sie können darauf aufbauend Datenpipelines und Datenarchitekturen für KI-Systeme entwerfen, die Anforderungen an Qualität, Nachvollziehbarkeit, Skalierbarkeit, Governance und Wiederverwendbarkeit berücksichtigen. Dazu kennen die Teilnehmer:innen:
 
 * Architekturmuster für Data-Engineering-Pipelines und ETL-Prozesse
 * Wie eine effektive Datenverwaltung die Qualität und Sicherheit von Daten in KI-Anwendungen sicherstellt
@@ -50,7 +49,7 @@ Die Teilnehmer:innen kennen verschiedene Möglichkeiten zur Speicherung der Date
 [[LZ-4-6]]
 ==== LZ 4-6: Data Products, Data Contracts und Verantwortlichkeiten in Datenarchitekturen für KI-Systeme einordnen und für robuste Schnittstellen zwischen Fachlichkeit, Datenplattform und KI-Komponenten nutzen.
 
-Die Teilnehmer:innen kennen grundlegende Konzepte moderner Datenarchitekturen für KI-Systeme und verstehen die Rolle von Data Products, Data Contracts sowie fachlicher und technischer Verantwortlichkeiten für stabile und skalierbare Datenflüsse.
+Die Teilnehmer:innen kennen grundlegende Konzepte moderner Datenarchitekturen für KI-Systeme und verstehen die Rolle von Data Products, Data Contracts sowie fachlicher und technischer Verantwortlichkeiten für stabile und skalierbare Datenflüsse. Sie können diese Konzepte auf konkrete Anwendungsfälle übertragen und Data Products, Data Contracts sowie die Zuordnung von Verantwortlichkeiten nutzen, um robuste Schnittstellen zwischen Fachlichkeit, Datenplattform und KI-Komponenten zu gestalten.
 
 
 // end::DE[]
@@ -59,23 +58,23 @@ Die Teilnehmer:innen kennen grundlegende Konzepte moderner Datenarchitekturen f�
 [[LG-4-1]]
 ==== LG 4-1: Acquire and label data
 
-Participants have an overview of various methods for acquiring and labeling data.
+Participants have an overview of various methods for acquiring and labeling data and can apply appropriate data acquisition and labeling methods to specific use cases.
 
 [OPTIONAL]
-Participants know relevant data-labeling tools such as CVAT, Label Studio, or Amazon Mechanical Turk.
+Participants are familiar with relevant data labeling tools such as CVAT, Label Studio, or Amazon Mechanical Turk.
 
 [[LG-4-2]]
 ==== LG 4-2: Evaluate the sources and suitability of publicly available datasets in terms of quality, licensing, representativeness, and risks
 
-Participants can name common platforms for publicly accessible data.
+Participants can name common platforms for publicly accessible data and evaluate the suitability of the datasets available on these platforms for specific use cases based on criteria such as quality, licensing conditions, representativeness, and risks, and justify their evaluation.
 
 [[LG-4-3]]
 ==== LG 4-3: Design data pipelines and data architectures for AI systems that support quality, traceability, scalability, governance, and reusability
 
-Participants understand the design of efficient data pipelines and architectures, the consideration of data quality, and storage solutions and their management. To this end, participants know:
+articipants understand the design of efficient data pipelines and architectures, data quality considerations, and storage solutions and their management. Based on this understanding, they can design data pipelines and data architectures for AI systems that address requirements for quality, traceability, scalability, governance, and reusability. In this context, participants are familiar with:
 
-* Architecture patterns for data engineering pipelines and ETL processes
-* How effective data management ensures the quality and security of data in AI applications
+* Architectural patterns for data engineering pipelines and ETL processes
+* How effective data management ensures data quality and security in AI applications
 
 [OPTIONAL]
 Participants have an overview of relevant tools for data engineering pipelines, such as Apache Spark and Flink.
@@ -101,7 +100,7 @@ Participants know various options for storing data as well as their advantages a
 [[LG-4-6]]
 ==== LG 4-6: Classify data products, data contracts, and responsibilities in data architectures for AI systems and use them to establish robust interfaces between the business domain, data platform, and AI components
 
-Participants know fundamental concepts of modern data architectures for AI systems and understand the role of data products, data contracts, and business and technical responsibilities in stable and scalable data flows.
+Participants are familiar with the fundamental concepts of modern data architectures for AI systems and understand the role of data products, data contracts, and business and technical responsibilities in ensuring stable and scalable data flows. They can apply these concepts to specific use cases and use data products, data contracts, and the assignment of responsibilities to design robust interfaces between business domains, data platforms, and AI components.
 
 
 // end::EN[]
