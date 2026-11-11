@@ -17,8 +17,7 @@ Die Teilnehmer:innen können beispielhaft Trade-Offs verschiedener Modellarchite
 [[LZ-5-3]]
 ==== LZ 5-3: Verschiedene Qualitätsmerkmale eines ML-Modells abstimmen
 
-Die Teilnehmer:innen kennen Möglichkeiten, um verschiedene Qualitätsmerkmale wie Genauigkeit, Effizienz und Speicherlast eines ML-Modells abzustimmen und gegeneinander
-einzutauschen. Insbesondere kennen die Teilnehmer:innen die folgenden Techniken:
+Die Teilnehmer:innen kennen Möglichkeiten, um verschiedene Qualitätsmerkmale wie Genauigkeit, Effizienz und Speicherlast eines ML-Modells abzustimmen und gegeneinander einzutauschen. Sie können geeignete Techniken anwenden, um diese Qualitätsmerkmale anhand konkreter Anforderungen gegeneinander abzuwägen und abzustimmen. Insbesondere können die Teilnehmer:innen die folgenden Techniken situationsgerecht einsetzen:
 
 * Quantisierung
 * Pruning
@@ -41,12 +40,12 @@ Die Teilnehmer:innen verstehen anhand eines Praxisbeispiels, wie eine MLOps-Pipe
 [[LZ-5-6]]
 ==== LZ 5-6: Modelltraining, Parameter, Metriken und Ergebnisse tracken
 
-Die Teilnehmer:innen haben ein Verständnis vom Tracking im Modelltraining, Parametern, Metriken und Ergebnissen.
+Die Teilnehmer:innen haben ein Verständnis vom Tracking im Modelltraining, Parametern, Metriken und Ergebnissen. Sie können geeignete Tracking-Methoden anwenden, um Trainingsläufe, Parameter, Metriken und Ergebnisse systematisch zu erfassen und nachzuverfolgen.
 
 [[LZ-5-7]]
 ==== LZ 5-7: Modellevaluation, Systemevaluation und fachliche Nutzenbewertung unterscheiden und geeignete Evaluationsansätze für KI-Systeme auswählen.
 
-Die Teilnehmer:innen überblicken Ansätze zur Evaluation von ML-Modellen und darauf aufbauenden KI-Systemen.
+Die Teilnehmer:innen überblicken Ansätze zur Evaluation von ML-Modellen und darauf aufbauenden KI-Systemen. Sie können zwischen Modellevaluation, Systemevaluation und fachlicher Nutzenbewertung unterscheiden, geeignete Evaluationsansätze für konkrete KI-Systeme anhand relevanter Anforderungen und Qualitätskriterien bewerten, auswählen und ihre Auswahl begründen.
 
 [[LZ-5-8]]
 ==== LZ 5-8: Arten von Drift sowie mögliche Ursachen und Lösungsansätze dafür kennen
@@ -85,12 +84,12 @@ Die Teilnehmer:innen überblicken bekannte SaaS-KI-Lösungen, wie beispielsweise
 [[LZ-5-11]]
 ==== LZ 5-11: Monitoring und Observability für KI-Systeme konzipieren, insbesondere für Drift, Qualitätsverlust, Kosten, Latenz, Sicherheitsereignisse und Governance-relevante Nachweise.
 
-Die Teilnehmer:innen verstehen die Notwendigkeit für Monitoring, auch im Hinblick auf KI-spezifische Anforderungen wie das Tracking von Drift.
+Die Teilnehmer:innen verstehen die Notwendigkeit für Monitoring, auch im Hinblick auf KI-spezifische Anforderungen wie das Tracking von Drift. Sie können darauf aufbauend Monitoring- und Observability-Konzepte für KI-Systeme entwerfen, die insbesondere Drift, Qualitätsverlust, Kosten, Latenz, Sicherheitsereignisse und Governance-relevante Nachweise berücksichtigen.
 
 Die Teilnehmer:innen kennen relevante Metriken wie beispielsweise Accuracy, Precision, Recall, F1-Score, MAE, MSE, Perplexity, Latenz, Durchsatz und Ressourcenauslastung und verstehen, warum diese für das Monitoring relevant sind.
 
-Die Teilnehmer:innen kennen Beispiel-Werkzeuge für Monitoring. Dies betrifft sowohl allgemeine Werkzeuge, wie beispielsweise Prometheus & Grafana,
-als auch ML-spezifische wie beispielsweise MLflow.
+Die Teilnehmer:innen kennen Beispiel-Werkzeuge für Monitoring. Dies betrifft sowohl allgemeine Werkzeuge, wie beispielsweise Prometheus & Grafana, als auch ML-spezifische wie beispielsweise MLflow.
+
 
 [[LZ-5-12]]
 ==== LZ 5-12: Nutzer-Feedback sowie Methoden und Werkzeuge zur Sammlung von Nutzer-Feedback verstehen
@@ -131,13 +130,12 @@ Participants can give examples of trade-offs between different model architectur
 [[LG-5-3]]
 ==== LG 5-3: Adjust different quality features of an ML model
 
-Participants know ways to balance and trade off different quality characteristics of an ML model, such as accuracy, efficiency, and memory footprint. In particular, they know the following techniques:
+Participants are familiar with approaches for balancing and trading off different quality attributes of an ML model, such as accuracy, efficiency, and memory usage. They can apply appropriate techniques to balance these quality attributes based on specific requirements and trade-offs. In particular, participants can use the following techniques as appropriate for the situation:
 
 * Quantization
 * Pruning
 * Distillation
 * LoRA
-
 
 
 [[LG-5-4]]
@@ -158,13 +156,13 @@ Using a practical example, participants understand what an MLOps pipeline can lo
 [[LG-5-6]]
 ==== LG 5-6: Track model training, parameters, metrics, and results
 
-Participants understand tracking in model training, including parameters, metrics, and results.
+Participants understand the tracking of model training, parameters, metrics, and results. They can apply appropriate tracking methods to systematically record and monitor training runs, parameters, metrics, and results.
 
 
 [[LG-5-7]]
 ==== LG 5-7: Distinguish model evaluation, system evaluation, and assessment of business value, and select suitable evaluation approaches for AI systems
 
-Participants have an overview of approaches for evaluating ML models and the AI systems based on them.
+Participants have an overview of approaches for evaluating ML models and AI systems built upon them. They can distinguish between model evaluation, system evaluation, and business value assessment, evaluate and select appropriate evaluation approaches for specific AI systems based on relevant requirements and quality criteria, and justify their selection.
 
 
 [[LG-5-8]]
@@ -206,11 +204,12 @@ Participants have an overview of well-known SaaS AI solutions, such as Azure Ope
 [[LG-5-11]]
 ==== LG 5-11: Design monitoring and observability for AI systems, particularly for drift, quality degradation, costs, latency, security events, and governance-relevant evidence
 
-Participants understand the need for monitoring, including with regard to AI-specific requirements such as drift tracking.
+Participants understand the need for monitoring, including AI-specific requirements such as drift tracking. Based on this understanding, they can design monitoring and observability concepts for AI systems that specifically address drift, quality degradation, costs, latency, security events, and governance-related evidence.
 
-Participants know relevant metrics such as accuracy, precision, recall, F1 score, MAE, MSE, perplexity, latency, throughput, and resource utilization, and understand why they are relevant for monitoring.
+Participants are familiar with relevant metrics such as accuracy, precision, recall, F1-score, MAE, MSE, perplexity, latency, throughput, and resource utilization, and understand why these are relevant for monitoring.
 
-Participants know example monitoring tools. These include both general-purpose tools, such as Prometheus and Grafana, and ML-specific tools, such as MLflow.
+Participants are familiar with examples of monitoring tools. These include general-purpose tools such as Prometheus & Grafana, as well as ML-specific tools such as MLflow.
+
 
 
 [[LG-5-12]]

@@ -5,7 +5,7 @@
 [[LZ-6-1]]
 ==== LZ 6-1: Integrationsebenen von KI überblicken
 
-Die Teilnehmer:innen kennen verschiedene Integrationsebenen von KI. Dazu gehören die folgenden Ebenen:
+Die Teilnehmer:innen können verschiedene Integrationsebenen von KI unterscheiden und ihre jeweiligen Funktionen und Einsatzbereiche erläutern. Dazu gehören die folgenden Ebenen:
 
 * Anwendungen (z.{nbsp}B. Coding Assistenten)
 * AI-Engineering (z.{nbsp}B. Prompt Engineering)
@@ -17,12 +17,10 @@ Die Teilnehmer:innen kennen einige Beispiele von verbreiteten Bibliotheken, Schn
 [[LZ-6-2]]
 ==== LZ 6-2: KI-Systeme in die Gesamtarchitektur einer IT-Landschaft integrieren
 
-Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielsweise
-können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen,
-um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
+Die Teilnehmer:innen kennen Möglichkeiten, KI-Systeme in IT-Landschaften auf strategischer Ebene zu integrieren. Beispielsweise können sie das strategische Design von DDD (insbesondere Context Maps) einsetzen, um die Art und den Grad der Integration von KI-Systemen zu bestimmen und zu dokumentieren.
 
 [OPTIONAL]
-Die Teilnehmer:innen üben und diskutieren anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, Integrationsoptionen für KI in eine bestehende Software-Landschaft abzuwägen.
+Die Teilnehmer:innen üben anhand eines Fallbeispiels mit einer ausgedachten Fachlichkeit, geeignete Integrationsmöglichkeiten für KI in einer bestehenden Software-Landschaft anzuwenden, und diskutieren die Umsetzung.
 
 
 [[LZ-6-3]]
@@ -36,7 +34,7 @@ Die Teilnehmer:innen verstehen die Funktionsweise von LLMs und können die zugeh
 [[LZ-6-4]]
 ==== LZ 6-4: Architekturmuster für den Einsatz von LLMs kennen und deren Einsatzgrenzen, Risiken und Trade-offs bewerten, insbesondere bei RAG, Function Calling, Fine-Tuning, Assistenzsystemen und Agenten.
 
-Die Teilnehmer:innen kennen bekannte Patterns bei der Nutzung von LLMs. Dies umfasst die folgenden Patterns:
+Die Teilnehmer:innen kennen bekannte Patterns bei der Nutzung von LLMs und können deren Einsatzgrenzen, Risiken und Trade-offs anhand konkreter Anforderungen und Anwendungsszenarien bewerten. Dies umfasst die folgenden Patterns:
 
 * RAG und Retrieval-Strategien
 * Function Calling
@@ -47,9 +45,9 @@ Die Teilnehmer:innen kennen bekannte Patterns bei der Nutzung von LLMs. Dies umf
 [[LZ-6-5]]
 ==== LZ 6-5: Use-Cases für RAG (Retrieval-Augmented Generation) sowie ausgewählte RAG-Techniken kennen und verstehen
 
-Die Teilnehmer:innen kennen typische Use-Cases für RAG wie beispielsweise „Talk to your documents/database/API“.
+Die Teilnehmer:innen können typische Use-Cases für RAG wie beispielsweise „Talk to your documents/database/API“ erläutern.
 
-Insbesondere kennen die Teilnehmer:innen kennen eine Auswahl der gängigen RAG-Techniken wie beispielsweise:
+Insbesondere können die Teilnehmer:innen die grundlegende Funktionsweise einer Auswahl gängiger RAG-Techniken erklären und diese voneinander unterscheiden, beispielsweise:
 
 * Reguläres RAG, GraphRAG, CAG, Agentic RAG and Multi-Agent RAG
 * Context Enrichment Techniques
@@ -76,7 +74,8 @@ sowie allgemeine Best Practices für das Prompting.
 [[LZ-6-7]]
 ==== LZ 6-7: Agentic Workflows hinsichtlich Planung, Werkzeugnutzung, Reflexion, Zustandsmanagement, Kontrollmechanismen und Multi-Agenten-Kollaboration analysieren und architektonisch einordnen.
 
-Die Teilnehmer:innen wissen, was Agentic Workflows sind und kennen die Begriffe Reflexion, Werkzeugnutzung, Planung und Multi-Agenten-Kollaboration.
+Die Teilnehmer:innen wissen, was Agentic Workflows sind, und kennen die Begriffe Reflexion, Werkzeugnutzung, Planung und Multi-Agenten-Kollaboration. Sie können Agentic Workflows hinsichtlich Planung, Werkzeugnutzung, Reflexion, Zustandsmanagement, Kontrollmechanismen und Multi-Agenten-Kollaboration analysieren, die Zusammenhänge dieser Komponenten untersuchen und deren Bedeutung für die Architektur von KI-Systemen einordnen.
+
 
 [[LZ-6-8]]
 ==== LZ 6-8: Eine Auswahl von Design Patterns für Generative KI-Systeme kennen
@@ -97,7 +96,7 @@ Die Teilnehmer:innen wissen welche Design Patterns für Generative KI-Systeme ex
 [[LZ-6-9]]
 ==== LZ 6-9: Techniken zur Evaluation von LLM-Anwendungen auswählen und auf Antwortqualität, Retrieval-Qualität, Halluzinationen, Sicherheit, Kosten und Nutzermehrwert anwenden.
 
-Die Teilnehmer:innen kennen mehrere Techniken zur Evaluation von LLM-Anwendungen. Dies können beispielsweise die folgenden Techniken sein:
+Die Teilnehmer:innen kennen mehrere Techniken zur Evaluation von LLM-Anwendungen. Sie können diese hinsichtlich ihrer Eignung für konkrete Evaluationsziele bewerten, geeignete Techniken auswählen und zur Beurteilung von Antwortqualität, Retrieval-Qualität, Halluzinationen, Sicherheit, Kosten und Nutzermehrwert anwenden. Dies können beispielsweise die folgenden Techniken sein:
 
 * Scoring
 * Human Feedback
@@ -110,7 +109,7 @@ Die Teilnehmer:innen kennen gängige Evaluations-Frameworks wie beispielsweise L
 [[LZ-6-10]]
 ==== LZ 6-10: Bekannte LLMs und Auswahlkriterien überblicken
 
-Die Teilnehmer:innen kennen bekannte LLMs wie beispielsweise GPT, Claude, Gemini, Llama, Mistral oder Luminous, und Auswahlkriterien für ein geeignetes LLM.
+Die Teilnehmer:innen kennen bekannte LLMs wie beispielsweise GPT, Claude, Gemini, Llama, Mistral oder Luminous und können deren wesentliche Unterschiede sowie relevante Auswahlkriterien für ein geeignetes LLM erläutern.
 
 
 [[LZ-6-11]]
@@ -127,20 +126,22 @@ mit LLM-Anwendungen wie beispielsweise OpenAI-API oder LangChain.
 [[LZ-6-13]]
 ==== LZ 6-13: [OPTIONAL] Agentic-AI-Architekturen, zentrale Architekturkomponenten, Sicherheits- und Governance-Grenzen sowie typische Einsatzmuster und Grenzen von Agentensystemen kennen und bewerten.
 
-Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten, Typen von AI Agentarchitekturen.
+Die Teilnehmer:innen kennen Agentic AI Software Architekturen, AI Agent Architekturkomponenten und Typen von AI Agentarchitekturen. Sie können unterschiedliche Agentic-AI-Architekturen hinsichtlich ihrer zentralen Architekturkomponenten, typischen Einsatzmuster, Einsatzgrenzen sowie Sicherheits- und Governance-Anforderungen bewerten und ihre Einschätzung anhand konkreter Anwendungsszenarien begründen.
+
 
 [[LZ-6-14]]
 ==== LZ 6-14: Agenten-Laufzeitsysteme für LLM- und Agentensysteme architektonisch einordnen und anwenden
 
 Die Teilnehmer:innen verstehen Agenten-Laufzeitsysteme als architektonische Kontroll- und Integrationsschicht für probabilistische KI-Komponenten wie LLMs und Agenten. Sie können Harness-Ansätze mit klassischen Architekturkonzepten wie Kapselung, Schnittstellenkontrolle, Invarianten, Betriebsgrenzen, Observability, Policy Enforcement, Fehlerisolierung, kontrollierter Änderung, Governance und Auditierbarkeit beschreiben und beim Entwurf produktionsfähiger KI-Systeme anwenden.
 Sie können insbesondere ableiten, wie ein Agenten-Laufzeitsystem:
-•	die Autonomie einer KI-Komponente durch klare Schnittstellen, erlaubte Aktionen und Betriebsgrenzen begrenzt,
-•	Eingaben, Kontext, Toolzugriffe, Zustände und Ausgaben kontrolliert,
-•	Systeminvarianten und Policies durchsetzt,
-•	Fehler und unsichere Modelloutputs isoliert,
-•	Beobachtbarkeit, Nachvollziehbarkeit und Auditierbarkeit sicherstellt,
-•	kontrollierte Änderungen an Prompts, Modellen, Retrieval-Komponenten und Tools ermöglicht,
-•	Sicheren Betrieb sowie die sichere Weiterentwicklung von KI-Systemen unterstützt.
+
+* die Autonomie einer KI-Komponente durch klare Schnittstellen, erlaubte Aktionen und Betriebsgrenzen begrenzt,
+* Eingaben, Kontext, Toolzugriffe, Zustände und Ausgaben kontrolliert,
+* Systeminvarianten und Policies durchsetzt,
+* Fehler und unsichere Modelloutputs isoliert,
+* Beobachtbarkeit, Nachvollziehbarkeit und Auditierbarkeit sicherstellt,
+* kontrollierte Änderungen an Prompts, Modellen, Retrieval-Komponenten und Tools ermöglicht,
+* Sicheren Betrieb sowie die sichere Weiterentwicklung von KI-Systemen unterstützt.
 
 // end::DE[]
 
@@ -149,23 +150,24 @@ Sie können insbesondere ableiten, wie ein Agenten-Laufzeitsystem:
 [[LG-6-1]]
 ==== LG 6-1: Gain an overview of AI integration levels
 
-Participants are familiar with the various levels of AI integration. These include the following levels:
+Participants can distinguish between different levels of AI integration and explain their respective functions and areas of application. These include the following levels:
 
-* Applications (e.g., coding assistants)
-* AI engineering (e.g., prompt engineering)
-* ML model development (e.g., PyTorch)
-* ML infrastructure (e.g., vector databases)
+* Applications (e.g. coding assistants)
+* AI Engineering (e.g. prompt engineering)
+* ML Model Development (e.g. PyTorch)
+* ML Infrastructure (e.g. vector databases).
 
-Participants know some examples of common libraries, interfaces, and tools for integrating AI models.
+Participants are familiar with some examples of commonly used libraries, interfaces, and tools for integrating AI models.
 
 
 [[LG-6-2]]
 ==== LG 6-2: Integrate AI systems into the overall architecture of an IT landscape
 
-Participants know how to integrate AI systems into IT landscapes at a strategic level. For example, they can use strategic design from DDD, particularly context maps, to determine and document the type and degree of integration of AI systems.
+Participants are familiar with approaches for integrating AI systems into IT landscapes at a strategic level. For example, they can use strategic design from DDD (particularly Context Maps) to determine and document the type and degree of integration of AI systems.
 
 [OPTIONAL]
-Using a case study with a fictional business domain, participants practice and discuss how to weigh integration options for AI in an existing software landscape.
+Participants practice applying suitable AI integration approaches to an existing software landscape using a case study with a fictional business domain and discuss their implementation.
+
 
 [[LG-6-3]]
 ==== LG 6-3: Develop a fundamental understanding of generative AI and how it works
@@ -177,7 +179,7 @@ Participants understand how LLMs work and can classify the associated terminolog
 [[LG-6-4]]
 ==== LG 6-4: Know architecture patterns for using LLMs and evaluate their limitations, risks, and trade-offs, particularly for RAG, function calling, fine-tuning, assistance systems, and agents
 
-Participants know established patterns for using LLMs. These include the following patterns:
+Participants are familiar with common patterns for using LLMs and can evaluate their limitations, risks, and trade-offs based on specific requirements and application scenarios. This includes the following patterns:
 
 * RAG and retrieval strategies
 * Function calling
@@ -188,9 +190,9 @@ Participants know established patterns for using LLMs. These include the followi
 [[LG-6-5]]
 ==== LG 6-5: Know and understand use cases for RAG (Retrieval-Augmented Generation) and selected RAG techniques
 
-Participants know typical use cases for RAG, such as “Talk to your documents/database/API.”
+Participants can explain typical use cases for RAG, such as "Talk to your documents/database/API".
 
-In particular, participants know a selection of common RAG techniques, such as:
+In particular, participants can explain the basic functionality of a selection of common RAG techniques and distinguish between them, for example:
 
 * Regular RAG, GraphRAG, CAG, agentic RAG, and multi-agent RAG
 * Context enrichment techniques
@@ -218,7 +220,8 @@ as well as general best practices for prompting.
 [[LG-6-7]]
 ==== LG 6-7: Analyze and architecturally classify agentic workflows with regard to planning, tool use, reflection, state management, control mechanisms, and multi-agent collaboration
 
-Participants know what agentic workflows are and are familiar with the concepts of reflection, tool use, planning, and multi-agent collaboration.
+Participants understand what agentic workflows are and are familiar with the concepts of reflection, tool use, planning, and multi-agent collaboration. They can analyze agentic workflows with regard to planning, tool use, reflection, state management, control mechanisms, and multi-agent collaboration, examine the relationships between these components, and assess their implications for the architecture of AI systems.
+
 
 [[LG-6-8]]
 ==== LG 6-8: Know a selection of design patterns for generative AI systems
@@ -240,7 +243,7 @@ Participants know which design patterns exist for generative AI systems. They kn
 [[LG-6-9]]
 ==== LG 6-9: Select techniques for evaluating LLM applications and apply them to response quality, retrieval quality, hallucinations, safety, costs, and user value
 
-Participants know several techniques for evaluating LLM applications. These may include the following techniques, for example:
+Participants are familiar with several techniques for evaluating LLM applications. They can evaluate their suitability for specific evaluation objectives, select appropriate techniques, and apply them to assess response quality, retrieval quality, hallucinations, security, costs, and user value. These may include the following techniques:
 
 * Scoring
 * Human feedback
@@ -253,7 +256,7 @@ Participants know common evaluation frameworks such as LangSmith or LangFuse for
 [[LG-6-10]]
 ==== LG 6-10: Gain an overview of well-known LLMs and selection criteria
 
-Participants are familiar with well-known LLMs such as GPT, Claude, Gemini, Llama, Mistral, or Luminous, and with criteria for selecting a suitable LLM.
+Participants are familiar with common LLMs such as GPT, Claude, Gemini, Llama, Mistral, or Luminous and can explain their key differences as well as relevant criteria for selecting a suitable LLM.
 
 [[LG-6-11]]
 ==== LG 6-11: Understand the importance of cost management for GenAI applications
@@ -268,7 +271,8 @@ Participants know some examples of common libraries, interfaces, and tools relat
 [[LG-6-13]]
 ==== LG 6-13: [OPTIONAL] Know and evaluate agentic AI architectures, key architecture components, security and governance boundaries, and typical usage patterns and limitations of agent systems
 
-Participants know agentic AI software architectures, AI agent architecture components, and types of AI agent architectures.
+Participants are familiar with agentic AI software architectures, AI agent architectural components, and types of AI agent architectures. They can evaluate different agentic AI architectures in terms of their key architectural components, typical usage patterns, limitations, and security and governance requirements, and justify their assessment based on specific application scenarios.
+
 
 [[LG-6-14]]
 ==== LG 6-14: Architecturally classify and apply agent runtime systems for LLM and agent systems
