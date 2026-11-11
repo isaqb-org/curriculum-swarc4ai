@@ -118,7 +118,7 @@ Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläute
 [[LZ-3-13]]
 ==== LZ 3-13: Architekturentscheidungen für KI-Systeme dokumentieren.
 
-Die Teilnehmer:innen wissen, wie man die Anwendungsfälle bzw. Aufgaben eines ML-Modells definiert und dokumentiert, wie beispielsweise die Klassifikation von Bildern oder die Erkennung von Betrug, insbesondere Trade-offs zu:
+Die Teilnehmer:innen wissen, wie man Architekturentscheidungen für KI-Systeme dokumentiert und begründet, beispielsweise mit Architecture Decision Records. Dazu gehören insbesondere Entscheidungen und Trade-offs zwischen:
 * RAG versus Fine-Tuning
 * SaaS versus Self-Hosting
 * Batch versus Realtime
@@ -247,7 +247,7 @@ Participants are familiar with the concepts of fault tolerance and can explain h
 [[LG-3-13]]
 ==== LG 3-13: Document architectural decisions for AI systems
 
-Participants know how to define and document the use cases or tasks of an ML model, such as image classification or fraud detection, particularly the trade-offs between:
+Participants know how to document and justify architectural decisions for AI systems, for example using Architecture Decision Records. This includes in particular decisions and trade-offs between:
 
 * RAG versus fine-tuning
 * SaaS versus self-hosting
