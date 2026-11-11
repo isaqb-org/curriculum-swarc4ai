@@ -20,6 +20,7 @@ Typische Anwendungsfälle umfassen beispielsweise Bilderkennung und Bildgenerier
 Die Teilnehmer:innen können Stärken und Grenzen von KI-Technologien in unterschiedlichen Anwendungskontexten einordnen und erklären, warum die Eignung von KI stark von der jeweiligen Aufgabe abhängt.
 
 Sie können typische technische und gesellschaftliche Risiken identifizieren, beispielsweise
+
 * Halluzinationen,
 * Bias,
 * Unfairness

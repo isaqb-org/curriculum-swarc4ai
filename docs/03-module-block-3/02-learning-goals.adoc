@@ -119,6 +119,7 @@ Die Teilnehmer:innen kennen die Konzepte der Fehlertoleranz und können erläute
 ==== LZ 3-13: Architekturentscheidungen für KI-Systeme dokumentieren.
 
 Die Teilnehmer:innen wissen, wie man die Anwendungsfälle bzw. Aufgaben eines ML-Modells definiert und dokumentiert, wie beispielsweise die Klassifikation von Bildern oder die Erkennung von Betrug, insbesondere Trade-offs zu:
+
 * RAG versus Fine-Tuning
 * SaaS versus Self-Hosting
 * Batch versus Realtime
