@@ -11,8 +11,7 @@ Die Teilnehmer:innen kennen die Datenschutzgesetze wie die DSGVO und wissen, wie
 [[LZ-2-2]]
 ==== LZ 2-2: Die Anforderungen des EU AI Act analysieren und daraus architekturrelevante Maßnahmen für Datenflüsse, Logging, technische Dokumentation, Human Oversight, Robustheit und Deployment ableiten.
 
-Die Teilnehmer:innen verstehen die Ziele und Regelungen des EU AI Act und wissen welchen Einfluss dies auf die Entwicklung und den Einsatz von KI-Systemen hat. Außerdem verstehen sie die Anforderungen des EU AI Act (Trustworthy AI) und welchen Einfluss diese Anforderungen auf den Entwicklungsprozess und die Architektur
-des Softwaresystems haben. Insbesondere kennen sie den Einfluss auf einige der folgenden Aspekte:
+Die Teilnehmer:innen können die Ziele und Regelungen des EU AI Act erläutern und deren Einfluss auf die Entwicklung und den Einsatz von KI-Systemen analysieren. Außerdem können sie die Anforderungen des EU AI Act (Trustworthy AI) hinsichtlich ihrer Auswirkungen auf den Entwicklungsprozess und die Architektur des Softwaresystems analysieren und daraus architekturrelevante Maßnahmen ableiten. Insbesondere können sie die Auswirkungen auf einige der folgenden Aspekte analysieren und entsprechende Maßnahmen ableiten:
 
 * Risikomanagementsystem (Risikominimierung)
 * Datenqualität und Daten-Governance (Qualitätsmanagementsystem)
@@ -27,8 +26,7 @@ des Softwaresystems haben. Insbesondere kennen sie den Einfluss auf einige der f
 [[LZ-2-3]]
 ==== LZ 2-3: Klassifikation von KI-Systemen nach EU AI Act Risikolevel durchführen
 
-Die Teilnehmer:innen kennen die Klassifikation von KI-Systemen nach den EU AI Act Risikolevel (verboten, hochrisikoreich, begrenzt risikoreich, niedrig risikoreich) und wissen,
- welche regulatorischen Anforderungen jeweils gelten.
+Die Teilnehmer:innen können KI-Systeme anhand konkreter Anwendungsfälle den Risikoleveln des EU AI Act (verboten, hochrisikoreich, begrenzt risikoreich, niedrig risikoreich) zuordnen und die jeweils geltenden regulatorischen Anforderungen bestimmen.
 
 
 [[LZ-2-4]]
@@ -40,7 +38,7 @@ Sie können unterschiedliche Grade der Offenheit von ML-Modellen, beispielsweise
 
 
 [[LZ-2-5]]
-==== LZ 2-5: Strategien zur Einhaltung regulatorischer Anforderungen definieren und geeignete Nachweis- und Dokumentationsartefakte für Modelle, Datensätze und Betriebsprozesse festlegen.
+==== LZ 2-5: Strategien zur Einhaltung regulatorischer Anforderungen bewerten und geeignete Nachweis- und Dokumentationsartefakte für Modelle, Datensätze und Betriebsprozesse festlegen
 
 Die Teilnehmer:innen verstehen die Grundaussagen des EU AI Acts (insbesondere Transparenzpflichten) und kennen Strategien für deren Einhaltung sowie mögliche Herausforderungen dabei.
 
@@ -60,13 +58,12 @@ Die Teilnehmer:innen kennen mögliche Fallstricke hinsichtlich Security sowie ty
 * Data Poisoning
 * Model Inversion & Extraction.
 
-Die Teilnehmer:innen kennen Sicherheitsmaßnahmen zur Absicherung gegen Angriffe (AI Security) und kennen insbesondere Möglichkeiten
-zur Integration von Sicherheitsstandards und Schutzmechanismen in Architektur, Schnittstellen und Betriebsmodell.
+Die Teilnehmer:innen können die mit diesen Angriffsarten verbundenen Sicherheitsrisiken für KI-Systeme bewerten und geeignete Sicherheitsmaßnahmen zur Absicherung gegen Angriffe (AI Security) auswählen und ihre Auswahl begründen. Insbesondere können sie Möglichkeiten zur Integration von Sicherheitsstandards und Schutzmechanismen in Architektur, Schnittstellen und Betriebsmodell hinsichtlich ihrer Eignung bewerten und geeignete Maßnahmen auswählen.
 
 [[LZ-2-7]]
 ==== LZ 2-7: Strategien zur KI-Risikominimierung kennen und anwenden
 
-Die Teilnehmer:innen wissen, wie Strategien zur KI-Risikominimierung entwickelt und angewendet werden können. Insbesondere kennen die Teilnehmer:innen die folgenden Strategien:
+Die Teilnehmer:innen können erläutern, wie Strategien zur KI-Risikominimierung entwickelt werden, und diese auf konkrete KI-Systeme anwenden. Insbesondere können sie die folgenden Strategien situationsgerecht einsetzen:
 
 * Stärkung der Robustheit durch umfangreiche Tests
 * Fehlertolerante KI-Systeme
@@ -86,10 +83,9 @@ Die Teilnehmer:innen wissen, wie Bias in Daten und Modellen erkannt und reduzier
 [[LZ-2-9]]
 ==== LZ 2-9: Ethikleitlinien und Prinzipien von AI Governance in Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen
 
-Die Teilnehmer:innen wissen um die Probleme hinsichtlich Ethik, die KI-Systeme mit sich bringen können und kennen Ansätze und Möglichkeiten, mit ethischen Problemen umzugehen, bspw. durch Erstellung von KI-Richtlinien.
-Dazu überblicken die Teilnehmer:innen wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“.
+Die Teilnehmer:innen können ethische Problemstellungen, die beim Einsatz von KI-Systemen entstehen können, erkennen und geeignete Ansätze zum Umgang mit diesen Problemen auf konkrete Anwendungsfälle übertragen, beispielsweise bei der Erstellung von KI-Richtlinien. Dazu können die Teilnehmer:innen wichtige Ethik-Leitlinien wie die „EU-Ethik-Leitlinien für vertrauenswürdige KI“ heranziehen und deren Prinzipien in konkrete Organisations-, Entwicklungs- und Architekturentscheidungen übersetzen.
 
-Optional kennen die Teilnehmer:innen die wichtige Dokumente und Frameworks zu AI Governance, um die Kernprinzipien zu AI Governance und Responsible AI für das Unternehmen auszuarbeiten, z.B.:
+Optional können die Teilnehmer:innen wichtige Dokumente und Frameworks zu AI Governance anwenden, um die Kernprinzipien von AI Governance und Responsible AI in konkrete Vorgaben für das Unternehmen zu übertragen, z.B.:
 
 * OECD AI Principles, https://oecd.ai/en/ai-principles
 * The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
@@ -107,7 +103,7 @@ Participants are familiar with data protection laws such as the GDPR and know ho
 [[LG-2-2]]
 ==== LG 2-2: Analyze the requirements of the EU AI Act and derive architecture-relevant measures for data flows, logging, technical documentation, human oversight, robustness, and deployment
 
-Participants understand the objectives and provisions of the EU AI Act and know how they affect the development and use of AI systems. They also understand the EU AI Act requirements for trustworthy AI and how these requirements affect the development process and the architecture of the software system. In particular, they are familiar with the impact on some of the following aspects:
+Participants can explain the objectives and provisions of the EU AI Act and analyze their impact on the development and use of AI systems. Furthermore, they can analyze the requirements of the EU AI Act (Trustworthy AI) regarding their impact on the development process and the architecture of the software system and derive architecture-relevant measures. In particular, they can analyze the impact on some of the following aspects and derive corresponding measures:
 
 * Risk management system (risk mitigation)
 * Data quality and data governance (quality management system)
@@ -122,7 +118,7 @@ Participants understand the objectives and provisions of the EU AI Act and know 
 [[LG-2-3]]
 ==== LG 2-3: Classify AI systems according to the EU AI Act risk levels
 
-Participants know how AI systems are classified according to the EU AI Act risk levels (prohibited, high risk, limited risk, and low risk) and which regulatory requirements apply in each case.
+Participants can classify AI systems according to the EU AI Act risk levels (prohibited, high-risk, limited-risk, low-risk) based on concrete use cases and determine the applicable regulatory requirements.
 
 
 [[LG-2-4]]
@@ -134,7 +130,7 @@ They can distinguish different degrees of openness of ML models, for example wit
 
 
 [[LG-2-5]]
-==== LG 2-5: Define strategies for complying with regulatory requirements and specify suitable evidence and documentation artifacts for models, datasets, and operational processes
+==== LG 2-5: Evaluate strategies for compliance with regulatory requirements and determine appropriate evidence and documentation artifacts for models, datasets, and operational processes
 
 Participants understand the fundamental provisions of the EU AI Act, particularly its transparency obligations, and know strategies for complying with them as well as potential challenges.
 
@@ -154,13 +150,13 @@ Participants know potential security pitfalls and typical types of attacks on ML
 * Data poisoning
 * Model inversion and extraction
 
-Participants know security measures for protecting against attacks (AI security), particularly ways to integrate security standards and safeguards into the architecture, interfaces, and operating model.
+Participants can evaluate the security risks associated with these attack types for AI systems, select appropriate security measures to protect against attacks (AI Security), and justify their selection. In particular, they can evaluate options for integrating security standards and protection mechanisms into the architecture, interfaces, and operating model in terms of their suitability and select appropriate measures.
 
 
 [[LG-2-7]]
 ==== LG 2-7: Know and apply strategies for AI risk mitigation
 
-Participants know how strategies for AI risk mitigation can be developed and applied. In particular, they know the following strategies:
+Participants can explain how AI risk mitigation strategies are developed and apply them to specific AI systems. In particular, they can use the following strategies as appropriate for the situation:
 
 * Strengthening robustness through extensive testing
 * Fault-tolerant AI systems
@@ -178,9 +174,9 @@ Participants know how bias in data and models can be detected and reduced to ens
 [[LG-2-9]]
 ==== LG 2-9: Translate ethical guidelines and AI governance principles into organizational, development, and architectural decisions
 
-Participants are aware of the ethical issues that AI systems can create and know approaches and options for dealing with ethical problems, for example by creating AI guidelines. They have an overview of important ethical guidelines such as the “Ethics Guidelines for Trustworthy AI” of the EU.
+Participants can identify ethical issues that may arise when using AI systems and apply appropriate approaches to addressing these issues in specific use cases, for example when developing AI guidelines. To this end, participants can draw on important ethical guidelines such as the "EU Ethics Guidelines for Trustworthy AI" and translate their principles into concrete organizational, development, and architectural decisions.
 
-Optionally, participants know important documents and frameworks on AI governance that can be used to develop the core principles of AI governance and responsible AI for an organization, for example:
+Optionally, participants can apply important documents and frameworks on AI Governance to translate the core principles of AI Governance and Responsible AI into concrete guidelines for the organization, e.g.:
 
 * OECD AI Principles, https://oecd.ai/en/ai-principles
 * The Asilomar AI Principles, https://futureoflife.org/open-letter/ai-principles/
