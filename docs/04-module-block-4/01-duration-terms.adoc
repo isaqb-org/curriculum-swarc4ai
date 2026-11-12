@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Datenakquise, Labelling, Daten-Pipeline, ETL-Prozesse, Datenaggregation, Datenbereinigung, Transformation, Augmentierung, Dateien, RDBMS, NoSQL, Data Products, Data Contracts, Data Architectures: Data Warehouse, Data Lake, Data Mesh
+Datenakquise, Labelling, Daten-Pipeline, ETL-Prozesse, Datenaggregation, Datenbereinigung, Transformation, Augmentierung, Dateien, RDBMS, NoSQL, Dokumentbasierte Datenbanken, Data Products, Data Contracts, Data Architectures: Data Warehouse, Data Lake, Data Mesh
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ Datenakquise, Labelling, Daten-Pipeline, ETL-Prozesse, Datenaggregation, Datenbe
 |===
 
 === Terms and Concepts
-Data acquisition, labeling, data pipeline, ETL processes, data aggregation, data cleansing, transformation, augmentation, files, RDBMS, NoSQL, data products, data contracts, data architectures: Data Warehouse, Data Lake, Data Mesh
+Data acquisition, labeling, data pipeline, ETL processes, data aggregation, data cleansing, transformation, augmentation, files, RDBMS, NoSQL, document databases, data products, data contracts, data architectures: Data Warehouse, Data Lake, Data Mesh
 
 // end::EN[]
