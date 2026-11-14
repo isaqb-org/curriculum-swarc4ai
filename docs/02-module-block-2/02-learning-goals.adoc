@@ -26,7 +26,7 @@ Die Teilnehmer:innen können die Ziele und Regelungen des EU AI Act erläutern u
 [[LZ-2-3]]
 ==== LZ 2-3: Klassifikation von KI-Systemen nach EU AI Act Risikolevel durchführen
 
-Die Teilnehmer:innen können KI-Systeme anhand konkreter Anwendungsfälle den Risikoleveln des EU AI Act (verboten, hochrisikoreich, begrenzt risikoreich, niedrig risikoreich) zuordnen und die jeweils geltenden regulatorischen Anforderungen bestimmen.
+Die Teilnehmer:innen können KI-Systeme anhand konkreter Anwendungsfälle den Risikostufen des EU AI Act (unannehmbares Risiko, hohes Risiko, begrenztes Risiko, minimales Risiko) zuordnen und die jeweils geltenden regulatorischen Anforderungen bestimmen.
 
 
 [[LZ-2-4]]
@@ -118,7 +118,7 @@ Participants can explain the objectives and provisions of the EU AI Act and anal
 [[LG-2-3]]
 ==== LG 2-3: Classify AI systems according to the EU AI Act risk levels
 
-Participants can classify AI systems according to the EU AI Act risk levels (prohibited, high-risk, limited-risk, low-risk) based on concrete use cases and determine the applicable regulatory requirements.
+Participants can classify AI systems according to the EU AI Act risk levels (unacceptable risk, high risk, limited risk, minimal risk) based on concrete use cases and determine the applicable regulatory requirements.
 
 
 [[LG-2-4]]
