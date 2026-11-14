@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-EU AI Act, Datenschutz, Urheberrecht, Lizenz, Open (Source), AI Security, Jailbreak,Adversarial Attack, Data Poisoning, Model Inversion & Extraction, AI Safety, AI Ethics, AI Alignment, Model und Data Dokumentation, Transparenzpflicht, Human Oversight, Data Governance, AI Governance, AI Systems by Risk Levels (Prohibited, High-Risk, Limited Risk, Low-Risk)
+EU AI Act, Datenschutz, Urheberrecht, Lizenz, Open (Source), AI Security, Jailbreak,Adversarial Attack, Data Poisoning, Model Inversion & Extraction, AI Safety, AI Ethics, AI Alignment, Model und Data Dokumentation, Transparenzpflicht, Human Oversight, Data Governance, AI Governance, KI-Systeme nach Risikostufen (unannehmbares Risiko, hohes Risiko, begrenztes Risiko, minimales Risiko)
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ EU AI Act, Datenschutz, Urheberrecht, Lizenz, Open (Source), AI Security, Jailbr
 |===
 
 === Terms and Concepts
-EU AI Act, data protection, copyright, license, open (source), AI security, jailbreak, adversarial attack, data poisoning, model inversion & extraction, AI safety, AI ethics, AI alignment, model and data documentation, transparency obligation, human oversight, data governance, AI governance, AI systems by risk levels (prohibited, high-risk, limited risk, low-risk)
+EU AI Act, data protection, copyright, license, open (source), AI security, jailbreak, adversarial attack, data poisoning, model inversion & extraction, AI safety, AI ethics, AI alignment, model and data documentation, transparency obligation, human oversight, data governance, AI governance, AI systems by risk levels (unacceptable risk, high risk, limited risk, minimal risk)
 
 // end::EN[]
