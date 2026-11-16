@@ -82,7 +82,7 @@ Die Teilnehmer:innen wissen, was Agentic Workflows sind, und kennen die Begriffe
 
 Die Teilnehmer:innen wissen welche Design Patterns für Generative KI-Systeme existieren. Sie kennen eine Auswahl der folgenden Patterns:
 
-* AI Query Router [Simple Router; Ranking-based Router; Learning-based Router
+* AI Query Router (Simple Router; Ranking-based Router; Learning-based Router)
 * Layered Caching Strategy Leading to Fine-Tuning
 * Multiplexing AI Agents
 * Fine-Tuning LLMs for Multiple Tasks

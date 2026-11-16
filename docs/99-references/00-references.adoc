@@ -131,7 +131,7 @@ This section contains references that are cited in the curriculum.
 **V**
 
 - [[[vaughan,Vaughan 2020]]] Vaughan, D.: Analytical Skills for AI and Data Science (AI Use Cases) https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/
-- [[[visenger-one,Visengeriyeva, JTF]]] Visengeriyeva, L.: Defining Jagged Technological Frontier:https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA
+- [[[visenger-one,Visengeriyeva, JTF]]] Visengeriyeva, L.: Defining Jagged Technological Frontier: https://www.perplexity.ai/page/defining-jagged-technological-iF8sDPVFQEKSdd2oyytztA
 - [[[visenger-three,Visengeriyeva, AI Agents]]] Visengeriyeva, L.: AI Agents vs. Traditional Models https://www.perplexity.ai/page/ai-agents-vs-traditional-model-JFf4gKT0RySW_Ehvbxho2g
 - [[[visenger-links,Visengeriyeva, Ethics]]] Model Governance, Ethics, Responsible AI (Linksammlung) https://github.com/visenger/Awesome-ML-Model-Governance
 
