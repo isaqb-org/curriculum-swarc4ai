@@ -248,7 +248,7 @@ Participants are familiar with the concepts of fault tolerance and can explain h
 [[LG-3-13]]
 ==== LG 3-13: Document architectural decisions for AI systems
 
-Participants can define and document the use cases or tasks of an ML model, such as image classification or fraud detection. Based on this, they can make, justify, and document architectural decisions for AI systems while considering relevant trade-offs, particularly regarding:
+Participants know how to document and justify architectural decisions for AI systems, for example using Architecture Decision Records. This includes in particular decisions and trade-offs between:
 
 * RAG versus Fine-Tuning
 * SaaS versus Self-Hosting
