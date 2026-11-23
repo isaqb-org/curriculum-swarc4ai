@@ -59,22 +59,3 @@ More details on updates to the SWARC4AI curriculum version 2:
   * LG 6-20: Harness renamed to agent runtime system
 * Module 7
   * LG 7-1 is mandatory now (not optional anymore)
-
-## What's Changed since 2026.1-rev0
-
-* Fix bullet lists by @programming-wolf in https://github.com/isaqb-org/curriculum-swarc4ai/pull/58
-* Update 02-learning-goals.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/64
-* Update 02-learning-goals.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/65
-* Update 02-learning-goals.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/67
-* Update 02-learning-goals.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/68
-* Update 02-learning-goals.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/69
-* Update 02-learning-goals.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/70
-* Update 01-duration-terms.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/71
-* Update 02-learning-goals.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/66
-* Fix rendering 73 by @StefanZoerner in https://github.com/isaqb-org/curriculum-swarc4ai/pull/74
-* Update 02-learning-goals.adoc by @mahboubagharbi in https://github.com/isaqb-org/curriculum-swarc4ai/pull/72
-* Use “minimal risk” for the fourth EU AI Act risk level by @StefanZoerner in https://github.com/isaqb-org/curriculum-swarc4ai/pull/76
-* Fix Update CHANGELOG.md by @programming-wolf in https://github.com/isaqb-org/curriculum-swarc4ai/issues/77
-
-
-**Full Changelog**: https://github.com/isaqb-org/curriculum-swarc4ai/compare/2026.1-RC1...2026.1-rev1
