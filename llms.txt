@@ -1,0 +1,15 @@
+# Curriculum for Certified Professional for Software Architecture (CPSA)® Advanced Level SWARC4AI – Software Architecture for AI Systems
+
+> Release 2026.1-rev0 of this iSAQB curriculum. Each Markdown file contains the complete curriculum in one language.
+
+## Curriculum
+
+- [DE](curriculum-swarc4ai-de.md)
+- [EN](curriculum-swarc4ai-en.md)
+
+## Optional
+
+- [curriculum-swarc4ai-de.pdf](curriculum-swarc4ai-de.pdf)
+- [curriculum-swarc4ai-en.pdf](curriculum-swarc4ai-en.pdf)
+- [curriculum-swarc4ai-de.html](curriculum-swarc4ai-de.html)
+- [curriculum-swarc4ai-en.html](curriculum-swarc4ai-en.html)
